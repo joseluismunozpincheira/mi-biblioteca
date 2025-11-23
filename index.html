@@ -221,6 +221,26 @@
       margin-top: 2px;
     }
 
+    /* Portada en formulario */
+
+    .cover-input-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: nowrap;
+    }
+
+    #portadaPreview {
+      width: 44px;
+      height: 64px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      background: #f0f0f0;
+      object-fit: cover;
+      display: none;
+      flex-shrink: 0;
+    }
+
     /* Estadísticas */
 
     .stats-grid {
@@ -303,6 +323,11 @@
       color: var(--text-muted);
     }
 
+    .filters-right button {
+      font-size: 11px;
+      padding: 6px 12px;
+    }
+
     /* Tarjetas de libros */
 
     .book-list {
@@ -320,9 +345,18 @@
       padding: 10px 10px;
       background: #ffffff;
       display: grid;
-      grid-template-columns: minmax(0, 1fr) auto;
+      grid-template-columns: auto minmax(0, 1fr) auto;
       gap: 8px;
       align-items: center;
+    }
+
+    .book-cover {
+      width: 44px;
+      height: 64px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      object-fit: cover;
+      background: #f0f0f0;
     }
 
     .book-main {
@@ -447,6 +481,10 @@
       border: 1px solid var(--border);
       padding: 8px 10px;
       margin-bottom: 8px;
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr) auto;
+      gap: 8px;
+      align-items: center;
     }
 
     .search-result-title {
@@ -464,6 +502,15 @@
     .search-result button {
       font-size: 11px;
       padding: 3px 9px;
+    }
+
+    .search-cover {
+      width: 40px;
+      height: 60px;
+      border-radius: 6px;
+      border: 1px solid var(--border);
+      object-fit: cover;
+      background: #f0f0f0;
     }
 
     .modal-footer {
@@ -493,6 +540,7 @@
 
         <form id="bookForm">
           <input type="hidden" id="bookId" />
+          <input type="hidden" id="portada" />
 
           <label>
             Título
@@ -525,6 +573,17 @@
               <span class="hint">Separar con comas.</span>
             </label>
           </div>
+
+          <label>
+            Portada
+            <div class="cover-input-row">
+              <img id="portadaPreview" alt="Portada" />
+              <input type="file" id="portadaArchivo" accept="image/*" />
+            </div>
+            <span class="hint">
+              Si Google Books entrega portada se usará automáticamente. Si no, puedes subir una imagen.
+            </span>
+          </label>
 
           <div class="inline-3">
             <label>
@@ -621,6 +680,20 @@
                 <option value="Leído">Leído</option>
               </select>
             </label>
+            <label>
+              Categoría
+              <select id="filterCategoria">
+                <option value="todas">Todas</option>
+              </select>
+            </label>
+            <label>
+              Autor (apellido)
+              <input
+                type="text"
+                id="filterAutor"
+                placeholder="Ej: Smith"
+              />
+            </label>
           </div>
           <div class="filters-right">
             <label>
@@ -628,9 +701,12 @@
               <input
                 type="text"
                 id="filterTexto"
-                placeholder="Título, autor, categoría..."
+                placeholder="Título, autor, ISBN..."
               />
             </label>
+            <button type="button" class="btn-secondary" id="btnExportar">
+              ⬇ Exportar a Excel
+            </button>
             <small id="filterInfo"></small>
           </div>
         </div>
@@ -690,6 +766,7 @@
     // Reset formulario
     function limpiarFormulario() {
       $("bookId").value = "";
+      $("portada").value = "";
       $("titulo").value = "";
       $("autor").value = "";
       $("anio").value = "";
@@ -700,6 +777,19 @@
       $("notas").value = "";
       $("formModeLabel").textContent = "Modo: alta";
       $("btnGuardar").textContent = "💾 Guardar libro";
+      actualizarPreviewPortada();
+    }
+
+    function actualizarPreviewPortada() {
+      const src = $("portada").value;
+      const img = $("portadaPreview");
+      if (src) {
+        img.src = src;
+        img.style.display = "block";
+      } else {
+        img.src = "";
+        img.style.display = "none";
+      }
     }
 
     // Llenar formulario para edición
@@ -716,6 +806,9 @@
       $("formato").value = libro.formato || "Físico";
       $("estado").value = libro.estado || "Sin leer";
       $("notas").value = libro.notas || "";
+      $("portada").value = libro.portada || "";
+      actualizarPreviewPortada();
+
       $("formModeLabel").textContent = "Modo: edición";
       $("btnGuardar").textContent = "💾 Actualizar libro";
       window.scrollTo({ top: 0, behavior: "smooth" });
@@ -747,6 +840,7 @@
       const formato = $("formato").value;
       const estado = $("estado").value;
       const notas = $("notas").value.trim();
+      const portada = $("portada").value || "";
 
       if (!titulo) {
         alert("El título es obligatorio.");
@@ -772,6 +866,7 @@
             formato,
             estado,
             notas,
+            portada,
           };
         }
       } else {
@@ -786,6 +881,7 @@
           formato,
           estado,
           notas,
+          portada,
           fechaRegistro: new Date().toISOString(),
         };
         libros.unshift(nuevo); // al principio
@@ -796,7 +892,7 @@
       render();
     }
 
-    // Estadísticas
+    // Estadísticas y categorías para filtro
     function actualizarEstadisticas() {
       const total = libros.length;
       const fisicos = libros.filter((l) => l.formato === "Físico").length;
@@ -813,16 +909,38 @@
       libros.forEach((l) => {
         (l.categorias || []).forEach((c) => categoriasSet.add(c));
       });
-      if (categoriasSet.size === 0) {
+
+      const categoriasArr = Array.from(categoriasSet).sort();
+
+      if (categoriasArr.length === 0) {
         $("statCategoriasHint").textContent =
           "Aún no hay categorías registradas.";
       } else {
-        const arr = Array.from(categoriasSet).sort();
         $("statCategoriasHint").textContent =
-          "Categorías distintas: " + categoriasSet.size + " (" +
-          arr.slice(0, 5).join(", ") +
-          (arr.length > 5 ? ", …" : "") +
+          "Categorías distintas: " + categoriasArr.length + " (" +
+          categoriasArr.slice(0, 5).join(", ") +
+          (categoriasArr.length > 5 ? ", …" : "") +
           ").";
+      }
+
+      // Poblar filtro de categorías
+      const selectCat = $("filterCategoria");
+      const valorAnterior = selectCat.value || "todas";
+      selectCat.innerHTML = "";
+      const optTodas = document.createElement("option");
+      optTodas.value = "todas";
+      optTodas.textContent = "Todas";
+      selectCat.appendChild(optTodas);
+      categoriasArr.forEach((cat) => {
+        const o = document.createElement("option");
+        o.value = cat;
+        o.textContent = cat;
+        selectCat.appendChild(o);
+      });
+      if (valorAnterior && Array.from(selectCat.options).some(o => o.value === valorAnterior)) {
+        selectCat.value = valorAnterior;
+      } else {
+        selectCat.value = "todas";
       }
 
       // Resumen en el header
@@ -837,13 +955,15 @@
       return {
         formato: $("filterFormato").value,
         estado: $("filterEstado").value,
+        categoria: $("filterCategoria").value,
+        autor: $("filterAutor").value.trim().toLowerCase(),
         texto: $("filterTexto").value.trim().toLowerCase(),
       };
     }
 
     // Aplicar filtros
     function filtrarLibros() {
-      const { formato, estado, texto } = obtenerFiltros();
+      const { formato, estado, categoria, autor, texto } = obtenerFiltros();
       let resultado = [...libros];
 
       if (formato !== "todos") {
@@ -851,6 +971,16 @@
       }
       if (estado !== "todos") {
         resultado = resultado.filter((l) => l.estado === estado);
+      }
+      if (categoria !== "todas") {
+        resultado = resultado.filter((l) =>
+          (l.categorias || []).includes(categoria)
+        );
+      }
+      if (autor) {
+        resultado = resultado.filter((l) =>
+          (l.autor || "").toLowerCase().includes(autor)
+        );
       }
       if (texto) {
         resultado = resultado.filter((l) => {
@@ -879,6 +1009,8 @@
       const hayFiltros =
         filtros.formato !== "todos" ||
         filtros.estado !== "todos" ||
+        filtros.categoria !== "todas" ||
+        filtros.autor.length > 0 ||
         filtros.texto.length > 0;
 
       $("filterInfo").textContent = hayFiltros
@@ -895,6 +1027,19 @@
       filtrados.forEach((libro) => {
         const card = document.createElement("div");
         card.className = "book-card";
+
+        // Portada
+        if (libro.portada) {
+          const img = document.createElement("img");
+          img.className = "book-cover";
+          img.src = libro.portada;
+          img.alt = "Portada";
+          card.appendChild(img);
+        } else {
+          const placeholder = document.createElement("div");
+          placeholder.className = "book-cover";
+          card.appendChild(placeholder);
+        }
 
         const main = document.createElement("div");
         main.className = "book-main";
@@ -1031,14 +1176,31 @@
             industry.find((x) => x.type === "ISBN_13")?.identifier ||
             industry.find((x) => x.type === "ISBN_10")?.identifier ||
             "";
+          const imageLinks = info.imageLinks || {};
+          const coverUrl =
+            imageLinks.thumbnail || imageLinks.smallThumbnail || "";
 
           const result = document.createElement("div");
           result.className = "search-result";
 
+          if (coverUrl) {
+            const img = document.createElement("img");
+            img.className = "search-cover";
+            img.src = coverUrl;
+            img.alt = "Portada";
+            result.appendChild(img);
+          } else {
+            const placeholder = document.createElement("div");
+            placeholder.className = "search-cover";
+            result.appendChild(placeholder);
+          }
+
+          const containerTextos = document.createElement("div");
+
           const t = document.createElement("div");
           t.className = "search-result-title";
           t.textContent = title;
-          result.appendChild(t);
+          containerTextos.appendChild(t);
 
           const meta = document.createElement("div");
           meta.className = "search-result-meta";
@@ -1049,16 +1211,19 @@
           if (categories.length > 0)
             pieces.push("Categorías: " + categories.join(", "));
           meta.textContent = pieces.join(" · ");
-          result.appendChild(meta);
+          containerTextos.appendChild(meta);
 
           if (desc) {
             const p = document.createElement("p");
             p.className = "hint";
             p.textContent =
               (desc.length > 220 ? desc.slice(0, 220) + "…" : desc);
-            result.appendChild(p);
+            containerTextos.appendChild(p);
           }
 
+          result.appendChild(containerTextos);
+
+          const acciones = document.createElement("div");
           const btnUsar = document.createElement("button");
           btnUsar.type = "button";
           btnUsar.className = "btn-secondary";
@@ -1075,9 +1240,14 @@
               $("notas").value =
                 (desc.length > 400 ? desc.slice(0, 400) + "…" : desc);
             }
+            if (coverUrl) {
+              $("portada").value = coverUrl;
+              actualizarPreviewPortada();
+            }
             mostrarModal(false);
           });
-          result.appendChild(btnUsar);
+          acciones.appendChild(btnUsar);
+          result.appendChild(acciones);
 
           container.appendChild(result);
         });
@@ -1095,6 +1265,77 @@
       $("modalBackdrop").style.display = visible ? "flex" : "none";
     }
 
+    // --- Exportar resultados a CSV (para Excel) ---
+    function exportarResultados() {
+      const filtrados = filtrarLibros();
+      if (filtrados.length === 0) {
+        alert("No hay resultados para exportar. Ajusta los filtros o agrega libros.");
+        return;
+      }
+
+      const headers = [
+        "Título",
+        "Autor",
+        "Año",
+        "ISBN",
+        "Formato",
+        "Estado",
+        "Categorías",
+        "Notas",
+        "Portada"
+      ];
+
+      function esc(v) {
+        const s = String(v ?? "");
+        return '"' + s.replace(/"/g, '""') + '"';
+      }
+
+      const filas = filtrados.map((l) => [
+        esc(l.titulo || ""),
+        esc(l.autor || ""),
+        esc(l.anio || ""),
+        esc(l.isbn || ""),
+        esc(l.formato || ""),
+        esc(l.estado || ""),
+        esc((l.categorias || []).join("; ")),
+        esc(l.notas || ""),
+        esc(l.portada || "")
+      ]);
+
+      const contenido =
+        headers.join(";") + "\r\n" +
+        filas.map((f) => f.join(";")).join("\r\n");
+
+      const blob = new Blob([contenido], {
+        type: "text/csv;charset=utf-8;",
+      });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "libros_filtrados.csv";
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+    }
+
+    // --- Manejo de subida de portada ---
+    function manejarPortadaArchivo(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      if (!file.type.startsWith("image/")) {
+        alert("El archivo debe ser una imagen.");
+        event.target.value = "";
+        return;
+      }
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        $("portada").value = e.target.result;
+        actualizarPreviewPortada();
+      };
+      reader.readAsDataURL(file);
+    }
+
     // --- Inicializar ---
     document.addEventListener("DOMContentLoaded", () => {
       libros = cargarLibros();
@@ -1103,14 +1344,20 @@
       $("bookForm").addEventListener("submit", manejarSubmitFormulario);
       $("btnLimpiar").addEventListener("click", limpiarFormulario);
       $("btnBuscarWeb").addEventListener("click", buscarEnWeb);
+      $("portadaArchivo").addEventListener("change", manejarPortadaArchivo);
 
       $("filterFormato").addEventListener("change", render);
       $("filterEstado").addEventListener("change", render);
-      $("filterTexto").addEventListener("input", () => {
-        // Pequeño debounce simple
-        clearTimeout(window.__filterTimer);
-        window.__filterTimer = setTimeout(render, 150);
+      $("filterCategoria").addEventListener("change", render);
+      $("filterAutor").addEventListener("input", () => {
+        clearTimeout(window.__filterTimerAutor);
+        window.__filterTimerAutor = setTimeout(render, 150);
       });
+      $("filterTexto").addEventListener("input", () => {
+        clearTimeout(window.__filterTimerTexto);
+        window.__filterTimerTexto = setTimeout(render, 150);
+      });
+      $("btnExportar").addEventListener("click", exportarResultados);
 
       $("btnCerrarModal").addEventListener("click", () => mostrarModal(false));
       $("modalBackdrop").addEventListener("click", (e) => {
