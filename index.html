@@ -558,10 +558,14 @@
             </label>
           </div>
 
-          <div class="inline">
+          <div class="inline-3">
             <label>
               ISBN
               <input type="text" id="isbn" placeholder="ISBN-10 o ISBN-13" />
+            </label>
+            <label>
+              Editorial
+              <input type="text" id="editorial" placeholder="Ej: Springer, Dover..." />
             </label>
             <label>
               Categorías
@@ -784,6 +788,7 @@
       $("autor").value = "";
       $("anio").value = "";
       $("isbn").value = "";
+      $("editorial").value = "";
       $("categorias").value = "";
       $("formato").value = "Físico";
       $("estado").value = "Sin leer";
@@ -816,6 +821,7 @@
       $("autor").value = libro.autor || "";
       $("anio").value = libro.anio || "";
       $("isbn").value = libro.isbn || "";
+      $("editorial").value = libro.editorial || "";
       $("categorias").value = (libro.categorias || []).join(", ");
       $("formato").value = libro.formato || "Físico";
       $("estado").value = libro.estado || "Sin leer";
@@ -851,6 +857,7 @@
       const autor = $("autor").value.trim();
       const anio = $("anio").value ? Number($("anio").value) : null;
       const isbn = $("isbn").value.trim();
+      const editorial = $("editorial").value.trim();
       const categoriasTexto = $("categorias").value.trim();
       const formato = $("formato").value;
       const estado = $("estado").value;
@@ -878,6 +885,7 @@
             autor,
             anio,
             isbn,
+            editorial,
             categorias,
             formato,
             estado,
@@ -894,6 +902,7 @@
           autor,
           anio,
           isbn,
+          editorial,
           categorias,
           formato,
           estado,
@@ -1007,6 +1016,7 @@
             l.autor || "",
             (l.categorias || []).join(" "),
             l.isbn || "",
+            l.editorial || "",
             l.notas || "",
             l.comentarios || "",
           ].join(" ").toLowerCase();
@@ -1073,6 +1083,7 @@
         meta.className = "book-meta";
         if (libro.autor) meta.appendChild(textSpan("👤 " + libro.autor));
         if (libro.anio) meta.appendChild(textSpan("📅 " + libro.anio));
+        if (libro.editorial) meta.appendChild(textSpan("🏢 " + libro.editorial));
         if (libro.isbn) meta.appendChild(textSpan("🔢 ISBN " + libro.isbn));
         main.appendChild(meta);
 
@@ -1206,6 +1217,7 @@
           const imageLinks = info.imageLinks || {};
           const coverUrl =
             imageLinks.thumbnail || imageLinks.smallThumbnail || "";
+          const publisher = info.publisher || "";
 
           const result = document.createElement("div");
           result.className = "search-result";
@@ -1235,6 +1247,7 @@
           if (authors) pieces.push("Autor(es): " + authors);
           if (year) pieces.push("Año: " + year);
           if (foundIsbn) pieces.push("ISBN: " + foundIsbn);
+          if (publisher) pieces.push("Editorial: " + publisher);
           if (categories.length > 0)
             pieces.push("Categorías: " + categories.join(", "));
           meta.textContent = pieces.join(" · ");
@@ -1261,6 +1274,7 @@
             if (authors) $("autor").value = authors;
             if (year) $("anio").value = year;
             if (foundIsbn) $("isbn").value = foundIsbn;
+            if (publisher) $("editorial").value = publisher;
             if (categories.length > 0)
               $("categorias").value = categories.join(", ");
             if (desc && !$("notas").value) {
@@ -1310,7 +1324,8 @@
         "Categorías",
         "Notas",
         "Comentarios personales",
-        "Portada"
+        "Portada",
+        "Editorial"
       ];
 
       function esc(v) {
@@ -1328,7 +1343,8 @@
         esc((l.categorias || []).join("; ")),
         esc(l.notas || ""),
         esc(l.comentarios || ""),
-        esc(l.portada || "")
+        esc(l.portada || ""),
+        esc(l.editorial || "")
       ]);
 
       const contenido =
@@ -1405,18 +1421,17 @@
           const celdas = parseCSVLine(linea);
           if (celdas.length < 4) continue;
 
-          const [
-            titulo,
-            autor,
-            anioStr,
-            isbn,
-            formato,
-            estado,
-            categoriasStr,
-            notas,
-            comentarios,
-            portada
-          ] = celdas;
+          const titulo         = celdas[0] || "";
+          const autor          = celdas[1] || "";
+          const anioStr        = celdas[2] || "";
+          const isbn           = celdas[3] || "";
+          const formato        = celdas[4] || "Físico";
+          const estado         = celdas[5] || "Sin leer";
+          const categoriasStr  = celdas[6] || "";
+          const notas          = celdas[7] || "";
+          const comentarios    = celdas[8] || "";
+          const portada        = celdas[9] || "";
+          const editorial      = celdas[10] || "";
 
           if (!titulo) continue;
 
@@ -1428,16 +1443,17 @@
 
           const libro = {
             id: "libro-" + Date.now() + "-" + Math.random().toString(16).slice(2),
-            titulo: titulo || "",
-            autor: autor || "",
+            titulo,
+            autor,
             anio: isNaN(anio) ? null : anio,
-            isbn: isbn || "",
-            formato: formato || "Físico",
-            estado: estado || "Sin leer",
+            isbn,
+            formato,
+            estado,
             categorias,
-            notas: notas || "",
-            comentarios: comentarios || "",
-            portada: portada || "",
+            notas,
+            comentarios,
+            portada,
+            editorial,
             fechaRegistro: new Date().toISOString(),
           };
           nuevas.push(libro);
