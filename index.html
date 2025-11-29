@@ -592,6 +592,13 @@
                 <option value="Físico">Físico</option>
                 <option value="Digital">Digital</option>
               </select>
+              <textarea
+                id="comentarios"
+                placeholder="Comentarios personales sobre el libro..."
+              ></textarea>
+              <span class="hint">
+                Comentarios propios (no se obtienen de la web).
+              </span>
             </label>
             <label>
               Estado
@@ -707,6 +714,9 @@
             <button type="button" class="btn-secondary" id="btnExportar">
               ⬇ Exportar a Excel
             </button>
+            <button type="button" class="btn-secondary" id="btnImportar">
+              ⬆ Importar
+            </button>
             <small id="filterInfo"></small>
           </div>
         </div>
@@ -719,6 +729,9 @@
       </section>
     </div>
   </div>
+
+  <!-- INPUT OCULTO PARA IMPORTAR CSV -->
+  <input type="file" id="importArchivo" accept=".csv,text/csv" style="display:none" />
 
   <!-- MODAL BÚSQUEDA WEB -->
   <div class="modal-backdrop" id="modalBackdrop">
@@ -775,6 +788,7 @@
       $("formato").value = "Físico";
       $("estado").value = "Sin leer";
       $("notas").value = "";
+      $("comentarios").value = "";
       $("formModeLabel").textContent = "Modo: alta";
       $("btnGuardar").textContent = "💾 Guardar libro";
       actualizarPreviewPortada();
@@ -806,6 +820,7 @@
       $("formato").value = libro.formato || "Físico";
       $("estado").value = libro.estado || "Sin leer";
       $("notas").value = libro.notas || "";
+      $("comentarios").value = libro.comentarios || "";
       $("portada").value = libro.portada || "";
       actualizarPreviewPortada();
 
@@ -840,6 +855,7 @@
       const formato = $("formato").value;
       const estado = $("estado").value;
       const notas = $("notas").value.trim();
+      const comentarios = $("comentarios").value.trim();
       const portada = $("portada").value || "";
 
       if (!titulo) {
@@ -866,6 +882,7 @@
             formato,
             estado,
             notas,
+            comentarios,
             portada,
           };
         }
@@ -881,6 +898,7 @@
           formato,
           estado,
           notas,
+          comentarios,
           portada,
           fechaRegistro: new Date().toISOString(),
         };
@@ -989,6 +1007,8 @@
             l.autor || "",
             (l.categorias || []).join(" "),
             l.isbn || "",
+            l.notas || "",
+            l.comentarios || "",
           ].join(" ").toLowerCase();
           return campos.includes(texto);
         });
@@ -1090,6 +1110,13 @@
           notas.className = "book-meta";
           notas.textContent = libro.notas;
           main.appendChild(notas);
+        }
+
+        if (libro.comentarios) {
+          const comentarios = document.createElement("div");
+          comentarios.className = "book-meta";
+          comentarios.textContent = "💬 " + libro.comentarios;
+          main.appendChild(comentarios);
         }
 
         card.appendChild(main);
@@ -1282,6 +1309,7 @@
         "Estado",
         "Categorías",
         "Notas",
+        "Comentarios personales",
         "Portada"
       ];
 
@@ -1299,6 +1327,7 @@
         esc(l.estado || ""),
         esc((l.categorias || []).join("; ")),
         esc(l.notas || ""),
+        esc(l.comentarios || ""),
         esc(l.portada || "")
       ]);
 
@@ -1317,6 +1346,126 @@
       a.click();
       document.body.removeChild(a);
       URL.revokeObjectURL(url);
+    }
+
+    // --- Parser simple de CSV (separador ;, con comillas) ---
+    function parseCSVLine(line) {
+      const cells = [];
+      let current = "";
+      let inQuotes = false;
+
+      for (let i = 0; i < line.length; i++) {
+        const ch = line[i];
+        if (ch === '"') {
+          // ¿doble comilla dentro de campo?
+          if (inQuotes && line[i + 1] === '"') {
+            current += '"';
+            i++;
+          } else {
+            inQuotes = !inQuotes;
+          }
+        } else if (ch === ";" && !inQuotes) {
+          cells.push(current);
+          current = "";
+        } else {
+          current += ch;
+        }
+      }
+      cells.push(current);
+
+      // Quitar comillas externas
+      return cells.map(c => {
+        let s = c.trim();
+        if (s.startsWith('"') && s.endsWith('"')) {
+          s = s.slice(1, -1);
+        }
+        s = s.replace(/""/g, '"');
+        return s;
+      });
+    }
+
+    // --- Importar CSV generado previamente ---
+    function manejarImportarArchivo(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        const texto = e.target.result || "";
+        const lineas = texto.split(/\r?\n/).filter(l => l.trim().length > 0);
+        if (lineas.length <= 1) {
+          alert("El archivo no contiene datos para importar.");
+          return;
+        }
+
+        // Saltar encabezado
+        const nuevas = [];
+        for (let i = 1; i < lineas.length; i++) {
+          const linea = lineas[i];
+          const celdas = parseCSVLine(linea);
+          if (celdas.length < 4) continue;
+
+          const [
+            titulo,
+            autor,
+            anioStr,
+            isbn,
+            formato,
+            estado,
+            categoriasStr,
+            notas,
+            comentarios,
+            portada
+          ] = celdas;
+
+          if (!titulo) continue;
+
+          const anio = parseInt(anioStr, 10);
+          const categorias = (categoriasStr || "")
+            .split(";")
+            .map(x => x.trim())
+            .filter(Boolean);
+
+          const libro = {
+            id: "libro-" + Date.now() + "-" + Math.random().toString(16).slice(2),
+            titulo: titulo || "",
+            autor: autor || "",
+            anio: isNaN(anio) ? null : anio,
+            isbn: isbn || "",
+            formato: formato || "Físico",
+            estado: estado || "Sin leer",
+            categorias,
+            notas: notas || "",
+            comentarios: comentarios || "",
+            portada: portada || "",
+            fechaRegistro: new Date().toISOString(),
+          };
+          nuevas.push(libro);
+        }
+
+        if (nuevas.length === 0) {
+          alert("No se pudieron leer libros válidos desde el archivo.");
+          return;
+        }
+
+        const reemplazar = confirm(
+          `Se encontraron ${nuevas.length} libro(s) en el archivo.\n\nAceptar: reemplazar la biblioteca actual por lo importado.\nCancelar: agregar los libros importados a los existentes.`
+        );
+
+        if (reemplazar) {
+          libros = nuevas;
+        } else {
+          libros = [...libros, ...nuevas];
+        }
+
+        guardarLibros();
+        render();
+        alert("Importación completada.");
+      };
+
+      reader.readAsText(file, "utf-8");
+      // Reset para permitir volver a importar el mismo archivo si se quiere
+      event.target.value = "";
     }
 
     // --- Manejo de subida de portada ---
@@ -1358,6 +1507,11 @@
         window.__filterTimerTexto = setTimeout(render, 150);
       });
       $("btnExportar").addEventListener("click", exportarResultados);
+
+      $("btnImportar").addEventListener("click", () => {
+        $("importArchivo").click();
+      });
+      $("importArchivo").addEventListener("change", manejarImportarArchivo);
 
       $("btnCerrarModal").addEventListener("click", () => mostrarModal(false));
       $("modalBackdrop").addEventListener("click", (e) => {
