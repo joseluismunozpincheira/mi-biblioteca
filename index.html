@@ -745,16 +745,41 @@
   </div>
 
   <script>
-// =========================
-//   CONFIGURACIÓN GENERAL
-// =========================
+    // =========================
+    //   CONFIGURACIÓN GENERAL
+    // =========================
 
-let libros = [];
-const STORAGE_KEY = "miBibliotecaLibrosCache";
+    let libros = [];
+    const STORAGE_KEY = "miBibliotecaLibrosCache";
 
-// AÑADIR ESTA LÍNEA:
-const API_URL = "https://script.google.com/macros/s/AKfycbyfqMXlX9rJrSBs_D1XISMr3iiDYn3vZLlObncfZCStqmwhqvvVoY-eciMWJ2SKQ2mUDA/exec";
+    // URL de tu Apps Script
+    const API_URL = "https://script.google.com/macros/s/AKfycbyfqMXlX9rJrSBs_D1XISMr3iiDYn3vZLlObncfZCStqmwhqvvVoY-eciMWJ2SKQ2mUDA/exec";
 
+    // Abreviatura para document.getElementById
+    const $ = (id) => document.getElementById(id);
+
+    // =========================
+    //   LOCALSTORAGE (CACHÉ)
+    // =========================
+    function cargarDesdeLocal() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (!raw) return [];
+        const datos = JSON.parse(raw);
+        return Array.isArray(datos) ? datos : [];
+      } catch (e) {
+        console.error("Error leyendo caché local:", e);
+        return [];
+      }
+    }
+
+    function guardarEnLocal() {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(libros));
+      } catch (e) {
+        console.error("Error guardando en caché local:", e);
+      }
+    }
 
     // =========================
     //   NUBE (GOOGLE SHEETS)
@@ -1623,4 +1648,3 @@ const API_URL = "https://script.google.com/macros/s/AKfycbyfqMXlX9rJrSBs_D1XISMr
   </script>
 </body>
 </html>
-
