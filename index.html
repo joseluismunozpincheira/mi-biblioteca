@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Mi Biblioteca Minimalista</title>
+  <title>Mi Biblioteca Minimalista (Nube)</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     :root {
@@ -93,8 +93,6 @@
       font-weight: 400;
       color: var(--text-muted);
     }
-
-    /* Formulario */
 
     form {
       display: flex;
@@ -221,8 +219,6 @@
       margin-top: 2px;
     }
 
-    /* Portada en formulario */
-
     .cover-input-row {
       display: flex;
       align-items: center;
@@ -240,8 +236,6 @@
       display: none;
       flex-shrink: 0;
     }
-
-    /* Estadísticas */
 
     .stats-grid {
       display: grid;
@@ -284,8 +278,6 @@
       font-weight: 600;
     }
 
-    /* Filtros + lista */
-
     .filters {
       display: flex;
       flex-wrap: wrap;
@@ -327,8 +319,6 @@
       font-size: 11px;
       padding: 6px 12px;
     }
-
-    /* Tarjetas de libros */
 
     .book-list {
       display: flex;
@@ -427,8 +417,6 @@
       padding: 20px 0 10px;
     }
 
-    /* Modal busqueda web */
-
     .modal-backdrop {
       position: fixed;
       inset: 0;
@@ -525,13 +513,13 @@
     <header>
       <div>
         <h1>Mi Biblioteca</h1>
-        <p>Ingresa y cataloga tus libros físicos y digitales en un sólo lugar.</p>
+        <p>Libros físicos y digitales sincronizados en Google Sheets.</p>
       </div>
       <p id="headerSummary"></p>
     </header>
 
     <div class="layout">
-      <!-- PANEL IZQUIERDO: FORMULARIO + ESTADÍSTICAS -->
+      <!-- IZQUIERDA: FORMULARIO -->
       <section class="card">
         <div class="card-title">
           <span>Nuevo libro / Editar</span>
@@ -585,7 +573,7 @@
               <input type="file" id="portadaArchivo" accept="image/*" />
             </div>
             <span class="hint">
-              Si Google Books entrega portada se usará automáticamente. Si no, puedes subir una imagen.
+              Si Google Books entrega portada se usará automáticamente. Si no, puedes subir una imagen local (se comprime).
             </span>
           </label>
 
@@ -614,7 +602,7 @@
             </label>
             <label>
               Notas
-              <textarea id="notas" placeholder="Ubicación, editorial, comentario breve..."></textarea>
+              <textarea id="notas" placeholder="Ubicación, breve reseña, etc."></textarea>
             </label>
           </div>
 
@@ -640,6 +628,7 @@
         <div>
           <div class="card-title">
             <span>Estadísticas</span>
+            <span class="subtitle" id="syncStatus">Sincronizando...</span>
           </div>
           <div class="stats-grid">
             <div class="stat-pill">
@@ -665,7 +654,7 @@
         </div>
       </section>
 
-      <!-- PANEL DERECHO: FILTROS + LISTA -->
+      <!-- DERECHA: FILTROS + LISTA -->
       <section class="card">
         <div class="card-title">
           <span>Mis libros</span>
@@ -756,31 +745,125 @@
   </div>
 
   <script>
-    // --- Modelo de datos ---
+    // =========================
+    //   CONFIGURACIÓN GENERAL
+    // =========================
     let libros = [];
-    const STORAGE_KEY = "miBibliotecaLibros";
-
-    // --- Helpers DOM ---
+    const STORAGE_KEY = "miBibliotecaLibrosCache";
     const $ = (id) => document.getElementById(id);
 
-    // Cargar desde localStorage
-    function cargarLibros() {
+    // URL de tu Apps Script (la que me diste)
+    const API_URL = "https://script.google.com/macros/s/AKfycbyfqMXlX9rJrSBs_D1XISMr3iiDYn3vZLlObncfZCStqmwhqvvVoY-eciMWJ2SKQ2mUDA/exec";
+
+    // =========================
+    //   LOCALSTORAGE (CACHÉ)
+    // =========================
+    function cargarDesdeLocal() {
       try {
         const raw = localStorage.getItem(STORAGE_KEY);
         if (!raw) return [];
         const datos = JSON.parse(raw);
         return Array.isArray(datos) ? datos : [];
       } catch (e) {
-        console.error("Error leyendo localStorage", e);
+        console.error("Error leyendo caché local:", e);
         return [];
       }
     }
 
-    function guardarLibros() {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(libros));
+    function guardarEnLocal() {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(libros));
+      } catch (e) {
+        console.error("Error guardando en caché local:", e);
+      }
     }
 
-    // Reset formulario
+    // =========================
+    //   NUBE (GOOGLE SHEETS)
+    // =========================
+    function setSyncStatus(texto) {
+      $("syncStatus").textContent = texto || "";
+    }
+
+    function parseCategorias(valor) {
+      if (!valor) return [];
+      const s = String(valor);
+      return s.split(/;|,/).map(x => x.trim()).filter(Boolean);
+    }
+
+    async function cargarDesdeNube() {
+      try {
+        setSyncStatus("Cargando desde la nube...");
+        const resp = await fetch(API_URL);
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        const data = await resp.json();
+
+        libros = (data || []).map(row => {
+          const id = row.id || ("libro-" + Date.now() + "-" + Math.random().toString(16).slice(2));
+          const anio = row.anio ? Number(row.anio) : null;
+          return {
+            id,
+            titulo: row.titulo || "",
+            autor: row.autor || "",
+            anio: isNaN(anio) ? null : anio,
+            isbn: row.isbn || "",
+            editorial: row.editorial || "",
+            formato: row.formato || "Físico",
+            estado: row.estado || "Sin leer",
+            categorias: parseCategorias(row.categorias),
+            notas: row.notas || "",
+            comentarios: row.comentarios || "",
+            portada: row.portada || "",
+            fechaRegistro: new Date().toISOString(),
+          };
+        });
+
+        guardarEnLocal();
+        render();
+        setSyncStatus("Sincronizado con Google Sheets");
+      } catch (e) {
+        console.error("No se pudo cargar desde la nube, usando caché local.", e);
+        libros = cargarDesdeLocal();
+        render();
+        setSyncStatus("Usando datos en caché (sin conexión)");
+      }
+    }
+
+    async function sincronizarConNube() {
+      try {
+        setSyncStatus("Sincronizando...");
+        const payloadLibros = libros.map(l => ({
+          id: l.id,
+          titulo: l.titulo,
+          autor: l.autor,
+          anio: l.anio ?? "",
+          isbn: l.isbn,
+          editorial: l.editorial,
+          formato: l.formato,
+          estado: l.estado,
+          categorias: (l.categorias || []).join("; "),
+          notas: l.notas,
+          comentarios: l.comentarios,
+          portada: l.portada
+        }));
+
+        await fetch(API_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ mode: "replaceAll", libros: payloadLibros })
+        });
+
+        guardarEnLocal();
+        setSyncStatus("Sincronizado con Google Sheets");
+      } catch (e) {
+        console.error("Error al sincronizar con la nube:", e);
+        setSyncStatus("Error de sincronización (revisar conexión)");
+      }
+    }
+
+    // =========================
+    //   FORMULARIO
+    // =========================
     function limpiarFormulario() {
       $("bookId").value = "";
       $("portada").value = "";
@@ -811,7 +894,6 @@
       }
     }
 
-    // Llenar formulario para edición
     function editarLibro(id) {
       const libro = libros.find((l) => l.id === id);
       if (!libro) return;
@@ -835,8 +917,7 @@
       window.scrollTo({ top: 0, behavior: "smooth" });
     }
 
-    // Eliminar libro
-    function eliminarLibro(id) {
+    async function eliminarLibro(id) {
       const libro = libros.find((l) => l.id === id);
       if (!libro) return;
       const ok = confirm(
@@ -844,12 +925,11 @@
       );
       if (!ok) return;
       libros = libros.filter((l) => l.id !== id);
-      guardarLibros();
       render();
+      await sincronizarConNube();
     }
 
-    // Manejar envío de formulario
-    function manejarSubmitFormulario(event) {
+    async function manejarSubmitFormulario(event) {
       event.preventDefault();
 
       const id = $("bookId").value || null;
@@ -876,7 +956,6 @@
           : [];
 
       if (id) {
-        // Actualizar
         const idx = libros.findIndex((l) => l.id === id);
         if (idx !== -1) {
           libros[idx] = {
@@ -895,7 +974,6 @@
           };
         }
       } else {
-        // Nuevo
         const nuevo = {
           id: "libro-" + Date.now() + "-" + Math.random().toString(16).slice(2),
           titulo,
@@ -911,15 +989,17 @@
           portada,
           fechaRegistro: new Date().toISOString(),
         };
-        libros.unshift(nuevo); // al principio
+        libros.unshift(nuevo);
       }
 
-      guardarLibros();
-      limpiarFormulario();
       render();
+      limpiarFormulario();
+      await sincronizarConNube();
     }
 
-    // Estadísticas y categorías para filtro
+    // =========================
+    //   ESTADÍSTICAS Y FILTROS
+    // =========================
     function actualizarEstadisticas() {
       const total = libros.length;
       const fisicos = libros.filter((l) => l.formato === "Físico").length;
@@ -931,7 +1011,6 @@
       $("statDigitales").textContent = digitales;
       $("statLeidos").textContent = leidos;
 
-      // Categorías únicas
       const categoriasSet = new Set();
       libros.forEach((l) => {
         (l.categorias || []).forEach((c) => categoriasSet.add(c));
@@ -950,7 +1029,6 @@
           ").";
       }
 
-      // Poblar filtro de categorías
       const selectCat = $("filterCategoria");
       const valorAnterior = selectCat.value || "todas";
       selectCat.innerHTML = "";
@@ -970,14 +1048,12 @@
         selectCat.value = "todas";
       }
 
-      // Resumen en el header
       $("headerSummary").textContent =
         total === 0
           ? "Sin libros registrados por ahora."
-          : `${total} libro${total !== 1 ? "s" : ""} en tu biblioteca · ${fisicos} físico(s) · ${digitales} digital(es) · ${leidos} leído(s).`;
+          : `${total} libro${total !== 1 ? "s" : ""} · ${fisicos} físico(s) · ${digitales} digital(es) · ${leidos} leído(s).`;
     }
 
-    // Obtener filtros actuales
     function obtenerFiltros() {
       return {
         formato: $("filterFormato").value,
@@ -988,7 +1064,6 @@
       };
     }
 
-    // Aplicar filtros
     function filtrarLibros() {
       const { formato, estado, categoria, autor, texto } = obtenerFiltros();
       let resultado = [...libros];
@@ -1027,7 +1102,12 @@
       return resultado;
     }
 
-    // Render lista de libros
+    function textSpan(texto) {
+      const span = document.createElement("span");
+      span.textContent = texto;
+      return span;
+    }
+
     function renderLista() {
       const contenedor = $("bookList");
       const filtrados = filtrarLibros();
@@ -1058,7 +1138,6 @@
         const card = document.createElement("div");
         card.className = "book-card";
 
-        // Portada
         if (libro.portada) {
           const img = document.createElement("img");
           img.className = "book-cover";
@@ -1155,18 +1234,17 @@
       });
     }
 
-    function textSpan(texto) {
-      const span = document.createElement("span");
-      span.textContent = texto;
-      return span;
-    }
-
     function render() {
       actualizarEstadisticas();
       renderLista();
     }
 
-    // --- BÚSQUEDA EN LA WEB (Google Books) ---
+    // =========================
+    //   BÚSQUEDA GOOGLE BOOKS
+    // =========================
+    function mostrarModal(visible) {
+      $("modalBackdrop").style.display = visible ? "flex" : "none";
+    }
 
     async function buscarEnWeb() {
       const titulo = $("titulo").value.trim();
@@ -1215,8 +1293,11 @@
             industry.find((x) => x.type === "ISBN_10")?.identifier ||
             "";
           const imageLinks = info.imageLinks || {};
-          const coverUrl =
+          let coverUrl =
             imageLinks.thumbnail || imageLinks.smallThumbnail || "";
+          if (coverUrl.startsWith("http://")) {
+            coverUrl = coverUrl.replace("http://", "https://");
+          }
           const publisher = info.publisher || "";
 
           const result = document.createElement("div");
@@ -1269,7 +1350,6 @@
           btnUsar.className = "btn-secondary";
           btnUsar.textContent = "Usar estos datos";
           btnUsar.addEventListener("click", () => {
-            // Rellenar formulario con estos datos
             $("titulo").value = title;
             if (authors) $("autor").value = authors;
             if (year) $("anio").value = year;
@@ -1302,11 +1382,9 @@
       }
     }
 
-    function mostrarModal(visible) {
-      $("modalBackdrop").style.display = visible ? "flex" : "none";
-    }
-
-    // --- Exportar resultados a CSV (para Excel) ---
+    // =========================
+    //   EXPORTAR / IMPORTAR CSV
+    // =========================
     function exportarResultados() {
       const filtrados = filtrarLibros();
       if (filtrados.length === 0) {
@@ -1364,7 +1442,6 @@
       URL.revokeObjectURL(url);
     }
 
-    // --- Parser simple de CSV (separador ;, con comillas) ---
     function parseCSVLine(line) {
       const cells = [];
       let current = "";
@@ -1373,7 +1450,6 @@
       for (let i = 0; i < line.length; i++) {
         const ch = line[i];
         if (ch === '"') {
-          // ¿doble comilla dentro de campo?
           if (inQuotes && line[i + 1] === '"') {
             current += '"';
             i++;
@@ -1389,7 +1465,6 @@
       }
       cells.push(current);
 
-      // Quitar comillas externas
       return cells.map(c => {
         let s = c.trim();
         if (s.startsWith('"') && s.endsWith('"')) {
@@ -1400,13 +1475,12 @@
       });
     }
 
-    // --- Importar CSV generado previamente ---
-    function manejarImportarArchivo(event) {
+    async function manejarImportarArchivo(event) {
       const file = event.target.files[0];
       if (!file) return;
 
       const reader = new FileReader();
-      reader.onload = function (e) {
+      reader.onload = async function (e) {
         const texto = e.target.result || "";
         const lineas = texto.split(/\r?\n/).filter(l => l.trim().length > 0);
         if (lineas.length <= 1) {
@@ -1414,7 +1488,6 @@
           return;
         }
 
-        // Saltar encabezado
         const nuevas = [];
         for (let i = 1; i < lineas.length; i++) {
           const linea = lineas[i];
@@ -1474,37 +1547,72 @@
           libros = [...libros, ...nuevas];
         }
 
-        guardarLibros();
         render();
+        await sincronizarConNube();
         alert("Importación completada.");
       };
 
       reader.readAsText(file, "utf-8");
-      // Reset para permitir volver a importar el mismo archivo si se quiere
       event.target.value = "";
     }
 
-    // --- Manejo de subida de portada ---
+    // =========================
+    //   PORTADA LOCAL (COMPRIMIR)
+    // =========================
     function manejarPortadaArchivo(event) {
       const file = event.target.files[0];
       if (!file) return;
+
       if (!file.type.startsWith("image/")) {
-        alert("El archivo debe ser una imagen.");
+        alert("El archivo debe ser una imagen (jpg, png, etc.).");
         event.target.value = "";
         return;
       }
+
       const reader = new FileReader();
+
       reader.onload = function (e) {
-        $("portada").value = e.target.result;
-        actualizarPreviewPortada();
+        const img = new Image();
+        img.onload = function () {
+          const maxWidth = 200;
+          const maxHeight = 300;
+
+          let w = img.width;
+          let h = img.height;
+
+          const ratio = Math.min(maxWidth / w, maxHeight / h, 1);
+          w = Math.round(w * ratio);
+          h = Math.round(h * ratio);
+
+          const canvas = document.createElement("canvas");
+          canvas.width = w;
+          canvas.height = h;
+          const ctx = canvas.getContext("2d");
+          ctx.drawImage(img, 0, 0, w, h);
+
+          const dataUrl = canvas.toDataURL("image/jpeg", 0.7);
+
+          $("portada").value = dataUrl;
+          actualizarPreviewPortada();
+        };
+        img.onerror = function () {
+          alert("No se pudo leer la imagen.");
+        };
+        img.src = e.target.result;
       };
+
+      reader.onerror = function () {
+        alert("Error leyendo el archivo de imagen.");
+      };
+
       reader.readAsDataURL(file);
     }
 
-    // --- Inicializar ---
+    // =========================
+    //   INICIALIZACIÓN
+    // =========================
     document.addEventListener("DOMContentLoaded", () => {
-      libros = cargarLibros();
-      render();
+      cargarDesdeNube();
 
       $("bookForm").addEventListener("submit", manejarSubmitFormulario);
       $("btnLimpiar").addEventListener("click", limpiarFormulario);
