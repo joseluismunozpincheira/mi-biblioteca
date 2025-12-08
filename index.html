@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Mi Biblioteca Minimalista (Nube)</title>
+  <title>Mi Biblioteca Minimalista</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     :root {
@@ -513,7 +513,7 @@
     <header>
       <div>
         <h1>Mi Biblioteca</h1>
-        <p>Libros físicos y digitales sincronizados en Google Sheets.</p>
+        <p>Libros físicos y digitales. Datos guardados en este navegador (localStorage) con opción de importar/exportar CSV.</p>
       </div>
       <p id="headerSummary"></p>
     </header>
@@ -528,6 +528,7 @@
 
         <form id="bookForm">
           <input type="hidden" id="bookId" />
+          <!-- Aquí se guarda internamente la URL final de la portada -->
           <input type="hidden" id="portada" />
 
           <label>
@@ -567,13 +568,14 @@
           </div>
 
           <label>
-            Portada
+            Portada (URL)
             <div class="cover-input-row">
               <img id="portadaPreview" alt="Portada" />
-              <input type="file" id="portadaArchivo" accept="image/*" />
+              <input type="text" id="portadaUrl" placeholder="https://ejemplo.com/portada.jpg" />
             </div>
             <span class="hint">
-              Si Google Books entrega portada se usará automáticamente. Si no, puedes subir una imagen local (se comprime).
+              Pega aquí una URL pública de la imagen (Google Books, servidor propio, Drive/Dropbox con enlace público, etc.).
+              Al usar Google Books, la portada se rellena automáticamente.
             </span>
           </label>
 
@@ -628,7 +630,7 @@
         <div>
           <div class="card-title">
             <span>Estadísticas</span>
-            <span class="subtitle" id="syncStatus">Sincronizando...</span>
+            <span class="subtitle"></span>
           </div>
           <div class="stats-grid">
             <div class="stat-pill">
@@ -748,18 +750,12 @@
     // =========================
     //   CONFIGURACIÓN GENERAL
     // =========================
-
     let libros = [];
-    const STORAGE_KEY = "miBibliotecaLibrosCache";
-
-    // URL de tu Apps Script
-    const API_URL = "https://script.google.com/macros/s/AKfycbyfqMXlX9rJrSBs_D1XISMr3iiDYn3vZLlObncfZCStqmwhqvvVoY-eciMWJ2SKQ2mUDA/exec";
-
-    // Abreviatura para document.getElementById
+    const STORAGE_KEY = "miBibliotecaLibrosLocal";
     const $ = (id) => document.getElementById(id);
 
     // =========================
-    //   LOCALSTORAGE (CACHÉ)
+    //   LOCALSTORAGE
     // =========================
     function cargarDesdeLocal() {
       try {
@@ -782,89 +778,6 @@
     }
 
     // =========================
-    //   NUBE (GOOGLE SHEETS)
-    // =========================
-    function setSyncStatus(texto) {
-      $("syncStatus").textContent = texto || "";
-    }
-
-    function parseCategorias(valor) {
-      if (!valor) return [];
-      const s = String(valor);
-      return s.split(/;|,/).map(x => x.trim()).filter(Boolean);
-    }
-
-    async function cargarDesdeNube() {
-      try {
-        setSyncStatus("Cargando desde la nube...");
-        const resp = await fetch(API_URL);
-        if (!resp.ok) throw new Error("HTTP " + resp.status);
-        const data = await resp.json();
-
-        libros = (data || []).map(row => {
-          const id = row.id || ("libro-" + Date.now() + "-" + Math.random().toString(16).slice(2));
-          const anio = row.anio ? Number(row.anio) : null;
-          return {
-            id,
-            titulo: row.titulo || "",
-            autor: row.autor || "",
-            anio: isNaN(anio) ? null : anio,
-            isbn: row.isbn || "",
-            editorial: row.editorial || "",
-            formato: row.formato || "Físico",
-            estado: row.estado || "Sin leer",
-            categorias: parseCategorias(row.categorias),
-            notas: row.notas || "",
-            comentarios: row.comentarios || "",
-            portada: row.portada || "",
-            fechaRegistro: new Date().toISOString(),
-          };
-        });
-
-        guardarEnLocal();
-        render();
-        setSyncStatus("Sincronizado con Google Sheets");
-      } catch (e) {
-        console.error("No se pudo cargar desde la nube, usando caché local.", e);
-        libros = cargarDesdeLocal();
-        render();
-        setSyncStatus("Usando datos en caché (sin conexión)");
-      }
-    }
-
-    async function sincronizarConNube() {
-      try {
-        setSyncStatus("Sincronizando...");
-        const payloadLibros = libros.map(l => ({
-          id: l.id,
-          titulo: l.titulo,
-          autor: l.autor,
-          anio: l.anio ?? "",
-          isbn: l.isbn,
-          editorial: l.editorial,
-          formato: l.formato,
-          estado: l.estado,
-          categorias: (l.categorias || []).join("; "),
-          notas: l.notas,
-          comentarios: l.comentarios,
-          portada: l.portada
-        }));
-
-        await fetch(API_URL, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ mode: "replaceAll", libros: payloadLibros })
-        });
-
-        guardarEnLocal();
-        setSyncStatus("Sincronizado con Google Sheets");
-      } catch (e) {
-        console.error("Error al sincronizar con la nube:", e);
-        setSyncStatus("Error de sincronización (revisar conexión)");
-      }
-    }
-
-    // =========================
     //   FORMULARIO
     // =========================
     function limpiarFormulario() {
@@ -880,6 +793,7 @@
       $("estado").value = "Sin leer";
       $("notas").value = "";
       $("comentarios").value = "";
+      $("portadaUrl").value = "";
       $("formModeLabel").textContent = "Modo: alta";
       $("btnGuardar").textContent = "💾 Guardar libro";
       actualizarPreviewPortada();
@@ -895,6 +809,12 @@
         img.src = "";
         img.style.display = "none";
       }
+    }
+
+    function manejarCambioPortadaUrl() {
+      const url = $("portadaUrl").value.trim();
+      $("portada").value = url;
+      actualizarPreviewPortada();
     }
 
     function editarLibro(id) {
@@ -913,6 +833,7 @@
       $("notas").value = libro.notas || "";
       $("comentarios").value = libro.comentarios || "";
       $("portada").value = libro.portada || "";
+      $("portadaUrl").value = libro.portada || "";
       actualizarPreviewPortada();
 
       $("formModeLabel").textContent = "Modo: edición";
@@ -928,8 +849,8 @@
       );
       if (!ok) return;
       libros = libros.filter((l) => l.id !== id);
+      guardarEnLocal();
       render();
-      await sincronizarConNube();
     }
 
     async function manejarSubmitFormulario(event) {
@@ -946,11 +867,16 @@
       const estado = $("estado").value;
       const notas = $("notas").value.trim();
       const comentarios = $("comentarios").value.trim();
-      const portada = $("portada").value || "";
+      let portada = $("portada").value.trim() || "";
 
       if (!titulo) {
         alert("El título es obligatorio.");
         return;
+      }
+
+      // No guardamos imágenes en base64, solo URLs http/https
+      if (portada && portada.startsWith("data:image")) {
+        portada = "";
       }
 
       const categorias =
@@ -995,9 +921,9 @@
         libros.unshift(nuevo);
       }
 
+      guardarEnLocal();
       render();
       limpiarFormulario();
-      await sincronizarConNube();
     }
 
     // =========================
@@ -1366,6 +1292,7 @@
             }
             if (coverUrl) {
               $("portada").value = coverUrl;
+              $("portadaUrl").value = coverUrl;
               actualizarPreviewPortada();
             }
             mostrarModal(false);
@@ -1550,8 +1477,8 @@
           libros = [...libros, ...nuevas];
         }
 
+        guardarEnLocal();
         render();
-        await sincronizarConNube();
         alert("Importación completada.");
       };
 
@@ -1560,67 +1487,20 @@
     }
 
     // =========================
-    //   PORTADA LOCAL (COMPRIMIR)
-    // =========================
-    function manejarPortadaArchivo(event) {
-      const file = event.target.files[0];
-      if (!file) return;
-
-      if (!file.type.startsWith("image/")) {
-        alert("El archivo debe ser una imagen (jpg, png, etc.).");
-        event.target.value = "";
-        return;
-      }
-
-      const reader = new FileReader();
-
-      reader.onload = function (e) {
-        const img = new Image();
-        img.onload = function () {
-          const maxWidth = 200;
-          const maxHeight = 300;
-
-          let w = img.width;
-          let h = img.height;
-
-          const ratio = Math.min(maxWidth / w, maxHeight / h, 1);
-          w = Math.round(w * ratio);
-          h = Math.round(h * ratio);
-
-          const canvas = document.createElement("canvas");
-          canvas.width = w;
-          canvas.height = h;
-          const ctx = canvas.getContext("2d");
-          ctx.drawImage(img, 0, 0, w, h);
-
-          const dataUrl = canvas.toDataURL("image/jpeg", 0.7);
-
-          $("portada").value = dataUrl;
-          actualizarPreviewPortada();
-        };
-        img.onerror = function () {
-          alert("No se pudo leer la imagen.");
-        };
-        img.src = e.target.result;
-      };
-
-      reader.onerror = function () {
-        alert("Error leyendo el archivo de imagen.");
-      };
-
-      reader.readAsDataURL(file);
-    }
-
-    // =========================
     //   INICIALIZACIÓN
     // =========================
     document.addEventListener("DOMContentLoaded", () => {
-      cargarDesdeNube();
+      libros = cargarDesdeLocal();
+      render();
 
       $("bookForm").addEventListener("submit", manejarSubmitFormulario);
       $("btnLimpiar").addEventListener("click", limpiarFormulario);
       $("btnBuscarWeb").addEventListener("click", buscarEnWeb);
-      $("portadaArchivo").addEventListener("change", manejarPortadaArchivo);
+
+      $("portadaUrl").addEventListener("input", () => {
+        clearTimeout(window.__portadaTimer);
+        window.__portadaTimer = setTimeout(manejarCambioPortadaUrl, 200);
+      });
 
       $("filterFormato").addEventListener("change", render);
       $("filterEstado").addEventListener("change", render);
