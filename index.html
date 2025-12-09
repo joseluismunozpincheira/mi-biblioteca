@@ -221,7 +221,7 @@
 
     .cover-input-row {
       display: flex;
-      align-items: center;
+      align-items: flex-start;
       gap: 8px;
       flex-wrap: nowrap;
     }
@@ -235,6 +235,31 @@
       object-fit: cover;
       display: none;
       flex-shrink: 0;
+    }
+
+    .cover-fields {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .cover-tools-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .cover-tools-row select {
+      flex: 1;
+      min-width: 160px;
+    }
+
+    .cover-tools-row button {
+      font-size: 11px;
+      padding: 5px 12px;
+      white-space: nowrap;
     }
 
     .stats-grid {
@@ -528,7 +553,6 @@
 
         <form id="bookForm">
           <input type="hidden" id="bookId" />
-          <!-- Aquí se guarda internamente la URL final de la portada -->
           <input type="hidden" id="portada" />
 
           <label>
@@ -568,15 +592,28 @@
           </div>
 
           <label>
-            Portada (URL)
+            Portada (URL o galería)
             <div class="cover-input-row">
               <img id="portadaPreview" alt="Portada" />
-              <input type="text" id="portadaUrl" placeholder="https://ejemplo.com/portada.jpg" />
+              <div class="cover-fields">
+                <input type="text" id="portadaUrl" placeholder="https://ejemplo.com/portada.jpg" />
+                <div class="cover-tools-row">
+                  <select id="portadaGaleria">
+                    <option value="">Cargar galería...</option>
+                  </select>
+                  <button type="button" class="btn-secondary" id="btnSubirAGitHub">
+                    📤 Subir imagen al repo
+                  </button>
+                  <input type="file" id="portadaLocalArchivo" accept="image/*" style="display:none" />
+                </div>
+              </div>
             </div>
             <span class="hint">
-              Pega aquí una URL pública de la imagen (Google Books, servidor propio, Drive/Dropbox con enlace público, etc.).
-              Al usar Google Books, la portada se rellena automáticamente.
+              Opción 1: pega una URL pública de la imagen (Google Books, servidor propio, etc.).<br>
+              Opción 2: elige una portada ya subida a la carpeta <code>/portadas</code> de tu repositorio (galería).<br>
+              El botón "Subir imagen al repo" prepara la imagen para que la subas fácilmente en GitHub.
             </span>
+            <div class="hint" id="portadaHelper"></div>
           </label>
 
           <div class="inline-3">
@@ -754,6 +791,13 @@
     const STORAGE_KEY = "miBibliotecaLibrosLocal";
     const $ = (id) => document.getElementById(id);
 
+    // Config para galería desde GitHub
+    const GITHUB_OWNER = "joseluismunozpincheira";
+    const GITHUB_REPO = "mi-biblioteca";
+    const GITHUB_PORTADAS_PATH = "portadas";
+
+    let galeriaPortadas = [];
+
     // =========================
     //   LOCALSTORAGE
     // =========================
@@ -778,6 +822,18 @@
     }
 
     // =========================
+    //   UTILIDADES
+    // =========================
+    function slugify(str) {
+      return String(str || "")
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9]+/g, "-")
+        .replace(/^-+|-+$/g, "");
+    }
+
+    // =========================
     //   FORMULARIO
     // =========================
     function limpiarFormulario() {
@@ -794,6 +850,8 @@
       $("notas").value = "";
       $("comentarios").value = "";
       $("portadaUrl").value = "";
+      $("portadaGaleria").value = "";
+      $("portadaHelper").textContent = "";
       $("formModeLabel").textContent = "Modo: alta";
       $("btnGuardar").textContent = "💾 Guardar libro";
       actualizarPreviewPortada();
@@ -814,6 +872,20 @@
     function manejarCambioPortadaUrl() {
       const url = $("portadaUrl").value.trim();
       $("portada").value = url;
+      $("portadaGaleria").value = "";
+      $("portadaHelper").textContent = "";
+      actualizarPreviewPortada();
+    }
+
+    function manejarCambioPortadaGaleria() {
+      const path = $("portadaGaleria").value;
+      if (!path) return;
+      const item = galeriaPortadas.find(p => p.path === path);
+      if (!item) return;
+      const url = item.download_url;
+      $("portada").value = url;
+      $("portadaUrl").value = url;
+      $("portadaHelper").textContent = `Usando portada desde /${GITHUB_PORTADAS_PATH}/${item.name}`;
       actualizarPreviewPortada();
     }
 
@@ -834,6 +906,8 @@
       $("comentarios").value = libro.comentarios || "";
       $("portada").value = libro.portada || "";
       $("portadaUrl").value = libro.portada || "";
+      $("portadaGaleria").value = "";
+      $("portadaHelper").textContent = "";
       actualizarPreviewPortada();
 
       $("formModeLabel").textContent = "Modo: edición";
@@ -1293,6 +1367,7 @@
             if (coverUrl) {
               $("portada").value = coverUrl;
               $("portadaUrl").value = coverUrl;
+              $("portadaGaleria").value = "";
               actualizarPreviewPortada();
             }
             mostrarModal(false);
@@ -1487,20 +1562,135 @@
     }
 
     // =========================
+    //   GALERÍA DESDE GITHUB
+    // =========================
+    async function cargarGaleriaPortadas() {
+      const select = $("portadaGaleria");
+      select.innerHTML = '<option value="">Cargando galería...</option>';
+      try {
+        const resp = await fetch(
+          `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_PORTADAS_PATH}`
+        );
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
+        const data = await resp.json();
+        galeriaPortadas = (Array.isArray(data) ? data : []).filter(item =>
+          item.type === "file" && /\.(png|jpg|jpeg|gif)$/i.test(item.name)
+        );
+
+        select.innerHTML = "";
+        const opt0 = document.createElement("option");
+        opt0.value = "";
+        opt0.textContent = galeriaPortadas.length
+          ? "Elegir desde galería del repo…"
+          : "No hay imágenes en /portadas";
+        select.appendChild(opt0);
+
+        galeriaPortadas.forEach(item => {
+          const o = document.createElement("option");
+          o.value = item.path;
+          o.textContent = item.name;
+          select.appendChild(o);
+        });
+      } catch (e) {
+        console.error("Error cargando galería de portadas:", e);
+        select.innerHTML = "";
+        const o = document.createElement("option");
+        o.value = "";
+        o.textContent = "No se pudo cargar galería";
+        select.appendChild(o);
+      }
+    }
+
+    // =========================
+    //   SUBIR IMAGEN (PREPARAR PARA GITHUB)
+    // =========================
+    function manejarClickSubirAGitHub() {
+      $("portadaLocalArchivo").click();
+    }
+
+    function manejarPortadaLocalArchivo(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      if (!file.type.startsWith("image/")) {
+        alert("El archivo debe ser una imagen (jpg, png, etc.).");
+        event.target.value = "";
+        return;
+      }
+
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        const img = new Image();
+        img.onload = function () {
+          const maxWidth = 600;
+          const maxHeight = 900;
+
+          let w = img.width;
+          let h = img.height;
+          const ratio = Math.min(maxWidth / w, maxHeight / h, 1);
+          w = Math.round(w * ratio);
+          h = Math.round(h * ratio);
+
+          const canvas = document.createElement("canvas");
+          canvas.width = w;
+          canvas.height = h;
+          const ctx = canvas.getContext("2d");
+          ctx.drawImage(img, 0, 0, w, h);
+
+          canvas.toBlob(function (blob) {
+            if (!blob) {
+              alert("No se pudo procesar la imagen.");
+              return;
+            }
+
+            const baseTitulo = $("titulo").value.trim() || file.name.replace(/\.[^.]+$/, "");
+            const nombre = slugify(baseTitulo) || "portada-libro";
+            const filename = nombre + ".jpg";
+
+            const urlDescarga = URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = urlDescarga;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            setTimeout(() => URL.revokeObjectURL(urlDescarga), 5000);
+
+            $("portadaHelper").textContent =
+              `Se descargó la imagen comprimida como "${filename}". ` +
+              `Ahora súbela en GitHub a la carpeta "/${GITHUB_PORTADAS_PATH}" (` +
+              `Add file → Upload files). Luego recarga esta página y elige la portada desde la galería.`;
+
+          }, "image/jpeg", 0.9);
+        };
+        img.onerror = function () {
+          alert("No se pudo leer la imagen.");
+        };
+        img.src = e.target.result;
+      };
+      reader.onerror = function () {
+        alert("Error leyendo el archivo de imagen.");
+      };
+      reader.readAsDataURL(file);
+    }
+
+    // =========================
     //   INICIALIZACIÓN
     // =========================
     document.addEventListener("DOMContentLoaded", () => {
       libros = cargarDesdeLocal();
       render();
+      cargarGaleriaPortadas();
 
       $("bookForm").addEventListener("submit", manejarSubmitFormulario);
       $("btnLimpiar").addEventListener("click", limpiarFormulario);
       $("btnBuscarWeb").addEventListener("click", buscarEnWeb);
 
-      $("portadaUrl").addEventListener("input", () => {
-        clearTimeout(window.__portadaTimer);
-        window.__portadaTimer = setTimeout(manejarCambioPortadaUrl, 200);
-      });
+      $("portadaUrl").addEventListener("change", manejarCambioPortadaUrl);
+      $("portadaUrl").addEventListener("blur", manejarCambioPortadaUrl);
+      $("portadaGaleria").addEventListener("change", manejarCambioPortadaGaleria);
+      $("btnSubirAGitHub").addEventListener("click", manejarClickSubirAGitHub);
+      $("portadaLocalArchivo").addEventListener("change", manejarPortadaLocalArchivo);
 
       $("filterFormato").addEventListener("change", render);
       $("filterEstado").addEventListener("change", render);
@@ -1528,4 +1718,3 @@
   </script>
 </body>
 </html>
-
