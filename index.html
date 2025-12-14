@@ -60,7 +60,6 @@
     .filters-left,.filters-right{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
     .filters select,.filters input[type="text"]{font-size:12px;padding:6px 8px;border-radius:999px;background:#fafafa}
     .filters label{font-size:11px;flex-direction:row;gap:6px;align-items:center}
-    .filters-right button{font-size:11px;padding:6px 12px}
     .book-list{display:flex;flex-direction:column;gap:10px;max-height:520px;overflow:auto;padding-right:4px}
     .book-card{border-radius:var(--r-sm);border:1px solid var(--border);padding:10px;background:#fff;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:8px;align-items:center}
     .book-cover{width:44px;height:64px;border-radius:6px;border:1px solid var(--border);object-fit:cover;background:#f0f0f0}
@@ -82,7 +81,7 @@
   <header>
     <div>
       <h1>Mi Biblioteca</h1>
-      <p>Modo GitHub: lee <code>/data/libros.json</code> del repo + cambios locales. Exporta y sube para “publicar”.</p>
+      <p>Lee <code>/data/libros.json</code> del repo. Para publicar cambios: exporta y reemplaza el JSON en GitHub.</p>
     </div>
     <p id="headerSummary"></p>
   </header>
@@ -94,11 +93,11 @@
       <span class="subtitle" id="localStatus"></span>
     </div>
     <div class="right">
-      <button class="btn-secondary" type="button" id="btnExportRepoJson">⬆ Exportar libros.json para GitHub</button>
+      <button class="btn-secondary" type="button" id="btnExportRepoJson">⬆ Exportar libros.json (para subir a GitHub)</button>
       <button class="btn-secondary" type="button" id="btnBorrarLocal">🧹 Borrar cambios locales</button>
     </div>
     <div class="hint" style="margin-top:6px">
-      <b>Cómo publicar:</b> exportas <code>libros.json</code> y lo subes reemplazando <code>/data/libros.json</code> en GitHub.
+      <b>Publicar para todos tus dispositivos:</b> exporta <code>libros.json</code> y súbelo reemplazando <code>/data/libros.json</code>.
     </div>
   </div>
 
@@ -156,7 +155,7 @@
                 <select id="portadaGaleria">
                   <option value="">Cargando galería...</option>
                 </select>
-                <button type="button" class="btn-secondary" id="btnPrepararPortada">📤 Preparar imagen para subir</button>
+                <button type="button" class="btn-secondary" id="btnPrepararPortada">📤 Preparar imagen (descargar) para subir</button>
                 <input type="file" id="portadaLocalArchivo" accept="image/*" style="display:none" />
               </div>
             </div>
@@ -206,7 +205,7 @@
         </div>
 
         <p class="hint">
-          La búsqueda web usa Google Books (título/ISBN) y rellena Editorial + portada si existe.
+          Google Books rellena Editorial + portada si existe.
         </p>
       </form>
 
@@ -296,43 +295,37 @@
 
 <script>
   // ========= CONFIG (AJUSTA SI CAMBIAS REPO) =========
-  const GITHUB_OWNER = "joseluismunozpincheira";
-  const GITHUB_REPO  = "mi-biblioteca";
-  const DATA_PATH    = "data/libros.json";     // archivo “oficial” del repo
-  const PORTADAS_DIR = "portadas";             // carpeta de portadas en el repo
+  const DATA_PATH    = "data/libros.json";
+  const PORTADAS_DIR = "portadas";
   // ==================================================
 
   const $ = (id) => document.getElementById(id);
 
-  const LS_KEY_LOCAL_CHANGES = "miBiblioteca_localBooks"; // libros locales (ediciones)
-  let libros = [];        // lista final (repo + local)
-  let repoLibros = [];    // desde /data/libros.json
-  let localLibros = [];   // desde localStorage
+  const LS_KEY_LOCAL_CHANGES = "miBiblioteca_localBooks";
+  let libros = [];
+  let repoLibros = [];
+  let localLibros = [];
   let galeriaPortadas = [];
 
-  // ---------- helpers ----------
   const nowIso = () => new Date().toISOString();
 
   function slugify(str){
     return String(str||"").toLowerCase()
       .normalize("NFD").replace(/[\u0300-\u036f]/g,"")
-      .replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"");
+      .replace(/[^a-z0-9]+/g,"-")
+      .replace(/^-+|-+$/g,"");
   }
-
   function parseCategorias(v){
     if(!v) return [];
     return String(v).split(/;|,/).map(x=>x.trim()).filter(Boolean);
   }
-
   function safeInt(v){
     const n = parseInt(v,10);
     return isNaN(n) ? null : n;
   }
-
   function setCloudStatus(t){ $("cloudStatus").textContent = t || ""; }
   function setLocalStatus(t){ $("localStatus").textContent = t || ""; }
 
-  // ---------- storage ----------
   function loadLocalBooks(){
     try{
       const raw = localStorage.getItem(LS_KEY_LOCAL_CHANGES);
@@ -349,21 +342,28 @@
       localStorage.setItem(LS_KEY_LOCAL_CHANGES, JSON.stringify(localLibros));
     }catch(e){
       console.error(e);
-      alert("No se pudo guardar en localStorage. Revisa espacio/ajustes del navegador.");
+      alert("No se pudo guardar en localStorage (espacio/config).");
     }
   }
 
-  // ---------- merge strategy ----------
-  // Regla: si un libro local tiene mismo id que uno del repo, el local “manda”.
-  // Si el local no tiene id existente, se agrega.
   function mergeRepoAndLocal(){
     const map = new Map();
     repoLibros.forEach(b => map.set(b.id, b));
     localLibros.forEach(b => map.set(b.id, b));
-    libros = Array.from(map.values()).sort((a,b)=> (b._ts||b.fechaRegistro||"").localeCompare(a._ts||a.fechaRegistro||""));
+    libros = Array.from(map.values()).sort((a,b)=>{
+      const ta = (a._ts||a.fechaRegistro||"");
+      const tb = (b._ts||b.fechaRegistro||"");
+      return tb.localeCompare(ta);
+    });
   }
 
-  // ---------- UI helpers ----------
+  function rebuildAndRender(){
+    mergeRepoAndLocal();
+    libros = libros.filter(b => !b._deleted);
+    render();
+    setLocalStatus(localLibros.length ? `Cambios locales: ${localLibros.length}` : "Sin cambios locales");
+  }
+
   function actualizarPreviewPortada(){
     const src = $("portada").value.trim();
     const img = $("portadaPreview");
@@ -426,10 +426,6 @@
     if(!b) return;
     if(!confirm(`¿Eliminar "${b.titulo||"este libro"}"?`)) return;
 
-    // Si existe en repo, “eliminar” localmente creando una marca tombstone no es ideal.
-    // Solución simple: lo quitamos del localChanges si estaba, y además lo “ocultamos” creando un registro local con _deleted=true.
-    // Al exportar, no incluimos deleted si no quieres. Aquí sí lo ocultamos.
-    // (Puedes decidir luego si exportas sin él.)
     const existingLocal = localLibros.find(x=>x.id===id);
     if(existingLocal){
       existingLocal._deleted = true;
@@ -441,15 +437,6 @@
     rebuildAndRender();
   }
 
-  function rebuildAndRender(){
-    mergeRepoAndLocal();
-    // filtrar eliminados
-    libros = libros.filter(b => !b._deleted);
-    render();
-    setLocalStatus(localLibros.length ? `Cambios locales: ${localLibros.length}` : "Sin cambios locales");
-  }
-
-  // ---------- stats + filters ----------
   function actualizarEstadisticas(){
     const total = libros.length;
     const fis = libros.filter(b=>b.formato==="Físico").length;
@@ -469,7 +456,6 @@
       ? `Categorías distintas: ${arr.length} (${arr.slice(0,5).join(", ")}${arr.length>5?", …":""}).`
       : "Aún no hay categorías registradas.";
 
-    // fill category filter
     const sel = $("filterCategoria");
     const prev = sel.value || "todas";
     sel.innerHTML = "";
@@ -517,6 +503,9 @@
     }
     return res;
   }
+
+  function span(t){ const s=document.createElement("span"); s.textContent=t; return s; }
+  function tag(t){ const s=document.createElement("span"); s.className="tag"; s.textContent=t; return s; }
 
   function renderLista(){
     const cont = $("bookList");
@@ -615,10 +604,6 @@
     renderLista();
   }
 
-  function span(t){ const s=document.createElement("span"); s.textContent=t; return s; }
-  function tag(t){ const s=document.createElement("span"); s.className="tag"; s.textContent=t; return s; }
-
-  // ---------- submit ----------
   function submitForm(e){
     e.preventDefault();
 
@@ -642,7 +627,6 @@
       _ts: nowIso()
     };
 
-    // Guardamos SIEMPRE en localChanges (para no perder ediciones)
     const idx = localLibros.findIndex(x=>x.id===id);
     if(idx>=0) localLibros[idx]=book;
     else localLibros.push(book);
@@ -652,7 +636,6 @@
     rebuildAndRender();
   }
 
-  // ---------- Google Books ----------
   function showModal(on){ $("modalBackdrop").style.display = on ? "flex":"none"; }
 
   async function buscarWeb(){
@@ -776,7 +759,6 @@
     }
   }
 
-  // ---------- portada URL / galería ----------
   function onPortadaUrl(){
     const url = $("portadaUrl").value.trim();
     $("portada").value = url;
@@ -786,35 +768,42 @@
   }
 
   function onPortadaGaleria(){
-    const path = $("portadaGaleria").value;
-    if(!path) return;
-    const item = galeriaPortadas.find(x=>x.path===path);
-    if(!item) return;
-    $("portada").value = item.download_url;   // raw URL
-    $("portadaUrl").value = item.download_url;
-    $("portadaHelper").textContent = `Usando /${PORTADAS_DIR}/${item.name}`;
+    const rawUrl = $("portadaGaleria").value;
+    if(!rawUrl) return;
+    $("portada").value = rawUrl;
+    $("portadaUrl").value = rawUrl;
+    $("portadaHelper").textContent = "Usando portada desde /portadas.";
     actualizarPreviewPortada();
   }
 
   async function cargarGaleria(){
     const sel = $("portadaGaleria");
     sel.innerHTML = `<option value="">Cargando galería…</option>`;
+
     try{
-      const r = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${PORTADAS_DIR}`);
+      // Lista archivos desde el propio GitHub Pages (si existe /portadas/index.json no lo tenemos),
+      // así que usamos GitHub API (solo lectura).
+      const owner = location.hostname.split(".")[0]; // tu usuario (en Pages)
+      const repo = location.pathname.split("/").filter(Boolean)[0]; // nombre repo en URL
+      const api = `https://api.github.com/repos/${owner}/${repo}/contents/${PORTADAS_DIR}`;
+
+      const r = await fetch(api);
       if(!r.ok) throw new Error("HTTP "+r.status);
       const data = await r.json();
-      galeriaPortadas = (Array.isArray(data)?data:[]).filter(it => it.type==="file" && /\.(jpg|jpeg|png|gif)$/i.test(it.name));
+      const files = (Array.isArray(data)?data:[]).filter(it=>it.type==="file" && /\.(jpg|jpeg|png|gif)$/i.test(it.name));
+
+      galeriaPortadas = files;
 
       sel.innerHTML = "";
       const o0=document.createElement("option");
       o0.value="";
-      o0.textContent = galeriaPortadas.length ? "Elegir desde /portadas…" : "No hay imágenes en /portadas";
+      o0.textContent = files.length ? "Elegir desde /portadas…" : "No hay imágenes en /portadas";
       sel.appendChild(o0);
 
-      galeriaPortadas.forEach(it=>{
+      files.forEach(it=>{
         const o=document.createElement("option");
-        o.value=it.path;
-        o.textContent=it.name;
+        o.value = it.download_url; // RAW directo
+        o.textContent = it.name;
         sel.appendChild(o);
       });
     }catch(e){
@@ -823,7 +812,6 @@
     }
   }
 
-  // ---------- preparar portada (comprimir + descargar) ----------
   function prepararPortada(){
     $("portadaLocalArchivo").click();
   }
@@ -865,8 +853,7 @@
           setTimeout(()=>URL.revokeObjectURL(url), 4000);
 
           $("portadaHelper").textContent =
-            `Descargada "${name}". Súbela a GitHub en /${PORTADAS_DIR} (Add file → Upload files). `+
-            `Luego recarga esta página y elígela en la galería.`;
+            `Descargada "${name}". Súbela a GitHub en /${PORTADAS_DIR} (Add file → Upload files). Luego recarga y selecciónala en la galería.`;
         }, "image/jpeg", 0.9);
       };
       img.onerror=()=>alert("No se pudo leer la imagen.");
@@ -876,7 +863,17 @@
     ev.target.value="";
   }
 
-  // ---------- export/import ----------
+  function downloadBlob(content, mime, filename){
+    const blob=new Blob([content],{type:mime});
+    const url=URL.createObjectURL(blob);
+    const a=document.createElement("a");
+    a.href=url; a.download=filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(()=>URL.revokeObjectURL(url), 2000);
+  }
+
   function exportCSV(){
     const items = filtrar();
     if(!items.length){ alert("No hay resultados para exportar."); return; }
@@ -961,12 +958,10 @@
   }
 
   function exportRepoJson(){
-    // “publicable”: combinación repo+local (sin _deleted), ordenada
     const publish = [...libros].filter(b=>!b._deleted).map(b=>{
       const { _ts, _deleted, ...rest } = b;
       return rest;
     });
-
     downloadBlob(JSON.stringify(publish, null, 2), "application/json;charset=utf-8", "libros.json");
     alert('Se descargó "libros.json". Súbelo a GitHub reemplazando /data/libros.json para publicar en todos los dispositivos.');
   }
@@ -1013,28 +1008,15 @@
     reader.readAsText(file,"utf-8");
   }
 
-  function downloadBlob(content, mime, filename){
-    const blob=new Blob([content],{type:mime});
-    const url=URL.createObjectURL(blob);
-    const a=document.createElement("a");
-    a.href=url; a.download=filename;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    setTimeout(()=>URL.revokeObjectURL(url), 2000);
-  }
-
-  // ---------- load repo data ----------
   async function loadRepoBooks(){
     setCloudStatus("Cargando /data/libros.json…");
     try{
-      // OJO: en GitHub Pages, este fetch es a tu sitio, no a raw.githubusercontent.
-      // Funciona si el archivo existe en el repo.
       const base = `${location.origin}${location.pathname}`.replace(/\/+$/,"/");
       const url = base + DATA_PATH;
       const r = await fetch(url, { cache: "no-store" });
       if(!r.ok) throw new Error("HTTP "+r.status);
       const data = await r.json();
+
       repoLibros = Array.isArray(data) ? data.map(x=>({
         id: x.id || ("repo-"+Math.random().toString(16).slice(2)),
         titulo: x.titulo || "",
@@ -1050,25 +1032,24 @@
         portada: x.portada || "",
         fechaRegistro: x.fechaRegistro || null
       })).filter(x=>x.titulo) : [];
+
       setCloudStatus(`Repo cargado: ${repoLibros.length} libro(s).`);
     }catch(e){
       console.error(e);
       repoLibros = [];
-      setCloudStatus("No se pudo cargar /data/libros.json (crea el archivo en el repo).");
+      setCloudStatus("No se pudo cargar /data/libros.json (revisa ruta/commit).");
     }
   }
 
-  // ---------- init ----------
   document.addEventListener("DOMContentLoaded", async ()=>{
-    // eventos
     $("bookForm").addEventListener("submit", submitForm);
     $("btnLimpiar").addEventListener("click", limpiarFormulario);
     $("btnBuscarWeb").addEventListener("click", buscarWeb);
 
-    $("portadaUrl").addEventListener("change", onPortadaUrl);
-    $("portadaUrl").addEventListener("blur", onPortadaUrl);
-    $("portadaGaleria").addEventListener("change", onPortadaGaleria);
+    $("portadaUrl").addEventListener("change", ()=>{ $("portada").value=$("portadaUrl").value.trim(); $("portadaHelper").textContent="Usando URL pegada."; actualizarPreviewPortada(); });
+    $("portadaUrl").addEventListener("blur",  ()=>{ $("portada").value=$("portadaUrl").value.trim(); actualizarPreviewPortada(); });
 
+    $("portadaGaleria").addEventListener("change", onPortadaGaleria);
     $("btnPrepararPortada").addEventListener("click", prepararPortada);
     $("portadaLocalArchivo").addEventListener("change", manejarArchivoPortada);
 
@@ -1095,15 +1076,23 @@
     $("btnCerrarModal").addEventListener("click", ()=>showModal(false));
     $("modalBackdrop").addEventListener("click", (e)=>{ if(e.target===$("modalBackdrop")) showModal(false); });
 
-    // cargar repo + local
     localLibros = loadLocalBooks();
     setLocalStatus(localLibros.length ? `Cambios locales: ${localLibros.length}` : "Sin cambios locales");
 
     await loadRepoBooks();
     await cargarGaleria();
-
     rebuildAndRender();
   });
+
+  // wiring for import buttons (after DOM load)
+  document.addEventListener("DOMContentLoaded", ()=>{
+    $("btnImportarCSV").addEventListener("click", ()=> $("importCsvFile").click());
+    $("btnImportarJSON").addEventListener("click", ()=> $("importJsonFile").click());
+  });
+
+  // Inputs
+  $("importCsvFile").addEventListener("change", (e)=>{ const f=e.target.files[0]; if(f) importCSV(f); e.target.value=""; });
+  $("importJsonFile").addEventListener("change", (e)=>{ const f=e.target.files[0]; if(f) importJSON(f); e.target.value=""; });
 </script>
 </body>
 </html>
