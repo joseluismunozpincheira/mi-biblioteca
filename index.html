@@ -31,7 +31,9 @@
     textarea{resize:vertical;min-height:40px;max-height:140px}
     .inline{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
     .inline-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+    .inline-4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
     @media(max-width:600px){.inline,.inline-3{grid-template-columns:1fr}}
+    @media(max-width:700px){.inline-4{grid-template-columns:1fr}}
     .button-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
     button{
       border-radius:999px;border:1px solid transparent;padding:7px 14px;
@@ -45,21 +47,25 @@
     button.btn-danger:hover{background:#ffe8ec}
     button:disabled{opacity:.4;cursor:default;transform:none;box-shadow:none}
     .hint{font-size:11px;color:var(--muted);margin-top:2px;line-height:1.35}
+
     .cover-row{display:flex;gap:8px;align-items:flex-start}
     #portadaPreview{width:44px;height:64px;border-radius:6px;border:1px solid var(--border);background:#f0f0f0;object-fit:cover;display:none;flex-shrink:0}
     .cover-fields{flex:1;display:flex;flex-direction:column;gap:6px}
     .cover-tools{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
     .cover-tools select{flex:1;min-width:170px}
     .cover-tools button{font-size:11px;padding:6px 12px}
+
     .stats-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:6px}
     @media(max-width:900px){.stats-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
     .pill{border-radius:999px;background:var(--soft);padding:8px 10px;font-size:11px;display:flex;flex-direction:column;gap:2px}
     .pill .lab{color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
     .pill .val{font-size:14px;font-weight:750;color:var(--text)}
+
     .filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;margin-bottom:10px}
     .filters-left,.filters-right{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
     .filters select,.filters input[type="text"]{font-size:12px;padding:6px 8px;border-radius:999px;background:#fafafa}
     .filters label{font-size:11px;flex-direction:row;gap:6px;align-items:center}
+
     .book-list{display:flex;flex-direction:column;gap:10px;max-height:520px;overflow:auto;padding-right:4px}
     .book-card{border-radius:var(--r-sm);border:1px solid var(--border);padding:10px;background:#fff;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:8px;align-items:center}
     .book-cover{width:44px;height:64px;border-radius:6px;border:1px solid var(--border);object-fit:cover;background:#f0f0f0}
@@ -71,6 +77,7 @@
     .actions{display:flex;flex-direction:column;gap:6px;align-items:flex-end}
     .actions button{font-size:11px;padding:4px 10px}
     .empty{font-size:12px;color:var(--muted);text-align:center;padding:20px 0 10px}
+
     .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;margin-bottom:14px}
     .bar .left,.bar .right{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
     code{background:#f3f3f3;border:1px solid #e6e6e6;border-radius:6px;padding:1px 6px;font-size:12px}
@@ -88,7 +95,7 @@
 
   <div class="bar card" style="padding:12px 14px">
     <div class="left">
-      <strong style="font-size:13px">Estado:</strong>
+      <strong style="font-size:13px">Datos:</strong>
       <span class="subtitle" id="cloudStatus">Cargando datos del repo…</span>
       <span class="subtitle" id="localStatus"></span>
     </div>
@@ -129,7 +136,7 @@
           </label>
         </div>
 
-        <div class="inline-3">
+        <div class="inline-4">
           <label>
             ISBN
             <input type="text" id="isbn" placeholder="ISBN-10 o ISBN-13" />
@@ -140,7 +147,11 @@
           </label>
           <label>
             Colección
-            <input type="text" id="coleccion" placeholder="Ej: Clásicos, Dover, Nivola..." />
+            <input type="text" id="coleccion" placeholder="Ej: Dover Mathematics..." />
+          </label>
+          <label>
+            Vol
+            <input type="text" id="vol" placeholder="Ej: I, II, 3, Tomo 2" />
           </label>
         </div>
 
@@ -207,7 +218,7 @@
         </div>
 
         <p class="hint">
-          Google Books rellena Editorial + Colección (si viene como “series”/“collection”) + portada si existe.
+          Google Books rellena Editorial + (a veces) Colección + portada si existe.
         </p>
       </form>
 
@@ -248,6 +259,10 @@
             <select id="filterColeccion">
               <option value="todas">Todas</option>
             </select>
+          </label>
+
+          <label>Vol
+            <input type="text" id="filterVol" placeholder="Ej: II, 3" />
           </label>
 
           <label>Categoría
@@ -385,6 +400,7 @@
     $("isbn").value="";
     $("editorial").value="";
     $("coleccion").value="";
+    $("vol").value="";
     $("categorias").value="";
     $("formato").value="Físico";
     $("notas").value="";
@@ -408,6 +424,7 @@
     $("isbn").value = b.isbn || "";
     $("editorial").value = b.editorial || "";
     $("coleccion").value = b.coleccion || "";
+    $("vol").value = b.vol || "";
     $("categorias").value = (b.categorias||[]).join(", ");
     $("formato").value = b.formato || "Físico";
     $("notas").value = b.notas || "";
@@ -496,6 +513,7 @@
     return {
       formato: $("filterFormato").value,
       coleccion: $("filterColeccion").value,
+      vol: $("filterVol").value.trim().toLowerCase(),
       categoria: $("filterCategoria").value,
       autor: $("filterAutor").value.trim().toLowerCase(),
       texto: $("filterTexto").value.trim().toLowerCase()
@@ -508,13 +526,14 @@
 
     if(f.formato!=="todos") res = res.filter(b=>b.formato===f.formato);
     if(f.coleccion!=="todas") res = res.filter(b=>(b.coleccion||"")===f.coleccion);
+    if(f.vol) res = res.filter(b=>(b.vol||"").toLowerCase().includes(f.vol));
     if(f.categoria!=="todas") res = res.filter(b=>(b.categorias||[]).includes(f.categoria));
     if(f.autor) res = res.filter(b=>(b.autor||"").toLowerCase().includes(f.autor));
     if(f.texto){
       res = res.filter(b=>{
         const s = [
           b.titulo||"", b.autor||"", b.isbn||"", b.editorial||"",
-          b.coleccion||"", (b.categorias||[]).join(" "),
+          b.coleccion||"", b.vol||"", (b.categorias||[]).join(" "),
           b.notas||"", b.comentarios||""
         ].join(" ").toLowerCase();
         return s.includes(f.texto);
@@ -532,7 +551,7 @@
     $("listCountLabel").textContent = `${items.length} libro${items.length!==1?"s":""}`;
 
     const f = filtros();
-    const hay = f.formato!=="todos" || f.coleccion!=="todas" || f.categoria!=="todas" || f.autor || f.texto;
+    const hay = f.formato!=="todos" || f.coleccion!=="todas" || f.vol || f.categoria!=="todas" || f.autor || f.texto;
     $("filterInfo").textContent = hay ? "Mostrando filtrados." : "";
 
     if(!items.length){
@@ -571,6 +590,7 @@
       if(b.anio) meta.appendChild(span("📅 "+b.anio));
       if(b.editorial) meta.appendChild(span("🏢 "+b.editorial));
       if(b.coleccion) meta.appendChild(span("📚 "+b.coleccion));
+      if(b.vol) meta.appendChild(span("📖 Vol. "+b.vol));
       if(b.isbn) meta.appendChild(span("🔢 ISBN "+b.isbn));
       main.appendChild(meta);
 
@@ -638,6 +658,7 @@
       isbn: $("isbn").value.trim(),
       editorial: $("editorial").value.trim(),
       coleccion: $("coleccion").value.trim(),
+      vol: $("vol").value.trim(),
       categorias: parseCategorias($("categorias").value.trim()),
       formato: $("formato").value,
       notas: $("notas").value.trim(),
@@ -645,6 +666,12 @@
       portada: $("portada").value.trim(),
       _ts: nowIso()
     };
+
+    // (Opcional recomendado) Evitar base64 en portada para no inflar datos
+    if(book.portada.startsWith("data:image/")){
+      alert("No se permiten imágenes base64 aquí. Sube la portada a /portadas o usa una URL pública.");
+      return;
+    }
 
     const idx = localLibros.findIndex(x=>x.id===id);
     if(idx>=0) localLibros[idx]=book;
@@ -689,19 +716,13 @@
         const publisher = info.publisher || "";
         const categories = info.categories || [];
         const desc = info.description || "";
-        const series =
-          (info.seriesInfo && info.seriesInfo.bookDisplayNumber)
-            ? (info.seriesInfo.series || "")
-            : (info.series || ""); // por compatibilidad (a veces no viene)
-        const guessedCollection =
-          Array.isArray(info.categories) && info.categories.length ? "" : "";
         const ids = info.industryIdentifiers || [];
         const foundIsbn = (ids.find(x=>x.type==="ISBN_13")||ids.find(x=>x.type==="ISBN_10")||{}).identifier || "";
         const imageLinks = info.imageLinks || {};
         let cover = imageLinks.thumbnail || imageLinks.smallThumbnail || "";
         if(cover.startsWith("http://")) cover = cover.replace("http://","https://");
 
-        // Intento de colección: si no viene, lo dejamos vacío.
+        // Colección: heurística (Google Books no siempre la trae)
         const collection = (info.collection || info.series || info.subtitle || "").trim();
 
         const box = document.createElement("div");
@@ -898,11 +919,11 @@
     const items = filtrar();
     if(!items.length){ alert("No hay resultados para exportar."); return; }
 
-    const headers = ["id","titulo","autor","anio","isbn","editorial","coleccion","formato","categorias","notas","comentarios","portada"];
+    const headers = ["id","titulo","autor","anio","isbn","editorial","coleccion","vol","formato","categorias","notas","comentarios","portada"];
     const esc = (v)=> `"${String(v??"").replace(/"/g,'""')}"`;
     const rows = items.map(b=>[
       esc(b.id), esc(b.titulo), esc(b.autor), esc(b.anio??""), esc(b.isbn), esc(b.editorial),
-      esc(b.coleccion||""), esc(b.formato), esc((b.categorias||[]).join("; ")),
+      esc(b.coleccion||""), esc(b.vol||""), esc(b.formato), esc((b.categorias||[]).join("; ")),
       esc(b.notas), esc(b.comentarios), esc(b.portada)
     ].join(";"));
 
@@ -952,6 +973,7 @@
           isbn: c[idx("isbn")] || "",
           editorial: c[idx("editorial")] || "",
           coleccion: c[idx("coleccion")] || "",
+          vol: c[idx("vol")] || "",
           formato: c[idx("formato")] || "Físico",
           categorias: parseCategorias(c[idx("categorias")] || ""),
           notas: c[idx("notas")] || "",
@@ -1000,6 +1022,7 @@
           isbn: x.isbn || "",
           editorial: x.editorial || "",
           coleccion: x.coleccion || "",
+          vol: x.vol || "",
           formato: x.formato || "Físico",
           categorias: Array.isArray(x.categorias) ? x.categorias : parseCategorias(x.categorias),
           notas: x.notas || "",
@@ -1045,6 +1068,7 @@
         isbn: x.isbn || "",
         editorial: x.editorial || "",
         coleccion: x.coleccion || "",
+        vol: x.vol || "",
         formato: x.formato || "Físico",
         categorias: Array.isArray(x.categorias) ? x.categorias : parseCategorias(x.categorias),
         notas: x.notas || "",
@@ -1097,6 +1121,7 @@
     $("filterFormato").addEventListener("change", render);
     $("filterColeccion").addEventListener("change", render);
     $("filterCategoria").addEventListener("change", render);
+    $("filterVol").addEventListener("input", ()=>{ clearTimeout(window.__t3); window.__t3=setTimeout(render,150); });
     $("filterAutor").addEventListener("input", ()=>{ clearTimeout(window.__t1); window.__t1=setTimeout(render,150); });
     $("filterTexto").addEventListener("input", ()=>{ clearTimeout(window.__t2); window.__t2=setTimeout(render,150); });
 
