@@ -216,10 +216,6 @@
           <button type="button" class="btn-secondary" id="btnImportarCSV">⬆ Importar CSV</button>
           <button type="button" class="btn-secondary" id="btnImportarJSON">⬆ Importar JSON</button>
         </div>
-
-        <p class="hint">
-          Google Books rellena Editorial + (a veces) Colección + portada si existe.
-        </p>
       </form>
 
       <hr style="margin:16px 0;border:none;border-top:1px solid var(--border)"/>
@@ -259,10 +255,6 @@
             <select id="filterColeccion">
               <option value="todas">Todas</option>
             </select>
-          </label>
-
-          <label>Vol
-            <input type="text" id="filterVol" placeholder="Ej: II, 3" />
           </label>
 
           <label>Categoría
@@ -513,7 +505,6 @@
     return {
       formato: $("filterFormato").value,
       coleccion: $("filterColeccion").value,
-      vol: $("filterVol").value.trim().toLowerCase(),
       categoria: $("filterCategoria").value,
       autor: $("filterAutor").value.trim().toLowerCase(),
       texto: $("filterTexto").value.trim().toLowerCase()
@@ -526,7 +517,6 @@
 
     if(f.formato!=="todos") res = res.filter(b=>b.formato===f.formato);
     if(f.coleccion!=="todas") res = res.filter(b=>(b.coleccion||"")===f.coleccion);
-    if(f.vol) res = res.filter(b=>(b.vol||"").toLowerCase().includes(f.vol));
     if(f.categoria!=="todas") res = res.filter(b=>(b.categorias||[]).includes(f.categoria));
     if(f.autor) res = res.filter(b=>(b.autor||"").toLowerCase().includes(f.autor));
     if(f.texto){
@@ -551,7 +541,7 @@
     $("listCountLabel").textContent = `${items.length} libro${items.length!==1?"s":""}`;
 
     const f = filtros();
-    const hay = f.formato!=="todos" || f.coleccion!=="todas" || f.vol || f.categoria!=="todas" || f.autor || f.texto;
+    const hay = f.formato!=="todos" || f.coleccion!=="todas" || f.categoria!=="todas" || f.autor || f.texto;
     $("filterInfo").textContent = hay ? "Mostrando filtrados." : "";
 
     if(!items.length){
@@ -667,7 +657,6 @@
       _ts: nowIso()
     };
 
-    // (Opcional recomendado) Evitar base64 en portada para no inflar datos
     if(book.portada.startsWith("data:image/")){
       alert("No se permiten imágenes base64 aquí. Sube la portada a /portadas o usa una URL pública.");
       return;
@@ -722,7 +711,6 @@
         let cover = imageLinks.thumbnail || imageLinks.smallThumbnail || "";
         if(cover.startsWith("http://")) cover = cover.replace("http://","https://");
 
-        // Colección: heurística (Google Books no siempre la trae)
         const collection = (info.collection || info.series || info.subtitle || "").trim();
 
         const box = document.createElement("div");
@@ -1121,7 +1109,6 @@
     $("filterFormato").addEventListener("change", render);
     $("filterColeccion").addEventListener("change", render);
     $("filterCategoria").addEventListener("change", render);
-    $("filterVol").addEventListener("input", ()=>{ clearTimeout(window.__t3); window.__t3=setTimeout(render,150); });
     $("filterAutor").addEventListener("input", ()=>{ clearTimeout(window.__t1); window.__t1=setTimeout(render,150); });
     $("filterTexto").addEventListener("input", ()=>{ clearTimeout(window.__t2); window.__t2=setTimeout(render,150); });
 
