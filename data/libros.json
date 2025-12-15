@@ -1,5 +1,72 @@
 [
   {
+    "id": "libro-1765777427590-bc83fb9e0c00d8",
+    "titulo": "EN BUSCA DEL TIEMPO PERDIDO, 1. POR EL CAMINO DE SWANN",
+    "autor": "Marcel Proust",
+    "anio": null,
+    "isbn": "978-84-206-5272-6",
+    "editorial": "ALIANZA EDITORIAL",
+    "coleccion": "POR EL CAMINO DE SWANN",
+    "vol": "1",
+    "categorias": [
+      "Novela"
+    ],
+    "formato": "Digital",
+    "notas": "Para muchos historiadores y críticos, «En busca del tiempo perdido» no sólo es una obra cumbre de las letras francesas del siglo xx, sino también una de las más grandes creaciones literarias de todas las épocas, en la que la trasposición en el relato de la vida de Marcel Proust (1871-1922), así como de personajes y ambientes sociales de su tiempo, dio forma a un nuevo y fecundo camino en el campo de la novela. «Por el camino de Swann» es el primer volumen de la serie que completan, por este orden, «A la sombra de las muchachas en flor», «El mundo de Guermantes», «Sodoma y Gomorra», «La prisionera», «La fugitiva» y «El tiempo recobrado».",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1765778042155-c060240fad617",
+    "titulo": "A la sombra de las muchachas en flor",
+    "autor": "Marcel Proust",
+    "anio": 2011,
+    "isbn": "9788420652733",
+    "editorial": "Alianza Editorial Sa",
+    "coleccion": "POR EL CAMINO DE SWANN",
+    "vol": "2",
+    "categorias": [
+      "Novela"
+    ],
+    "formato": "Digital",
+    "notas": "Para muchos historiadores y críticos, «En busca del tiempo perdido» no sólo es una obra cumbre de las letras francesas del siglo xx, sino también una de las más grandes creaciones literarias de todas las épocas, en la que la trasposición en el relato de la vida de Marcel Proust (1871-1922), así como de personajes y ambientes sociales de su tiempo, dio forma a un nuevo y fecundo camino en el campo de la novela. «A la sombra de las muchachas en flor» es el segundo volumen de la serie que inicia «Por el camino de Swann» y completan, por este orden, «El mundo de Guermantes», «Sodoma y Gomorra», «La prisionera», «La fugitiva» y «El tiempo recobrado».",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=8JKwpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1765776444575-803e322b7471d8",
+    "titulo": "Los sueños de los que está hecha la materia",
+    "autor": "Stephan Hawking",
+    "anio": 2024,
+    "isbn": "9788491996293",
+    "editorial": "Crítica",
+    "coleccion": "Drakontos",
+    "vol": "2",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "Aunque muchos lo ignoren, una parte sustancial de los pilares que sustentan la civilización actual se nutre de la física cuántica, junto a la relatividad una de las dos grandes revoluciones científicas que cambiaron nuestra comprensión del mundo durante la primera mitad del siglo XX.Es el cuántico un mundo regido por leyes que parecen violar las leyes del sentido común, como expresó con una ironía…",
+    "comentarios": "Dirigida e introducida por el difunto Stephen Hawking, el científico más célebre del pasado reciente, Los sueños de los que está hecha la materia reúne las obras esenciales de la física cuántica; textos que provocaron un cambio de paradigma que revolucionó la física para siempre, cambiando nuestra comprensión del universo a un nivel totalmente nuevo. Reunidos en esta antología están los trabajos de la élite cuántica, entre otros: Max Planck, Niels Bohr, Werner Heisenberg, Max Born, Erwin Schrödinger, Paul Dirac, J. Robert Oppenheimer y Richard Feynman.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-suenos-de-los-que-esta-hecha-la-materia.jpg"
+  },
+  {
+    "id": "libro-1765775939945-a053ddab55815",
+    "titulo": "A Hombros de Gigantes",
+    "autor": "Stephen Hawking",
+    "anio": 2003,
+    "isbn": "9788484324355",
+    "editorial": "Grupo Planeta (GBS)",
+    "coleccion": "Las Grandes Obras de la Física y la Astronomía",
+    "categorias": [
+      "Biografia"
+    ],
+    "formato": "Digital",
+    "notas": "Este libro que el lector tiene en sus manos es una pieza única por su contenido y por quien lo ha compilado. En efecto, el gran científico Stephen Hawking ha reunido en él, por primera vez en la historia de la edición, las cinco obras que a su juicio representan el canon de la cultura universal en el campo de la Física y la Astronomía y ha escrito una introducción a cada una, explicando lo que han…",
+    "comentarios": "Esto libro es Epub Libre,   ePub r1.0, por lo que tiene 300 paginas de 1000 en formato fisico",
+    "portada": "https://books.google.com/books/content?id=Yg2bwQ0DrJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
     "id": "libro-1765771752091-6e946f8a057208",
     "titulo": "¿Por qué es científica la ciencia? La ciencia a la luz de la filosofía Descubrir la ciencia",
     "autor": "González Ruíz, Agustín",
@@ -474,6 +541,7 @@
     "isbn": "",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Biología",
@@ -493,6 +561,7 @@
     "isbn": "9788491873365",
     "editorial": "RBA",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "IA"
@@ -510,6 +579,7 @@
     "isbn": "9788416338825",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Tecnología",
@@ -528,6 +598,7 @@
     "isbn": "9788416338849",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Tecnología",
@@ -546,6 +617,7 @@
     "isbn": "9789569961441",
     "editorial": "Planeta",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Fisica",
@@ -564,6 +636,7 @@
     "isbn": "",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Arte"
@@ -581,6 +654,7 @@
     "isbn": "9788417119065",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Tecnología",
@@ -600,6 +674,7 @@
     "isbn": "9789701506363",
     "editorial": "Alfaomega",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Tecnología",
@@ -618,6 +693,7 @@
     "isbn": "9789566042792",
     "editorial": "DEBATE",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Ciencia"
@@ -635,6 +711,7 @@
     "isbn": "9780486806990",
     "editorial": "Courier Dover Publications",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Matemáticas"
@@ -652,6 +729,7 @@
     "isbn": "9788492493449",
     "editorial": "Nivola",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Matemáticas"
@@ -669,6 +747,7 @@
     "isbn": "9789561413146",
     "editorial": "Ediciones UC",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Matemáticas"
@@ -686,6 +765,7 @@
     "isbn": "9789561903777",
     "editorial": "MAC",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Arte"
@@ -703,6 +783,7 @@
     "isbn": "102723395731",
     "editorial": "La revue francaise",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Arte"
@@ -720,6 +801,7 @@
     "isbn": "9783836560474",
     "editorial": "Taschen",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Arquitectura"
@@ -737,6 +819,7 @@
     "isbn": "9788429191509",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Ingeniería"
@@ -754,6 +837,7 @@
     "isbn": "9788496566767",
     "editorial": "Nivola",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Biografia"
@@ -771,6 +855,7 @@
     "isbn": "",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Filosofía",
@@ -789,6 +874,7 @@
     "isbn": "9788489624610",
     "editorial": "Kailas Editorial",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Ficción",
@@ -807,6 +893,7 @@
     "isbn": "9783836541046",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Fotografia",
@@ -825,6 +912,7 @@
     "isbn": "",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Historia",
@@ -843,6 +931,7 @@
     "isbn": "9788466623438",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Literatura",
@@ -861,6 +950,7 @@
     "isbn": "9788466629058",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Biografia",
@@ -879,6 +969,7 @@
     "isbn": "9788425339844",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Cine",
@@ -897,6 +988,7 @@
     "isbn": "9789683626516",
     "editorial": "ePub r1.4",
     "coleccion": "",
+    "vol": "",
     "formato": "Digital",
     "categorias": [
       "Cine",
@@ -915,6 +1007,7 @@
     "isbn": "9789580448655",
     "editorial": "Norma",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Matemáticas"
@@ -932,6 +1025,7 @@
     "isbn": "9788483062784",
     "editorial": "Debate",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Cryptography"
@@ -949,6 +1043,7 @@
     "isbn": "9782880462161",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Commercial artists"
@@ -966,6 +1061,7 @@
     "isbn": "978-956-14-0564-6",
     "editorial": "Ediciones ARQ",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Arquitectura"
@@ -983,6 +1079,7 @@
     "isbn": "9789707182615",
     "editorial": "Taschen",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Pop art"
@@ -1000,6 +1097,7 @@
     "isbn": "9786079773205",
     "editorial": "Grano de Sal",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Estadistica"
@@ -1017,6 +1115,7 @@
     "isbn": "9788416277223",
     "editorial": "Dextra",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [],
     "notas": "Ingeniería y ciencia de los materiales metálicos de Blázquez es una obra sólida y formativa que aborda los fundamentos estructurales, mecánicos y fisicoquímicos que determinan el comportamiento de los metales en aplicaciones ingenieriles. Con un enfoque equilibrado entre teoría y práctica, el autor explica la estructura cristalina, los defectos, los mecanismos de endurecimiento, los tratamientos térmicos y la relación microestructura-propiedades, conectando estos conceptos con el diseño y selección de materiales en la industria. El libro se distingue por su claridad pedagógica, sus diagramas bien construidos y su capacidad para integrar ciencia de materiales con criterios de ingeniería, convirtiéndolo en un texto esencial para estudiantes y profesionales que buscan comprender cómo y por qué los metales responden de la manera en que lo hacen en condiciones reales de servicio.",
@@ -1032,6 +1131,7 @@
     "isbn": "9788416277384",
     "editorial": "Dextra",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [],
     "notas": "Simulación de procesos y aplicaciones de Manuel-Alonso Castro Gil es una obra fundamental para comprender cómo la simulación computacional se convierte en una herramienta estratégica para el análisis, diseño y mejora de sistemas productivos y de servicios. El autor expone de manera clara los fundamentos teóricos de la modelación, los distintos enfoques de simulación —discreta, continua y basada en eventos— y su relación con la toma de decisiones operacionales, incorporando numerosos ejemplos prácticos que muestran cómo identificar cuellos de botella, evaluar alternativas de operación y optimizar el desempeño de procesos reales. Su enfoque aplicado, combinado con un equilibrio entre teoría y práctica, lo convierte en un texto especialmente valioso para ingenieros, estudiantes y profesionales que buscan comprender y utilizar la simulación como soporte para la mejora continua y la gestión eficiente de sistemas complejos.",
@@ -1047,6 +1147,7 @@
     "isbn": "9788433964229",
     "editorial": "Anagrama",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Cosmology"
@@ -1064,6 +1165,7 @@
     "isbn": "9783659042386",
     "editorial": "Ewe Editorial Acad MIA Espa Ola",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [],
     "notas": "El Analisis Espectral Singular (AES) es una tecnica no parametrica de reciente desarrollo para analizar series de tiempo. En esencia, el AES es un analisis de componentes principales en el dominio del tiempo de una serie de tiempo. El objetivo principal de esta tecnica es extraer informacion de la dinamica de una serie de tiempo mediante su descomposicion en una suma de componentes interpretables;…",
@@ -1079,6 +1181,7 @@
     "isbn": "9788499482439",
     "editorial": "ecu",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Education"
@@ -1096,6 +1199,7 @@
     "isbn": "9788498921113",
     "editorial": "Planeta",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Education"
@@ -1113,6 +1217,7 @@
     "isbn": "9789493331105",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "IA"
@@ -1130,6 +1235,7 @@
     "isbn": "9788426723710",
     "editorial": "",
     "coleccion": "",
+    "vol": "",
     "formato": "Físico",
     "categorias": [
       "Education",
