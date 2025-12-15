@@ -1,18 +1,18 @@
 [
   {
-    "id": "libro-1765777427590-bc83fb9e0c00d8",
-    "titulo": "EN BUSCA DEL TIEMPO PERDIDO, 1. POR EL CAMINO DE SWANN",
+    "id": "libro-1765778587145-c4aaa47f76c8e",
+    "titulo": "La parte de Guermantes",
     "autor": "Marcel Proust",
     "anio": null,
-    "isbn": "978-84-206-5272-6",
-    "editorial": "ALIANZA EDITORIAL",
-    "coleccion": "POR EL CAMINO DE SWANN",
-    "vol": "1",
+    "isbn": "",
+    "editorial": "Alianza Editorial Sa",
+    "coleccion": "En busca del tiempo perdido",
+    "vol": "3",
     "categorias": [
       "Novela"
     ],
     "formato": "Digital",
-    "notas": "Para muchos historiadores y críticos, «En busca del tiempo perdido» no sólo es una obra cumbre de las letras francesas del siglo xx, sino también una de las más grandes creaciones literarias de todas las épocas, en la que la trasposición en el relato de la vida de Marcel Proust (1871-1922), así como de personajes y ambientes sociales de su tiempo, dio forma a un nuevo y fecundo camino en el campo de la novela. «Por el camino de Swann» es el primer volumen de la serie que completan, por este orden, «A la sombra de las muchachas en flor», «El mundo de Guermantes», «Sodoma y Gomorra», «La prisionera», «La fugitiva» y «El tiempo recobrado».",
+    "notas": "Tercer volumen de los siete que componen la monumental obra, presenciamos el ingreso del joven Marcel...En busca del tiempo perdido es una de las más geniales creaciones literarias del siglo XX. Verdadera suma novelesca de la sociedad francesa anterior a la Primera Guerra Mundial, el propósito en que se inspira es preservar del olvido las experiencias del pasado, aniquiladas por el tiempo pero conservadas en la memoria inconsciente del narrador. Proust, en efecto, vive obsesionado por la huida irreparable del tiempo, por su implacable efecto destructor sobre las personas y las cosas. En La parte de Guermantes , tercer volumen de los siete que componen la monumental obra, presenciamos el ingreso del joven Marcel en el soñado mundo de la aristocracia. A la elegancia de los salones servirá de contrapunto fúnebre la sombra de la muerte. «Me has dicho a menudo que la extensión de las frases de Proust te extenúa. Pero espera a que regrese y te leeré esas interminables frases en voz alta: ¡cómo, inmediatamente, todo se organiza!, ¡cómo los diferentes planos se colocan!, ¡cómo se profundiza en el paisaje del pensamiento!» ANDRÉ GUIDE en su Carta a Angèle",
     "comentarios": "",
     "portada": ""
   },
@@ -23,7 +23,7 @@
     "anio": 2011,
     "isbn": "9788420652733",
     "editorial": "Alianza Editorial Sa",
-    "coleccion": "POR EL CAMINO DE SWANN",
+    "coleccion": "En busca del tiempo perdido",
     "vol": "2",
     "categorias": [
       "Novela"
@@ -32,6 +32,23 @@
     "notas": "Para muchos historiadores y críticos, «En busca del tiempo perdido» no sólo es una obra cumbre de las letras francesas del siglo xx, sino también una de las más grandes creaciones literarias de todas las épocas, en la que la trasposición en el relato de la vida de Marcel Proust (1871-1922), así como de personajes y ambientes sociales de su tiempo, dio forma a un nuevo y fecundo camino en el campo de la novela. «A la sombra de las muchachas en flor» es el segundo volumen de la serie que inicia «Por el camino de Swann» y completan, por este orden, «El mundo de Guermantes», «Sodoma y Gomorra», «La prisionera», «La fugitiva» y «El tiempo recobrado».",
     "comentarios": "",
     "portada": "https://books.google.com/books/content?id=8JKwpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1765777427590-bc83fb9e0c00d8",
+    "titulo": "Por el camino de Swann",
+    "autor": "Marcel Proust",
+    "anio": null,
+    "isbn": "978-84-206-5272-6",
+    "editorial": "Alianza Editorial Sa",
+    "coleccion": "En busca del tiempo perdido",
+    "vol": "1",
+    "categorias": [
+      "Novela"
+    ],
+    "formato": "Digital",
+    "notas": "Para muchos historiadores y críticos, «En busca del tiempo perdido» no sólo es una obra cumbre de las letras francesas del siglo xx, sino también una de las más grandes creaciones literarias de todas las épocas, en la que la trasposición en el relato de la vida de Marcel Proust (1871-1922), así como de personajes y ambientes sociales de su tiempo, dio forma a un nuevo y fecundo camino en el campo de la novela. «Por el camino de Swann» es el primer volumen de la serie que completan, por este orden, «A la sombra de las muchachas en flor», «El mundo de Guermantes», «Sodoma y Gomorra», «La prisionera», «La fugitiva» y «El tiempo recobrado».",
+    "comentarios": "",
+    "portada": ""
   },
   {
     "id": "libro-1765776444575-803e322b7471d8",
