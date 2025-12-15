@@ -1,5 +1,54 @@
 [
   {
+    "id": "libro-1765771752091-6e946f8a057208",
+    "titulo": "¿Por qué es científica la ciencia? La ciencia a la luz de la filosofía Descubrir la ciencia",
+    "autor": "González Ruíz, Agustín",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "categorias": [
+      "Ciencia",
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "En ¿Por qué es científica la ciencia?: La ciencia a la luz de la filosofía, Agustín González propone una reflexión rigurosa y accesible sobre los fundamentos epistemológicos que distinguen a la ciencia como forma privilegiada de conocimiento. A partir del diálogo con la filosofía de la ciencia, el autor analiza conceptos clave como método, explicación, verdad, objetividad y racionalidad, mostrando que el carácter científico no se reduce a la mera acumulación de datos, sino que implica marcos teóricos, criterios de validación y una actitud crítica permanente. El libro logra tender puentes entre la práctica científica y la reflexión filosófica, invitando al lector a comprender la ciencia como una actividad humana racional, histórica y perfectible. Su enfoque claro y argumentativo lo convierte en una obra valiosa tanto para estudiantes como para docentes e investigadores interesados en profundizar en el sentido y los límites del conocimiento científico.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-es-cientifica-la-ciencia-la-ciencia-a-la-luz-de-la-filosofia-descubrir-la-ciencia.jpg"
+  },
+  {
+    "id": "libro-1765771129602-48d068dca1f58",
+    "titulo": "Hacia las estrellas. Pasado, presente y futuro de la exploración del espacio",
+    "autor": "Cenadelli, Carlo Davide",
+    "anio": null,
+    "isbn": "9788040520336",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "categorias": [
+      "Astronomía"
+    ],
+    "formato": "Físico",
+    "notas": "Pasado, presente y futuro de la exploración del espacio. Desde hace algunas décadas, el hombre se ha asomado a la escena del espacio con viajes orbitales, ha llegado a la luna y ha enviado sondas a explorar los planetas del Sistema Solar. A su vez, ha investigado la naturaleza de las estrellas y ha descubierto que existen muchísimos sistemas planetarios en torno a ellas. La exploración del espacio acaba de empezar. ¿Qué nos reservará el futuro? ¿Mandaremos dotaciones humanas a Marte? ¿Conseguiremos llegar a alguna estrella vecina, superando abismos de espacio que apenas podemos imaginar? ¿Y quizás en un futuro muy lejano colonizaremos los planetas de otras estrellas? En este volumen, tras haber recorrido las exploraciones espaciales del pasado, intentaremos proyectarnos hacia el futuro y responder a estas preguntas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hacia-las-estrellas-pasado-presente-y-futuro-de-la-exploracion-del-espacio.jpg"
+  },
+  {
+    "id": "libro-1765770924434-e1bac52df66228",
+    "titulo": "La nada o el vacío cuántico",
+    "autor": "Latorre, José Ignacio",
+    "anio": 2016,
+    "isbn": "9788791539444",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "¿Cómo es posible que Algo surja de la nada? ¿Qué es la Nada? ¿Cómo la podemos imaginar? ¿Podemos recurrir a la ciencia para obtener alguna certeza, algo a lo que agarrarnos firmemente? De forma muy humilde y sin alcanzar respuestas del todo satisfactorias, la ciencia ha intentado comprender la Nada. Hay un paso intermedio entre nuestro mundo y la Nada: el vacío. Aunque parezca imposible hablar de la Nada, tiene perfecto sentido científico comprender qué propiedades tiene el vacío, aunque el camino para conseguirlo es tortuoso. Muchos han sido los prejuicios a demoler antes de comprender la estructura de un espacio-tiempo carente de partículas pero dotado de geometría y de sorprendentes propiedades cuánticas. Este volumen ofrece al lector un relajado paseo por la Nada. Tras una introducción donde se tratan las referencias a la Nada en las artes y el pensamiento, se aborda la relación de la Nada con la ingeniería con la estructura relativista del espacio-tiempo, y con los vacíos cuántico y cuántico gravitatorio.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nada-o-el-vacio-cuantico.jpg"
+  },
+  {
     "id": "libro-1765770646224-87702f77e37b3",
     "titulo": "Genes, ambiente y cultura. ¿Educados o programados?",
     "autor": "Maccarone, Mattia",
