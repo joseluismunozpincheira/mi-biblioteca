@@ -1,1115 +1,140 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <title>Mi Biblioteca (GitHub)</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <style>
-    :root{
-      --bg:#f5f5f5; --card:#fff; --border:#e0e0e0;
-      --text:#222; --muted:#777; --accent:#222; --soft:#eee;
-      --r-lg:16px; --r-sm:10px; --shadow:0 8px 20px rgba(0,0,0,.04);
-    }
-    *{box-sizing:border-box}
-    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,sans-serif;background:var(--bg);color:var(--text)}
-    .app{max-width:1200px;margin:0 auto;padding:24px 16px 40px}
-    header{display:flex;flex-wrap:wrap;gap:12px;align-items:baseline;justify-content:space-between;margin-bottom:18px}
-    header h1{margin:0;font-size:28px;font-weight:650;letter-spacing:.02em}
-    header p{margin:0;font-size:13px;color:var(--muted)}
-    .layout{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1.5fr);gap:20px}
-    @media(max-width:900px){.layout{grid-template-columns:1fr}}
-    .card{background:var(--card);border:1px solid var(--border);border-radius:var(--r-lg);box-shadow:var(--shadow);padding:18px 20px 20px}
-    .card-title{display:flex;gap:8px;align-items:center;justify-content:space-between;margin:0 0 12px;font-weight:650}
-    .subtitle{font-size:12px;font-weight:450;color:var(--muted)}
-    form{display:flex;flex-direction:column;gap:10px}
-    label{font-size:13px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
-    input[type="text"],input[type="number"],select,textarea{
-      border-radius:var(--r-sm);border:1px solid var(--border);
-      padding:8px 10px;font-size:14px;font-family:inherit;background:#fafafa;
-    }
-    input:focus,select:focus,textarea:focus{outline:none;border-color:var(--accent);background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.06)}
-    textarea{resize:vertical;min-height:40px;max-height:140px}
-    .inline{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-    .inline-3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
-    @media(max-width:600px){.inline,.inline-3{grid-template-columns:1fr}}
-    .button-row{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
-    button{
-      border-radius:999px;border:1px solid transparent;padding:7px 14px;
-      font-size:13px;font-weight:600;cursor:pointer;background:var(--accent);color:#fff;
-      transition:transform .08s ease, box-shadow .08s ease, background .2s ease;
-    }
-    button:hover{transform:translateY(-1px);box-shadow:0 4px 12px rgba(0,0,0,.12)}
-    button.btn-secondary{background:#fff;color:var(--text);border-color:var(--border);box-shadow:none}
-    button.btn-secondary:hover{background:var(--soft);box-shadow:none}
-    button.btn-danger{background:#fff;color:#b00020;border-color:#f3c7ce}
-    button.btn-danger:hover{background:#ffe8ec}
-    button:disabled{opacity:.4;cursor:default;transform:none;box-shadow:none}
-    .hint{font-size:11px;color:var(--muted);margin-top:2px;line-height:1.35}
-    .cover-row{display:flex;gap:8px;align-items:flex-start}
-    #portadaPreview{width:44px;height:64px;border-radius:6px;border:1px solid var(--border);background:#f0f0f0;object-fit:cover;display:none;flex-shrink:0}
-    .cover-fields{flex:1;display:flex;flex-direction:column;gap:6px}
-    .cover-tools{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
-    .cover-tools select{flex:1;min-width:170px}
-    .cover-tools button{font-size:11px;padding:6px 12px}
-    .stats-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:6px}
-    @media(max-width:900px){.stats-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
-    .pill{border-radius:999px;background:var(--soft);padding:8px 10px;font-size:11px;display:flex;flex-direction:column;gap:2px}
-    .pill .lab{color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
-    .pill .val{font-size:14px;font-weight:750;color:var(--text)}
-    .filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;margin-bottom:10px}
-    .filters-left,.filters-right{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-    .filters select,.filters input[type="text"]{font-size:12px;padding:6px 8px;border-radius:999px;background:#fafafa}
-    .filters label{font-size:11px;flex-direction:row;gap:6px;align-items:center}
-    .book-list{display:flex;flex-direction:column;gap:10px;max-height:520px;overflow:auto;padding-right:4px}
-    .book-card{border-radius:var(--r-sm);border:1px solid var(--border);padding:10px;background:#fff;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:8px;align-items:center}
-    .book-cover{width:44px;height:64px;border-radius:6px;border:1px solid var(--border);object-fit:cover;background:#f0f0f0}
-    .book-main{min-width:0}
-    .book-title{font-size:14px;font-weight:750;margin-bottom:4px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-    .book-meta{font-size:11px;color:var(--muted);display:flex;flex-wrap:wrap;gap:8px;margin-bottom:4px}
-    .tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:2px}
-    .tag{font-size:10px;padding:3px 7px;border-radius:999px;border:1px solid var(--border);background:#fafafa}
-    .actions{display:flex;flex-direction:column;gap:6px;align-items:flex-end}
-    .actions button{font-size:11px;padding:4px 10px}
-    .empty{font-size:12px;color:var(--muted);text-align:center;padding:20px 0 10px}
-    .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;margin-bottom:14px}
-    .bar .left,.bar .right{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-    code{background:#f3f3f3;border:1px solid #e6e6e6;border-radius:6px;padding:1px 6px;font-size:12px}
-  </style>
+<meta charset="UTF-8">
+<title>Mi Biblioteca</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.filtros {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 8px;
+    font-size: 14px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+    font-size: 14px;
+}
+
+th {
+    background: #222;
+    color: white;
+}
+
+tr:hover {
+    background: #f1f1f1;
+}
+
+.portada {
+    width: 60px;
+}
+</style>
 </head>
+
 <body>
-<div class="app">
-  <header>
-    <div>
-      <h1>Mi Biblioteca</h1>
-      <p>Lee <code>/data/libros.json</code> del repo. Para publicar cambios: exporta y reemplaza el JSON en GitHub.</p>
-    </div>
-    <p id="headerSummary"></p>
-  </header>
 
-  <div class="bar card" style="padding:12px 14px">
-    <div class="left">
-      <strong style="font-size:13px">Estado:</strong>
-      <span class="subtitle" id="cloudStatus">Cargando datos del repo…</span>
-      <span class="subtitle" id="localStatus"></span>
-    </div>
-    <div class="right">
-      <button class="btn-secondary" type="button" id="btnExportRepoJson">⬆ Exportar libros.json (para subir a GitHub)</button>
-      <button class="btn-secondary" type="button" id="btnBorrarLocal">🧹 Borrar cambios locales</button>
-    </div>
-    <div class="hint" style="margin-top:6px">
-      <b>Publicar para todos tus dispositivos:</b> exporta <code>libros.json</code> y súbelo reemplazando <code>/data/libros.json</code>.
-    </div>
-  </div>
+<h1>📚 Mi Biblioteca</h1>
 
-  <div class="layout">
-    <!-- FORM -->
-    <section class="card">
-      <div class="card-title">
-        <span>Nuevo libro / Editar</span>
-        <span class="subtitle" id="formModeLabel">Modo: alta</span>
-      </div>
-
-      <form id="bookForm">
-        <input type="hidden" id="bookId" />
-        <input type="hidden" id="portada" />
-
-        <label>
-          Título
-          <input type="text" id="titulo" required placeholder="Ej: Differential Geometry of Curves & Surfaces" />
-        </label>
-
-        <div class="inline">
-          <label>
-            Autor(es)
-            <input type="text" id="autor" placeholder="Apellido, Nombre" />
-          </label>
-          <label>
-            Año
-            <input type="number" id="anio" min="0" max="2100" placeholder="Ej: 2008" />
-          </label>
-        </div>
-
-        <div class="inline-3">
-          <label>
-            ISBN
-            <input type="text" id="isbn" placeholder="ISBN-10 o ISBN-13" />
-          </label>
-          <label>
-            Editorial
-            <input type="text" id="editorial" placeholder="Ej: Springer, Dover..." />
-          </label>
-          <label>
-            Colección
-            <input type="text" id="coleccion" placeholder="Ej: Clásicos, Dover, Nivola..." />
-          </label>
-        </div>
-
-        <label>
-          Categorías
-          <input type="text" id="categorias" placeholder="Ej: Matemáticas, Novela" />
-          <span class="hint">Separar con comas.</span>
-        </label>
-
-        <label>
-          Portada (URL o galería del repo)
-          <div class="cover-row">
-            <img id="portadaPreview" alt="Portada" />
-            <div class="cover-fields">
-              <input type="text" id="portadaUrl" placeholder="https://.../portada.jpg (URL pública)" />
-              <div class="cover-tools">
-                <select id="portadaGaleria">
-                  <option value="">Cargando galería...</option>
-                </select>
-                <button type="button" class="btn-secondary" id="btnPrepararPortada">📤 Preparar imagen (descargar) para subir</button>
-                <input type="file" id="portadaLocalArchivo" accept="image/*" style="display:none" />
-              </div>
-            </div>
-          </div>
-          <div class="hint" id="portadaHelper"></div>
-          <div class="hint">
-            Recomendado: sube portadas a <code>/portadas</code> y selecciónalas desde la galería (evita Drive/CORS).
-          </div>
-        </label>
-
-        <div class="inline-3">
-          <label>
-            Formato
-            <select id="formato">
-              <option value="Físico">Físico</option>
-              <option value="Digital">Digital</option>
-            </select>
-            <textarea id="comentarios" placeholder="Comentarios personales..."></textarea>
-            <span class="hint">Tus notas (no vienen de la web).</span>
-          </label>
-
-          <label>
-            Notas
-            <textarea id="notas" placeholder="Ubicación, reseña, etc."></textarea>
-          </label>
-
-          <label>
-            (Opcional)
-            <textarea id="notas2" placeholder="Otro campo libre (si no lo necesitas, ignóralo)."></textarea>
-            <span class="hint">Este campo no se guarda (solo visual). Puedes borrarlo si quieres.</span>
-          </label>
-        </div>
-
-        <div class="button-row">
-          <button type="submit" id="btnGuardar">💾 Guardar libro</button>
-          <button type="button" class="btn-secondary" id="btnLimpiar">⟳ Limpiar</button>
-          <button type="button" class="btn-secondary" id="btnBuscarWeb">🔍 Buscar en Google Books</button>
-        </div>
-
-        <div class="button-row">
-          <button type="button" class="btn-secondary" id="btnExportarCSV">⬇ Exportar CSV</button>
-          <button type="button" class="btn-secondary" id="btnImportarCSV">⬆ Importar CSV</button>
-          <button type="button" class="btn-secondary" id="btnImportarJSON">⬆ Importar JSON</button>
-        </div>
-
-        <p class="hint">
-          Google Books rellena Editorial + Colección (si viene como “series”/“collection”) + portada si existe.
-        </p>
-      </form>
-
-      <hr style="margin:16px 0;border:none;border-top:1px solid var(--border)"/>
-
-      <div>
-        <div class="card-title">
-          <span>Estadísticas</span>
-          <span class="subtitle">Total (repo + local)</span>
-        </div>
-        <div class="stats-grid">
-          <div class="pill"><span class="lab">Total</span><span class="val" id="statTotal">0</span></div>
-          <div class="pill"><span class="lab">Físicos</span><span class="val" id="statFisicos">0</span></div>
-          <div class="pill"><span class="lab">Digitales</span><span class="val" id="statDigitales">0</span></div>
-        </div>
-        <p class="hint" id="statCategoriasHint" style="margin-top:8px">Aún no hay categorías registradas.</p>
-      </div>
-    </section>
-
-    <!-- LIST -->
-    <section class="card">
-      <div class="card-title">
-        <span>Mis libros</span>
-        <span class="subtitle" id="listCountLabel">0 libros</span>
-      </div>
-
-      <div class="filters">
-        <div class="filters-left">
-          <label>Formato
-            <select id="filterFormato">
-              <option value="todos">Todos</option>
-              <option value="Físico">Físico</option>
-              <option value="Digital">Digital</option>
-            </select>
-          </label>
-
-          <label>Colección
-            <select id="filterColeccion">
-              <option value="todas">Todas</option>
-            </select>
-          </label>
-
-          <label>Categoría
-            <select id="filterCategoria">
-              <option value="todas">Todas</option>
-            </select>
-          </label>
-
-          <label>Autor (apellido)
-            <input type="text" id="filterAutor" placeholder="Ej: Smith" />
-          </label>
-        </div>
-
-        <div class="filters-right">
-          <label>Buscar
-            <input type="text" id="filterTexto" placeholder="Título, autor, ISBN..." />
-          </label>
-          <small id="filterInfo"></small>
-        </div>
-      </div>
-
-      <div class="book-list" id="bookList">
-        <div class="empty">Cargando…</div>
-      </div>
-    </section>
-  </div>
+<div class="filtros">
+    <input type="text" id="fTitulo" placeholder="Filtrar por título">
+    <input type="text" id="fAutor" placeholder="Filtrar por autor">
+    <input type="text" id="fCategoria" placeholder="Filtrar por categoría">
+    <input type="text" id="fColeccion" placeholder="Filtrar por colección">
+    <input type="text" id="fVol" placeholder="Filtrar por Vol">
 </div>
 
-<!-- hidden importers -->
-<input type="file" id="importCsvFile" accept=".csv,text/csv" style="display:none" />
-<input type="file" id="importJsonFile" accept=".json,application/json" style="display:none" />
-
-<!-- modal -->
-<div class="modal-backdrop" id="modalBackdrop" style="position:fixed;inset:0;background:rgba(0,0,0,.25);display:none;align-items:center;justify-content:center;z-index:1000">
-  <div class="modal" style="background:#fff;border-radius:16px;max-width:640px;width:calc(100% - 32px);max-height:80vh;padding:18px;box-shadow:0 16px 40px rgba(0,0,0,.22);display:flex;flex-direction:column;gap:8px">
-    <div style="display:flex;align-items:center;justify-content:space-between;gap:8px">
-      <h2 style="font-size:15px;margin:0">Resultados de Google Books</h2>
-      <button class="btn-secondary" type="button" id="btnCerrarModal" style="font-size:11px;padding:4px 10px">Cerrar</button>
-    </div>
-    <div id="modalResults" style="overflow:auto;max-height:55vh;padding-right:4px">
-      <p class="hint">Buscando…</p>
-    </div>
-    <div class="hint">Si ningún resultado coincide, completa manualmente.</div>
-  </div>
-</div>
+<table>
+    <thead>
+        <tr>
+            <th>Portada</th>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Categoría</th>
+            <th>Colección</th>
+            <th>Vol</th>
+        </tr>
+    </thead>
+    <tbody id="tablaLibros"></tbody>
+</table>
 
 <script>
-  // ========= CONFIG (AJUSTA SI CAMBIAS REPO) =========
-  const DATA_PATH    = "data/libros.json";
-  const PORTADAS_DIR = "portadas";
-  // ==================================================
-
-  const $ = (id) => document.getElementById(id);
-
-  const LS_KEY_LOCAL_CHANGES = "miBiblioteca_localBooks";
-  let libros = [];
-  let repoLibros = [];
-  let localLibros = [];
-  let galeriaPortadas = [];
-
-  const nowIso = () => new Date().toISOString();
-
-  function slugify(str){
-    return String(str||"").toLowerCase()
-      .normalize("NFD").replace(/[\u0300-\u036f]/g,"")
-      .replace(/[^a-z0-9]+/g,"-")
-      .replace(/^-+|-+$/g,"");
-  }
-  function parseCategorias(v){
-    if(!v) return [];
-    return String(v).split(/;|,/).map(x=>x.trim()).filter(Boolean);
-  }
-  function safeInt(v){
-    const n = parseInt(v,10);
-    return isNaN(n) ? null : n;
-  }
-  function setCloudStatus(t){ $("cloudStatus").textContent = t || ""; }
-  function setLocalStatus(t){ $("localStatus").textContent = t || ""; }
-
-  function loadLocalBooks(){
-    try{
-      const raw = localStorage.getItem(LS_KEY_LOCAL_CHANGES);
-      if(!raw) return [];
-      const data = JSON.parse(raw);
-      return Array.isArray(data) ? data : [];
-    }catch(e){
-      console.error(e);
-      return [];
-    }
-  }
-  function saveLocalBooks(){
-    try{
-      localStorage.setItem(LS_KEY_LOCAL_CHANGES, JSON.stringify(localLibros));
-    }catch(e){
-      console.error(e);
-      alert("No se pudo guardar en localStorage (espacio/config).");
-    }
-  }
-
-  function mergeRepoAndLocal(){
-    const map = new Map();
-    repoLibros.forEach(b => map.set(b.id, b));
-    localLibros.forEach(b => map.set(b.id, b));
-    libros = Array.from(map.values()).sort((a,b)=>{
-      const ta = (a._ts||a.fechaRegistro||"");
-      const tb = (b._ts||b.fechaRegistro||"");
-      return tb.localeCompare(ta);
-    });
-  }
-
-  function rebuildAndRender(){
-    mergeRepoAndLocal();
-    libros = libros.filter(b => !b._deleted);
-    render();
-    setLocalStatus(localLibros.length ? `Cambios locales: ${localLibros.length}` : "Sin cambios locales");
-  }
-
-  function actualizarPreviewPortada(){
-    const src = $("portada").value.trim();
-    const img = $("portadaPreview");
-    if(src){
-      img.src = src;
-      img.style.display = "block";
-    }else{
-      img.src = "";
-      img.style.display = "none";
-    }
-  }
-
-  function limpiarFormulario(){
-    $("bookId").value="";
-    $("titulo").value="";
-    $("autor").value="";
-    $("anio").value="";
-    $("isbn").value="";
-    $("editorial").value="";
-    $("coleccion").value="";
-    $("categorias").value="";
-    $("formato").value="Físico";
-    $("notas").value="";
-    $("comentarios").value="";
-    $("portada").value="";
-    $("portadaUrl").value="";
-    $("portadaGaleria").value="";
-    $("portadaHelper").textContent="";
-    $("formModeLabel").textContent="Modo: alta";
-    $("btnGuardar").textContent="💾 Guardar libro";
-    actualizarPreviewPortada();
-  }
-
-  function editarLibro(id){
-    const b = libros.find(x=>x.id===id);
-    if(!b) return;
-    $("bookId").value = b.id;
-    $("titulo").value = b.titulo || "";
-    $("autor").value = b.autor || "";
-    $("anio").value = b.anio || "";
-    $("isbn").value = b.isbn || "";
-    $("editorial").value = b.editorial || "";
-    $("coleccion").value = b.coleccion || "";
-    $("categorias").value = (b.categorias||[]).join(", ");
-    $("formato").value = b.formato || "Físico";
-    $("notas").value = b.notas || "";
-    $("comentarios").value = b.comentarios || "";
-    $("portada").value = b.portada || "";
-    $("portadaUrl").value = b.portada || "";
-    $("portadaGaleria").value = "";
-    $("portadaHelper").textContent = "";
-    actualizarPreviewPortada();
-    $("formModeLabel").textContent="Modo: edición";
-    $("btnGuardar").textContent="💾 Actualizar libro";
-    window.scrollTo({top:0,behavior:"smooth"});
-  }
-
-  function deleteLibro(id){
-    const b = libros.find(x=>x.id===id);
-    if(!b) return;
-    if(!confirm(`¿Eliminar "${b.titulo||"este libro"}"?`)) return;
-
-    const existingLocal = localLibros.find(x=>x.id===id);
-    if(existingLocal){
-      existingLocal._deleted = true;
-      existingLocal._ts = nowIso();
-    }else{
-      localLibros.push({ id, _deleted:true, _ts: nowIso() });
-    }
-    saveLocalBooks();
-    rebuildAndRender();
-  }
-
-  function actualizarEstadisticas(){
-    const total = libros.length;
-    const fis = libros.filter(b=>b.formato==="Físico").length;
-    const dig = libros.filter(b=>b.formato==="Digital").length;
-
-    $("statTotal").textContent = total;
-    $("statFisicos").textContent = fis;
-    $("statDigitales").textContent = dig;
-
-    // categorías
-    const cats = new Set();
-    libros.forEach(b => (b.categorias||[]).forEach(c=>cats.add(c)));
-    const arr = Array.from(cats).sort();
-
-    $("statCategoriasHint").textContent = arr.length
-      ? `Categorías distintas: ${arr.length} (${arr.slice(0,5).join(", ")}${arr.length>5?", …":""}).`
-      : "Aún no hay categorías registradas.";
-
-    const selCat = $("filterCategoria");
-    const prevCat = selCat.value || "todas";
-    selCat.innerHTML = "";
-    const o0 = document.createElement("option");
-    o0.value="todas"; o0.textContent="Todas";
-    selCat.appendChild(o0);
-    arr.forEach(c=>{
-      const o=document.createElement("option");
-      o.value=c; o.textContent=c;
-      selCat.appendChild(o);
-    });
-    if(Array.from(selCat.options).some(o=>o.value===prevCat)) selCat.value=prevCat;
-
-    // colecciones
-    const colSet = new Set();
-    libros.forEach(b => { if((b.coleccion||"").trim()) colSet.add(b.coleccion.trim()); });
-    const colArr = Array.from(colSet).sort((a,b)=>a.localeCompare(b));
-
-    const selCol = $("filterColeccion");
-    const prevCol = selCol.value || "todas";
-    selCol.innerHTML = "";
-    const c0 = document.createElement("option");
-    c0.value="todas"; c0.textContent="Todas";
-    selCol.appendChild(c0);
-    colArr.forEach(c=>{
-      const o=document.createElement("option");
-      o.value=c; o.textContent=c;
-      selCol.appendChild(o);
-    });
-    if(Array.from(selCol.options).some(o=>o.value===prevCol)) selCol.value=prevCol;
-
-    $("headerSummary").textContent = total
-      ? `${total} libro${total!==1?"s":""} · ${fis} físico(s) · ${dig} digital(es) · ${colArr.length} colección(es).`
-      : "Sin libros por ahora.";
-  }
-
-  function filtros(){
-    return {
-      formato: $("filterFormato").value,
-      coleccion: $("filterColeccion").value,
-      categoria: $("filterCategoria").value,
-      autor: $("filterAutor").value.trim().toLowerCase(),
-      texto: $("filterTexto").value.trim().toLowerCase()
-    };
-  }
-
-  function filtrar(){
-    const f = filtros();
-    let res = [...libros];
-
-    if(f.formato!=="todos") res = res.filter(b=>b.formato===f.formato);
-    if(f.coleccion!=="todas") res = res.filter(b=>(b.coleccion||"")===f.coleccion);
-    if(f.categoria!=="todas") res = res.filter(b=>(b.categorias||[]).includes(f.categoria));
-    if(f.autor) res = res.filter(b=>(b.autor||"").toLowerCase().includes(f.autor));
-    if(f.texto){
-      res = res.filter(b=>{
-        const s = [
-          b.titulo||"", b.autor||"", b.isbn||"", b.editorial||"",
-          b.coleccion||"", (b.categorias||[]).join(" "),
-          b.notas||"", b.comentarios||""
-        ].join(" ").toLowerCase();
-        return s.includes(f.texto);
-      });
-    }
-    return res;
-  }
-
-  function span(t){ const s=document.createElement("span"); s.textContent=t; return s; }
-  function tag(t){ const s=document.createElement("span"); s.className="tag"; s.textContent=t; return s; }
-
-  function renderLista(){
-    const cont = $("bookList");
-    const items = filtrar();
-    $("listCountLabel").textContent = `${items.length} libro${items.length!==1?"s":""}`;
-
-    const f = filtros();
-    const hay = f.formato!=="todos" || f.coleccion!=="todas" || f.categoria!=="todas" || f.autor || f.texto;
-    $("filterInfo").textContent = hay ? "Mostrando filtrados." : "";
-
-    if(!items.length){
-      cont.innerHTML = `<div class="empty">No hay libros que coincidan con el filtro.</div>`;
-      return;
-    }
-
-    cont.innerHTML = "";
-    items.forEach(b=>{
-      const card = document.createElement("div");
-      card.className="book-card";
-
-      if(b.portada){
-        const img = document.createElement("img");
-        img.className="book-cover";
-        img.src=b.portada;
-        img.alt="Portada";
-        card.appendChild(img);
-      }else{
-        const ph=document.createElement("div");
-        ph.className="book-cover";
-        card.appendChild(ph);
-      }
-
-      const main=document.createElement("div");
-      main.className="book-main";
-
-      const title=document.createElement("div");
-      title.className="book-title";
-      title.textContent=b.titulo||"(Sin título)";
-      main.appendChild(title);
-
-      const meta=document.createElement("div");
-      meta.className="book-meta";
-      if(b.autor) meta.appendChild(span("👤 "+b.autor));
-      if(b.anio) meta.appendChild(span("📅 "+b.anio));
-      if(b.editorial) meta.appendChild(span("🏢 "+b.editorial));
-      if(b.coleccion) meta.appendChild(span("📚 "+b.coleccion));
-      if(b.isbn) meta.appendChild(span("🔢 ISBN "+b.isbn));
-      main.appendChild(meta);
-
-      const tags=document.createElement("div");
-      tags.className="tags";
-      tags.appendChild(tag(b.formato||"Formato"));
-      (b.categorias||[]).slice(0,4).forEach(c=>tags.appendChild(tag(c)));
-      if((b.categorias||[]).length>4) tags.appendChild(tag("+"+((b.categorias||[]).length-4)));
-      main.appendChild(tags);
-
-      if(b.notas){
-        const n=document.createElement("div");
-        n.className="book-meta";
-        n.textContent=b.notas;
-        main.appendChild(n);
-      }
-      if(b.comentarios){
-        const c=document.createElement("div");
-        c.className="book-meta";
-        c.textContent="💬 "+b.comentarios;
-        main.appendChild(c);
-      }
-
-      card.appendChild(main);
-
-      const actions=document.createElement("div");
-      actions.className="actions";
-
-      const be=document.createElement("button");
-      be.type="button";
-      be.className="btn-secondary";
-      be.textContent="✏️ Editar";
-      be.onclick=()=>editarLibro(b.id);
-      actions.appendChild(be);
-
-      const bd=document.createElement("button");
-      bd.type="button";
-      bd.className="btn-danger";
-      bd.textContent="🗑 Eliminar";
-      bd.onclick=()=>deleteLibro(b.id);
-      actions.appendChild(bd);
-
-      card.appendChild(actions);
-      cont.appendChild(card);
-    });
-  }
-
-  function render(){
-    actualizarEstadisticas();
-    renderLista();
-  }
-
-  function submitForm(e){
-    e.preventDefault();
-
-    const id = $("bookId").value.trim() || ("libro-"+Date.now()+"-"+Math.random().toString(16).slice(2));
-    const titulo = $("titulo").value.trim();
-    if(!titulo){ alert("Título obligatorio."); return; }
-
-    const book = {
-      id,
-      titulo,
-      autor: $("autor").value.trim(),
-      anio: $("anio").value ? safeInt($("anio").value) : null,
-      isbn: $("isbn").value.trim(),
-      editorial: $("editorial").value.trim(),
-      coleccion: $("coleccion").value.trim(),
-      categorias: parseCategorias($("categorias").value.trim()),
-      formato: $("formato").value,
-      notas: $("notas").value.trim(),
-      comentarios: $("comentarios").value.trim(),
-      portada: $("portada").value.trim(),
-      _ts: nowIso()
-    };
-
-    const idx = localLibros.findIndex(x=>x.id===id);
-    if(idx>=0) localLibros[idx]=book;
-    else localLibros.push(book);
-
-    saveLocalBooks();
-    limpiarFormulario();
-    rebuildAndRender();
-  }
-
-  function showModal(on){ $("modalBackdrop").style.display = on ? "flex":"none"; }
-
-  async function buscarWeb(){
-    const titulo=$("titulo").value.trim();
-    const isbn=$("isbn").value.trim();
-    let query="";
-    if(isbn) query="isbn:"+encodeURIComponent(isbn);
-    else if(titulo) query="intitle:"+encodeURIComponent(titulo);
-    else { alert("Ingresa título o ISBN."); return; }
-
-    showModal(true);
-    $("modalResults").innerHTML = `<p class="hint">Buscando…</p>`;
-
-    const url = `https://www.googleapis.com/books/v1/volumes?q=${query}&maxResults=10`;
-
-    try{
-      const r = await fetch(url);
-      if(!r.ok) throw new Error("HTTP "+r.status);
-      const data = await r.json();
-      const items = data.items || [];
-      if(!items.length){
-        $("modalResults").innerHTML = `<p class="hint">Sin resultados.</p>`;
-        return;
-      }
-
-      const wrap = document.createElement("div");
-      items.forEach(it=>{
-        const info = it.volumeInfo || {};
-        const title = info.title || "(Sin título)";
-        const authors = info.authors ? info.authors.join(", ") : "";
-        const year = info.publishedDate ? info.publishedDate.slice(0,4) : "";
-        const publisher = info.publisher || "";
-        const categories = info.categories || [];
-        const desc = info.description || "";
-        const series =
-          (info.seriesInfo && info.seriesInfo.bookDisplayNumber)
-            ? (info.seriesInfo.series || "")
-            : (info.series || ""); // por compatibilidad (a veces no viene)
-        const guessedCollection =
-          Array.isArray(info.categories) && info.categories.length ? "" : "";
-        const ids = info.industryIdentifiers || [];
-        const foundIsbn = (ids.find(x=>x.type==="ISBN_13")||ids.find(x=>x.type==="ISBN_10")||{}).identifier || "";
-        const imageLinks = info.imageLinks || {};
-        let cover = imageLinks.thumbnail || imageLinks.smallThumbnail || "";
-        if(cover.startsWith("http://")) cover = cover.replace("http://","https://");
-
-        // Intento de colección: si no viene, lo dejamos vacío.
-        const collection = (info.collection || info.series || info.subtitle || "").trim();
-
-        const box = document.createElement("div");
-        box.style.border="1px solid var(--border)";
-        box.style.borderRadius="10px";
-        box.style.padding="10px";
-        box.style.marginBottom="8px";
-        box.style.display="grid";
-        box.style.gridTemplateColumns="auto minmax(0,1fr) auto";
-        box.style.gap="8px";
-        box.style.alignItems="center";
-
-        if(cover){
-          const img=document.createElement("img");
-          img.src=cover; img.alt="Portada"; img.style.width="40px"; img.style.height="60px";
-          img.style.objectFit="cover"; img.style.borderRadius="6px"; img.style.border="1px solid var(--border)";
-          box.appendChild(img);
-        }else{
-          const ph=document.createElement("div");
-          ph.style.width="40px"; ph.style.height="60px"; ph.style.background="#f0f0f0"; ph.style.border="1px solid var(--border)";
-          ph.style.borderRadius="6px";
-          box.appendChild(ph);
-        }
-
-        const tdiv=document.createElement("div");
-        const h=document.createElement("div");
-        h.style.fontWeight="750"; h.style.fontSize="13px"; h.textContent=title;
-        tdiv.appendChild(h);
-
-        const m=document.createElement("div");
-        m.className="hint";
-        const pieces=[];
-        if(authors) pieces.push("Autor(es): "+authors);
-        if(year) pieces.push("Año: "+year);
-        if(foundIsbn) pieces.push("ISBN: "+foundIsbn);
-        if(publisher) pieces.push("Editorial: "+publisher);
-        if(collection) pieces.push("Colección: "+collection);
-        if(categories.length) pieces.push("Categorías: "+categories.join(", "));
-        m.textContent=pieces.join(" · ");
-        tdiv.appendChild(m);
-
-        if(desc){
-          const d=document.createElement("div");
-          d.className="hint";
-          d.textContent = desc.length>180 ? desc.slice(0,180)+"…" : desc;
-          tdiv.appendChild(d);
-        }
-
-        box.appendChild(tdiv);
-
-        const btn=document.createElement("button");
-        btn.type="button";
-        btn.className="btn-secondary";
-        btn.style.fontSize="11px";
-        btn.style.padding="4px 10px";
-        btn.textContent="Usar";
-        btn.onclick=()=>{
-          $("titulo").value=title;
-          if(authors) $("autor").value=authors;
-          if(year) $("anio").value=year;
-          if(foundIsbn) $("isbn").value=foundIsbn;
-          if(publisher) $("editorial").value=publisher;
-          if(collection && !$("coleccion").value) $("coleccion").value = collection;
-          if(categories.length) $("categorias").value=categories.join(", ");
-          if(desc && !$("notas").value) $("notas").value = desc.length>400 ? desc.slice(0,400)+"…" : desc;
-          if(cover){
-            $("portada").value=cover;
-            $("portadaUrl").value=cover;
-            $("portadaGaleria").value="";
-            $("portadaHelper").textContent="Portada desde Google Books.";
-            actualizarPreviewPortada();
-          }
-          showModal(false);
-        };
-        box.appendChild(btn);
-
-        wrap.appendChild(box);
-      });
-
-      $("modalResults").innerHTML="";
-      $("modalResults").appendChild(wrap);
-    }catch(err){
-      console.error(err);
-      $("modalResults").innerHTML = `<p class="hint">Error consultando Google Books.</p>`;
-    }
-  }
-
-  function onPortadaGaleria(){
-    const rawUrl = $("portadaGaleria").value;
-    if(!rawUrl) return;
-    $("portada").value = rawUrl;
-    $("portadaUrl").value = rawUrl;
-    $("portadaHelper").textContent = "Usando portada desde /portadas.";
-    actualizarPreviewPortada();
-  }
-
-  async function cargarGaleria(){
-    const sel = $("portadaGaleria");
-    sel.innerHTML = `<option value="">Cargando galería…</option>`;
-
-    try{
-      const owner = location.hostname.split(".")[0];
-      const repo = location.pathname.split("/").filter(Boolean)[0];
-      const api = `https://api.github.com/repos/${owner}/${repo}/contents/${PORTADAS_DIR}`;
-
-      const r = await fetch(api);
-      if(!r.ok) throw new Error("HTTP "+r.status);
-      const data = await r.json();
-      const files = (Array.isArray(data)?data:[]).filter(it=>it.type==="file" && /\.(jpg|jpeg|png|gif)$/i.test(it.name));
-
-      galeriaPortadas = files;
-
-      sel.innerHTML = "";
-      const o0=document.createElement("option");
-      o0.value="";
-      o0.textContent = files.length ? "Elegir desde /portadas…" : "No hay imágenes en /portadas";
-      sel.appendChild(o0);
-
-      files.forEach(it=>{
-        const o=document.createElement("option");
-        o.value = it.download_url;
-        o.textContent = it.name;
-        sel.appendChild(o);
-      });
-    }catch(e){
-      console.error(e);
-      sel.innerHTML = `<option value="">No se pudo cargar galería</option>`;
-    }
-  }
-
-  function prepararPortada(){
-    $("portadaLocalArchivo").click();
-  }
-
-  function manejarArchivoPortada(ev){
-    const file = ev.target.files[0];
-    if(!file) return;
-    if(!file.type.startsWith("image/")){
-      alert("Debe ser imagen (jpg/png).");
-      ev.target.value="";
-      return;
-    }
-    const reader = new FileReader();
-    reader.onload = ()=>{
-      const img = new Image();
-      img.onload = ()=>{
-        const maxW=600, maxH=900;
-        let w=img.width, h=img.height;
-        const ratio = Math.min(maxW/w, maxH/h, 1);
-        w=Math.round(w*ratio); h=Math.round(h*ratio);
-
-        const canvas=document.createElement("canvas");
-        canvas.width=w; canvas.height=h;
-        const ctx=canvas.getContext("2d");
-        ctx.drawImage(img,0,0,w,h);
-
-        canvas.toBlob((blob)=>{
-          if(!blob){ alert("No se pudo procesar."); return; }
-
-          const base = $("titulo").value.trim() || file.name.replace(/\.[^.]+$/,"");
-          const name = (slugify(base) || "portada") + ".jpg";
-
-          const url = URL.createObjectURL(blob);
-          const a=document.createElement("a");
-          a.href=url; a.download=name;
-          document.body.appendChild(a);
-          a.click();
-          document.body.removeChild(a);
-          setTimeout(()=>URL.revokeObjectURL(url), 4000);
-
-          $("portadaHelper").textContent =
-            `Descargada "${name}". Súbela a GitHub en /${PORTADAS_DIR} (Add file → Upload files). Luego recarga y selecciónala en la galería.`;
-        }, "image/jpeg", 0.9);
-      };
-      img.onerror=()=>alert("No se pudo leer la imagen.");
-      img.src = reader.result;
-    };
-    reader.readAsDataURL(file);
-    ev.target.value="";
-  }
-
-  function downloadBlob(content, mime, filename){
-    const blob=new Blob([content],{type:mime});
-    const url=URL.createObjectURL(blob);
-    const a=document.createElement("a");
-    a.href=url; a.download=filename;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    setTimeout(()=>URL.revokeObjectURL(url), 2000);
-  }
-
-  function exportCSV(){
-    const items = filtrar();
-    if(!items.length){ alert("No hay resultados para exportar."); return; }
-
-    const headers = ["id","titulo","autor","anio","isbn","editorial","coleccion","formato","categorias","notas","comentarios","portada"];
-    const esc = (v)=> `"${String(v??"").replace(/"/g,'""')}"`;
-    const rows = items.map(b=>[
-      esc(b.id), esc(b.titulo), esc(b.autor), esc(b.anio??""), esc(b.isbn), esc(b.editorial),
-      esc(b.coleccion||""), esc(b.formato), esc((b.categorias||[]).join("; ")),
-      esc(b.notas), esc(b.comentarios), esc(b.portada)
-    ].join(";"));
-
-    const content = headers.join(";")+"\r\n"+rows.join("\r\n");
-    downloadBlob(content, "text/csv;charset=utf-8", "libros_export.csv");
-  }
-
-  function parseCSVLine(line){
-    const cells=[]; let cur=""; let q=false;
-    for(let i=0;i<line.length;i++){
-      const ch=line[i];
-      if(ch === '"'){
-        if(q && line[i+1]==='"'){ cur+='"'; i++; }
-        else q=!q;
-      }else if(ch===';' && !q){
-        cells.push(cur); cur="";
-      }else cur+=ch;
-    }
-    cells.push(cur);
-    return cells.map(c=>{
-      let s=c.trim();
-      if(s.startsWith('"')&&s.endsWith('"')) s=s.slice(1,-1);
-      return s.replace(/""/g,'"');
-    });
-  }
-
-  function importCSV(file){
-    const reader=new FileReader();
-    reader.onload=()=>{
-      const text = reader.result || "";
-      const lines = text.split(/\r?\n/).filter(l=>l.trim().length);
-      if(lines.length<2){ alert("CSV vacío."); return; }
-      const head = parseCSVLine(lines[0]).map(h=>h.trim().toLowerCase());
-      const idx = (name)=> head.indexOf(name);
-
-      const items=[];
-      for(let i=1;i<lines.length;i++){
-        const c=parseCSVLine(lines[i]);
-        const id = c[idx("id")] || ("libro-"+Date.now()+"-"+Math.random().toString(16).slice(2));
-        const titulo = c[idx("titulo")] || "";
-        if(!titulo) continue;
-        items.push({
-          id,
-          titulo,
-          autor: c[idx("autor")] || "",
-          anio: safeInt(c[idx("anio")]),
-          isbn: c[idx("isbn")] || "",
-          editorial: c[idx("editorial")] || "",
-          coleccion: c[idx("coleccion")] || "",
-          formato: c[idx("formato")] || "Físico",
-          categorias: parseCategorias(c[idx("categorias")] || ""),
-          notas: c[idx("notas")] || "",
-          comentarios: c[idx("comentarios")] || "",
-          portada: c[idx("portada")] || "",
-          _ts: nowIso()
-        });
-      }
-
-      if(!items.length){ alert("No se encontraron libros válidos en el CSV."); return; }
-
-      const replace = confirm(
-        `Importados ${items.length} libros.\n\nAceptar: reemplazar MIS CAMBIOS LOCALES.\nCancelar: agregar a cambios locales.`
-      );
-
-      if(replace) localLibros = items;
-      else localLibros = [...localLibros, ...items];
-
-      saveLocalBooks();
-      rebuildAndRender();
-      alert("Importación CSV completada (local).");
-    };
-    reader.readAsText(file,"utf-8");
-  }
-
-  function exportRepoJson(){
-    const publish = [...libros].filter(b=>!b._deleted).map(b=>{
-      const { _ts, _deleted, ...rest } = b;
-      return rest;
-    });
-    downloadBlob(JSON.stringify(publish, null, 2), "application/json;charset=utf-8", "libros.json");
-    alert('Se descargó "libros.json". Súbelo a GitHub reemplazando /data/libros.json para publicar en todos los dispositivos.');
-  }
-
-  function importJSON(file){
-    const reader=new FileReader();
-    reader.onload=()=>{
-      try{
-        const data = JSON.parse(reader.result || "[]");
-        if(!Array.isArray(data)) throw new Error("JSON no es un array.");
-        const items = data.map(x=>({
-          id: x.id || ("libro-"+Date.now()+"-"+Math.random().toString(16).slice(2)),
-          titulo: x.titulo || "",
-          autor: x.autor || "",
-          anio: x.anio ? safeInt(x.anio) : null,
-          isbn: x.isbn || "",
-          editorial: x.editorial || "",
-          coleccion: x.coleccion || "",
-          formato: x.formato || "Físico",
-          categorias: Array.isArray(x.categorias) ? x.categorias : parseCategorias(x.categorias),
-          notas: x.notas || "",
-          comentarios: x.comentarios || "",
-          portada: x.portada || "",
-          _ts: nowIso()
-        })).filter(x=>x.titulo);
-
-        if(!items.length){ alert("JSON sin libros válidos."); return; }
-
-        const replace = confirm(
-          `Importados ${items.length} libros.\n\nAceptar: reemplazar MIS CAMBIOS LOCALES.\nCancelar: agregar a cambios locales.`
-        );
-
-        if(replace) localLibros = items;
-        else localLibros = [...localLibros, ...items];
-
-        saveLocalBooks();
-        rebuildAndRender();
-        alert("Importación JSON completada (local).");
-      }catch(e){
-        console.error(e);
-        alert("No se pudo importar JSON: "+e.message);
-      }
-    };
-    reader.readAsText(file,"utf-8");
-  }
-
-  async function loadRepoBooks(){
-    setCloudStatus("Cargando /data/libros.json…");
-    try{
-      const base = `${location.origin}${location.pathname}`.replace(/\/+$/,"/");
-      const url = base + DATA_PATH;
-      const r = await fetch(url, { cache: "no-store" });
-      if(!r.ok) throw new Error("HTTP "+r.status);
-      const data = await r.json();
-
-      repoLibros = Array.isArray(data) ? data.map(x=>({
-        id: x.id || ("repo-"+Math.random().toString(16).slice(2)),
-        titulo: x.titulo || "",
-        autor: x.autor || "",
-        anio: x.anio ? safeInt(x.anio) : null,
-        isbn: x.isbn || "",
-        editorial: x.editorial || "",
-        coleccion: x.coleccion || "",
-        formato: x.formato || "Físico",
-        categorias: Array.isArray(x.categorias) ? x.categorias : parseCategorias(x.categorias),
-        notas: x.notas || "",
-        comentarios: x.comentarios || "",
-        portada: x.portada || "",
-        fechaRegistro: x.fechaRegistro || null
-      })).filter(x=>x.titulo) : [];
-
-      setCloudStatus(`Repo cargado: ${repoLibros.length} libro(s).`);
-    }catch(e){
-      console.error(e);
-      repoLibros = [];
-      setCloudStatus("No se pudo cargar /data/libros.json (revisa ruta/commit).");
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", async ()=>{
-    $("bookForm").addEventListener("submit", submitForm);
-    $("btnLimpiar").addEventListener("click", limpiarFormulario);
-    $("btnBuscarWeb").addEventListener("click", buscarWeb);
-
-    $("portadaUrl").addEventListener("change", ()=>{
-      $("portada").value=$("portadaUrl").value.trim();
-      $("portadaHelper").textContent = $("portada").value ? "Usando URL pegada." : "";
-      actualizarPreviewPortada();
-    });
-    $("portadaUrl").addEventListener("blur", ()=>{
-      $("portada").value=$("portadaUrl").value.trim();
-      actualizarPreviewPortada();
+let libros = [];
+
+fetch("data/libros.json")
+    .then(res => res.json())
+    .then(data => {
+        libros = data;
+        mostrarLibros(libros);
     });
 
-    $("portadaGaleria").addEventListener("change", onPortadaGaleria);
-    $("btnPrepararPortada").addEventListener("click", prepararPortada);
-    $("portadaLocalArchivo").addEventListener("change", manejarArchivoPortada);
+function mostrarLibros(lista) {
+    const tabla = document.getElementById("tablaLibros");
+    tabla.innerHTML = "";
 
-    $("btnExportarCSV").addEventListener("click", exportCSV);
-    $("btnImportarCSV").addEventListener("click", ()=> $("importCsvFile").click());
-    $("btnImportarJSON").addEventListener("click", ()=> $("importJsonFile").click());
-    $("importCsvFile").addEventListener("change", (e)=>{ const f=e.target.files[0]; if(f) importCSV(f); e.target.value=""; });
-    $("importJsonFile").addEventListener("change", (e)=>{ const f=e.target.files[0]; if(f) importJSON(f); e.target.value=""; });
+    lista.forEach(l => {
+        const fila = document.createElement("tr");
 
-    $("btnExportRepoJson").addEventListener("click", exportRepoJson);
-    $("btnBorrarLocal").addEventListener("click", ()=>{
-      if(!confirm("Esto borrará tus cambios locales (en este navegador). ¿Continuar?")) return;
-      localStorage.removeItem(LS_KEY_LOCAL_CHANGES);
-      localLibros = [];
-      rebuildAndRender();
+        fila.innerHTML = `
+            <td>${l.Imagen ? `<img src="${l.Imagen}" class="portada">` : ""}</td>
+            <td>${l.Titulo || ""}</td>
+            <td>${l.Autor || ""}</td>
+            <td>${l.Categoria || ""}</td>
+            <td>${l.Coleccion || ""}</td>
+            <td>${l.Vol || ""}</td>
+        `;
+
+        tabla.appendChild(fila);
     });
+}
 
-    $("filterFormato").addEventListener("change", render);
-    $("filterColeccion").addEventListener("change", render);
-    $("filterCategoria").addEventListener("change", render);
-    $("filterAutor").addEventListener("input", ()=>{ clearTimeout(window.__t1); window.__t1=setTimeout(render,150); });
-    $("filterTexto").addEventListener("input", ()=>{ clearTimeout(window.__t2); window.__t2=setTimeout(render,150); });
+document.querySelectorAll("input").forEach(input => {
+    input.addEventListener("input", filtrar);
+});
 
-    $("btnCerrarModal").addEventListener("click", ()=>showModal(false));
-    $("modalBackdrop").addEventListener("click", (e)=>{ if(e.target===$("modalBackdrop")) showModal(false); });
+function filtrar() {
+    const t = document.getElementById("fTitulo").value.toLowerCase();
+    const a = document.getElementById("fAutor").value.toLowerCase();
+    const c = document.getElementById("fCategoria").value.toLowerCase();
+    const col = document.getElementById("fColeccion").value.toLowerCase();
+    const v = document.getElementById("fVol").value.toLowerCase();
 
-    localLibros = loadLocalBooks();
-    setLocalStatus(localLibros.length ? `Cambios locales: ${localLibros.length}` : "Sin cambios locales");
+    const filtrados = libros.filter(l =>
+        (l.Titulo || "").toLowerCase().includes(t) &&
+        (l.Autor || "").toLowerCase().includes(a) &&
+        (l.Categoria || "").toLowerCase().includes(c) &&
+        (l.Coleccion || "").toLowerCase().includes(col) &&
+        (String(l.Vol || "")).toLowerCase().includes(v)
+    );
 
-    await loadRepoBooks();
-    await cargarGaleria();
-    rebuildAndRender();
-  });
+    mostrarLibros(filtrados);
+}
 </script>
+
 </body>
 </html>
