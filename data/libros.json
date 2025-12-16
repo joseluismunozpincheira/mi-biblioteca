@@ -1,5 +1,450 @@
 [
   {
+    "id": "libro-1765921926898-04939efcd0594",
+    "titulo": "Entre ondas y partículas, las apasionantes historias del fotón",
+    "autor": "Matteo Cristiani",
+    "anio": 2016,
+    "isbn": "9787606390575",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "27",
+    "categorias": [
+      "Fisica",
+      "Mecánica cuántica"
+    ],
+    "formato": "Físico",
+    "notas": "De entre todas las rarezas que nos reserva la física moderna, la que desde el principio deja perplejo a quien se adentra en su estudio es el denominado dualismo onda-partícula. Según este concepto, la materia y la radiación electromagnética tienen una naturaleza doble, y pueden comportarse como una partícula y como una onda. Pero ¿qué significa eso realmente? ¿Cómo han conseguido los científicos concebir esta idea tan extravagante?\n\nBuscando respuestas a estas preguntas, este libro recorre una historia fascinante y sorprendente, la de nuestro modo de comprender qué es realmente lo que llamamos luz. Seguiremos los pasos de los protagonistas de esta aventura intelectual, desde Demócrito hasta Einstein, sus vidas, sus ideas, un largo viaje desde los orígenes de la ciencia hasta el nacimiento de la mecánica cuántica.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/entre-ondas-y-particulas-las-apasionantes-historias-del-foton.jpg"
+  },
+  {
+    "id": "libro-1765921706841-c8d1d0cbae2488",
+    "titulo": "Las teorías del caos y la complejidad, el mundo es un caleidoscopio",
+    "autor": "Sergio de Régules",
+    "anio": 2016,
+    "isbn": "8425536002076.",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "26",
+    "categorias": [
+      "Matemáticas",
+      "Caos"
+    ],
+    "formato": "Físico",
+    "notas": "El caos en el sentido físico y matemático (el caos determinista) no es un desorden total ni se debe a la ausencia de reglas. Más bien al contrario, lo interesante del caos determinista es que puede apreciarse en los caprichos de la meteorología, las sorpresas de la economía mundial y las variaciones de los ritmos del organismo. Se trata de un desorden ordenado, un determinismo disfrazado de azar que ha dado pie al surgimiento de la ciencia de la complejidad. En este libro, el físico Sergio de Régules nos muestra un catálogo comentado, a través de muchos e interesantes ejemplos, de los sucesos más importantes y los conceptos relacionados con el caos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-teorias-del-caos-y-la-complejidad-el-mundo-es-un-caleidoscopio.jpg"
+  },
+  {
+    "id": "libro-1765771752091-6e946f8a057208",
+    "titulo": "¿Por qué es científica la ciencia? La ciencia a la luz de la filosofía Descubrir la ciencia",
+    "autor": "González Ruíz, Agustín",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "25",
+    "categorias": [
+      "Ciencia",
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "En ¿Por qué es científica la ciencia?: La ciencia a la luz de la filosofía, Agustín González propone una reflexión rigurosa y accesible sobre los fundamentos epistemológicos que distinguen a la ciencia como forma privilegiada de conocimiento. A partir del diálogo con la filosofía de la ciencia, el autor analiza conceptos clave como método, explicación, verdad, objetividad y racionalidad, mostrando que el carácter científico no se reduce a la mera acumulación de datos, sino que implica marcos teóricos, criterios de validación y una actitud crítica permanente. El libro logra tender puentes entre la práctica científica y la reflexión filosófica, invitando al lector a comprender la ciencia como una actividad humana racional, histórica y perfectible. Su enfoque claro y argumentativo lo convierte en una obra valiosa tanto para estudiantes como para docentes e investigadores interesados en profundizar en el sentido y los límites del conocimiento científico.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-es-cientifica-la-ciencia-la-ciencia-a-la-luz-de-la-filosofia-descubrir-la-ciencia.jpg"
+  },
+  {
+    "id": "libro-1765771129602-48d068dca1f58",
+    "titulo": "Hacia las estrellas. Pasado, presente y futuro de la exploración del espacio",
+    "autor": "Cenadelli, Carlo Davide",
+    "anio": null,
+    "isbn": "9788040520336",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "24",
+    "categorias": [
+      "Astronomía"
+    ],
+    "formato": "Físico",
+    "notas": "Pasado, presente y futuro de la exploración del espacio. Desde hace algunas décadas, el hombre se ha asomado a la escena del espacio con viajes orbitales, ha llegado a la luna y ha enviado sondas a explorar los planetas del Sistema Solar. A su vez, ha investigado la naturaleza de las estrellas y ha descubierto que existen muchísimos sistemas planetarios en torno a ellas. La exploración del espacio acaba de empezar. ¿Qué nos reservará el futuro? ¿Mandaremos dotaciones humanas a Marte? ¿Conseguiremos llegar a alguna estrella vecina, superando abismos de espacio que apenas podemos imaginar? ¿Y quizás en un futuro muy lejano colonizaremos los planetas de otras estrellas? En este volumen, tras haber recorrido las exploraciones espaciales del pasado, intentaremos proyectarnos hacia el futuro y responder a estas preguntas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hacia-las-estrellas-pasado-presente-y-futuro-de-la-exploracion-del-espacio.jpg"
+  },
+  {
+    "id": "libro-1765770924434-e1bac52df66228",
+    "titulo": "La nada o el vacío cuántico",
+    "autor": "Latorre, José Ignacio",
+    "anio": 2016,
+    "isbn": "9788791539444",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "23",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "¿Cómo es posible que Algo surja de la nada? ¿Qué es la Nada? ¿Cómo la podemos imaginar? ¿Podemos recurrir a la ciencia para obtener alguna certeza, algo a lo que agarrarnos firmemente? De forma muy humilde y sin alcanzar respuestas del todo satisfactorias, la ciencia ha intentado comprender la Nada. Hay un paso intermedio entre nuestro mundo y la Nada: el vacío. Aunque parezca imposible hablar de la Nada, tiene perfecto sentido científico comprender qué propiedades tiene el vacío, aunque el camino para conseguirlo es tortuoso. Muchos han sido los prejuicios a demoler antes de comprender la estructura de un espacio-tiempo carente de partículas pero dotado de geometría y de sorprendentes propiedades cuánticas. Este volumen ofrece al lector un relajado paseo por la Nada. Tras una introducción donde se tratan las referencias a la Nada en las artes y el pensamiento, se aborda la relación de la Nada con la ingeniería con la estructura relativista del espacio-tiempo, y con los vacíos cuántico y cuántico gravitatorio.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nada-o-el-vacio-cuantico.jpg"
+  },
+  {
+    "id": "libro-1765770646224-87702f77e37b3",
+    "titulo": "Genes, ambiente y cultura. ¿Educados o programados?",
+    "autor": "Maccarone, Mattia",
+    "anio": 2016,
+    "isbn": "9788116034426",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "22",
+    "categorias": [
+      "Genética"
+    ],
+    "formato": "Físico",
+    "notas": "¿Educados o programados? Los genes dan forman a nuestra existencia configurándola incluso antes del nacimiento. Pero no menos importante es la experiencia, cuyo impacto sobre las personas es diferente y de mayor calado al que tiene sobre el resto de especies que pueblan el planeta. Eso es así porque, además de la casualidad de los fenómenos naturales, como seres humanos debemos tener en cuenta también el contexto socioeconómico en el que vivimos. Esta evidencia nos convierte en una especie más flexible y al mismo tiempo más expuesta a las variables culturales agrupadas bajo el nombre de ambiente.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/genes-ambiente-y-cultura-educados-o-programados.jpg"
+  },
+  {
+    "id": "libro-1765770445287-2e75d21b63574",
+    "titulo": "Historias de la tierra. Una triple biografía de nuestro planeta",
+    "autor": "Saenz, Elena",
+    "anio": 2016,
+    "isbn": "9789234909350",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "21",
+    "categorias": [
+      "Química",
+      "Biología",
+      "Geología"
+    ],
+    "formato": "Físico",
+    "notas": "Como toda historia biográfica, la de nuestro planeta tendría varias versiones posibles en función del guionista elegido para contarla. Para un experto en átomos, moléculas y reacciones químicas, lo más destacable de la trama sería la aparición del agua, la evolución de la atmósfera hasta convertirse en aire respirable, la versatilidad del carbono y su papel en la vida, el surgimiento del ozono… En contrapartida, un biólogo argumentaría que muchos de los hitos químicos han sido posibles gracias a seres vivos como las plantas verdes, que con su fotosíntesis eliminaron ingentes cantidades de dióxido de carbono de la atmósfera produciendo, a cambio, oxigeno a manos llenas. Y nada de esto sería posible sin el adecuado soporte geológico, asunto que dominaría sin duda la línea argumental o storyline de un experto en ciencias de la tierra. Y como a ninguno de los posibles narradores les faltaría razón, para que el lector no se pierda ni un detalle sobre la Tierra, en este libro contamos su triple historia: geológica, biológica y química.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historias-de-la-tierra-una-triple-biografia-de-nuestro-planeta.jpg"
+  },
+  {
+    "id": "libro-1765770278733-6428b98f73dbe",
+    "titulo": "En busca de la teoría del todo. Una teoría para dominarlas a todas",
+    "autor": "Alemañ Berenguer, Rafael Andrés",
+    "anio": 2016,
+    "isbn": "9786643307331",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "20",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "A menudo tenemos la sensación de que por debajo del inmenso revoltijo de fenómenos que constituye la vida cotidiana, deben existir unos principios organizadores que den coherencia al universo. Los principales científicos a lo largo de la historia han compartido esa misma convicción, desplegando todos sus esfuerzos por descubrir una «teoría del todo». Tendríamos así la teoría definitiva capaz de abarcar las leyes fundamentales que reinan con independencia en los diferentes dominios de la naturaleza, desde el microcosmos al macrocosmos. Desde las sorprendentes geometrías espacio-temporales de Einstein hasta las modernas teorías de supercuerdas, pasando por la quinta dimensión y muchas otras exóticas conjeturas, esta es la historia de un empeño fascinante cuyo final ni siquiera se vislumbra todavía en el horizonte.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/en-busca-de-la-teoria-del-todo-una-teoria-para-dominarlas-a-todas.jpg"
+  },
+  {
+    "id": "libro-1765770026798-8f596e4f76d458",
+    "titulo": "Reacciones cotidianas. La química en el día a día",
+    "autor": "López Nicolás, Jose Manuel",
+    "anio": 2016,
+    "isbn": "9787741117969",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "19",
+    "categorias": [
+      "Química"
+    ],
+    "formato": "Físico",
+    "notas": "La química en el día a día. Desde que nos levantamos hasta que nos acostamos, la química esta presente, de una forma u otra, en todos y cada uno de nuestros actos. Reacciones cotidianas aborda de una menera original muchos de los principios fundamentales de la química presentes en nuestras vidas. La químicaen la alimentacón, en nuestros hábitos higiénicos, en los productos de belleza, en la ropa, en el deporte y, como no, en la medicina. Este libro nos descubre tambien que són y qué últimadamente se han puesto de moda y de los que oímos hablar incansablemente en anuncios publicitarios. Reacciones químicas analiza los beneficios que esta ciencia aporta a la sociedad y ofrece argumentos contra la creciente «quimiofobia» de muchos consumidores.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reacciones-cotidianas-la-quimica-en-el-dia-a-dia.jpg"
+  },
+  {
+    "id": "libro-1765769846577-d07d9f926b68a",
+    "titulo": "El sueño de la razón. Cómo funciona el cerebro",
+    "autor": "Canessa, Nicola",
+    "anio": 2016,
+    "isbn": "9788579649126",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "18",
+    "categorias": [
+      "neurobiológica"
+    ],
+    "formato": "Físico",
+    "notas": "Los avances en el ámbito de la neurociencia han permitido arrojar un poco de luz sobre algunosaspectos del ser humano tan fundamentales como la conciencia, el pensamiento y las emociones, cuya comprensión había quedado relegada a la esfera de la especulación. Cada día sabemos más sobre el proceso extraordinario mediante el cual cualquier estimulo -por ejemplo, la imagen de un objeto- puede convertirse en pensamiento y, por tanto, en parte de nuestra memoria, de tal manera que desde ese momento siempre podremos recordar ese objeto y su uso. El sueño de la razón nos guía a través de las principales funciones cognitivas que rigen este proceso: la percepción (es decir, cómo recibimos la información), el pensamiento (cómo la procesaremos) y la memoria (cómo la almacenamos).",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-sueno-de-la-razon-como-funciona-el-cerebro.jpg"
+  },
+  {
+    "id": "libro-1765769673303-b3261cb31de69",
+    "titulo": "Entropía. La reina del desorden",
+    "autor": "Borja, Enrique F.",
+    "anio": 2016,
+    "isbn": "9788861181342",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "17",
+    "categorias": [
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "La reina del desorden. De entre todos los conceptos de la física, sin lugar a dudas existe uno que, por encima de cualquier otro, se antoja huidizo, difícil de entender. Se trata de la entropía, que aunque es un término acuñadoen el siglo XIX, aún hoy posee ese halo de misterio tanto para propios como para extraños, aficionados o expertos. Esta magnitud, a la que pretende enfrentarse ese libro, controla aspectos de los sistemas físicos que son realmente fascinantes. Y es que la entropía, ese extraño concepto relacionado con el paso del orden al desorden, con el calor y la energía, con el caos, es la que nos ayuda a determinar cuándo un fenómeno físico se puede llevar a cabo, como evoluciona hacia el aquilibrio, o como se degrada la energía que este sistema puede usar o poner en juego para influir o ser influido por otros constituyentes del universo. Por lo tanto,a nadie sorprende que esta magnitud sea fundamental no solo para la física, sino tambien para entender la química, o para algunas cuestiones de biología, o que incluso se haya usado para explicar diversos comportamientos tanto en conomía como sociología.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/entropia-la-reina-del-desorden.jpg"
+  },
+  {
+    "id": "libro-1765769394321-97759d004f3f7",
+    "titulo": "El Origen de La Humanidad y Su Futuro Biologico",
+    "autor": "Ayala, Francisco J",
+    "anio": 2017,
+    "isbn": "",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "16",
+    "categorias": [
+      "Biología"
+    ],
+    "formato": "Físico",
+    "notas": "Desde que Charles Darwin publicó El origen de las especies, las pruebas que sustentan la teoría de la evolución han ido confirmándose de modo incontestable, mientras que las disciplinas biológicas que han ido surgiendo -la genética, la bioquímica, la ecología, el comportamiento animal (la etología), la neurobiología y especialmente la biología molecular- han proporcionado notables pruebas adicionales y confirmación detallada de la misma. Y lo más hoy sabemos, también, que la naturaleza biológica de la humanidad no sólo ha evolucionado, sino que continúa haciéndolo. En este libro, el doctor honoris causa de la Universidad de Padua Francisco J. Ayala, uno de los más prestigiosos científicos españoles en activo, nos el recorrido de esta teoría y cómo están aún por escribirse los últimos capítulos de la maravillosa historia de la evolución.",
+    "comentarios": "Francisco J. Ayala Spanish-American evolutionary biologist and philosopher at the University of California, Irvine. Member of the National Academy of Sciences, recipient of the 2001 National Medal of Science and the 2010 Templeton Prize.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-origen-de-la-humanidad-y-su-futuro-biologico.jpg"
+  },
+  {
+    "id": "libro-1765769105652-baac8ee0761438",
+    "titulo": "Un universo gravitacional: agujeros de gusano, materia oscura y espacio-",
+    "autor": "Salomone, Mónica G.",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "15",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "Las historias que cuenta este libro tiene que ver con algunos de los mayores misterios jamás planteados, y son aventuras cien por cien reales, por supuesto más sorprendentes que las de ficción. Hablan de la mezcla espacio-temporal que compone la realidad; de lo que no sentimos pero que está; de lo que hay más allá de la Puerta de Tannhäuser (sí, esto es un guiño Freak para hacer referencia a fenómenos tan extraños como estrellas muertas que giran miles de veces por segundo, o sucesos que en menos de un parpadeo liberan tanta energía como todas las estrellas del universo observable). Quizás lo más llamativo es que de todas estas exóticas historias comparten una protagonista muy cotidiana: la gravedad. La fuerza con la que aprendemos a convivir desde bebés es la misma que fabrica agujeros negros. Mientras se escribía este libro, los científicos del observatorio de detección de ondas gravitacionales LIGO anunciaban uno de los logros más ansiados de la física moderna, la primera detección directa de estas ondas. Un descubrimiento que en estas páginas se narra como la aventura emocionante que ha sido.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-universo-gravitacional-agujeros-de-gusano-materia-oscura-y-espacio.jpg"
+  },
+  {
+    "id": "libro-1765768929690-66875e5a01af5",
+    "titulo": "La ciencia del sexo. Atracción, deseo y amor vistos por la neurobiología",
+    "autor": "Martínez, Susana Eva",
+    "anio": 2016,
+    "isbn": "9788983461233",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "14",
+    "categorias": [
+      "neurobiológica"
+    ],
+    "formato": "Físico",
+    "notas": "Atracción, deseo y amor vistos por la neurobiología. Mucho es ya cuanto se ha escrito sobre sexo y sexualidad. De ello se han ocupado la filosofía, la antropología, la psicología, la religión y, por supuesto, la literatura, desde diferentes perspectivas y con distintos objetivos. En las últimas décadas, la neurobiología ha irrumpido con fuerza en este campo con la intención de alumbrar cuestiones que todavía hoy desconocemos sobre nuestra sexualidad, y también para romper algunos de los estereotipos y mitos mas extendidos sobre el sexo. Los nuevos hallazgos han empezado a trazar un panorama de los circuitos y moléculas que intervienen en la atracción sexual, la seducción, la excitación sexual y el orgasmo, ademas de desvelar las intrincadas conexiones que existen entre nuestras ardientes pasiones y los sentimientos amorosos. En este libro se recogen algunos de los recorridos neurobiológicos, cada vez mejor caracterizados, que hay detrás de nuestro comportamiento sexual y amoroso.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-del-sexo-atraccion-deseo-y-amor-vistos-por-la-neurobiologia.jpg"
+  },
+  {
+    "id": "libro-1765768684459-69a0d5ea0b3a6",
+    "titulo": "Guerra de corrientes. La revolución de la electricidad",
+    "autor": "Jaén Sánchez, Marcos",
+    "anio": 2016,
+    "isbn": "9788663077140",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "13",
+    "categorias": [
+      "Energía"
+    ],
+    "formato": "Físico",
+    "notas": "Tesla y Edison no podían ser personas más distintas: ciencia contra negocio, especulación frente a pragmatismo, desinterés frente a rentabilidad. Su lucha por establecer el estándar de la red de corriente eléctrica se volvió especialmente despiadada porque sucedió durante la segunda revolución industrial, cuando una nueva energía volvía a poner el mundo patas arriba, trayendo espectaculares oportunidades que atrajeron la atención de las grandes corporaciones dirigidas por los magnates del mito norteamericano: Rockefeller, Vanderbilt, Morgan… Edison y Telsa tuvieron que nadar en las mismas aguas salvajes que los grandes tiburones de aquel periodo llamado el Gran Capitalismo, cuando este régimen socioeconómico sentó sus pilares. El relato intenso de aquella guerra aúna historia y ciencia y, a la vez, presenta los conceptos teóricos que permiten comprender una de las cuatro grandes fuerzas del universo: la electricidad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guerra-de-corrientes-la-revolucion-de-la-electricidad.jpg"
+  },
+  {
+    "id": "libro-1765767644285-d5dce6def20328",
+    "titulo": "Mirando al cielo. Breve historia de la astronomía",
+    "autor": "Solé, Joan",
+    "anio": 2016,
+    "isbn": "9788491891418",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "12",
+    "categorias": [
+      "Astronomía"
+    ],
+    "formato": "Físico",
+    "notas": "Breve historia de la astronomía. La actual visión que la humanidad tiene del universo -con más de 100 000 millones de galaxias, cada una con unos 150 000 millones de estrellas- se forjó en el siglo XX, mediante la combinación de los nuevos métodos de observación y las teorias de la astrofísica. El camino hasta esta cosmovisión ha sido largo. Arranca de tiempos prehistóricos, con los aún no bien entendidos megalitos, y tiene grandes épocas doradas en la antigüedad: Babilonia con su aritmética, el Egipto faraónico, la grecia clásica con su ciencia geométrica, las impresionantes síntesis realizadas en Alejandría. El desinterés de Roma y del Medievo cristiano por la astronomía fue compensado por la sabiduría islamica. Y la decisiva Revolución Cientifíca de Copérnico, Kepler, Galileo y Newton, en los siglos XVI y XVII, enseño a la humanidad a mirar el cielo con ojos modernos. Gracias a ellos y a otros gigantes de la astronomía – William y John Herschel, Henrietta Leavitt, Edwin Hubble…- conocemos hoy el universo mejor que cualquier otro momento de la historia. El presente libro es un recorrido por este apasionante y milenario camino que acerca la mente humana a los confines más remotos del Cosmos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mirando-al-cielo-breve-historia-de-la-astronomia.jpg"
+  },
+  {
+    "id": "libro-1765767279887-1a3b2f6c9c3de",
+    "titulo": "Un Conejo Matemático En La Chistera (magia Matemática)",
+    "autor": "Blasco, Fernando",
+    "anio": 2016,
+    "isbn": "8431515201",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "11",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Imaginemos que asistimos a un espectáculo de magia. Cuando el mago mezcla las cartas, aparecen, de la nada, algunos principios matemáticos sorprendentes. Suena increíble pero los nudos que prepara el mago en el truco de las cuerdas dan nombre a una importante rama de la topología. Y es que magia y matemática van siempre de la mano. El doctor en Ciencias Matemáticas por la Universidad Complutense de Madrid Fernando Blasco nos acompaña en estos números de magia, donde el sistema binario, la teoría de códigos y las leyes de probabilidades harán su aparición, y donde descubriremos que los objetos cotidianos como monedas, billetes o calendarios, utilizando algunas reglas de divisibilidad o aritmética elemental, son los auténticos conejos en la chistera del mago.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-conejo-matematico-en-la-chistera-magia-matematica.jpg"
+  },
+  {
+    "id": "libro-1765766993602-632a22a96999f8",
+    "titulo": "El cerebro artístico. La creatividad desde la neurociencia",
+    "autor": "Dierssen, Mara",
+    "anio": 2016,
+    "isbn": "9789407999506",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "10",
+    "categorias": [
+      "neurobiológica"
+    ],
+    "formato": "Físico",
+    "notas": "El arte y la belleza son fenómenos complejos, dificiles de definir desde una perspectiva neurobiológica. Aún no comprendemos qué ocurre en el cerebro durante la creación o percepción de arte. Para profundizar en la neurobiología de la experiencia artística, debemos antes comprender una serie de componentes fundamentales del cerebro, oues el arte es posiblemente la expresión de cómo este organiza e interpreta la información. Este libro ayuda a debatir inevitables cuestiones fundamentales como qué es la belleza, y si se trata de una propiedad inherente al objeto, y por tanto apreciable de forma general por cualquier cerebro, o por el contrario reside en la subjetividad de la respuesta cerebral del que la aprecia.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-artistico-la-creatividad-desde-la-neurociencia.jpg"
+  },
+  {
+    "id": "libro-1765766786353-57a24e98cbfbb",
+    "titulo": "El universo meteorológico: un científico en las nubes",
+    "autor": "Miguel Viñas , José",
+    "anio": 2016,
+    "isbn": "9788813909727",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "9",
+    "categorias": [
+      "Meteorología"
+    ],
+    "formato": "Físico",
+    "notas": "No es de extrañar que la Meteorología haya interesado desde siempre al ser humano, habida cuenta de su utilidad: de ella dependen las cosechas,la seguridad aérea o la posibilidad de rellenar incómodos silencios en el ascensor. Pero ¿cuánto sabemos en realidad sobre los caprichos del tiempo y el clima? ¿A qué se deben los anticiclones, las tormentas o los vendavales que nos anuncian, en ocasiones, los hombres del tiempo? ¿En qué basan sus predicciones? Detrás de los pronósticos del tiempo, de una nube o de cualquier fenómeno atmosférico que se precie, Se esconde un universo metereológico que descubrirá en este libro. La Metereología es una ciencia relativamente moderna, que sigue conviviendo con tradiciones populares, ritos y creencias muy arraigadas aún en algunas personas. Si no queremos depender del refranero, solo la ciencia nos puede proporcionar las respuestas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-universo-meteorologico-un-cientifico-en-las-nubes.jpg"
+  },
+  {
+    "id": "libro-1765766287187-2ff3f0f07c0148",
+    "titulo": "Especies Cósmicas. Entre gigantes rojas y agujeros negros",
+    "autor": "Del Puerto Varela, Carmen",
+    "anio": 2016,
+    "isbn": "9789911900968",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "8",
+    "categorias": [
+      "Astronomía"
+    ],
+    "formato": "Físico",
+    "notas": "El universo, como la naturaleza, nos invita a contemplar y a conocer su rica «biodiversidad» con las singulares «especies» que los conforman y las relaciones que las mismas establecen con su entorno. Este peculiarzoo «cósmico», el mayor hábitat natural imaginable, nos abre sus puertas. ¿Cómo no entrar y descubrir las violentas explosiones de rayos gamma, las galaxias en interacción, las supernovas, los astros recién nacidos o los planetas que orbitan en torno a estrellas distintas del Sol. Cuando no vagan en solitario por el medio interestelar? Allí nos esperan los gigantes rojas, las enanas blancas, los pulsares y los agujeros negros, sin olvidar otras «especies» menosconocidas, como las enanas marrones. Cómo se originaron y evolucionaron estas «especies» en el «océano» cósmico o qué condiciones se dieron en el Sistema Solar para que surgiera la vida en la Tierra son algunas de las cuestiones que se abordan en este libro.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/especies-cosmicas-entre-gigantes-rojas-y-agujeros-negros.jpg"
+  },
+  {
+    "id": "libro-1765766039560-a91b22e7c9e75",
+    "titulo": "La ciencia de la ciencia ficción. Espadas láser, naves espaciales y superpoderes",
+    "autor": "Manuel Moreno, Jordi Jose",
+    "anio": 2016,
+    "isbn": "9788868402730",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "7",
+    "categorias": [
+      "Ciencia Ficción"
+    ],
+    "formato": "Físico",
+    "notas": "El escritor Isaac Asimov definió la ciencia-ficción como el género que analiza la respuesta de los seres humanos ante los cambios producidos por la ciencia y la tecnología. Sin duda, la ciencia-ficción posee un potencial anagotable para el aprendizaje de la tecnociencia, con la que comparte especulación y sentido de la maravilla, y es además una herramienta magnífica para desarrollar un sano e imprescindible espíritu crítico y escéptico, rasgo que esta en la base del propiométodo científico. De la mano de algunos mitos clásicos y modernos del género, como Godzilla, Han Solo o Ant-Man, entre otros, en esta obra se examinan y discuten aspectos como las leyes de escala, la tecnología mostrada en la saga Star Wars o los superpoderes que exhiben los superhéroes. Un viaje iniciático para ampliar, incluso, los límites de la imaginación y poner en entredicho el mundo en que vivimos al ser presentado, a través de las creaciones de la ficciòn, como uno más de los muchos mundos posibles.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-de-la-ciencia-ficcion-espadas-laser-naves-espaciales-y-superpoderes.jpg"
+  },
+  {
+    "id": "libro-1765764965211-27b101adfba1f8",
+    "titulo": "¿Por que somos como somos?, El genoma humano paso a paso",
+    "autor": "Rodriguez, Gemma",
+    "anio": 2016,
+    "isbn": "9788664128638",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "6",
+    "categorias": [
+      "Biología"
+    ],
+    "formato": "Físico",
+    "notas": "El proyecto Genoma Humano (PGH) es una de las mayores empresas científicas de la historia de la humanidad. La mayor en el campo de la Biología. Algunos la han comparado con la llegada del hombre a la luna. Una auténtica exploración de nuestro propio yo, de saber por que somos como somos. En este libro se narra, paso a paso se explica el descubrimiento del ADN, la determinación de su estructura y la optimización de las herramientas moleculares y tecnológicas necesarias para llevar a cabo con éxito el PGH. paso a paso se recorre que no estuvo exento de Polémica, dado no solo su altísimo coste, sino también la carera entre los dos consorcios, público y privado, liderados por científicos cuyos egos eran casi tan grandes como el propio proyecto planteado. También paso a paso, se desgranan las consecuencias del PGH, las falsas expectativas y los innegables beneficios que ha producido y. sobretodo generará a medio plazo. Ha sido un largo camino, de casi 150 años, tras el cual conocemos con detalle nuestro genoma. Sin embargo, lo que realmente hemos descubierto es que aún queda mucho por hacer para entender de verdad por qué somos como somos…",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-somos-como-somos-el-genoma-humano-paso-a-paso.jpg"
+  },
+  {
+    "id": "libro-1765764624840-e8395bbda19cb",
+    "titulo": "Fenómenos cotidianos. La física del día a día",
+    "autor": "Pérez Izquierdo, Alberto",
+    "anio": 2016,
+    "isbn": "9788720171918",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "5",
+    "categorias": [],
+    "formato": "Físico",
+    "notas": "Son varias, y de distintos campos, las leyes físicas implicadas en multitud de fenómenos cotidianos. Por eso muchos de los procesos que observamos habitualmente no se han podido abordar desde la física hasta fechas muy recientes. Aunque nos parezca extraño, es más sencillo describir el movimiento de un planeta que el de un coche por una carretera. La mecánica, la termodinámica, la óptica, el electromagnetismo… Todas estas ramas de la física clásica intervienen en nuestra vida cotidiana. En este libro se explica que fuerzas actúan sobre una moto cuando toma una curva, por qué se nos pegan los cabellos cuando estan mojados, por qué se nos hielan los coches que quedan bajo un árbol, cómo se forman las pompas de jabón o como funciona una olla a presión, entre otros muchos fenómenos.Todo ello explicado desde los dos pilares fundamentales en los que se basa la física, las matemáticas y la experiencia, y con un estilo riguroso y ameno.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fenomenos-cotidianos-la-fisica-del-dia-a-dia.jpg"
+  },
+  {
+    "id": "libro-1765764283964-e6b360a3daebd",
+    "titulo": "Tras el big bang, del origen al final del universo",
+    "autor": "Fernández Soto, Alberto",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "4",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "El origen del Universo representa uno de los misterios que ha ocupado a la humanidad desde un nacimiento y ha sido objeto de análisis tanto para la filosofía como para la ciencia o la religión. Este volumen se ocupa de la cosmología, la rama de la física que se encarga del estudio del Universo como un todo, incluyendo su origen, su evolución y su destino. Desde un punto de vista eminentemente observacional repasaremos las principales evidencias que sustentan el modelo de la gran explosión, que mantiene que el Universo nació hace 13.800 millones de años en un estado de densidad y temperatura extremadamente altas: la expansión cósmica, las abundancias de los diferentes elementos químicos, la radiación de fondo de microondas, la distribución de la materia a gran escala… Hace tan sólo cien años nada sabíamos sobre esos temas. Aún hoy subsisten misterios como la naturaleza de la materia o la energía oscuras, que nos indican que queda mucho por aprender en el futuro.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tras-el-big-bang-del-origen-al-final-del-universo.jpg"
+  },
+  {
+    "id": "libro-1765691736787-be1077e01c6dc",
+    "titulo": "Las Matemáticas de la naturaleza, la naturaleza de las matemáticas",
+    "autor": "Carlo Frabetti",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "3",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "Las matemáticas de la naturaleza, la naturaleza de las matemáticas es un ensayo de divulgación científica y filosófica que explora la profunda y a veces sorprendente relación entre las estructuras matemáticas y el mundo natural. A través de ejemplos que van desde las formas geométricas en plantas y cristales hasta los patrones en sistemas dinámicos, el libro muestra cómo las matemáticas no solo describen la naturaleza, sino que parecen emerger de ella como un lenguaje intrínseco. Con un enfoque reflexivo y accesible, el autor invita a cuestionar si las matemáticas son una invención humana o un descubrimiento de las regularidades del universo, tendiendo puentes entre ciencia, filosofía y estética. La obra destaca por su capacidad de despertar asombro intelectual y por proponer una mirada integradora sobre el orden, el caos y la creatividad en la realidad natural.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-matematicas-de-la-naturaleza-la-naturaleza-de-las-matematicas.jpg"
+  },
+  {
+    "id": "libro-1765691488220-dd68388242ecf",
+    "titulo": "Mundo cuántico, guía de viaje para peatones",
+    "autor": "Rafael Andrés Alemañ Berenguer",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "2",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "Mundo cuántico: guía de viaje para peatones es un libro de divulgación científica ingenioso y accesible que invita al lector a adentrarse en los conceptos fundamentales de la física cuántica sin necesidad de formación técnica previa. A través de metáforas cotidianas, ejemplos claros y un tono cercano, el autor explica fenómenos como la superposición, el principio de incertidumbre, la dualidad onda-partícula y el entrelazamiento, mostrando cómo estas ideas desafían nuestra intuición clásica del mundo. El libro destaca por su enfoque pedagógico y su capacidad para traducir teorías abstractas en imágenes comprensibles, convirtiendo la complejidad cuántica en una experiencia intelectual estimulante. Es una obra ideal para lectores curiosos que desean comprender los principios del mundo cuántico desde una perspectiva amena y orientada a la divulgación.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mundo-cuantico-guia-de-viaje-para-peatones.jpg"
+  },
+  {
     "id": "libro-1765857932373-c2dfc4c17f3578",
     "titulo": "De Maquinas Y Seres Vivos",
     "autor": "Humberto Maturana R., Humberto ( Maturana Romesín Francisco J. ( Varela",
@@ -352,391 +797,6 @@
     "notas": "Aunque muchos lo ignoren, una parte sustancial de los pilares que sustentan la civilización actual se nutre de la física cuántica, junto a la relatividad una de las dos grandes revoluciones científicas que cambiaron nuestra comprensión del mundo durante la primera mitad del siglo XX.Es el cuántico un mundo regido por leyes que parecen violar las leyes del sentido común, como expresó con una ironía…",
     "comentarios": "Dirigida e introducida por el difunto Stephen Hawking, el científico más célebre del pasado reciente, Los sueños de los que está hecha la materia reúne las obras esenciales de la física cuántica; textos que provocaron un cambio de paradigma que revolucionó la física para siempre, cambiando nuestra comprensión del universo a un nivel totalmente nuevo. Reunidos en esta antología están los trabajos de la élite cuántica, entre otros: Max Planck, Niels Bohr, Werner Heisenberg, Max Born, Erwin Schrödinger, Paul Dirac, J. Robert Oppenheimer y Richard Feynman.",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-suenos-de-los-que-esta-hecha-la-materia.jpg"
-  },
-  {
-    "id": "libro-1765771752091-6e946f8a057208",
-    "titulo": "¿Por qué es científica la ciencia? La ciencia a la luz de la filosofía Descubrir la ciencia",
-    "autor": "González Ruíz, Agustín",
-    "anio": 2016,
-    "isbn": "",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Ciencia",
-      "Filosofía"
-    ],
-    "formato": "Físico",
-    "notas": "",
-    "comentarios": "En ¿Por qué es científica la ciencia?: La ciencia a la luz de la filosofía, Agustín González propone una reflexión rigurosa y accesible sobre los fundamentos epistemológicos que distinguen a la ciencia como forma privilegiada de conocimiento. A partir del diálogo con la filosofía de la ciencia, el autor analiza conceptos clave como método, explicación, verdad, objetividad y racionalidad, mostrando que el carácter científico no se reduce a la mera acumulación de datos, sino que implica marcos teóricos, criterios de validación y una actitud crítica permanente. El libro logra tender puentes entre la práctica científica y la reflexión filosófica, invitando al lector a comprender la ciencia como una actividad humana racional, histórica y perfectible. Su enfoque claro y argumentativo lo convierte en una obra valiosa tanto para estudiantes como para docentes e investigadores interesados en profundizar en el sentido y los límites del conocimiento científico.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-es-cientifica-la-ciencia-la-ciencia-a-la-luz-de-la-filosofia-descubrir-la-ciencia.jpg"
-  },
-  {
-    "id": "libro-1765771129602-48d068dca1f58",
-    "titulo": "Hacia las estrellas. Pasado, presente y futuro de la exploración del espacio",
-    "autor": "Cenadelli, Carlo Davide",
-    "anio": null,
-    "isbn": "9788040520336",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Astronomía"
-    ],
-    "formato": "Físico",
-    "notas": "Pasado, presente y futuro de la exploración del espacio. Desde hace algunas décadas, el hombre se ha asomado a la escena del espacio con viajes orbitales, ha llegado a la luna y ha enviado sondas a explorar los planetas del Sistema Solar. A su vez, ha investigado la naturaleza de las estrellas y ha descubierto que existen muchísimos sistemas planetarios en torno a ellas. La exploración del espacio acaba de empezar. ¿Qué nos reservará el futuro? ¿Mandaremos dotaciones humanas a Marte? ¿Conseguiremos llegar a alguna estrella vecina, superando abismos de espacio que apenas podemos imaginar? ¿Y quizás en un futuro muy lejano colonizaremos los planetas de otras estrellas? En este volumen, tras haber recorrido las exploraciones espaciales del pasado, intentaremos proyectarnos hacia el futuro y responder a estas preguntas.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hacia-las-estrellas-pasado-presente-y-futuro-de-la-exploracion-del-espacio.jpg"
-  },
-  {
-    "id": "libro-1765770924434-e1bac52df66228",
-    "titulo": "La nada o el vacío cuántico",
-    "autor": "Latorre, José Ignacio",
-    "anio": 2016,
-    "isbn": "9788791539444",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Fisica"
-    ],
-    "formato": "Físico",
-    "notas": "¿Cómo es posible que Algo surja de la nada? ¿Qué es la Nada? ¿Cómo la podemos imaginar? ¿Podemos recurrir a la ciencia para obtener alguna certeza, algo a lo que agarrarnos firmemente? De forma muy humilde y sin alcanzar respuestas del todo satisfactorias, la ciencia ha intentado comprender la Nada. Hay un paso intermedio entre nuestro mundo y la Nada: el vacío. Aunque parezca imposible hablar de la Nada, tiene perfecto sentido científico comprender qué propiedades tiene el vacío, aunque el camino para conseguirlo es tortuoso. Muchos han sido los prejuicios a demoler antes de comprender la estructura de un espacio-tiempo carente de partículas pero dotado de geometría y de sorprendentes propiedades cuánticas. Este volumen ofrece al lector un relajado paseo por la Nada. Tras una introducción donde se tratan las referencias a la Nada en las artes y el pensamiento, se aborda la relación de la Nada con la ingeniería con la estructura relativista del espacio-tiempo, y con los vacíos cuántico y cuántico gravitatorio.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nada-o-el-vacio-cuantico.jpg"
-  },
-  {
-    "id": "libro-1765770646224-87702f77e37b3",
-    "titulo": "Genes, ambiente y cultura. ¿Educados o programados?",
-    "autor": "Maccarone, Mattia",
-    "anio": 2016,
-    "isbn": "9788116034426",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Genética"
-    ],
-    "formato": "Físico",
-    "notas": "¿Educados o programados? Los genes dan forman a nuestra existencia configurándola incluso antes del nacimiento. Pero no menos importante es la experiencia, cuyo impacto sobre las personas es diferente y de mayor calado al que tiene sobre el resto de especies que pueblan el planeta. Eso es así porque, además de la casualidad de los fenómenos naturales, como seres humanos debemos tener en cuenta también el contexto socioeconómico en el que vivimos. Esta evidencia nos convierte en una especie más flexible y al mismo tiempo más expuesta a las variables culturales agrupadas bajo el nombre de ambiente.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/genes-ambiente-y-cultura-educados-o-programados.jpg"
-  },
-  {
-    "id": "libro-1765770445287-2e75d21b63574",
-    "titulo": "Historias de la tierra. Una triple biografía de nuestro planeta",
-    "autor": "Saenz, Elena",
-    "anio": 2016,
-    "isbn": "9789234909350",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Química",
-      "Biología",
-      "Geología"
-    ],
-    "formato": "Físico",
-    "notas": "Como toda historia biográfica, la de nuestro planeta tendría varias versiones posibles en función del guionista elegido para contarla. Para un experto en átomos, moléculas y reacciones químicas, lo más destacable de la trama sería la aparición del agua, la evolución de la atmósfera hasta convertirse en aire respirable, la versatilidad del carbono y su papel en la vida, el surgimiento del ozono… En contrapartida, un biólogo argumentaría que muchos de los hitos químicos han sido posibles gracias a seres vivos como las plantas verdes, que con su fotosíntesis eliminaron ingentes cantidades de dióxido de carbono de la atmósfera produciendo, a cambio, oxigeno a manos llenas. Y nada de esto sería posible sin el adecuado soporte geológico, asunto que dominaría sin duda la línea argumental o storyline de un experto en ciencias de la tierra. Y como a ninguno de los posibles narradores les faltaría razón, para que el lector no se pierda ni un detalle sobre la Tierra, en este libro contamos su triple historia: geológica, biológica y química.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historias-de-la-tierra-una-triple-biografia-de-nuestro-planeta.jpg"
-  },
-  {
-    "id": "libro-1765770278733-6428b98f73dbe",
-    "titulo": "En busca de la teoría del todo. Una teoría para dominarlas a todas",
-    "autor": "Alemañ Berenguer, Rafael Andrés",
-    "anio": 2016,
-    "isbn": "9786643307331",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Fisica"
-    ],
-    "formato": "Físico",
-    "notas": "A menudo tenemos la sensación de que por debajo del inmenso revoltijo de fenómenos que constituye la vida cotidiana, deben existir unos principios organizadores que den coherencia al universo. Los principales científicos a lo largo de la historia han compartido esa misma convicción, desplegando todos sus esfuerzos por descubrir una «teoría del todo». Tendríamos así la teoría definitiva capaz de abarcar las leyes fundamentales que reinan con independencia en los diferentes dominios de la naturaleza, desde el microcosmos al macrocosmos. Desde las sorprendentes geometrías espacio-temporales de Einstein hasta las modernas teorías de supercuerdas, pasando por la quinta dimensión y muchas otras exóticas conjeturas, esta es la historia de un empeño fascinante cuyo final ni siquiera se vislumbra todavía en el horizonte.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/en-busca-de-la-teoria-del-todo-una-teoria-para-dominarlas-a-todas.jpg"
-  },
-  {
-    "id": "libro-1765770026798-8f596e4f76d458",
-    "titulo": "Reacciones cotidianas. La química en el día a día",
-    "autor": "López Nicolás, Jose Manuel",
-    "anio": 2016,
-    "isbn": "9787741117969",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Química"
-    ],
-    "formato": "Físico",
-    "notas": "La química en el día a día. Desde que nos levantamos hasta que nos acostamos, la química esta presente, de una forma u otra, en todos y cada uno de nuestros actos. Reacciones cotidianas aborda de una menera original muchos de los principios fundamentales de la química presentes en nuestras vidas. La químicaen la alimentacón, en nuestros hábitos higiénicos, en los productos de belleza, en la ropa, en el deporte y, como no, en la medicina. Este libro nos descubre tambien que són y qué últimadamente se han puesto de moda y de los que oímos hablar incansablemente en anuncios publicitarios. Reacciones químicas analiza los beneficios que esta ciencia aporta a la sociedad y ofrece argumentos contra la creciente «quimiofobia» de muchos consumidores.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reacciones-cotidianas-la-quimica-en-el-dia-a-dia.jpg"
-  },
-  {
-    "id": "libro-1765769846577-d07d9f926b68a",
-    "titulo": "El sueño de la razón. Cómo funciona el cerebro",
-    "autor": "Canessa, Nicola",
-    "anio": 2016,
-    "isbn": "9788579649126",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "neurobiológica"
-    ],
-    "formato": "Físico",
-    "notas": "Los avances en el ámbito de la neurociencia han permitido arrojar un poco de luz sobre algunosaspectos del ser humano tan fundamentales como la conciencia, el pensamiento y las emociones, cuya comprensión había quedado relegada a la esfera de la especulación. Cada día sabemos más sobre el proceso extraordinario mediante el cual cualquier estimulo -por ejemplo, la imagen de un objeto- puede convertirse en pensamiento y, por tanto, en parte de nuestra memoria, de tal manera que desde ese momento siempre podremos recordar ese objeto y su uso. El sueño de la razón nos guía a través de las principales funciones cognitivas que rigen este proceso: la percepción (es decir, cómo recibimos la información), el pensamiento (cómo la procesaremos) y la memoria (cómo la almacenamos).",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-sueno-de-la-razon-como-funciona-el-cerebro.jpg"
-  },
-  {
-    "id": "libro-1765769673303-b3261cb31de69",
-    "titulo": "Entropía. La reina del desorden",
-    "autor": "Borja, Enrique F.",
-    "anio": 2016,
-    "isbn": "9788861181342",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Termodinámica"
-    ],
-    "formato": "Físico",
-    "notas": "La reina del desorden. De entre todos los conceptos de la física, sin lugar a dudas existe uno que, por encima de cualquier otro, se antoja huidizo, difícil de entender. Se trata de la entropía, que aunque es un término acuñadoen el siglo XIX, aún hoy posee ese halo de misterio tanto para propios como para extraños, aficionados o expertos. Esta magnitud, a la que pretende enfrentarse ese libro, controla aspectos de los sistemas físicos que son realmente fascinantes. Y es que la entropía, ese extraño concepto relacionado con el paso del orden al desorden, con el calor y la energía, con el caos, es la que nos ayuda a determinar cuándo un fenómeno físico se puede llevar a cabo, como evoluciona hacia el aquilibrio, o como se degrada la energía que este sistema puede usar o poner en juego para influir o ser influido por otros constituyentes del universo. Por lo tanto,a nadie sorprende que esta magnitud sea fundamental no solo para la física, sino tambien para entender la química, o para algunas cuestiones de biología, o que incluso se haya usado para explicar diversos comportamientos tanto en conomía como sociología.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/entropia-la-reina-del-desorden.jpg"
-  },
-  {
-    "id": "libro-1765769394321-97759d004f3f7",
-    "titulo": "El Origen de La Humanidad y Su Futuro Biologico",
-    "autor": "Ayala, Francisco J",
-    "anio": 2017,
-    "isbn": "",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Biología"
-    ],
-    "formato": "Físico",
-    "notas": "Desde que Charles Darwin publicó El origen de las especies, las pruebas que sustentan la teoría de la evolución han ido confirmándose de modo incontestable, mientras que las disciplinas biológicas que han ido surgiendo -la genética, la bioquímica, la ecología, el comportamiento animal (la etología), la neurobiología y especialmente la biología molecular- han proporcionado notables pruebas adicionales y confirmación detallada de la misma. Y lo más hoy sabemos, también, que la naturaleza biológica de la humanidad no sólo ha evolucionado, sino que continúa haciéndolo. En este libro, el doctor honoris causa de la Universidad de Padua Francisco J. Ayala, uno de los más prestigiosos científicos españoles en activo, nos el recorrido de esta teoría y cómo están aún por escribirse los últimos capítulos de la maravillosa historia de la evolución.",
-    "comentarios": "Francisco J. Ayala Spanish-American evolutionary biologist and philosopher at the University of California, Irvine. Member of the National Academy of Sciences, recipient of the 2001 National Medal of Science and the 2010 Templeton Prize.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-origen-de-la-humanidad-y-su-futuro-biologico.jpg"
-  },
-  {
-    "id": "libro-1765769105652-baac8ee0761438",
-    "titulo": "Un universo gravitacional: agujeros de gusano, materia oscura y espacio-",
-    "autor": "Salomone, Mónica G.",
-    "anio": 2016,
-    "isbn": "",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Fisica"
-    ],
-    "formato": "Físico",
-    "notas": "Las historias que cuenta este libro tiene que ver con algunos de los mayores misterios jamás planteados, y son aventuras cien por cien reales, por supuesto más sorprendentes que las de ficción. Hablan de la mezcla espacio-temporal que compone la realidad; de lo que no sentimos pero que está; de lo que hay más allá de la Puerta de Tannhäuser (sí, esto es un guiño Freak para hacer referencia a fenómenos tan extraños como estrellas muertas que giran miles de veces por segundo, o sucesos que en menos de un parpadeo liberan tanta energía como todas las estrellas del universo observable). Quizás lo más llamativo es que de todas estas exóticas historias comparten una protagonista muy cotidiana: la gravedad. La fuerza con la que aprendemos a convivir desde bebés es la misma que fabrica agujeros negros. Mientras se escribía este libro, los científicos del observatorio de detección de ondas gravitacionales LIGO anunciaban uno de los logros más ansiados de la física moderna, la primera detección directa de estas ondas. Un descubrimiento que en estas páginas se narra como la aventura emocionante que ha sido.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-universo-gravitacional-agujeros-de-gusano-materia-oscura-y-espacio.jpg"
-  },
-  {
-    "id": "libro-1765768929690-66875e5a01af5",
-    "titulo": "La ciencia del sexo. Atracción, deseo y amor vistos por la neurobiología",
-    "autor": "Martínez, Susana Eva",
-    "anio": 2016,
-    "isbn": "9788983461233",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "neurobiológica"
-    ],
-    "formato": "Físico",
-    "notas": "Atracción, deseo y amor vistos por la neurobiología. Mucho es ya cuanto se ha escrito sobre sexo y sexualidad. De ello se han ocupado la filosofía, la antropología, la psicología, la religión y, por supuesto, la literatura, desde diferentes perspectivas y con distintos objetivos. En las últimas décadas, la neurobiología ha irrumpido con fuerza en este campo con la intención de alumbrar cuestiones que todavía hoy desconocemos sobre nuestra sexualidad, y también para romper algunos de los estereotipos y mitos mas extendidos sobre el sexo. Los nuevos hallazgos han empezado a trazar un panorama de los circuitos y moléculas que intervienen en la atracción sexual, la seducción, la excitación sexual y el orgasmo, ademas de desvelar las intrincadas conexiones que existen entre nuestras ardientes pasiones y los sentimientos amorosos. En este libro se recogen algunos de los recorridos neurobiológicos, cada vez mejor caracterizados, que hay detrás de nuestro comportamiento sexual y amoroso.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-del-sexo-atraccion-deseo-y-amor-vistos-por-la-neurobiologia.jpg"
-  },
-  {
-    "id": "libro-1765768684459-69a0d5ea0b3a6",
-    "titulo": "Guerra de corrientes. La revolución de la electricidad",
-    "autor": "Jaén Sánchez, Marcos",
-    "anio": 2016,
-    "isbn": "9788663077140",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Energía"
-    ],
-    "formato": "Físico",
-    "notas": "Tesla y Edison no podían ser personas más distintas: ciencia contra negocio, especulación frente a pragmatismo, desinterés frente a rentabilidad. Su lucha por establecer el estándar de la red de corriente eléctrica se volvió especialmente despiadada porque sucedió durante la segunda revolución industrial, cuando una nueva energía volvía a poner el mundo patas arriba, trayendo espectaculares oportunidades que atrajeron la atención de las grandes corporaciones dirigidas por los magnates del mito norteamericano: Rockefeller, Vanderbilt, Morgan… Edison y Telsa tuvieron que nadar en las mismas aguas salvajes que los grandes tiburones de aquel periodo llamado el Gran Capitalismo, cuando este régimen socioeconómico sentó sus pilares. El relato intenso de aquella guerra aúna historia y ciencia y, a la vez, presenta los conceptos teóricos que permiten comprender una de las cuatro grandes fuerzas del universo: la electricidad.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guerra-de-corrientes-la-revolucion-de-la-electricidad.jpg"
-  },
-  {
-    "id": "libro-1765767644285-d5dce6def20328",
-    "titulo": "Mirando al cielo. Breve historia de la astronomía",
-    "autor": "Solé, Joan",
-    "anio": 2016,
-    "isbn": "9788491891418",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Astronomía"
-    ],
-    "formato": "Físico",
-    "notas": "Breve historia de la astronomía. La actual visión que la humanidad tiene del universo -con más de 100 000 millones de galaxias, cada una con unos 150 000 millones de estrellas- se forjó en el siglo XX, mediante la combinación de los nuevos métodos de observación y las teorias de la astrofísica. El camino hasta esta cosmovisión ha sido largo. Arranca de tiempos prehistóricos, con los aún no bien entendidos megalitos, y tiene grandes épocas doradas en la antigüedad: Babilonia con su aritmética, el Egipto faraónico, la grecia clásica con su ciencia geométrica, las impresionantes síntesis realizadas en Alejandría. El desinterés de Roma y del Medievo cristiano por la astronomía fue compensado por la sabiduría islamica. Y la decisiva Revolución Cientifíca de Copérnico, Kepler, Galileo y Newton, en los siglos XVI y XVII, enseño a la humanidad a mirar el cielo con ojos modernos. Gracias a ellos y a otros gigantes de la astronomía – William y John Herschel, Henrietta Leavitt, Edwin Hubble…- conocemos hoy el universo mejor que cualquier otro momento de la historia. El presente libro es un recorrido por este apasionante y milenario camino que acerca la mente humana a los confines más remotos del Cosmos.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mirando-al-cielo-breve-historia-de-la-astronomia.jpg"
-  },
-  {
-    "id": "libro-1765767279887-1a3b2f6c9c3de",
-    "titulo": "Un Conejo Matemático En La Chistera (magia Matemática)",
-    "autor": "Blasco, Fernando",
-    "anio": 2016,
-    "isbn": "8431515201",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Matemáticas"
-    ],
-    "formato": "Físico",
-    "notas": "Imaginemos que asistimos a un espectáculo de magia. Cuando el mago mezcla las cartas, aparecen, de la nada, algunos principios matemáticos sorprendentes. Suena increíble pero los nudos que prepara el mago en el truco de las cuerdas dan nombre a una importante rama de la topología. Y es que magia y matemática van siempre de la mano. El doctor en Ciencias Matemáticas por la Universidad Complutense de Madrid Fernando Blasco nos acompaña en estos números de magia, donde el sistema binario, la teoría de códigos y las leyes de probabilidades harán su aparición, y donde descubriremos que los objetos cotidianos como monedas, billetes o calendarios, utilizando algunas reglas de divisibilidad o aritmética elemental, son los auténticos conejos en la chistera del mago.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-conejo-matematico-en-la-chistera-magia-matematica.jpg"
-  },
-  {
-    "id": "libro-1765766993602-632a22a96999f8",
-    "titulo": "El cerebro artístico. La creatividad desde la neurociencia",
-    "autor": "Dierssen, Mara",
-    "anio": 2016,
-    "isbn": "9789407999506",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "neurobiológica"
-    ],
-    "formato": "Físico",
-    "notas": "El arte y la belleza son fenómenos complejos, dificiles de definir desde una perspectiva neurobiológica. Aún no comprendemos qué ocurre en el cerebro durante la creación o percepción de arte. Para profundizar en la neurobiología de la experiencia artística, debemos antes comprender una serie de componentes fundamentales del cerebro, oues el arte es posiblemente la expresión de cómo este organiza e interpreta la información. Este libro ayuda a debatir inevitables cuestiones fundamentales como qué es la belleza, y si se trata de una propiedad inherente al objeto, y por tanto apreciable de forma general por cualquier cerebro, o por el contrario reside en la subjetividad de la respuesta cerebral del que la aprecia.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-artistico-la-creatividad-desde-la-neurociencia.jpg"
-  },
-  {
-    "id": "libro-1765766786353-57a24e98cbfbb",
-    "titulo": "El universo meteorológico: un científico en las nubes",
-    "autor": "Miguel Viñas , José",
-    "anio": 2016,
-    "isbn": "9788813909727",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Meteorología"
-    ],
-    "formato": "Físico",
-    "notas": "No es de extrañar que la Meteorología haya interesado desde siempre al ser humano, habida cuenta de su utilidad: de ella dependen las cosechas,la seguridad aérea o la posibilidad de rellenar incómodos silencios en el ascensor. Pero ¿cuánto sabemos en realidad sobre los caprichos del tiempo y el clima? ¿A qué se deben los anticiclones, las tormentas o los vendavales que nos anuncian, en ocasiones, los hombres del tiempo? ¿En qué basan sus predicciones? Detrás de los pronósticos del tiempo, de una nube o de cualquier fenómeno atmosférico que se precie, Se esconde un universo metereológico que descubrirá en este libro. La Metereología es una ciencia relativamente moderna, que sigue conviviendo con tradiciones populares, ritos y creencias muy arraigadas aún en algunas personas. Si no queremos depender del refranero, solo la ciencia nos puede proporcionar las respuestas.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-universo-meteorologico-un-cientifico-en-las-nubes.jpg"
-  },
-  {
-    "id": "libro-1765766287187-2ff3f0f07c0148",
-    "titulo": "Especies Cósmicas. Entre gigantes rojas y agujeros negros",
-    "autor": "Del Puerto Varela, Carmen",
-    "anio": 2016,
-    "isbn": "9789911900968",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Astronomía"
-    ],
-    "formato": "Físico",
-    "notas": "El universo, como la naturaleza, nos invita a contemplar y a conocer su rica «biodiversidad» con las singulares «especies» que los conforman y las relaciones que las mismas establecen con su entorno. Este peculiarzoo «cósmico», el mayor hábitat natural imaginable, nos abre sus puertas. ¿Cómo no entrar y descubrir las violentas explosiones de rayos gamma, las galaxias en interacción, las supernovas, los astros recién nacidos o los planetas que orbitan en torno a estrellas distintas del Sol. Cuando no vagan en solitario por el medio interestelar? Allí nos esperan los gigantes rojas, las enanas blancas, los pulsares y los agujeros negros, sin olvidar otras «especies» menosconocidas, como las enanas marrones. Cómo se originaron y evolucionaron estas «especies» en el «océano» cósmico o qué condiciones se dieron en el Sistema Solar para que surgiera la vida en la Tierra son algunas de las cuestiones que se abordan en este libro.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/especies-cosmicas-entre-gigantes-rojas-y-agujeros-negros.jpg"
-  },
-  {
-    "id": "libro-1765766039560-a91b22e7c9e75",
-    "titulo": "La ciencia de la ciencia ficción. Espadas láser, naves espaciales y superpoderes",
-    "autor": "Manuel Moreno, Jordi Jose",
-    "anio": 2016,
-    "isbn": "9788868402730",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Ciencia Ficción"
-    ],
-    "formato": "Físico",
-    "notas": "El escritor Isaac Asimov definió la ciencia-ficción como el género que analiza la respuesta de los seres humanos ante los cambios producidos por la ciencia y la tecnología. Sin duda, la ciencia-ficción posee un potencial anagotable para el aprendizaje de la tecnociencia, con la que comparte especulación y sentido de la maravilla, y es además una herramienta magnífica para desarrollar un sano e imprescindible espíritu crítico y escéptico, rasgo que esta en la base del propiométodo científico. De la mano de algunos mitos clásicos y modernos del género, como Godzilla, Han Solo o Ant-Man, entre otros, en esta obra se examinan y discuten aspectos como las leyes de escala, la tecnología mostrada en la saga Star Wars o los superpoderes que exhiben los superhéroes. Un viaje iniciático para ampliar, incluso, los límites de la imaginación y poner en entredicho el mundo en que vivimos al ser presentado, a través de las creaciones de la ficciòn, como uno más de los muchos mundos posibles.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-de-la-ciencia-ficcion-espadas-laser-naves-espaciales-y-superpoderes.jpg"
-  },
-  {
-    "id": "libro-1765764965211-27b101adfba1f8",
-    "titulo": "¿Por que somos como somos?, El genoma humano paso a paso",
-    "autor": "Rodriguez, Gemma",
-    "anio": 2016,
-    "isbn": "9788664128638",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Biología"
-    ],
-    "formato": "Físico",
-    "notas": "El proyecto Genoma Humano (PGH) es una de las mayores empresas científicas de la historia de la humanidad. La mayor en el campo de la Biología. Algunos la han comparado con la llegada del hombre a la luna. Una auténtica exploración de nuestro propio yo, de saber por que somos como somos. En este libro se narra, paso a paso se explica el descubrimiento del ADN, la determinación de su estructura y la optimización de las herramientas moleculares y tecnológicas necesarias para llevar a cabo con éxito el PGH. paso a paso se recorre que no estuvo exento de Polémica, dado no solo su altísimo coste, sino también la carera entre los dos consorcios, público y privado, liderados por científicos cuyos egos eran casi tan grandes como el propio proyecto planteado. También paso a paso, se desgranan las consecuencias del PGH, las falsas expectativas y los innegables beneficios que ha producido y. sobretodo generará a medio plazo. Ha sido un largo camino, de casi 150 años, tras el cual conocemos con detalle nuestro genoma. Sin embargo, lo que realmente hemos descubierto es que aún queda mucho por hacer para entender de verdad por qué somos como somos…",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-somos-como-somos-el-genoma-humano-paso-a-paso.jpg"
-  },
-  {
-    "id": "libro-1765691488220-dd68388242ecf",
-    "titulo": "Mundo cuántico, guía de viaje para peatones",
-    "autor": "Rafael Andrés Alemañ Berenguer",
-    "anio": 2016,
-    "isbn": "",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Fisica"
-    ],
-    "formato": "Físico",
-    "notas": "",
-    "comentarios": "Mundo cuántico: guía de viaje para peatones es un libro de divulgación científica ingenioso y accesible que invita al lector a adentrarse en los conceptos fundamentales de la física cuántica sin necesidad de formación técnica previa. A través de metáforas cotidianas, ejemplos claros y un tono cercano, el autor explica fenómenos como la superposición, el principio de incertidumbre, la dualidad onda-partícula y el entrelazamiento, mostrando cómo estas ideas desafían nuestra intuición clásica del mundo. El libro destaca por su enfoque pedagógico y su capacidad para traducir teorías abstractas en imágenes comprensibles, convirtiendo la complejidad cuántica en una experiencia intelectual estimulante. Es una obra ideal para lectores curiosos que desean comprender los principios del mundo cuántico desde una perspectiva amena y orientada a la divulgación.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mundo-cuantico-guia-de-viaje-para-peatones.jpg"
-  },
-  {
-    "id": "libro-1765691736787-be1077e01c6dc",
-    "titulo": "Las Matemáticas de la naturaleza, la naturaleza de las matemáticas",
-    "autor": "Carlo Frabetti",
-    "anio": 2016,
-    "isbn": "",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Matemáticas"
-    ],
-    "formato": "Físico",
-    "notas": "",
-    "comentarios": "Las matemáticas de la naturaleza, la naturaleza de las matemáticas es un ensayo de divulgación científica y filosófica que explora la profunda y a veces sorprendente relación entre las estructuras matemáticas y el mundo natural. A través de ejemplos que van desde las formas geométricas en plantas y cristales hasta los patrones en sistemas dinámicos, el libro muestra cómo las matemáticas no solo describen la naturaleza, sino que parecen emerger de ella como un lenguaje intrínseco. Con un enfoque reflexivo y accesible, el autor invita a cuestionar si las matemáticas son una invención humana o un descubrimiento de las regularidades del universo, tendiendo puentes entre ciencia, filosofía y estética. La obra destaca por su capacidad de despertar asombro intelectual y por proponer una mirada integradora sobre el orden, el caos y la creatividad en la realidad natural.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-matematicas-de-la-naturaleza-la-naturaleza-de-las-matematicas.jpg"
-  },
-  {
-    "id": "libro-1765764283964-e6b360a3daebd",
-    "titulo": "Tras el big bang, del origen al final del universo",
-    "autor": "Fernández Soto, Alberto",
-    "anio": 2016,
-    "isbn": "",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Fisica"
-    ],
-    "formato": "Físico",
-    "notas": "El origen del Universo representa uno de los misterios que ha ocupado a la humanidad desde un nacimiento y ha sido objeto de análisis tanto para la filosofía como para la ciencia o la religión. Este volumen se ocupa de la cosmología, la rama de la física que se encarga del estudio del Universo como un todo, incluyendo su origen, su evolución y su destino. Desde un punto de vista eminentemente observacional repasaremos las principales evidencias que sustentan el modelo de la gran explosión, que mantiene que el Universo nació hace 13.800 millones de años en un estado de densidad y temperatura extremadamente altas: la expansión cósmica, las abundancias de los diferentes elementos químicos, la radiación de fondo de microondas, la distribución de la materia a gran escala… Hace tan sólo cien años nada sabíamos sobre esos temas. Aún hoy subsisten misterios como la naturaleza de la materia o la energía oscuras, que nos indican que queda mucho por aprender en el futuro.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tras-el-big-bang-del-origen-al-final-del-universo.jpg"
-  },
-  {
-    "id": "libro-1765764624840-e8395bbda19cb",
-    "titulo": "Fenómenos cotidianos. La física del día a día",
-    "autor": "Pérez Izquierdo, Alberto",
-    "anio": 2016,
-    "isbn": "9788720171918",
-    "editorial": "Materia III",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [],
-    "formato": "Físico",
-    "notas": "Son varias, y de distintos campos, las leyes físicas implicadas en multitud de fenómenos cotidianos. Por eso muchos de los procesos que observamos habitualmente no se han podido abordar desde la física hasta fechas muy recientes. Aunque nos parezca extraño, es más sencillo describir el movimiento de un planeta que el de un coche por una carretera. La mecánica, la termodinámica, la óptica, el electromagnetismo… Todas estas ramas de la física clásica intervienen en nuestra vida cotidiana. En este libro se explica que fuerzas actúan sobre una moto cuando toma una curva, por qué se nos pegan los cabellos cuando estan mojados, por qué se nos hielan los coches que quedan bajo un árbol, cómo se forman las pompas de jabón o como funciona una olla a presión, entre otros muchos fenómenos.Todo ello explicado desde los dos pilares fundamentales en los que se basa la física, las matemáticas y la experiencia, y con un estilo riguroso y ameno.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fenomenos-cotidianos-la-fisica-del-dia-a-dia.jpg"
   },
   {
     "id": "libro-1765692733819-8e00a745fe84b8",
