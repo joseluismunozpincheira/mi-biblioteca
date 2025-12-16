@@ -1,5 +1,291 @@
 [
   {
+    "id": "libro-1765857932373-c2dfc4c17f3578",
+    "titulo": "De Maquinas Y Seres Vivos",
+    "autor": "Humberto Maturana R., Humberto ( Maturana Romesín Francisco J. ( Varela",
+    "anio": 2006,
+    "isbn": "9789561118140",
+    "editorial": "Editorial Universitaria",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencia",
+      "Filosofía"
+    ],
+    "formato": "Digital",
+    "notas": "A veinte años de la publicación de este libro, la noción de autopoiesis u organización de lo viviente como caracterización de los sistemas vivos, tiene plena vigencia en nuestros días. En un enfoque mecanicista de la realidad biológica, en que se renuncia a toda explicación teleonómica, los sistemas vivos son explicados en términos de relaciones de producción y no de las propiedades de sus componentes.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=NFWInYqvVOMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1765857817561-7a92e8ad6a1fb",
+    "titulo": "The Princeton Companion to Mathematics",
+    "autor": "Timothy Gowers, June Barrow-Green, Imre Leader",
+    "anio": 2010,
+    "isbn": "9781400830398",
+    "editorial": "Princeton University Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "The ultimate mathematics reference book This is a one-of-a-kind reference for anyone with a serious interest in mathematics. Edited by Timothy Gowers, a recipient of the Fields Medal, it presents nearly two hundred entries—written especially for this book by some of the world's leading mathematicians—that introduce basic mathematical tools and vocabulary; trace the development of modern mathematic…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=ZOfUsvemJDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1765857336427-d8f2e7fd212f8",
+    "titulo": "El día que inventamos la realidad, El largo viaje de la conciencia desde el big bang hasta la IA",
+    "autor": "Javier Argüello",
+    "anio": 2025,
+    "isbn": "9788410214903",
+    "editorial": "DEBATE",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Filosofía",
+      "Ciencia"
+    ],
+    "formato": "Digital",
+    "notas": "Con la agudeza y la elegancia características de su gran talento literario, Argüello relata en estas páginas, con visionaria lucidez, el origen y la consolidación, las contradicciones y las incongruencias del rocambolesco camino que nos ha llevado a construir una fantasía tan prodigiosa como «la realidad». Y, al mismo tiempo, nos invita a mirar hacia el futuro para explorar los desafíos a los que …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=GEw5EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1765857033218-d2b7759e97c6d8",
+    "titulo": "Teorías del universo, de los pitagóricos a galileo",
+    "autor": "Javier Ordóñez Rodríguez",
+    "anio": null,
+    "isbn": "8477386285",
+    "editorial": "sintesis",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Historia",
+      "Matemáticas",
+      "Ciencia",
+      "Filosofía"
+    ],
+    "formato": "Digital",
+    "notas": "Filosofía, física, matemáticas, astronomía, cosmología, óptica e incluso música son algunos de los saberes que han configurado las respuestas a los interrogantes históricamente planteados sobre el universo. Esta obra pone de manifiesto este intercambio interdisciplinar en relación con las principales teorías que sobre el universo se han sucedido hasta Galileo.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1765857175484-f4d516ad853378",
+    "titulo": "Teorías del universo, De Galileo a Newton",
+    "autor": "Javier Ordóñez Rodríguez",
+    "anio": null,
+    "isbn": "",
+    "editorial": "sintesis",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Historia",
+      "Matemáticas",
+      "Ciencia",
+      "Filosofía"
+    ],
+    "formato": "Digital",
+    "notas": "Filosofía, física, matemáticas, astronomía, cosmología, óptica e incluso música son algunos de los saberes que han configurado las respuestas a los interrogantes históricamente planteados sobre uno de los objetos de investigación más difíciles y enigmáticos: el universo. Tras haber analizado en el volumen primero el desarrollo de las principales teorías desde los antiguos pitagóricos hasta Galileo, este segundo volumen examina la configuración del cosmos durante el siglo XVII, tomando como punto de partida este autor y finalizando con la obra con Newton. Un tercer volumen descubrirá el periodo que separa al gran astrónomo inglés de E. P. Hubble, lo cual nos situará ya en el siglo XX.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1765856811394-70a0abb324a1a8",
+    "titulo": "Alan Turing, El pionero de la era de la información",
+    "autor": "Brian Jack Copeland",
+    "anio": 2013,
+    "isbn": "9788415832737",
+    "editorial": "Turner",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Biografía",
+      "Informática"
+    ],
+    "formato": "Digital",
+    "notas": "¿Quién fue Turing, y cuáles fueron sus logros durante sus 41 años de vida? Hoy es mejor conocido como el genio que descifraba las comunicaciones secretas de los alemanes durante la Segunda Guerra Mundial. Fue también el padre de la informática moderna: cada vez que hacemos clic para abrir un archivo, estamos poniendo en práctica sus ideas y visiones. Pero fue también un hombre que se preguntaba si…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=CSpZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1765856644104-6d5c33a0e9b548",
+    "titulo": "¿Puede pensar una máquina?",
+    "autor": "Alan Mathison Turing",
+    "anio": 1974,
+    "isbn": "848367385183",
+    "editorial": "Krk Ediciones",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Informática"
+    ],
+    "formato": "Digital",
+    "notas": "En 1947 Alan M. Turing pronunció una conferencia ante un auditorio compuesto en su mayor parte por miembros del National Physical Laboratory de Londres en la que intentaba responder a la vieja y controvertida pregunta ¿Puede pensar una máquina?. Lo expuesto en ese acto apareció publicado tres años más tarde en Mind —una importante revista de filosofía británica— y es lo que ofrecemos aquí al lector en su traducción castellana. Este texto se convirtió enseguida en uno de los escritos fundacionales de la lógica informática y la inteligencia artificial, al presentar las líneas generales por las que debería discurrir una respuesta precisa y manejable (aunque no indiscutible) a la pregunta formulada. Se trata del famoso Test de Turing, una prueba para decidir si una máquina es inteligente (o “piensa”). Para ello Turing diseñó un juego de imitación en el que participan una máquina y seres humanos; podemos decir que una máquina piensa si un ser humano que se comunica con la máquina y con otros seres humanos no logra distinguir cuando su interlocutor es una máquina y cuando un humano. Una “máquina de Turing” como la que participa en el juego, es un dispositivo ideal de cálculo, capaz de resolver una función computable —una función cuya solución es susceptible de ser obtenida por un procedimiento mecánico— . Pero lo más significativo es que Turing demostró que hay una máquina peculiar —la máquina universal de Turing— en la que se puede representar cualquier máquina que sea capaz de computar una función particular. De acuerdo con esto, una máquina universal de Turing sería una especie de sistema operativo en el que se implementan diferentes programas (máquinas de Turing especiales), un poco a la manera en que nos es familiar en los ordenadores personales. La denominada “metáfora del ordenador” como modelo capaz de simular la mente humana y, por ende, el pensar, tiene aquí su fuente.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1765856482942-c46e9c441c2b6",
+    "titulo": "Handbook of Metaheuristics",
+    "autor": "Michel Gendreau, Jean-Yves Potvin",
+    "anio": 2018,
+    "isbn": "9783319910864",
+    "editorial": "Springer",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "IA",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "The third edition of this handbook is designed to provide a broad coverage of the concepts, implementations, and applications in metaheuristics. The book’s chapters serve as stand-alone presentations giving both the necessary underpinnings as well as practical guides for implementation. The nature of metaheuristics invites an analyst to modify basic methods in response to problem characteristics, …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=J3hvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1765856379970-79462be6adbad",
+    "titulo": "La gran novela de las matemáticas : de la prehistoria a la actualidad",
+    "autor": "Mickaël Launay",
+    "anio": 2017,
+    "isbn": "9788449333439",
+    "editorial": "Paidos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Historia"
+    ],
+    "formato": "Digital",
+    "notas": "",
+    "comentarios": "A la mayoría nos gustan las matemáticas, el problema es que no lo sabemos. La historia de las matemáticas fue escrita por hombres y mujeres con un intelecto sorprendente, pero no se equivoquen: los verdaderos héroes de esta gran novela son las ideas. Esas pequeñas ideas que germinan un día y se propagan de un siglo a otro, las que nos dicen que hay un mundo de impresionante riqueza justo delante de nuestros ojos.Junto con MickaÁl Launay, descubriremos que las matemáticas son hermosas, poéticas, sorprendentes, emocionantes y estimulantes. El número Pi es fascinante. La sucesión de Fibonacci y el número aúreo nos llevan por caminos inesperados donde se unen el arte y la naturaleza. Las ecuaciones son un desafío y también representan el infinito universo matemático. Si nunca llegaste a comprender las matemáticas. Incluso si las llegaste a odiar... ¿Qué te parecería darles una segunda oportunidad? ¡Te sorprenderás!",
+    "portada": ""
+  },
+  {
+    "id": "libro-1765856212792-9f26d13dbd61c8",
+    "titulo": "Breve historia de la ciencia",
+    "autor": "Patricia Fara",
+    "anio": 2009,
+    "isbn": "9788434488304",
+    "editorial": "Grupo Planeta (GBS)",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Filosofía",
+      "Ciencia"
+    ],
+    "formato": "Digital",
+    "notas": "Cuatro mil años de aventura científica y descubrimientos, desde las ancestrales Babilonia y China hasta la genética y las partículas físicas. Breve historia de la ciencia es un relato fascinante de los acontecimientos, las historias y los intereses que hay detrás de la teoría abstracta y los experimentos esotéricos que componen la historia oficial de la ciencia. Pone de manifiesto que la ciencia s…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=u7b8i7W7-JYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1765856111356-1536629da2288",
+    "titulo": "De Descartes a Leibniz.",
+    "autor": "Frederick Charles Copleston",
+    "anio": 2007,
+    "isbn": "9788434487260",
+    "editorial": "",
+    "coleccion": "Historia de la filosofía",
+    "vol": "4",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Digital",
+    "notas": "",
+    "comentarios": "Al final del volumen anterior de esta Historia de la Filosofía expresé la esperanza de abarcar en éste todo el período que va de Descartes a Kant, ambos inclusive. Pero mi esperanza de tratar toda esa parte de la filosofía moderna en un solo libro, no se ha cumplido. Me he visto obligado a dedicar tres libros al período en cuestión, y, por razones de conveniencia, he hecho un volumen distinto de cada uno de esos libros. El primero, de Descartes a Leibniz, trata de los grandes sistemas de filosofía racionalista en el continente en el período prekantiano.",
+    "portada": ""
+  },
+  {
+    "id": "libro-1765855969413-14ce03bcc4bde",
+    "titulo": "Sobre la teoría de la relatividad especial y general",
+    "autor": "Albert Einstein",
+    "anio": 2012,
+    "isbn": "9788420609744",
+    "editorial": "Alianza Editorial Sa",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Física",
+      "Ciencia"
+    ],
+    "formato": "Digital",
+    "notas": "",
+    "comentarios": "Albert Einstein presentaba en 1916 Sobre la teoría de la relatividad especial y general con las siguientes palabras: «El presente librito pretende dar una idea lo más exacta posible de la teoría de la relatividad, pensando en aquellas personas que, sin dominar el aparato matemático de la física teórica, tienen interés en la teoría desde el punto de vista científico o filosófico». He aquí pues los fundamentos de la teoría de la relatividad expuestos con la mayor claridad posible por su propio autor.",
+    "portada": "https://books.google.com/books/content?id=AzS3NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1765855830978-4f29589791fb6",
+    "titulo": "Newton y el falsificador, La desconocida carrera como detective del fundador de la ciencia moderna",
+    "autor": "Thomas Levenson",
+    "anio": 2011,
+    "isbn": "9788484286813",
+    "editorial": "ALBA Editorial",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Ciencia"
+    ],
+    "formato": "Digital",
+    "notas": "«En el caso de Newton y el falsificador, las complejas explicaciones sobre la economía inglesa de la época se alternan con los cuadros narrativos que presentan a Newton moviéndose por callejones oscuros e interrogando a presos. Tras este viaje por las cárceles del Londres de finales del XVII, el lector termina convencido de que si el genio inglés siguiera vivo no harían falta máquinas para detecta…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=TauVbmR6LwUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1765855720518-8585609e24b688",
+    "titulo": "The Best American Noir of the Century",
+    "autor": "James Ellroy",
+    "anio": 2011,
+    "isbn": "9781446492567",
+    "editorial": "Random House",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela"
+    ],
+    "formato": "Digital",
+    "notas": "A magisterial anthology of American noir writing in the 20th century by the best-selling author of the LA Quartet: The Black Dahlia. The Big Nowhere , LA Confidential and White Jazz. In his intoduction to The Best American Noir of the Century, James Ellroy writes, \"noir is the most scrutinised offshoot of the hard-boiled school of fiction. It's the long drop off the short pier and the wrong man an…",
+    "comentarios": "James Ellroy y Otto Penzler han seleccionado los mejores cuentos negros americanos del siglo XX, en su mayoría inéditos en español.\n\n  Una verdadera obra magna, en la que destacan textos de James M. Cain, Michael Spillane, David Goodis, John Thompson, Patricia Highsmith, Dennis Lehane, Joyce Carol Oates y del propio Ellroy.",
+    "portada": "https://books.google.com/books/content?id=SZDf-2Cyzx8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1765691260701-f962e4755752c",
+    "titulo": "Persiguiendo a Einstein, de la intuición a las ondas gravitacionales",
+    "autor": "Antonio Acín",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "1",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "Persiguiendo a Einstein: de la intuición a las ondas gravitacionales es un apasionante relato de divulgación científica que recorre el camino intelectual y experimental que llevó desde las intuiciones teóricas de Albert Einstein hasta la detección directa de las ondas gravitacionales un siglo después. El libro combina historia de la ciencia, explicación accesible de la relatividad general y crónica de la colaboración internacional que culminó en los experimentos de LIGO, mostrando cómo la perseverancia, la creatividad y el avance tecnológico permitieron confirmar una de las predicciones más audaces de la física moderna. Con un lenguaje claro y narrativo, la obra acerca al lector a los desafíos conceptuales y técnicos involucrados, así como al espíritu humano detrás de los grandes descubrimientos científicos. Es una lectura estimulante que celebra la unión entre intuición, matemática y experimentación en la búsqueda por comprender el universo.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/persiguiendo-a-einstein-de-la-intuicion-a-las-ondas-gravitacionales.jpg"
+  },
+  {
+    "id": "libro-1765775939945-a053ddab55815",
+    "titulo": "A Hombros de Gigantes Ilustrado: Las Grandes Obras de la Física y la Astronomía",
+    "autor": "Stephen Hawking",
+    "anio": 2004,
+    "isbn": "84989236115",
+    "editorial": "Crítica",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Biografia"
+    ],
+    "formato": "Digital",
+    "notas": "Este libro que el lector tiene en sus manos es una pieza única por su contenido y por quien lo ha compilado. En efecto, el gran científico Stephen Hawking ha reunido en él, por primera vez en la historia de la edición, las cinco obras que a su juicio representan el canon de la cultura universal en el campo de la Física y la Astronomía y ha escrito una introducción a cada una, explicando lo que han…",
+    "comentarios": "Esto libro es Epub Libre,   ePub r1.0, por lo que tiene 300 paginas de 1000 en formato fisico",
+    "portada": "https://books.google.com/books/content?id=Yg2bwQ0DrJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
     "id": "libro-1765778587145-c4aaa47f76c8e",
     "titulo": "La parte de Guermantes",
     "autor": "Marcel Proust",
@@ -66,22 +352,6 @@
     "notas": "Aunque muchos lo ignoren, una parte sustancial de los pilares que sustentan la civilización actual se nutre de la física cuántica, junto a la relatividad una de las dos grandes revoluciones científicas que cambiaron nuestra comprensión del mundo durante la primera mitad del siglo XX.Es el cuántico un mundo regido por leyes que parecen violar las leyes del sentido común, como expresó con una ironía…",
     "comentarios": "Dirigida e introducida por el difunto Stephen Hawking, el científico más célebre del pasado reciente, Los sueños de los que está hecha la materia reúne las obras esenciales de la física cuántica; textos que provocaron un cambio de paradigma que revolucionó la física para siempre, cambiando nuestra comprensión del universo a un nivel totalmente nuevo. Reunidos en esta antología están los trabajos de la élite cuántica, entre otros: Max Planck, Niels Bohr, Werner Heisenberg, Max Born, Erwin Schrödinger, Paul Dirac, J. Robert Oppenheimer y Richard Feynman.",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-suenos-de-los-que-esta-hecha-la-materia.jpg"
-  },
-  {
-    "id": "libro-1765775939945-a053ddab55815",
-    "titulo": "A Hombros de Gigantes",
-    "autor": "Stephen Hawking",
-    "anio": 2003,
-    "isbn": "9788484324355",
-    "editorial": "Grupo Planeta (GBS)",
-    "coleccion": "Las Grandes Obras de la Física y la Astronomía",
-    "categorias": [
-      "Biografia"
-    ],
-    "formato": "Digital",
-    "notas": "Este libro que el lector tiene en sus manos es una pieza única por su contenido y por quien lo ha compilado. En efecto, el gran científico Stephen Hawking ha reunido en él, por primera vez en la historia de la edición, las cinco obras que a su juicio representan el canon de la cultura universal en el campo de la Física y la Astronomía y ha escrito una introducción a cada una, explicando lo que han…",
-    "comentarios": "Esto libro es Epub Libre,   ePub r1.0, por lo que tiene 300 paginas de 1000 en formato fisico",
-    "portada": "https://books.google.com/books/content?id=Yg2bwQ0DrJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
     "id": "libro-1765771752091-6e946f8a057208",
@@ -483,22 +753,6 @@
     "notas": "La apasionante historia de un libro que, a lo largo de dos mil trescientos años, consiguió moldear la ciencia, la filosofía, el arte, e incluso la literatura: los Elementos de Euclides. Sería difícil encontrar un libro más influyente en la historia de la cultura que los Elementos de Euclides. A lo largo de dos mil trescientos años, su poder ha traspasado las matemáticas y la ciencia para ejercer u…",
     "comentarios": "",
     "portada": "https://books.google.com/books/content?id=NPXIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "libro-1765691260701-f962e4755752c",
-    "titulo": "Persiguiendo a Einstein, de la intuición a las ondas gravitacionales",
-    "autor": "Antonio Acín",
-    "anio": 2016,
-    "isbn": "",
-    "editorial": "Bonalletra Alcompas",
-    "coleccion": "Descubrir la ciencia",
-    "categorias": [
-      "Fisica"
-    ],
-    "formato": "Físico",
-    "notas": "",
-    "comentarios": "Persiguiendo a Einstein: de la intuición a las ondas gravitacionales es un apasionante relato de divulgación científica que recorre el camino intelectual y experimental que llevó desde las intuiciones teóricas de Albert Einstein hasta la detección directa de las ondas gravitacionales un siglo después. El libro combina historia de la ciencia, explicación accesible de la relatividad general y crónica de la colaboración internacional que culminó en los experimentos de LIGO, mostrando cómo la perseverancia, la creatividad y el avance tecnológico permitieron confirmar una de las predicciones más audaces de la física moderna. Con un lenguaje claro y narrativo, la obra acerca al lector a los desafíos conceptuales y técnicos involucrados, así como al espíritu humano detrás de los grandes descubrimientos científicos. Es una lectura estimulante que celebra la unión entre intuición, matemática y experimentación en la búsqueda por comprender el universo.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/persiguiendo-a-einstein-de-la-intuicion-a-las-ondas-gravitacionales.jpg"
   },
   {
     "id": "libro-1765686935541-d89ddeb9988558",
