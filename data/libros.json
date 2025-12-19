@@ -1,5 +1,77 @@
 [
   {
+    "id": "libro-1766151654188-bea8de57333658",
+    "titulo": "Historia de Las Ideas Modernas en Matemáticas",
+    "autor": "José Babini, OEA. Secretaría General (Wash.)",
+    "anio": 1967,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Historia"
+    ],
+    "formato": "Digital",
+    "notas": "",
+    "comentarios": "La matemática a comienzos del siglo xix -- Las geometrías no euclidianas -- La aritmetización del análisis -- La teoría de grupos, Galois -- Las nuevas algebras -- La lógica matemática -- El método axiomático -- Hilbert -- La teoría de conjuntos -- Cantor -- La cuestión de los fundamentos -- Las estructuras.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-las-ideas-modernas-en-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766151417051-cabb43260cb42",
+    "titulo": "topicos de historia de las matematicas",
+    "autor": "Benazic, Renato",
+    "anio": 2004,
+    "isbn": "9972899500",
+    "editorial": "Sociedad Matemática Peruana",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Historia"
+    ],
+    "formato": "Digital",
+    "notas": "",
+    "comentarios": "Estas notas fueron escritas para servir de texto al cursillo “Tópicos de Historia de la Matemática” que se desarrolló en el marco de las actividades académicas del XXII Coloquio de la Sociedad Matemática Peruana, llevado a cabo en la Universidad Nacional de Ingeniería entre el 19 y 23 de Julio del 2004.\n\nEl Texto está dividido en tres Capítulos, en el Capítulo 1 estudiamos las Geometrías no Euclidianas desde el punto de vista histórico. El objetivo es tratar de explicar al lector la razón por la cual matemáticos de distintas épocas tuvieron serias objeciones para aceptar el V Postulado de Euclides, también llamado “Postulado de las Paralelas”.\n\nEl Capítulo 2 trata sobre Teoría de la Cardinalidad, es decir contar el número de elementos que tiene un conjunto. A primera vista este es un problema trivial, sin embargo en este capítulo tratamos de explicar al lector que esto no es cierto y muy por el contrario, es un tema profundo. En efecto, las primeras paradojas de la Teoría de Conjuntos surgieron en este contexto.\n\nFinalmente, en el Capítulo 3 estudiamos las raíces de las ecuaciones de grado n. Como las ecuaciones lineales (grado 1) y cuadráticas (grado 2) son estudiadas desde la secundaria, nuestra exposición de ellas será básicamente histórica. Esto no ocurre ni con las ecuaciones cúbicas (grado 3) ni con las cuárticas (grado 4), por este motivo además del tratamiento histórico, hemos creído conveniente deducir las Fórmulas de Cardano-Tartaglia y de Ferrari que nos permite resolver las ecuaciones de grado 3 y 4 respectivamente.",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766151082891-5f8a4cf592ee78",
+    "titulo": "El Fracaso de la matemática moderna, ¿por qué Juanito no sabe sumar?",
+    "autor": "Morris Kline",
+    "anio": 1976,
+    "isbn": "9788432302169",
+    "editorial": "Siglo Xxi México",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Filosofía",
+      "Educación"
+    ],
+    "formato": "Digital",
+    "notas": "durante los últimos quince años se ha impuesto en las escuelas un plan de enseñanza de matemáticas moderna o de nueva matemática. se han escrito cientos de nuevos textos, y millones de niños y jóvenes han sido y están siendo enseñados con este nuevo material. además se han publicado docenas de libros que explican el nuevo plan a padres y maestros.\n\n\n\nel dinero, tiempo, energías e ideas invertidas en este programa han sido enormes. y los resultados -según el profesor kline- totalmente negativos: una generación de analfabetos en matemáticas, con un temor sin precedentes a este campo de la enseñanza, es la más palpable del fracaso de la matemática moderna. la razón está clara: las nuevas matemáticas están dirigidas a una reducida fracción de estudiantes que algún día serán matemáticos de profesión. los demás se quedan con una formación matemática apenas suficiente para realizar simples operaciones matemáticas, y sin duda insuficiente para rellenar un impreso de declaración de impuestos.\n\n\n\nel autor reconoce que los antiguos métodos de enseñanza de matemáticas eran imperfectos, pero arguye que una enseñanza que excluya los números en beneficio de unos conjuntos bastantes vacíos, no satisface los deseos ni las necesidades de la abrumadora mayoría del estudiante. el profesor kline ha escrito una incisiva y razonada refutación de la nueva matemática, unida a un persuasivo alegato acerca de la necesidad de que los educadores admitan su error y busquen un remedio eficaz.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766150385892-06377909d053f",
+    "titulo": "Historia de la matemática",
+    "autor": "Carl B. Boyer",
+    "anio": 2007,
+    "isbn": "9788420681863",
+    "editorial": "Alianza Editorial Sa",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "El objetivo de esta historia de la matemática es mostrar el proceso de investigación y de descubrimientos que ha desembocado en las matemáticas de nuestro tiempo. Entre sus características más notables figuran la amplitud del período estudiado (desde la Prehistoria hasta mediados del siglo xx), la ponderada distribución del espacio dedicado a cada época y a cada cultura (entre ellas las no occiden…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=MWbUwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
     "id": "libro-1766091015216-da74883b45c59",
     "titulo": "Iniciación a la matemática moderna",
     "autor": "Alfonso Burgos",
