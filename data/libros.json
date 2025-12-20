@@ -1,5 +1,255 @@
 [
   {
+    "id": "libro-1766255291757-5d9e7999b48a4",
+    "titulo": "Kepler, el movimiento planetario, bailando con las estrellas",
+    "autor": "Eduardo Battaner López",
+    "anio": 2012,
+    "isbn": "9788447376339",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "4",
+    "categorias": [
+      "Fisica",
+      "Astronomía"
+    ],
+    "formato": "Físico",
+    "notas": "Descubre los secretos del universo con 'Bailando con las estrellas', un fascinante libro que explora el movimiento planetario de Kepler. A través de sus páginas, Eduardo Battaner López te guiará en un viaje astronómico, revelando las grandes ideas de la ciencia de una manera accesible y cautivadora. Sumérgete en el cosmos y maravíllate con la danza celestial que rige nuestro sistema solar.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/kepler-el-movimiento-planetario-bailando-con-las-estrellas.jpg"
+  },
+  {
+    "id": "libro-1766255045298-466e6fd49af088",
+    "titulo": "Max Planck, la teoría cuántica, la revolución de lo muy pequeño",
+    "autor": "Alberto Pérez Izquierdo",
+    "anio": 2012,
+    "isbn": "9788447376278",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "3",
+    "categorias": [
+      "Fisica",
+      "Mecánica cuántica"
+    ],
+    "formato": "Físico",
+    "notas": "Dos grandes pilares sustentan la visión científica moderna del universo: la relatividad y la teoría cuántica. Esta segunda dirige su mirada al terreno de lo microscópico y algunos de sus postulados son tan asombrosos que su pionero, Max Planck, confesó en más de una ocasión sentirse abrumado por las consecuencias de su hallazgo: la energía no se emite de forma continua sino por medio de “paquetes” o cuantos. Corría el año 1900, y la física ya nunca volvería a ser la misma.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/max-planck-la-teoria-cuantica-la-revolucion-de-lo-muy-pequeno.jpg"
+  },
+  {
+    "id": "libro-1766254892040-484b9da67c5d6",
+    "titulo": "Newton, la Ley de la gravedad, la fuerza más atractiva del universo",
+    "autor": "Antonio J. Durán",
+    "anio": 2012,
+    "isbn": "9788447376261",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "2",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "Entre los siglos XVI y XVII se produjo en Europa una revolución en todos los ámbitos de la ciencia. Su punto álgido fue la publicación en 1687 de los Principia Mathematica de Isaac Newton, en la que el inglés postuló un cosmos armado por las tres leyes del movimiento y una fuerza atractiva de alcance universal: la gravedad. A estas aportaciones fundamentales aún cabría sumar la invención del cálculo y las bases de la óptica para componer la figura de un genio sin parangón.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/newton-la-ley-de-la-gravedad-la-fuerza-mas-atractiva-del-universo.jpg"
+  },
+  {
+    "id": "libro-1766254762093-8697fd9adf1a7",
+    "titulo": "Einstein, la teoría de la relatividad, el espacio es una cuestión de tiempo",
+    "autor": "David Blanco Laserna",
+    "anio": 2014,
+    "isbn": "975844737625",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "1",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "ALBERT EINSTEIN (1879-1955) El más importante físico moderno, en 1905 publicó su teoría de la relatividad especial, descubriendo la famosa relación entre masa y energía: E = mc2. En 1915 extendió el marco de la teoría para incluir la gravedad, desarrollando la teoría de la relatividad general. También jugó un rol fundamental en la física cuántica.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/einstein-la-teoria-de-la-relatividad-el-espacio-es-una-cuestion-de-tiempo.jpg"
+  },
+  {
+    "id": "libro-1766245013649-b287611548f198",
+    "titulo": "Que solo se quedan los muertos",
+    "autor": "Mempo Giardinelli",
+    "anio": 2001,
+    "isbn": "9507313060",
+    "editorial": "Seix Barral",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Novela Policial",
+      "Thriller"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "Qué solos se quedan los muertos es una novela de Mempo Giardinelli publicada en 1985 que combina elementos de crimen, memoria y exilio dentro de una trama intensa y reflexiva. \nLa historia sigue a José Giustozzi, un periodista argentino exiliado en México tras la dictadura militar de su país, quien recibe una llamada de Carmen Rubiolo, una vieja amante, para que acuda a Zacatecas tras el asesinato de su esposo. Al llegar, José se ve envuelto en una serie de asesinatos y una intriga criminal que lo obligan a enfrentar tanto la violencia del entorno como sus propios recuerdos y dilemas internos. \nMás allá del género policial, la novela explora temas profundos como el exilio, la memoria histórica, el amor perdido y la soledad que sobreviene tras la violencia y la represión política. El protagonista no sólo trata de resolver un misterio, sino también de reconciliarse con su pasado y el peso de su propia historia en un contexto de impunidad y desasosiego. \nRevista Calibre .38\n\nEn conjunto, Giardinelli utiliza la trama criminal como vehículo para reflexionar sobre el impacto emocional y social del trauma político, la nostalgia y el intento de encontrar sentido en medio de la violencia y la pérdida.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/que-solo-se-quedan-los-muertos.jpg"
+  },
+  {
+    "id": "libro-1766244549086-b5455b4314b5c",
+    "titulo": "Diseño y cálculo de intercambiadores de calor monofásicos",
+    "autor": "MARÍN HERRERO, JOSE MARÍA, GUILLÉN LAMBEA, SILVIA",
+    "anio": 2013,
+    "isbn": "9788428304382",
+    "editorial": "Ediciones Paraninfo, S.A.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería Térmica",
+      "Transferencia de Calor"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "Es una obra técnica dirigida principalmente a estudiantes de ingeniería, diseñadores e ingenieros térmicos, que reúne de manera práctica los conocimientos y procedimientos necesarios para diseñar, analizar y calcular intercambiadores de calor en flujo monofásico (cuando los fluidos no cambian de fase durante el intercambio térmico).",
+    "portada": "https://books.google.com/books/content?id=PfVRAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766244188364-8d665ea6557e4",
+    "titulo": "El Círculo de Viena, Empirismo lógico, ciencia, cultura y política",
+    "autor": "Friedrich Stadler",
+    "anio": 2011,
+    "isbn": "9786071614575",
+    "editorial": "Fondo de Cultura Economica",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Filosofía",
+      "Ciencia",
+      "Historia"
+    ],
+    "formato": "Físico",
+    "notas": "El libro El Círculo de Viena. Empirismo lógico, ciencia, cultura y política, de Friedrich Stadler, es una obra histórica y filosófica que ofrece un estudio profundo sobre el grupo de intelectuales conocido como el Círculo de Viena, su contexto sociocultural y su impacto en la filosofía y ciencia del siglo XX. \n\nEn esta obra se analiza el surgimiento y desarrollo del empirismo lógico (también llamado positivismo lógico o neopositivismo), el esfuerzo de este grupo por establecer una filosofía de la ciencia basada en la lógica y la verificación empírica, y su relación con la cultura, la política y el entorno intelectual de la Viena de entreguerras. \nLibros CECSH\n+1\n\nEl texto combina historia de las ideas, análisis filosófico y contexto cultural, mostrando cómo figuras como Moritz Schlick, Rudolf Carnap y otros miembros del Círculo intentaron unificar las ciencias bajo criterios de racionalidad, claridad lógica y rechazo de la metafísica, y cómo estos esfuerzos se vieron marcados por los cambios políticos y sociales de la época",
+    "comentarios": "Los principales exponentes del Círculo de Viena (empirismo lógico / positivismo lógico) fueron:\n\nMoritz Schlick – Fundador y figura central; impulsó la orientación epistemológica del grupo.\n\nRudolf Carnap – Desarrolló la lógica del lenguaje científico y el principio de verificación.\n\nOtto Neurath – Enfatizó la unidad de la ciencia y sus implicancias sociales y políticas.\n\nHans Hahn – Aportó el rigor lógico-matemático al programa del grupo.\n\nPhilipp Frank – Conectó física moderna y filosofía de la ciencia.\n\nHerbert Feigl – Difusor del empirismo lógico en Estados Unidos.\n\nKurt Gödel – Cercano al círculo; sus teoremas marcaron límites del programa lógico.\n\nFriedrich Waismann – Enlace con Wittgenstein y el análisis del lenguaje.\n\nFigura influyente asociada (no miembro formal):\n\nLudwig Wittgenstein – Su Tractatus influyó decisivamente en la orientación inicial del grupo.",
+    "portada": "https://books.google.com/books/content?id=J7CeAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766243902703-100051c619faa",
+    "titulo": "El capital el siglo XXI",
+    "autor": "Thomas Piketty",
+    "anio": 2018,
+    "isbn": "9789501297058",
+    "editorial": "Paidos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Economía"
+    ],
+    "formato": "Físico",
+    "notas": "Con esta obra, Thomas Piketty se estableció como una voz decisiva: puso en el centro del debate mundial el tema de la desigualdad. Su análisis de la historia de la distribución de la riqueza y la riqueza a nivel global desde el siglo XVIII hasta la actualidad tiene el valor de la evidencia en un campo en el que han abundado los prejuicios.\nResultado de quince años de investigación sobre la dinámica de los ingresos y la desigualdad, el libro utiliza la base de datos de más de veinte países para responder una serie de preguntas que merecían una respuesta urgente. ¿La acumulación del capital privado conduce a la concentración del poder y la riqueza cómo lo creyó Marx en el siglo XIX? ¿Qué se sabe realmente sobre la evolución de la distribución de la riqueza y qué lección podemos extraer para el siglo XXI? Piketty propone regulaciones para el capital financiero y políticas fiscales que moderen la disparidad, como impuestos a la riqueza y la herencia.\nBestseller mundial de economía de los últimos años, El capital del siglo XXI ha tenido decenas de miles de lectores en América Latina: nadie que se interese por el destino de su país puede eludir el tema de la desigualdad. Paidós publica por primera vez en edición de bolsillo un texto que continuará alimentado la discusión pública en las siguientes décadas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-capital-el-siglo-xxi.jpg"
+  },
+  {
+    "id": "libro-1766243089449-e1cdc46281686",
+    "titulo": "El origen de la vida en el universo, pequeño manual de astrobiología",
+    "autor": "Davide Cenadelli, Daniele Venturoli",
+    "anio": 2016,
+    "isbn": "8425536002076",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "40",
+    "categorias": [
+      "Astrobiología",
+      "Biogénesis"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "Este libro se presenta como una introducción breve y accesible a los conceptos fundamentales de la astrobiología, abordando cómo pudo surgir la vida en la Tierra y las condiciones que serían necesarias para que exista vida en otros lugares del universo",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-origen-de-la-vida-en-el-universo-pequeno-manual-de-astrobiologia.jpg"
+  },
+  {
+    "id": "libro-1766242728871-5c8bbf2115c128",
+    "titulo": "Viaje al centro de la tierra,una mirada geológica a nuestro planeta",
+    "autor": "Viola Bachini",
+    "anio": 2016,
+    "isbn": "9789550795121",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "39",
+    "categorias": [
+      "Geología"
+    ],
+    "formato": "Físico",
+    "notas": "Una mirada geológica a nuestro planeta. Medio siglo después de que el hombre pisara la luna y a pocos pasos de conquistar el planeta rojo, aún sabemos muy poco de lo que hay bajo nuestros pies. Un terremoto o la erupción de un volcán pueden cambiar el rostro de ciudades enteras en cuestión de minutos y, sin embargo, desconocemos los procesos que los generan en las entrañas de la tierra. Este libro propone un viaje por nuestro planeta en el que contaremos que sabemos de él y cómo lo hemos descubierto. Un apasionante paseo geologico que nos lleva desde las más altas cimas hasta lo más profundo y ardiente del globo terraqueo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/viaje-al-centro-de-la-tierra-una-mirada-geologica-a-nuestro-planeta.jpg"
+  },
+  {
+    "id": "libro-1766242496648-70eda725c9d718",
+    "titulo": "Biotecnologia, la vida al servicio de la vida",
+    "autor": "Gian Gaetano Tartaglia, Davide Cirillo",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "38",
+    "categorias": [
+      "Genética",
+      "Biotecnología"
+    ],
+    "formato": "Físico",
+    "notas": "Biotecnología. La vida al servicio de la vida ofrece una introducción clara y actual a la biotecnología como disciplina clave para enfrentar desafíos contemporáneos en salud, alimentación y medio ambiente. Con un enfoque divulgativo pero riguroso, Gian Gaetano Tartaglia y Davide Cirillo explican cómo el conocimiento de los procesos biológicos —potenciado por la bioinformática y la inteligencia artificial— se traduce en aplicaciones concretas como terapias personalizadas, biomedicina de precisión y biotecnologías sostenibles. El libro destaca por su equilibrio entre fundamentos científicos, ejemplos prácticos y reflexión ética, mostrando cómo la ciencia de la vida puede ponerse genuinamente al servicio de la vida humana y del planeta.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/biotecnologia-la-vida-al-servicio-de-la-vida.jpg"
+  },
+  {
+    "id": "libro-1766242010894-5f78576a552c2",
+    "titulo": "El cerebro y las emociones, sentir, pensar, decidir",
+    "autor": "Tiziana Cotrufo, Jesús Mariano Ureña Bares",
+    "anio": 2018,
+    "isbn": "9788635618066",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "37",
+    "categorias": [
+      "Ciencia",
+      "Neurociencia"
+    ],
+    "formato": "Físico",
+    "notas": "Gracias a los recientes avances en el conocimiento del cerebro y a las evidencias experimentales acumuladas, ahora sabemos que las emociones, además de hacernos, al igual que la razón, propiamente humanos, desempeñan un rol esencial en el correcto funcionamiento de nuestras . Diversos estudios han demostrado que memorizamos más y mejor aquellas informaciones que estan vinculadas a emociones. Por otra parte, las nuevas técnicas de la imagen y el estudio de las lesiones de zonas específicas del cerebro nos han permitido conocer cuáles son las áreas cerebrales que se activan o se desactivan ante un cambio emocional. Como ya intuyó Charles Darwin, uno de los percusores de la neurociencia afectiva, si las emociones están ahí es porque cumplen una función positiva en nuestra supervivencia como especie. Este es precisamente el propósito del presente libro: hacer una reivindicación, razonada y sensata, de las emociones.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-y-las-emociones-sentir-pensar-decidir.jpg"
+  },
+  {
+    "id": "libro-1766241181846-9162806efde0e",
+    "titulo": "La aventura de contar, de la máquina de Turing a la computación cuántica",
+    "autor": "Filippo Annovi",
+    "anio": 2016,
+    "isbn": "8425536002076.",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "36",
+    "categorias": [
+      "Informática",
+      "Computación"
+    ],
+    "formato": "Físico",
+    "notas": "La aventura de contar, de la máquina de Turing a la computación cuántica\" se refiere a un libro de divulgación de Filippo Annovi que narra la evolución del cálculo, desde el concepto teórico fundamental de la Máquina de Turing (un modelo abstracto que define qué es computable) hasta la frontera de la computación cuántica, que explora el poder del entrelazamiento y la superposición para resolver problemas inabordables para las máquinas clásicas. Es un viaje desde el bit binario (0s y 1s) hacia el qubit cuántico, mostrando cómo el concepto de computación ha evolucionado de ser un proceso mecánico a uno basado en las extrañas leyes de la física cuántica.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-aventura-de-contar-de-la-maquina-de-turing-a-la-computacion-cuantica.jpg"
+  },
+  {
+    "id": "libro-1766241026923-3a099ff5a34568",
+    "titulo": "Enemigos microscópicos, virus, bacterias y vacunas",
+    "autor": "Salvador Macip",
+    "anio": 2016,
+    "isbn": "9784288374855",
+    "editorial": "Materia III",
+    "coleccion": "Descubrir la ciencia",
+    "vol": "35",
+    "categorias": [
+      "Biología",
+      "Microbiología"
+    ],
+    "formato": "Físico",
+    "notas": "En los últimos años no sólo hemos visto como la gripe volvía a las portadas de los periódicos, sino que nos hemos enfrentado a nuevas enfermedades temibles, como la SARS, el ébola o el zika. Pocos campos de la ciencia despiertan yanto miedo e incomprensión como la microbiología, el estudio de los organismos invisibles para el ojo humano que, por un lado, nos ayudan a sobrevivir y, por otro, amenazan con eliminarnos del planeta. Este libro recoge lo que sabemos acerca de las principales enfermedades infecciosas- tan habituales pero, en realidad, tan desconocidas- a la vez que desmiente con argumentos científicos una serie de falsas creencias que entorpecen los avances sanitarios. A lo largo de las páginas de este volumen veremos que virus y bacterias no sólo han participado en la historia de la humanidad, sino que son todavía responsables de millones de muertes.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/enemigos-microscopicos-virus-bacterias-y-vacunas.jpg"
+  },
+  {
     "id": "libro-1766199118593-62744094f321a",
     "titulo": "Memorias de un clima cambiante, claves científicas para enfrentarse al cambio climático",
     "autor": "Javier Martín Chivelet",
