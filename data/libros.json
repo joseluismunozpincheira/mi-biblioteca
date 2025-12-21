@@ -1,5 +1,41 @@
 [
   {
+    "id": "libro-1766352765367-ecf0a5e0e6ca6",
+    "titulo": "Forjadores del mundo contemporáneo, los 241 personajes que más han influido en la formación de nuestro mundo",
+    "autor": "Carlos Pujol",
+    "anio": 1985,
+    "isbn": "8432032603",
+    "editorial": "Planeta",
+    "coleccion": "",
+    "vol": "8",
+    "categorias": [
+      "Drive",
+      "Biografía"
+    ],
+    "formato": "Digital",
+    "notas": "Forjadores del Mundo Contemporáneo\" se refiere principalmente a una importante colección de biografías en varios tomos, dirigida por Carlos Pujol, que recopila figuras clave (científicos, pensadores, líderes, artistas) desde el siglo XVIII hasta el XX que moldearon la historia moderna",
+    "comentarios": "Franco (1892-1975)\nTito (1892-1980)\nJoan Miró (1893-1983)\nMao Tse-tung (1893-1976)\nNikita S. Jruschov (1894-1971)\nAndrés Segovia (1894)\nJuan de la Cierva (1895-1936)\nJohn Ford (1895-1973)\nGroucho Marx (1895-1977)\nJuan Domingo Perón (1896-1974)\nJean Piaget (1896-1980)\nCharlie Rivel (1896-1983)\nPablo VI (1897-1978)\nJosé Trueta (1897-1977)\nVicente Aleixandre (1898-1984)\nDavid Alfaro Siqueiros (1898-1974)\nBertolt Brecht (1898-1956)\nSerguei Eisenstein (1898-1948)\nEnzo Ferrari (1898)\nFederico García Lorca (1898-1936)\nGeorge Gershwin (1898-1937)\nHenry Moore (1898)\nMiguel Ángel Asturias (1899-1974)\nJorge Luis Borges (1899)\nErnest Hemingway (1899-1961)\nAlfred Hitchcock (1899-1980)\nLouis Armstrong (1900-1971)\nLuis Buñuel (1900-1983)\nRuhollah Jomeini (1900)",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766352329719-a35a0cdd13631",
+    "titulo": "Forjadores del mundo contemporáneo, los 302 personajes que más han influido en la formación de nuestro mundo",
+    "autor": "Carlos Pujol",
+    "anio": 1985,
+    "isbn": "8432032603",
+    "editorial": "Planeta",
+    "coleccion": "",
+    "vol": "7",
+    "categorias": [
+      "Drive",
+      "Biografía"
+    ],
+    "formato": "Digital",
+    "notas": "Forjadores del Mundo Contemporáneo\" se refiere principalmente a una importante colección de biografías en varios tomos, dirigida por Carlos Pujol, que recopila figuras clave (científicos, pensadores, líderes, artistas) desde el siglo XVIII hasta el XX que moldearon la historia moderna",
+    "comentarios": "Pablo Picasso (1881-1973)\nFranklin D. Roosevelt (1882-1945)\nIgor Stravinsky (1882-1971)\nJames Joyce (1882-1941)\nUmberto Boccioni (1882-1916)\nJoseph Alois Schumpeter (1883-1950)\nJosé Ortega y Gasset (1883-1955)\nGetúlio Vargas (1883-1954)\nJohn Maynard Keynes (1883-1946)\nFranz Kafka (1883-1924)\nBenito Mussolini (1883-1945)\nHarry S. Truman (1884-1972)\nGaston Bachelard (1884-1962)\nAmedeo Modigliani (1884-1920)\nNiels Bohr (1885-1962)\nLudwig Mies van der Rohe (1886-1969)\nGregorio Marañón (1887-1960)\nLe Corbusier (1887-1965)\nThomas Stearns Eliot (1888-1965)\nThomas Edward Lawrence (1888-1935)\nGabriela Mistral (1889-1957)\nJawaharlal Nehru (1889-1964)\nCharles Spencer Chaplin (1889-1977)\nAdolfo Hitler (1889-1945)\nAlfonso Reyes (1889-1959)\nAntónio de Oliveira Salazar (1889-1970)\nMartin Heidegger (1889-1976)\nCharles de Gaulle (1890-1970)\nHo Chi Minh (1890-1969)\nAlexander Koyré (1892-1964)",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/forjadores-del-mundo-contemporaneo-los-302-personajes-que-mas-han-influido-en-la-formacion-de-nuestro-mundo_v7.jpg"
+  },
+  {
     "id": "libro-1766279913038-a3f05040c43ba8",
     "titulo": "Las grandes preguntas de la ciencia",
     "autor": "Harriet Swain, John Maddox",
