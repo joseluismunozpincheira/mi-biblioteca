@@ -1,5 +1,109 @@
 [
   {
+    "id": "libro-1766279913038-a3f05040c43ba8",
+    "titulo": "Las grandes preguntas de la ciencia",
+    "autor": "Harriet Swain, John Maddox",
+    "anio": 2003,
+    "isbn": "9788484324645",
+    "editorial": "Critica (Grijalbo Mondadori)",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencia"
+    ],
+    "formato": "Digital",
+    "notas": "¿cómo comenzó el universo? ¿qué es la inteligencia? ¿existe vida en otros planetas? ¿qué es el tiempo? ¿son los hombres y las mujeres diferentes? ¿existe dios? ¿cómo evolucionó el lenguaje? ¿podremos acabar con las enfermedades? ¿qué son los pensamientos, la consciencia o los sueños? ¿estamos evolucionando todavía?... estas son algunas de las veinte preguntas a las que algunos de los más reputados científicos del mundo (martín rees, john barrow, john sulston, michael ruse, susan greenfield o steve rose, entre otros) intentan dar respuesta, de forma concisa y transparente, en este fascinante libro. son cuestiones que todos, en algún momento de nuestras vidas, nos hemos planteado y que, sin duda, continuarán planteándose en las próximas generaciones, cuestiones que tradiciones o mitos seculares han oscurecido durante demasiado tiempo y a las que ahora podemos y debemos enfrentarnos con la ayuda del mejor instrumento de conocimiento de que disponen los humanos: la ciencia.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-grandes-preguntas-de-la-ciencia.jpg"
+  },
+  {
+    "id": "libro-1766258867051-6c9b05a9721d7",
+    "titulo": "Pitágoras, el teorema de Pitágoras, un secreto encerrado en tres paredes",
+    "autor": "Marcos Jaén Sánchez",
+    "anio": 2012,
+    "isbn": "9788447376285",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "9",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "PITÁGORAS DE SAMOS es una de las figuras más fascinantes de la historia de las ideas. A medio camino entre la ciencia y la mística, su visión de un universoarmónico y gobernado por los números ha influido poderosamente en toda la cultura occidental. En vida se erigió como lider de una secta política y religiosa -la primera que se conoce- que extendio su influencia por amplias zonas de Grecia. A él se asocia uno de los hallazgos más relevantes de la Antigüedad: la relación de igualdad entre la suma de los cuadrados de los catetos de un triángulo rectángulo y el cuadrado de su hipotenusa. un auténtico tesoro geométrico que no sólo tiene incontables aplicaciones prácticas sino que simboliza el nacimiento de las matematicas como diciplina independiente y rigurosa.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pitagoras-el-teorema-de-pitagoras-un-secreto-encerrado-en-tres-paredes.jpg"
+  },
+  {
+    "id": "libro-1766258646707-22be6012c1af78",
+    "titulo": "Galileo, el método científico, la naturaleza se escribe con fórmulas",
+    "autor": "Roger Corcho Orrit",
+    "anio": 2012,
+    "isbn": "9788447376308",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "8",
+    "categorias": [
+      "Fisica",
+      "Astronomía"
+    ],
+    "formato": "Físico",
+    "notas": "GALILEO GALILEI ocupó su vasto genio en tres empresas fundamentales. La primera y tal vez más conocida fue la obsevación astronómica, de la que resultaron descripciones asombrosas de las fases de Venus, los satélites de Júpiter, el relieve lunar a las manchas solares. La segunda fue el estudio de los cuerpos en movimiento, que le condujo a cuestionar la física aristotélica que había dominado el pensamiento occidental durante más de dos milenios. Pero la que dejó tras de sí una huella más profunda fue la defensa -aun riesgo de morir en la hoguera- de una forma nueva de explicar el mundo, anclada en la evidencia empírica y el rigor matemático: el método científico. GRANDES IDEAS DE LA CIENCIA.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/galileo-el-metodo-cientifico-la-naturaleza-se-escribe-con-formulas.jpg"
+  },
+  {
+    "id": "libro-1766258464142-2d217787a3ae8",
+    "titulo": "Schrödinger, las paradojas cuánticas, el universo está en la onda",
+    "autor": "David Blanco Laserna",
+    "anio": 2012,
+    "isbn": "9788447376315",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "7",
+    "categorias": [
+      "Mecánica Cuántica"
+    ],
+    "formato": "Físico",
+    "notas": "Erwin Schrödinger (Viena, 1887-1961) fue el creador de la mecánica ondulatoria y uno de los científicos que más contribuyeron al desarrollo de la física atómica durante la primera mitad del siglo xx. Otros campos en los que hizo importantes aportaciones son la termodinámica, la mecánica estadística y la teoría de la relatividad. En 1933 compartió el Premio Nobel de Física con Paul Dirac. Erwin Schrödinger es autor de un clásico perenne: ¿Qué es la vida?, y de otros textos fundamentales, como Mente y materia y La naturaleza y los griegos, todos ellos publicados en la colección Metatemas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/schrodinger-las-paradojas-cuanticas-el-universo-esta-en-la-onda.jpg"
+  },
+  {
+    "id": "libro-1766258185480-f36d53df5d7a8",
+    "titulo": "Fermat, el teorema de Fermat, el problema más difícil del mundo",
+    "autor": "Luis Fernando Areán Álvarez",
+    "anio": 2012,
+    "isbn": "9788447376322",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "6",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "«Fermat. El teorema de Fermat: el problema más difícil del mundo» es un libro divulgativo que narra la historia de uno de los enigmas matemáticos más famosos: el Último Teorema de Fermat, propuesto por Pierre de Fermat en 1637 y considerado durante siglos como el problema más difícil del mundo. La obra explica de forma amena y accesible qué es el teorema, cómo Fermat lo formuló en el margen de un libro alegando que tenía una demostración pero sin mostrarla, y cómo generaciones de matemáticos intentaron resolverlo durante más de tres siglos. A través de anécdotas, contexto histórico y perfiles de personajes que contribuyeron a su estudio, el autor logra que lectores sin formación avanzada puedan entender la importancia y complejidad del problema. Finalmente, el libro aborda la solución moderna, lograda en 1994 por Andrew Wiles, cuyo trabajo no sólo resolvió el teorema sino que también impulsó desarrollos profundos en la teoría de números, lo que convierte la historia en una epopeya intelectual de la matemática.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fermat-el-teorema-de-fermat-el-problema-mas-dificil-del-mundo.jpg"
+  },
+  {
+    "id": "libro-1766255766755-f6293baf4d4c9",
+    "titulo": "Heisenberg, el principio de la incertidumbre, ¿existe el mundo cuando no lo miras?",
+    "autor": "Jesús Navarro Faus",
+    "anio": 2012,
+    "isbn": "9788447376292",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "5",
+    "categorias": [
+      "Fisica",
+      "Mecánica cuántica"
+    ],
+    "formato": "Físico",
+    "notas": "Heisenberg. El principio de incertidumbre. ¿Existe el mundo cuando no lo miras? es un libro de divulgación científica que explica de manera clara y accesible uno de los conceptos más revolucionarios de la física cuántica: el principio de incertidumbre, formulado por Werner Heisenberg en 1927. a obra, escrita por Jesús Navarro Faus, introduce al lector en las ideas fundamentales de la mecánica cuántica y en cómo el acto de observar influye en lo observado, desafiando las nociones clásicas de realidad y certeza. A través de ejemplos cotidianos, ilustraciones y un lenguaje didáctico, el autor desmitifica términos técnicos y hace que conceptos complejos sean comprensibles para lectores no especializados, invitándolos a reflexionar sobre la naturaleza de la realidad y el papel del observador en el mundo físico. El libro combina explicaciones científicas con cuestiones filosóficas sobre si “el mundo existe cuando no lo miramos”, presentando la física cuántica como un campo fascinante que desafía nuestras intuiciones sobre el universo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/heisenberg-el-principio-de-la-incertidumbre-existe-el-mundo-cuando-no-lo-miras.jpg"
+  },
+  {
     "id": "libro-1766255291757-5d9e7999b48a4",
     "titulo": "Kepler, el movimiento planetario, bailando con las estrellas",
     "autor": "Eduardo Battaner López",
