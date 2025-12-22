@@ -1,5 +1,527 @@
 [
   {
+    "id": "libro-1766367662486-1a360bfc3bf3e8",
+    "titulo": "Chandrasekhar, la evolución estelar, ha muerto una estrella",
+    "autor": "Eduardo Battaner López",
+    "anio": 2015,
+    "isbn": "9788447377824",
+    "editorial": "",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "50",
+    "categorias": [
+      "Astrofísica",
+      "Cosmología"
+    ],
+    "formato": "Físico",
+    "notas": "Chandrasekhar. La evolución estelar: Ha muerto una estrella es una obra de divulgación que explica los procesos fundamentales de la evolución estelar a partir de las contribuciones de Subrahmanyan Chandrasekhar. El libro describe cómo nacen, evolucionan y mueren las estrellas, introduciendo conceptos clave como el límite de Chandrasekhar, que determina el destino final de estrellas masivas y la formación de enanas blancas, supernovas y objetos compactos.\n\nCon un enfoque claro y accesible, la obra combina contexto histórico y explicación científica para mostrar por qué la muerte de una estrella no es un final, sino un evento crucial en la dinámica y el reciclaje del cosmos. Es una lectura ideal para comprender cómo la física gobierna los ciclos de vida estelares y moldea la estructura del universo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chandrasekhar-la-evolucion-estelar-ha-muerto-una-estrella.jpg"
+  },
+  {
+    "id": "libro-1766367528347-f685681c38534",
+    "titulo": "Landau, la superfluidez, la física que surgió del frío",
+    "autor": "Jesús Navarro Faus",
+    "anio": 2015,
+    "isbn": "9788447377800",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "48",
+    "categorias": [
+      "Fisica",
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "Landau. La superfluidez: La física que surgió del frío es una obra de divulgación que introduce el fenómeno de la superfluidez, explicado por Lev Landau para describir el comportamiento extraordinario de la materia a temperaturas extremadamente bajas. El libro muestra cómo ciertos fluidos pueden fluir sin fricción, desafiar la intuición clásica y revelar nuevas leyes cuánticas a escala macroscópica.\n\nCon un enfoque claro y contextualizado, la obra explica por qué el estudio del frío extremo abrió un territorio inédito en la física de la materia condensada, con implicancias profundas para nuestra comprensión de los estados cuánticos colectivos. Es una lectura ideal para descubrir cómo del frío surgieron algunas de las ideas más elegantes y sorprendentes de la física moderna.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/landau-la-superfluidez-la-fisica-que-surgio-del-frio.jpg"
+  },
+  {
+    "id": "libro-1766367365898-eab70afe5302b",
+    "titulo": "Cavendish, la constante gravitatoria, pura atracción",
+    "autor": "Miguel Ángel Sabadell",
+    "anio": 2015,
+    "isbn": "9788447377817",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "49",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "Cavendish. La constante gravitatoria: Pura atracción es una obra de divulgación que explica cómo Henry Cavendish logró medir por primera vez la constante gravitatoria, cuantificando la fuerza de atracción entre masas. El libro describe el célebre experimento de la balanza de torsión, que permitió “pesar la Tierra” y convertir la gravitación newtoniana en una ley medible.\n\nCon un enfoque histórico y accesible, la obra muestra por qué esta medición fue decisiva para la física y la astronomía, al fijar la escala de las fuerzas cósmicas. Es una lectura ideal para comprender cómo una atracción aparentemente débil encierra uno de los números fundamentales que gobiernan el universo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cavendish-la-constante-gravitatoria-pura-atraccion.jpg"
+  },
+  {
+    "id": "libro-1766367212815-734f4650e9a328",
+    "titulo": "Poincaré, la topología, las matemáticas pierden las formas",
+    "autor": "Alberto Pérez Izquierdo",
+    "anio": 2015,
+    "isbn": "9788447377794",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "47",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Poincaré. La topología: Las matemáticas pierden las formas es una obra de divulgación que introduce las ideas fundamentales de la topología, disciplina impulsada por Henri Poincaré, en la que las propiedades esenciales de los objetos no dependen de su forma exacta sino de cómo están conectados. El libro explica, de manera intuitiva, conceptos como continuidad, deformaciones y equivalencia topológica, mostrando por qué una taza y una rosquilla pueden considerarse “lo mismo” desde este punto de vista.\n\nCon un enfoque histórico y accesible, la obra revela cómo la topología transformó la matemática moderna y abrió caminos en la física, la dinámica y la cosmología. Es una lectura ideal para comprender por qué, en este nuevo lenguaje, las matemáticas “pierden las formas” para ganar profundidad conceptual.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/poincare-la-topologia-las-matematicas-pierden-las-formas.jpg"
+  },
+  {
+    "id": "libro-1766367014839-68fb3b35655f28",
+    "titulo": "Boyle, la ley de Boyle, bajo presión",
+    "autor": "Eugenio Fernández Aguilar",
+    "anio": 2014,
+    "isbn": "9788447377787",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "46",
+    "categorias": [
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "Boyle. La ley de Boyle: Bajo presión es una obra de divulgación que presenta uno de los principios fundamentales del comportamiento de los gases, formulado por Robert Boyle. El libro explica de manera clara la relación inversa entre presión y volumen, mostrando cómo, a temperatura constante, un gas se comprime o expande según las condiciones externas.\n\nCon un enfoque histórico y accesible, la obra conecta experimentos sencillos con aplicaciones reales en física, química e ingeniería, desde la respiración hasta los sistemas industriales. Es una lectura ideal para comprender por qué “bajo presión” los gases obedecen leyes simples que ayudaron a consolidar el método experimental en la ciencia moderna.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/boyle-la-ley-de-boyle-bajo-presion.jpg"
+  },
+  {
+    "id": "libro-1766366853413-0d442321320d88",
+    "titulo": "Pauli, el espín, los electrones bailan",
+    "autor": "Juan Antonio Caballero Carretero",
+    "anio": 2014,
+    "isbn": "9788447377770",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "45",
+    "categorias": [
+      "Química"
+    ],
+    "formato": "Físico",
+    "notas": "Pauli. El espín: Los electrones bailan es una obra de divulgación que introduce uno de los conceptos más sutiles y fundamentales de la física cuántica: el espín, formulado por Wolfgang Pauli. El libro explica cómo esta propiedad intrínseca de los electrones —lejos de ser una rotación clásica— gobierna su comportamiento cuántico y da lugar a reglas esenciales como el principio de exclusión de Pauli.\n\nCon un enfoque claro y metafórico, la obra muestra cómo el espín determina la estructura electrónica de los átomos, la tabla periódica, el magnetismo y muchas propiedades de la materia. Es una lectura accesible para comprender por qué, en el mundo cuántico, los electrones “bailan” siguiendo reglas precisas que sostienen la química y la física modernas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pauli-el-espin-los-electrones-bailan.jpg"
+  },
+  {
+    "id": "libro-1766366725189-a13d1cd5ca1eb",
+    "titulo": "Fisher, la inferencia estadística. probablemente sí, probablemente no",
+    "autor": "Carlos M. Madrid Casado",
+    "anio": 2014,
+    "isbn": "9788447377763",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "44",
+    "categorias": [
+      "Estadistica"
+    ],
+    "formato": "Físico",
+    "notas": "Fisher. La inferencia estadística: Probablemente sí, probablemente no es una obra de divulgación que introduce los fundamentos de la inferencia estadística a partir de las ideas de Ronald Aylmer Fisher, una de las figuras clave de la estadística moderna. El libro explica cómo, a partir de datos limitados y sujetos a incertidumbre, es posible extraer conclusiones racionales, evaluar hipótesis y cuantificar la probabilidad de error.\n\nCon un lenguaje accesible y ejemplos intuitivos, la obra aborda conceptos como probabilidad, significancia estadística y contraste de hipótesis, mostrando por qué en ciencia rara vez hay certezas absolutas y casi siempre se decide entre “probablemente sí” o “probablemente no”. Es una lectura ideal para comprender el papel central de la estadística en la investigación científica y en la toma de decisiones informadas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fisher-la-inferencia-estadistica-probablemente-si-probablemente-no.jpg"
+  },
+  {
+    "id": "libro-1766366559819-beb04d5ab9c2b",
+    "titulo": "Helmholtz, la conservación de la energía, sin fecha de caducidad",
+    "autor": "José Enrique Amaro Soriano",
+    "anio": 2014,
+    "isbn": "9788447377756",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "43",
+    "categorias": [
+      "Fisica",
+      "Termodinámica",
+      "Energía"
+    ],
+    "formato": "Físico",
+    "notas": "Helmholtz. La conservación de la energía: Sin fecha de caducidad es una obra de divulgación que presenta uno de los principios más universales de la física: la conservación de la energía, formulado y consolidado por Hermann von Helmholtz. El libro explica cómo la energía no se crea ni se destruye, sino que se transforma, unificando fenómenos mecánicos, térmicos, eléctricos y químicos bajo una misma ley.\n\nCon un enfoque histórico y accesible, la obra muestra por qué este principio sigue siendo válido “sin fecha de caducidad”, desde la física clásica hasta la ciencia y la ingeniería modernas. Es una lectura ideal para comprender cómo una idea fundamental dio coherencia a la física del siglo XIX y continúa sustentando nuestra comprensión del mundo natural.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/helmholtz-la-conservacion-de-la-energia-sin-fecha-de-caducidad.jpg"
+  },
+  {
+    "id": "libro-1766366393241-85ba55756f9bf8",
+    "titulo": "Gamow, el Big Bang, el conocimiento en expansión",
+    "autor": "Antonio Lallena Rojo",
+    "anio": 2014,
+    "isbn": "9788447377749",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "42",
+    "categorias": [
+      "Fisica",
+      "Cosmología"
+    ],
+    "formato": "Físico",
+    "notas": "Gamow. El Big Bang: El conocimiento en expansión es una obra de divulgación que presenta las ideas fundamentales del Big Bang a partir de los aportes de George Gamow. El libro explica cómo el universo tuvo un origen caliente y denso y cómo su expansión da sentido a observaciones clave como la radiación de fondo y la abundancia de los elementos ligeros.\n\nCon un estilo claro y pedagógico, la obra combina ciencia, historia y reflexión para mostrar cómo el conocimiento cosmológico ha ido creciendo junto con la expansión del propio universo. Es una lectura ideal para comprender por qué el Big Bang se convirtió en el marco central de la cosmología moderna y cómo Gamow ayudó a acercar estas ideas al gran público.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gamow-el-big-bang-el-conocimiento-en-expansion.jpg"
+  },
+  {
+    "id": "libro-1766366163082-728a59aa4980d",
+    "titulo": "Riemann, la geometría diferencial, la matemática traspasa fronteras",
+    "autor": "Gustavo Ernesto Piñeiro",
+    "anio": 2014,
+    "isbn": "9788447377732",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "41",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Riemann. La geometría diferencial: La matemática traspasa fronteras es una obra de divulgación que introduce las ideas revolucionarias de Bernhard Riemann, quien transformó la geometría al extenderla más allá del espacio euclidiano. El libro explica cómo la geometría diferencial permite estudiar superficies y espacios curvos, abriendo nuevas formas de describir el espacio y sus propiedades.\n\nCon un enfoque histórico y accesible, la obra muestra el impacto profundo de las ideas de Riemann en la matemática moderna y en la física, especialmente en la teoría de la relatividad. Es una lectura ideal para comprender cómo la matemática “traspasa fronteras”, ampliando nuestra visión del espacio, la forma y la estructura del universo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/riemann-la-geometria-diferencial-la-matematica-traspasa-fronteras.jpg"
+  },
+  {
+    "id": "libro-1766366090533-4d5f1d495011a",
+    "titulo": "Hooke, la ley de Hooke. estiramientos para recuperar la forma",
+    "autor": "Enrique Gracián",
+    "anio": 2013,
+    "isbn": "9788447376810",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "40",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "Hooke. La ley de Hooke: Estiramientos para recuperar la forma es una obra de divulgación que explica de manera clara el principio formulado por Robert Hooke, según el cual la deformación de un cuerpo elástico es proporcional a la fuerza aplicada, dentro de ciertos límites. El libro introduce conceptos como elasticidad, esfuerzo y deformación, fundamentales para comprender el comportamiento mecánico de materiales.\n\nCon un enfoque intuitivo y apoyado en ejemplos cotidianos, la obra muestra cómo esta ley permite describir resortes, estructuras y materiales reales, conectando la física teórica con aplicaciones en ingeniería y ciencia de materiales. Es una lectura accesible para entender cómo los “estiramientos” explican la capacidad de los cuerpos para recuperar su forma y por qué la ley de Hooke sigue siendo clave en la física clásica.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hooke-la-ley-de-hooke-estiramientos-para-recuperar-la-forma.jpg"
+  },
+  {
+    "id": "libro-1766365949866-b65bff926a28b",
+    "titulo": "Edison, la iluminación eléctrica, una idea auténticamente brillante",
+    "autor": "Marcos Jaén Sánchez",
+    "anio": 2013,
+    "isbn": "9788447376711",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "39",
+    "categorias": [
+      "Electricidad"
+    ],
+    "formato": "Físico",
+    "notas": "Edison. La iluminación eléctrica: Una idea auténticamente brillante es una obra de divulgación que presenta el impacto de Thomas Alva Edison en el desarrollo de la iluminación eléctrica y en la electrificación de la vida cotidiana. El libro explica cómo la mejora de la bombilla incandescente fue parte de un sistema tecnológico completo —generación, distribución y uso de la electricidad— que transformó ciudades, industrias y hábitos sociales.\n\nCon un enfoque histórico y accesible, la obra destaca el método práctico de Edison, basado en la experimentación sistemática y la innovación aplicada, mostrando por qué su aporte fue mucho más que un invento aislado. Es una lectura ideal para comprender cómo una “idea auténticamente brillante” iluminó el camino hacia la era eléctrica moderna.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/edison-la-iluminacion-electrica-una-idea-autenticamente-brillante.jpg"
+  },
+  {
+    "id": "libro-1766365743489-0c5f2598b2cde8",
+    "titulo": "Huygens, la teoría ondulatoria de la luz, un rayo atrapado en una onda",
+    "autor": "David Blanco Laserna",
+    "anio": 2013,
+    "isbn": "9788447376803",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "38",
+    "categorias": [
+      "Fisica",
+      "Optica"
+    ],
+    "formato": "Físico",
+    "notas": "Huygens. La teoría ondulatoria de la luz: Un rayo atrapado en una onda es una obra de divulgación que introduce la teoría ondulatoria de la luz propuesta por Christiaan Huygens. El libro explica cómo la luz puede entenderse como una onda que se propaga, permitiendo comprender fenómenos como la reflexión, la refracción y la difracción, en contraste con las concepciones puramente corpusculares.\n\nCon un enfoque histórico y accesible, la obra muestra la importancia del principio de Huygens y su influencia decisiva en el desarrollo posterior de la óptica y la física moderna. Es una lectura ideal para entender cómo un “rayo atrapado en una onda” cambió nuestra forma de interpretar la naturaleza de la luz y abrió el camino a la óptica contemporánea.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/huygens-la-teoria-ondulatoria-de-la-luz-un-rayo-atrapado-en-una-onda.jpg"
+  },
+  {
+    "id": "libro-1766365576008-df4130321a6988",
+    "titulo": "Ampère, la electrodinámica clásica, objetos eléctricos aún no identificados",
+    "autor": "Eugenio Fernández Aguilar",
+    "anio": 2013,
+    "isbn": "9788447376773",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "37",
+    "categorias": [
+      "Electrodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "Ampère. La electrodinámica clásica: Objetos eléctricos aún no identificados es una obra de divulgación que presenta los fundamentos de la electrodinámica clásica a partir de los aportes de André-Marie Ampère. El libro explica cómo Ampère formuló las leyes que describen la interacción entre corrientes eléctricas y campos magnéticos, sentando las bases teóricas de la electricidad moderna.\n\nCon un enfoque histórico y accesible, la obra muestra cómo fenómenos eléctricos inicialmente enigmáticos —“objetos eléctricos aún no identificados”— adquirieron sentido mediante leyes precisas y mediciones rigurosas, dando origen a conceptos clave como la corriente eléctrica y su unidad de medida. Es una lectura ideal para comprender el nacimiento de la electrodinámica y su impacto duradero en la física y la ingeniería eléctrica.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ampere-la-electrodinamica-clasica-objetos-electricos-aun-no-identificados.jpg"
+  },
+  {
+    "id": "libro-1766365438281-c85eb4561bf118",
+    "titulo": "Tesla, la corriente alterna, la electricidad tiene un doble sentido",
+    "autor": "Marcos Jaén Sánchez",
+    "anio": 2013,
+    "isbn": "9788447376780",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "36",
+    "categorias": [
+      "Electricidad"
+    ],
+    "formato": "Físico",
+    "notas": "Tesla. La corriente alterna: La electricidad tiene un doble sentido es una obra de divulgación que presenta las ideas y aportes de Nikola Tesla en torno a la corriente alterna, fundamento de los sistemas eléctricos modernos. El libro explica, de manera clara y accesible, por qué la corriente alterna permitió transportar electricidad a grandes distancias con mayor eficiencia y cómo superó a los sistemas de corriente continua en la electrificación del mundo.\n\nCon un enfoque histórico y didáctico, la obra muestra el ingenio de Tesla, sus innovaciones en motores y transformadores, y el impacto tecnológico y social de la corriente alterna. Es una lectura ideal para comprender por qué la electricidad “tiene un doble sentido” y cómo esta idea cambió para siempre la forma en que producimos y usamos la energía eléctrica.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tesla-la-corriente-alterna-la-electricidad-tiene-un-doble-sentido.jpg"
+  },
+  {
+    "id": "libro-1766365266615-95739b9ad72038",
+    "titulo": "Von Neumann, la teoría de los juegos, piedra, papel, teorema",
+    "autor": "Enrique Gracián",
+    "anio": 2013,
+    "isbn": "9788447376759",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "35",
+    "categorias": [
+      "Computación",
+      "Informática"
+    ],
+    "formato": "Físico",
+    "notas": "Von Neumann. La teoría de juegos: Piedra, papel, teorema es una obra de divulgación que introduce los fundamentos de la teoría de juegos a partir de las ideas de John von Neumann. El libro explica cómo situaciones de conflicto, cooperación y decisión racional pueden modelarse matemáticamente, desde juegos simples hasta problemas complejos de economía, estrategia y política.\n\nCon un enfoque claro y didáctico, la obra presenta conceptos clave como estrategias, equilibrio y juegos de suma cero, mostrando por qué un juego tan cotidiano como “piedra, papel o tijera” encierra teoremas profundos. Es una lectura ideal para comprender cómo las matemáticas pueden describir el comportamiento estratégico y por qué la teoría de juegos se convirtió en una herramienta central de las ciencias sociales y la toma de decisiones.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/von-neumann-la-teoria-de-los-juegos-piedra-papel-teorema.jpg"
+  },
+  {
+    "id": "libro-1766365107381-5249aab792ac78",
+    "titulo": "Hilbert, las bases de la matemática, en el principio fue el axioma",
+    "autor": "Carlos M. Madrid Casado",
+    "anio": 2013,
+    "isbn": "9788447376797",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "34",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Hilbert. Las bases de la matemática: En el principio fue el axioma es una obra de divulgación que presenta el ambicioso proyecto de David Hilbert por fundamentar toda la matemática sobre sistemas axiomáticos rigurosos. El libro explica, de forma clara y accesible, qué son los axiomas, por qué resultan esenciales para construir teorías coherentes y cómo el programa de Hilbert buscó garantizar consistencia, completitud y rigor en las matemáticas.\n\nCon un enfoque histórico y conceptual, la obra aborda el impacto de estas ideas en la lógica y la filosofía de la matemática, así como los límites revelados posteriormente por Gödel. Es una lectura ideal para comprender por qué “en el principio fue el axioma” y cómo la formalización axiomática marcó un punto de inflexión en el pensamiento matemático moderno.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hilbert-las-bases-de-la-matematica-en-el-principio-fue-el-axioma.jpg"
+  },
+  {
+    "id": "libro-1766364957707-2dda60e950d2f8",
+    "titulo": "Meitner, la fisión nuclear. uranio partido por dos, igual a energía",
+    "autor": "Roger Corcho Orrit",
+    "anio": 2013,
+    "isbn": "9788447376735",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "33",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "Meitner. La fisión nuclear: Uranio partido por dos, igual a energía es una obra de divulgación que explica el descubrimiento de la fisión nuclear a partir del trabajo fundamental de Lise Meitner. El libro relata cómo la división del núcleo de uranio libera enormes cantidades de energía, clarificando el significado físico de la célebre relación entre masa y energía.\n\nCon un enfoque histórico y accesible, la obra destaca el papel crucial —y durante mucho tiempo subestimado— de Meitner en la interpretación teórica de la fisión, así como las consecuencias científicas y tecnológicas de este hallazgo. Es una lectura ideal para comprender cómo un avance en la física nuclear transformó la ciencia del siglo XX y abrió debates profundos sobre el uso de la energía atómica.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/meitner-la-fision-nuclear-uranio-partido-por-dos-igual-a-energia.jpg"
+  },
+  {
+    "id": "libro-1766364724315-2da01500aed188",
+    "titulo": "Dirac, la antimateria, el reflejo oscuro de la materia",
+    "autor": "Juan Antonio Caballero Carretero",
+    "anio": 2013,
+    "isbn": "9788447376766",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "32",
+    "categorias": [
+      "Matemáticas",
+      "Mecánica Cuántica"
+    ],
+    "formato": "Físico",
+    "notas": "Dirac. La antimateria: El reflejo oscuro de la materia es una obra de divulgación que presenta una de las ideas más sorprendentes de la física moderna: la existencia de la antimateria, predicha teóricamente por Paul Dirac. El libro explica cómo, al unificar la mecánica cuántica con la relatividad, Dirac llegó a una ecuación que implicaba partículas “espejo” de la materia ordinaria, con la misma masa pero carga opuesta.\n\nCon un enfoque claro y accesible, la obra recorre el contexto histórico del descubrimiento del positrón, las implicancias conceptuales de la antimateria y su relevancia en la física de partículas y la cosmología. Es una lectura ideal para comprender por qué la antimateria puede verse como el “reflejo oscuro” de la materia y cómo una predicción matemática terminó revelando una nueva dimensión de la realidad física.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/dirac-la-antimateria-el-reflejo-oscuro-de-la-materia.jpg"
+  },
+  {
+    "id": "libro-1766364537146-720f149234f938",
+    "titulo": "Lord Kelvin, la termodinámica clásica, la física entra en calor",
+    "autor": "Antonio Lallena Rojo",
+    "anio": 2013,
+    "isbn": "9788447376742",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "31",
+    "categorias": [
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "Lord Kelvin. La termodinámica clásica: La física entra en calor es una obra de divulgación que presenta los fundamentos de la termodinámica clásica a partir de las contribuciones de William Thomson, Lord Kelvin. El libro explica conceptos esenciales como temperatura absoluta, energía, entropía y las leyes de la termodinámica, mostrando cómo estas ideas permitieron comprender el calor, el trabajo y la eficiencia de las máquinas.\n\nCon un enfoque histórico y didáctico, la obra destaca el impacto de la termodinámica en la física y la ingeniería —desde la revolución industrial hasta la ciencia moderna— y por qué “la física entra en calor” cuando el estudio del calor se convierte en un pilar conceptual. Es una lectura accesible para entender uno de los marcos teóricos más influyentes de la ciencia.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lord-kelvin-la-termodinamica-clasica-la-fisica-entra-en-calor.jpg"
+  },
+  {
+    "id": "libro-1766364369900-cf7463d9e7e2f",
+    "titulo": "Cantor, el infinito en matemáticas, lo incontable es lo que cuenta",
+    "autor": "Gustavo Ernesto Piñeiro",
+    "anio": 2013,
+    "isbn": "9788447376728",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "30",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Cantor. El infinito en matemáticas: Lo incontable es lo que cuenta es una obra de divulgación que introduce las ideas revolucionarias de Georg Cantor sobre el infinito. El libro explica de forma clara la distinción entre infinitos numerables y no numerables, mostrando cómo Cantor demostró que no todos los infinitos son iguales y que algunos “contienen” a otros.\n\nCon un enfoque histórico y pedagógico, la obra presenta conceptos como conjuntos, cardinalidad y el argumento diagonal, resaltando el impacto profundo de estas ideas en la matemática moderna y en la filosofía del conocimiento. Es una lectura accesible para comprender por qué lo “incontable” es, paradójicamente, lo que más cuenta en la comprensión del infinito matemático.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cantor-el-infinito-en-matematicas-lo-incontable-es-lo-que-cuenta.jpg"
+  },
+  {
+    "id": "libro-1766363835992-904fd039961178",
+    "titulo": "Lavoisier, la química moderna, la revolución está en el aire",
+    "autor": "Adela Muñoz Páez",
+    "anio": 2013,
+    "isbn": "9788447376704",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "29",
+    "categorias": [
+      "Química"
+    ],
+    "formato": "Físico",
+    "notas": "Lavoisier. La química moderna: La revolución está en el aire es una obra de divulgación que presenta el nacimiento de la química moderna a partir de los aportes de Antoine Lavoisier. El libro explica cómo la introducción del método experimental cuantitativo, la ley de conservación de la masa y una nueva nomenclatura química transformaron radicalmente la disciplina, dejando atrás explicaciones cualitativas como la teoría del flogisto.\n\nCon un enfoque histórico y accesible, la obra muestra cómo el estudio del aire, la combustión y los gases impulsó una auténtica revolución científica y conceptual. Es una lectura ideal para comprender por qué Lavoisier cambió la forma de hacer química y sentó las bases del lenguaje y los métodos que aún hoy estructuran la ciencia química.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lavoisier-la-quimica-moderna-la-revolucion-esta-en-el-aire.jpg"
+  },
+  {
+    "id": "libro-1766363602936-e7388507b58ab8",
+    "titulo": "Hubble, la expansión del universo, el cosmos se hace mayor",
+    "autor": "Eduardo Battaner, Eduardo Battaner López",
+    "anio": 2013,
+    "isbn": "9788447376698",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "28",
+    "categorias": [
+      "Astronomía"
+    ],
+    "formato": "Físico",
+    "notas": "Hubble. La expansión del universo: El cosmos se hace mayor es una obra de divulgación que explica de manera clara el descubrimiento fundamental de Edwin Hubble: el universo no es estático, sino que se expande. El libro describe cómo la observación de galaxias lejanas y el corrimiento al rojo llevó a formular la ley de Hubble, transformando nuestra comprensión del cosmos.\n\nCon un enfoque histórico y accesible, la obra muestra el impacto de este hallazgo en la cosmología moderna, abriendo el camino a teorías como el Big Bang y a la medición de la escala del universo. Es una lectura ideal para comprender por qué el cosmos “se hace mayor” y cómo una observación astronómica cambió para siempre nuestra visión del espacio y del tiempo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hubble-la-expansion-del-universo-el-cosmos-se-hace-mayor.jpg"
+  },
+  {
+    "id": "libro-1766363456197-5e103a9d70a048",
+    "titulo": "Leibniz, el cálculo infinitesimal, la física aprende un nuevo idioma",
+    "autor": "José Muñoz Santonja",
+    "anio": 2013,
+    "isbn": "9788447376681",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "27",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Leibniz. El cálculo infinitesimal: La física aprende un nuevo idioma es una obra de divulgación que explica cómo Gottfried Wilhelm Leibniz contribuyó decisivamente al nacimiento del cálculo infinitesimal, el lenguaje matemático que permitió describir el cambio continuo en la naturaleza. El libro muestra cómo conceptos como derivadas e integrales se convirtieron en herramientas esenciales para la física, posibilitando el análisis del movimiento, la dinámica y los procesos naturales con una precisión inédita.\n\nCon un enfoque histórico y pedagógico, la obra destaca la potencia simbólica del método de Leibniz y su influencia duradera en la ciencia moderna. Es una lectura accesible para comprender por qué el cálculo representó un “nuevo idioma” para la física y marcó un antes y un después en la forma de pensar y modelar el mundo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/leibniz-el-calculo-infinitesimal-la-fisica-aprende-un-nuevo-idioma.jpg"
+  },
+  {
+    "id": "libro-1766363301160-8a40840a5572d",
+    "titulo": "Niels Bohr, el átomo cuántico, pasaporte cuántico a otro estado",
+    "autor": "Jaume Navarro, Jaume Navarro Vives",
+    "anio": 2013,
+    "isbn": "9788447376513",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "26",
+    "categorias": [
+      "Fisica",
+      "Mecánica cuántica"
+    ],
+    "formato": "Físico",
+    "notas": "Niels Bohr. El átomo cuántico: Pasaporte cuántico a otro estado es una obra de divulgación que introduce de forma clara los principios del modelo atómico cuántico propuesto por Niels Bohr. El libro explica cómo los electrones solo pueden ocupar niveles de energía discretos y cómo los “saltos cuánticos” entre estos estados permiten comprender la emisión y absorción de luz por los átomos.\n\nCon un enfoque histórico y pedagógico, la obra muestra el papel clave del modelo de Bohr en la transición desde la física clásica a la cuántica, sentando las bases para desarrollos posteriores de la mecánica cuántica. Es una lectura accesible para entender por qué el átomo cuántico implica un verdadero “pasaporte a otro estado” de la ciencia y del pensamiento físico.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/niels-bohr-el-atomo-cuantico-pasaporte-cuantico-a-otro-estado.jpg"
+  },
+  {
+    "id": "libro-1766363083616-af44b426b22d48",
+    "titulo": "Maxwell, la síntesis electromagnética, magnetismo de alto voltaje",
+    "autor": "Miguel Ángel Sabadell",
+    "anio": 2013,
+    "isbn": "9788447376506",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "25",
+    "categorias": [
+      "Fisica",
+      "Electricidad",
+      "Magnetismo"
+    ],
+    "formato": "Físico",
+    "notas": "Maxwell. La síntesis electromagnética: Magnetismo ad alto voltaggio es una obra de divulgación que presenta la unificación de la electricidad y el magnetismo lograda por James Clerk Maxwell. El libro explica, de manera accesible, cómo las ecuaciones de Maxwell integran fenómenos eléctricos, magnéticos y ópticos en un marco coherente, sentando las bases del electromagnetismo moderno.\n\nCon ejemplos intuitivos y contexto histórico, la obra muestra el impacto de esta síntesis en tecnologías clave —desde motores y transformadores hasta telecomunicaciones— y por qué puede hablarse de un “magnetismo a alto voltaje” como metáfora del poder explicativo y práctico de la teoría. Es una lectura ideal para comprender uno de los pilares conceptuales de la física y la ingeniería contemporáneas sin recurrir a formalismos matemáticos complejos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/maxwell-la-sintesis-electromagnetica-magnetismo-de-alto-voltaje.jpg"
+  },
+  {
+    "id": "libro-1766362935581-fb464e86cd93b8",
+    "titulo": "Fermi, la energía nuclear, la fisión hace la fuerza",
+    "autor": "Antonio Hernández Fernández",
+    "anio": 2013,
+    "isbn": "9788447376490",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "24",
+    "categorias": [
+      "Fisica",
+      "Energía Nuclear"
+    ],
+    "formato": "Físico",
+    "notas": "Fermi. La energía nuclear: La fisión hace la fuerza es una obra de divulgación que introduce de forma clara los fundamentos de la energía nuclear a partir de los aportes de Enrico Fermi. El libro explica qué es la fisión nuclear, cómo se libera la enorme energía contenida en el núcleo atómico y por qué este proceso permitió el desarrollo de reactores nucleares y nuevas aplicaciones científicas y tecnológicas.\n\nCon un enfoque histórico y didáctico, la obra muestra el papel decisivo de Fermi en la comprensión y control de las reacciones nucleares en cadena, así como las implicancias científicas y sociales de este descubrimiento. Es una lectura accesible para comprender cómo la fisión “hace la fuerza” y por qué la energía nuclear marcó un punto de inflexión en la historia de la ciencia y la tecnología del siglo XX.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fermi-la-energia-nuclear-la-fision-hace-la-fuerza.jpg"
+  },
+  {
+    "id": "libro-1766362704061-b143c14aebd5d",
+    "titulo": "Rutherford, el núcleo atómico, los átomos también tienen corazón",
+    "autor": "Roger Corcho Orrit",
+    "anio": 2013,
+    "isbn": "9788447376469",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "23",
+    "categorias": [
+      "Fisica"
+    ],
+    "formato": "Físico",
+    "notas": "Rutherford. El núcleo atómico: Los átomos también tienen corazón es una obra de divulgación que explica el descubrimiento del núcleo atómico a partir de los experimentos de Ernest Rutherford. El libro relata cómo, mediante el célebre experimento de la lámina de oro, se demostró que el átomo posee un centro pequeño, denso y cargado positivamente, revolucionando el modelo atómico clásico.\n\nCon un lenguaje claro y apoyado en el contexto histórico, la obra muestra cómo este hallazgo transformó la física y abrió el camino a la física nuclear y a la comprensión moderna de la estructura de la materia. Es una lectura accesible para entender por qué puede decirse que los átomos “también tienen corazón” y cómo este descubrimiento cambió para siempre nuestra visión del mundo microscópico.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/rutherford-el-nucleo-atomico-los-atomos-tambien-tienen-corazon.jpg"
+  },
+  {
+    "id": "libro-1766362569819-057814b5e32ec",
+    "titulo": "Dalton, la teoría atómica, ¿cuánto pesan los átomos?",
+    "autor": "Enrique Joven",
+    "anio": 2013,
+    "isbn": "9788447376483",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "22",
+    "categorias": [
+      "Química"
+    ],
+    "formato": "Físico",
+    "notas": "Dalton. La teoría atómica: ¿Cuánto pesan los átomos? es una obra de divulgación que presenta de forma clara el surgimiento de la teoría atómica moderna a partir del trabajo de John Dalton. El libro explica cómo Dalton introdujo la idea de que la materia está compuesta por átomos con masas definidas, sentando las bases de la estequiometría y de la química cuantitativa.\n\nA través de ejemplos históricos y explicaciones sencillas, la obra muestra cómo la pregunta aparentemente simple —¿cuánto pesan los átomos?— condujo a una revolución científica que permitió comparar sustancias, formular leyes químicas y avanzar hacia la comprensión moderna de la materia. Es una lectura ideal para entender el origen conceptual de la química moderna y su impacto en la ciencia y la industria.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/dalton-la-teoria-atomica-cuanto-pesan-los-atomos.jpg"
+  },
+  {
+    "id": "libro-1766362419600-157ba18a8803c",
+    "titulo": "Euler, el análisis matemático, números al límite",
+    "autor": "Joaquín Navarro",
+    "anio": 2012,
+    "isbn": "9788447376421",
+    "editorial": "RBA",
+    "coleccion": "Grandes ideas de la ciencia",
+    "vol": "20",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Euler. El análisis matemático: Números al límite es una obra de divulgación que introduce de manera clara e intuitiva las ideas centrales del análisis matemático a través de la figura de Leonhard Euler. El libro explica conceptos como límite, continuidad, series y funciones, mostrando cómo estas nociones permiten describir fenómenos de cambio y movimiento en la ciencia y la ingeniería.\n\nCon un enfoque histórico y pedagógico, la obra destaca la enorme influencia de Euler en la formalización del cálculo moderno y en el lenguaje matemático que aún utilizamos. Es una lectura accesible para curiosos y estudiantes que desean comprender qué significa “llevar los números al límite” y por qué el análisis matemático se convirtió en una de las herramientas más poderosas de la ciencia moderna.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/euler-el-analisis-matematico-numeros-al-limite.jpg"
+  },
+  {
     "id": "libro-1766358921886-864102b1a2e1c8",
     "titulo": "Faraday, la inducción electromagnética, ciencia de alta tensión",
     "autor": "Sergio Parra Castillo",
@@ -8,11 +530,14 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
-    "categorias": [],
+    "categorias": [
+      "Electromagnetismo",
+      "Electricidad"
+    ],
     "formato": "Físico",
-    "notas": "",
+    "notas": "Faraday. La inducción electromagnética: Ciencia de alta tensión es una obra de divulgación que presenta de manera clara y accesible los principios de la inducción electromagnética, a partir de los descubrimientos de Michael Faraday. El libro explica cómo la relación entre electricidad y magnetismo dio origen a tecnologías fundamentales como generadores, transformadores y motores eléctricos.\n\nCon un enfoque intuitivo y apoyado en ejemplos históricos, la obra destaca el valor del experimento y la observación frente al formalismo matemático, rasgo distintivo del método de Faraday. Es una lectura ideal para comprender cómo una idea científica aparentemente simple desencadenó la electrificación del mundo moderno y sentó las bases de la ingeniería eléctrica contemporánea.",
     "comentarios": "",
-    "portada": ""
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/faraday-la-induccion-electromagnetica-ciencia-de-alta-tension.jpg"
   },
   {
     "id": "libro-1766358405533-4fbc41bd1cfbb",
@@ -23,14 +548,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "18",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "Marie Curie. La radiactividad y los elementos: El secreto mejor guardado de la materia es una obra de divulgación que presenta, de forma clara y accesible, los descubrimientos que transformaron nuestra comprensión de la materia. A través de la figura de Marie Curie, el libro explica qué es la radiactividad, cómo reveló la estructura íntima de los átomos y por qué abrió el camino a nuevas áreas de la física, la química y la medicina.\n\nMás allá del contenido científico, la obra destaca el rigor, la perseverancia y el compromiso ético de Curie, mostrando el impacto profundo de sus hallazgos en la ciencia moderna. Es una lectura ideal para quienes desean comprender uno de los grandes avances del siglo XX y el papel decisivo de una de las científicas más influyentes de la historia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/marie-curie-la-radiactividad-y-los-elementos-el-secreto-mejor-guardado-de-la-materia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/marie-curie-la-radiactividad-y-los-elementos-el-secreto-mejor-guardado-de-la-materia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766358236172-281f341d555c18",
@@ -41,14 +567,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "17",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Lógica"
     ],
-    "formato": "Físico",
     "notas": "Gödel. Los teoremas de incompletitud: La intuición tiene su lógica es un libro de divulgación que presenta de forma clara y sugerente el impacto de los teoremas de incompletitud formulados por Kurt Gödel, uno de los hitos intelectuales más profundos del siglo XX. La obra explica cómo Gödel demostró que en cualquier sistema lógico suficientemente potente existen proposiciones verdaderas que no pueden demostrarse dentro del propio sistema, rompiendo el ideal de una matemática completa y cerrada.\n\nCon un lenguaje accesible y apoyándose en ejemplos intuitivos, el libro muestra que la intuición cumple un papel esencial en el razonamiento matemático y que la lógica formal tiene límites inherentes. Más allá de las matemáticas, la obra invita a reflexionar sobre las consecuencias filosóficas de estos resultados en la ciencia, el conocimiento y la idea misma de verdad, convirtiéndose en una lectura fundamental para comprender los límites del pensamiento formal.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/godel-los-teoremas-de-incompletitud-la-intuicion-tiene-su-logica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/godel-los-teoremas-de-incompletitud-la-intuicion-tiene-su-logica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766358030555-5f2e896176557",
@@ -59,13 +586,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "16",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Feynman. La electrodinámica cuántica: Cuando un fotón conoce a un electrón es una obra de divulgación que presenta, con el estilo claro y provocador de Richard Feynman, los principios básicos de la electrodinámica cuántica (QED), una de las teorías más precisas de la física moderna. A través de metáforas, ejemplos sencillos y los célebres diagramas de Feynman, el libro explica cómo interactúan la luz (fotones) y la materia (electrones) sin recurrir a formalismos matemáticos complejos.\n\nMás que un tratado técnico, la obra transmite una intuición física profunda sobre el comportamiento del mundo microscópico y el modo en que la probabilidad gobierna las interacciones cuánticas. Es una lectura ideal para curiosos, estudiantes y amantes de la ciencia que deseen comprender cómo funciona la física cuántica “desde dentro”, guiados por uno de sus mayores protagonistas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/feynman-la-electrodinamica-cuantica-cuando-un-foton-conoce-a-un-electron.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/feynman-la-electrodinamica-cuantica-cuando-un-foton-conoce-a-un-electron.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766357718670-29dd22a3ff1fd",
@@ -76,14 +604,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Computación",
       "Informática"
     ],
-    "formato": "Físico",
     "notas": "Turing. La computación: Pensando en máquinas que piensan es una obra de divulgación que introduce de manera clara y sugerente las ideas fundamentales de Alan Turing, uno de los padres de la computación moderna. El libro explica cómo surgieron conceptos clave como el algoritmo, la máquina de Turing y el famoso test de Turing, que plantea la pregunta de si una máquina puede pensar.\n\nCon un lenguaje accesible y ejemplos intuitivos, la obra conecta los fundamentos teóricos de la computación con debates actuales sobre inteligencia artificial, mente y conciencia, mostrando la vigencia del pensamiento de Turing. Es una lectura ideal para quienes desean comprender el origen intelectual de los computadores y reflexionar sobre los límites y posibilidades de las máquinas pensantes, sin requerir formación técnica avanzada.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/turing-la-computacion-pensando-en-maquinas-que-piensan.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/turing-la-computacion-pensando-en-maquinas-que-piensan.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766357568212-98769023d9e02",
@@ -94,14 +623,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "13",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Astronomía"
     ],
-    "formato": "Físico",
     "notas": "«Laplace, La mecánica celeste: ¡Este universo funciona como un reloj!» es un libro de divulgación científica e histórica que explora la vida y obra de Pierre-Simon Laplace, uno de los más grandes científicos de la era clásica, y su monumental contribución a la mecánica celeste.\n\nLa obra presenta de forma clara y accesible cómo Laplace formalizó y amplió la teoría gravitatoria de Newton, desarrollando herramientas matemáticas para describir el movimiento de los planetas, las lunas y los cometas con precisión extraordinaria. A través de ejemplos, anécdotas y explicaciones intuitivas, el autor muestra cómo Laplace concibió el universo como un sistema determinista y altamente ordenado, comparable a un reloj cósmico, donde las leyes físicas gobiernan cada órbita y cada trayectoria.\n\nAdemás de explicar conceptos científicos, el libro sitúa las ideas de Laplace en su contexto histórico, destacando cómo su obra —especialmente Mécanique Céleste— transformó nuestra comprensión del cosmos y anticipó enfoques modernos en astronomía y física matemática.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/laplace-la-mecanica-celeste-este-universo-funciona-como-un-reloj.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/laplace-la-mecanica-celeste-este-universo-funciona-como-un-reloj.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766357074042-9c6d4209d914b8",
@@ -112,13 +642,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "12",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Euclides de Alejandría es uno de los autores de no ficción más vendidos de la historia. Su obra más importante, los Elementos de geometría, ha conocido más de un millar de ediciones y fue el libro formativo de incontables generaciones de científicos a lo largo de los siglos. Sus trece volúmenes compendian lo más granado de la geometría y la aritmética griegas. No menos influyente que los resultados fue el modo en que Euclides decidió exponerlos. Partiendo de unos pocos axiomas y definiciones el alejandrino procedió a deducir hasta 465 teoremas, construyendo así un edificio lógico intocable hasta el descubrimiento, ya entrado el siglo XIX-¡más de dos milenios después!-, de las geometrías no euclidianas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/euclides-la-geometria-las-matematicas-presumen-de-figura.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/euclides-la-geometria-las-matematicas-presumen-de-figura.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766356449489-b08a943d8ea0a8",
@@ -129,14 +660,15 @@
     "editorial": "Planeta",
     "coleccion": "",
     "vol": "9",
+    "formato": "Físico",
     "categorias": [
       "Drive",
       "Biografía"
     ],
-    "formato": "Físico",
     "notas": "Forjadores del Mundo Contemporáneo\" se refiere principalmente a una importante colección de biografías en varios tomos, dirigida por Carlos Pujol, que recopila figuras clave (científicos, pensadores, líderes, artistas) desde el siglo XVIII hasta el XX que moldearon la historia moderna",
     "comentarios": "Walt Disney (1901-1966)\nHirohito (1901)\nAndré Malraux (1901-1976)\nJosé María Escrivá de Balaguer (1902-1975)\nJoaquín Rodrigo (1902)\nJosé Luis Sert (1902-1983)\nAlejo Carpentier (1904-1980)\nSalvador Dalí (1904)\nGraham Greene (1904)\nPablo Neruda (1904-1973)\nRobert Oppenheimer (1904-1967)\nGreta Garbo (1905)\nSevero Ochoa (1905)\nJean Paul Sartre (1905-1980)\nLeonidas Brezhnev (1906-1982)\nLuis Federico Leloir (1906)\nLeopold Sedar Senghor (1906)\nOscar Niemeyer (1907)\nSir Lawrence Olivier (1907)\nHerbert von Karajan (1908)\nClaude Lévy-Strauss (1908)\nAndrei Gromyko (1909)\nTeresa de Calcuta (1910)\nRonald Reagan (1911)\nWernher von Braun (1912-1977)\nMilton Friedman (1912)\nAlbert Camus (1913-1960)\nWilly Brandt (1914)\nJulio Cortázar (1914-1984)\nCamilo José Cela (1916)\nJohn Fitzgerald Kennedy (1917-1963)\nIndira Gandhi (1917-1984)",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/forjadores-del-mundo-contemporaneo-los-302-personajes-que-mas-han-influido-en-la-formacion-de-nuestro-mundo_v9.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/forjadores-del-mundo-contemporaneo-los-302-personajes-que-mas-han-influido-en-la-formacion-de-nuestro-mundo_v9.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-2",
@@ -147,14 +679,15 @@
     "editorial": "Nivola",
     "coleccion": "La matemática en sus personajes",
     "vol": "34",
+    "formato": "Físico",
     "categorias": [
       "Biografía",
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Dirac: la belleza matemática, de Sergio Baselga Moreno, es una introducción clara, elegante y profundamente humana a la figura de Paul A. M. Dirac, uno de los arquitectos fundamentales de la mecánica cuántica. En un estilo accesible y divulgativo, Baselga explica cómo la obsesión de Dirac por la simplicidad y la belleza formal lo condujo a formular algunas de las ecuaciones más influyentes de la física moderna, entre ellas la ecuación relativista del electrón que anticipó la existencia del positrón. El autor combina con habilidad la historia de la ciencia y el relato biográfico, mostrando el carácter introvertido y meticuloso de Dirac, su modo singular de pensar y su papel en el desarrollo de la física del siglo XX. El resultado es un libro que ilumina no solo las ideas científicas, sino también la conexión profunda entre creatividad, matemática y comprensión del mundo, cumpliendo el objetivo de la colección Nivola: acercar la ciencia al lector con rigor y claridad.",
     "comentarios": "",
-    "portada": "http://books.google.com/books/content?id=aM5aSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "http://books.google.com/books/content?id=aM5aSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-24",
@@ -165,14 +698,15 @@
     "editorial": "Nivola",
     "coleccion": "La matemática en sus personajes",
     "vol": "38",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Biografía"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "GOLDBACH. Una conjetura indomable es un libro de divulgación que combina historia y matemáticas para narrar la vida de Christian Goldbach y el origen de su famosa conjetura — la afirmación de que todo número par mayor que 2 puede escribirse como suma de dos números primos. Con un estilo claro y accesible, los autores presentan el contexto histórico, la correspondencia con Euler, la evolución del problema y los numerosos intentos de demostración que han fascinado a generaciones de matemáticos. No es un texto técnico ni pretende resolver la conjetura, sino ofrecer una mirada humana, histórica y conceptual a uno de los enigmas más persistentes de la teoría de números, mostrando por qué sigue siendo considerado un desafío tan apasionante e indomable dentro de las matemáticas.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/goldbach-una-conjetura-indomable.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/goldbach-una-conjetura-indomable.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766352765367-ecf0a5e0e6ca6",
@@ -183,14 +717,15 @@
     "editorial": "Planeta",
     "coleccion": "",
     "vol": "8",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Biografía"
     ],
-    "formato": "Digital",
     "notas": "Forjadores del Mundo Contemporáneo\" se refiere principalmente a una importante colección de biografías en varios tomos, dirigida por Carlos Pujol, que recopila figuras clave (científicos, pensadores, líderes, artistas) desde el siglo XVIII hasta el XX que moldearon la historia moderna",
     "comentarios": "Franco (1892-1975)\nTito (1892-1980)\nJoan Miró (1893-1983)\nMao Tse-tung (1893-1976)\nNikita S. Jruschov (1894-1971)\nAndrés Segovia (1894)\nJuan de la Cierva (1895-1936)\nJohn Ford (1895-1973)\nGroucho Marx (1895-1977)\nJuan Domingo Perón (1896-1974)\nJean Piaget (1896-1980)\nCharlie Rivel (1896-1983)\nPablo VI (1897-1978)\nJosé Trueta (1897-1977)\nVicente Aleixandre (1898-1984)\nDavid Alfaro Siqueiros (1898-1974)\nBertolt Brecht (1898-1956)\nSerguei Eisenstein (1898-1948)\nEnzo Ferrari (1898)\nFederico García Lorca (1898-1936)\nGeorge Gershwin (1898-1937)\nHenry Moore (1898)\nMiguel Ángel Asturias (1899-1974)\nJorge Luis Borges (1899)\nErnest Hemingway (1899-1961)\nAlfred Hitchcock (1899-1980)\nLouis Armstrong (1900-1971)\nLuis Buñuel (1900-1983)\nRuhollah Jomeini (1900)",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/forjadores-del-mundo-contemporaneo-los-241-personajes-que-mas-han-influido-en-la-formacion-de-nuestro-mundo_v8.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/forjadores-del-mundo-contemporaneo-los-241-personajes-que-mas-han-influido-en-la-formacion-de-nuestro-mundo_v8.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766352329719-a35a0cdd13631",
@@ -201,14 +736,15 @@
     "editorial": "Planeta",
     "coleccion": "",
     "vol": "7",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Biografía"
     ],
-    "formato": "Digital",
     "notas": "Forjadores del Mundo Contemporáneo\" se refiere principalmente a una importante colección de biografías en varios tomos, dirigida por Carlos Pujol, que recopila figuras clave (científicos, pensadores, líderes, artistas) desde el siglo XVIII hasta el XX que moldearon la historia moderna",
     "comentarios": "Pablo Picasso (1881-1973)\nFranklin D. Roosevelt (1882-1945)\nIgor Stravinsky (1882-1971)\nJames Joyce (1882-1941)\nUmberto Boccioni (1882-1916)\nJoseph Alois Schumpeter (1883-1950)\nJosé Ortega y Gasset (1883-1955)\nGetúlio Vargas (1883-1954)\nJohn Maynard Keynes (1883-1946)\nFranz Kafka (1883-1924)\nBenito Mussolini (1883-1945)\nHarry S. Truman (1884-1972)\nGaston Bachelard (1884-1962)\nAmedeo Modigliani (1884-1920)\nNiels Bohr (1885-1962)\nLudwig Mies van der Rohe (1886-1969)\nGregorio Marañón (1887-1960)\nLe Corbusier (1887-1965)\nThomas Stearns Eliot (1888-1965)\nThomas Edward Lawrence (1888-1935)\nGabriela Mistral (1889-1957)\nJawaharlal Nehru (1889-1964)\nCharles Spencer Chaplin (1889-1977)\nAdolfo Hitler (1889-1945)\nAlfonso Reyes (1889-1959)\nAntónio de Oliveira Salazar (1889-1970)\nMartin Heidegger (1889-1976)\nCharles de Gaulle (1890-1970)\nHo Chi Minh (1890-1969)\nAlexander Koyré (1892-1964)",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/forjadores-del-mundo-contemporaneo-los-302-personajes-que-mas-han-influido-en-la-formacion-de-nuestro-mundo_v7.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/forjadores-del-mundo-contemporaneo-los-302-personajes-que-mas-han-influido-en-la-formacion-de-nuestro-mundo_v7.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766279913038-a3f05040c43ba8",
@@ -219,13 +755,14 @@
     "editorial": "Critica (Grijalbo Mondadori)",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Ciencia"
     ],
-    "formato": "Digital",
     "notas": "¿cómo comenzó el universo? ¿qué es la inteligencia? ¿existe vida en otros planetas? ¿qué es el tiempo? ¿son los hombres y las mujeres diferentes? ¿existe dios? ¿cómo evolucionó el lenguaje? ¿podremos acabar con las enfermedades? ¿qué son los pensamientos, la consciencia o los sueños? ¿estamos evolucionando todavía?... estas son algunas de las veinte preguntas a las que algunos de los más reputados científicos del mundo (martín rees, john barrow, john sulston, michael ruse, susan greenfield o steve rose, entre otros) intentan dar respuesta, de forma concisa y transparente, en este fascinante libro. son cuestiones que todos, en algún momento de nuestras vidas, nos hemos planteado y que, sin duda, continuarán planteándose en las próximas generaciones, cuestiones que tradiciones o mitos seculares han oscurecido durante demasiado tiempo y a las que ahora podemos y debemos enfrentarnos con la ayuda del mejor instrumento de conocimiento de que disponen los humanos: la ciencia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-grandes-preguntas-de-la-ciencia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-grandes-preguntas-de-la-ciencia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766258867051-6c9b05a9721d7",
@@ -236,13 +773,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "9",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "PITÁGORAS DE SAMOS es una de las figuras más fascinantes de la historia de las ideas. A medio camino entre la ciencia y la mística, su visión de un universoarmónico y gobernado por los números ha influido poderosamente en toda la cultura occidental. En vida se erigió como lider de una secta política y religiosa -la primera que se conoce- que extendio su influencia por amplias zonas de Grecia. A él se asocia uno de los hallazgos más relevantes de la Antigüedad: la relación de igualdad entre la suma de los cuadrados de los catetos de un triángulo rectángulo y el cuadrado de su hipotenusa. un auténtico tesoro geométrico que no sólo tiene incontables aplicaciones prácticas sino que simboliza el nacimiento de las matematicas como diciplina independiente y rigurosa.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pitagoras-el-teorema-de-pitagoras-un-secreto-encerrado-en-tres-paredes.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pitagoras-el-teorema-de-pitagoras-un-secreto-encerrado-en-tres-paredes.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766258646707-22be6012c1af78",
@@ -253,14 +791,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "8",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Astronomía"
     ],
-    "formato": "Físico",
     "notas": "GALILEO GALILEI ocupó su vasto genio en tres empresas fundamentales. La primera y tal vez más conocida fue la obsevación astronómica, de la que resultaron descripciones asombrosas de las fases de Venus, los satélites de Júpiter, el relieve lunar a las manchas solares. La segunda fue el estudio de los cuerpos en movimiento, que le condujo a cuestionar la física aristotélica que había dominado el pensamiento occidental durante más de dos milenios. Pero la que dejó tras de sí una huella más profunda fue la defensa -aun riesgo de morir en la hoguera- de una forma nueva de explicar el mundo, anclada en la evidencia empírica y el rigor matemático: el método científico. GRANDES IDEAS DE LA CIENCIA.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/galileo-el-metodo-cientifico-la-naturaleza-se-escribe-con-formulas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/galileo-el-metodo-cientifico-la-naturaleza-se-escribe-con-formulas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766258464142-2d217787a3ae8",
@@ -271,13 +810,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "7",
+    "formato": "Físico",
     "categorias": [
       "Mecánica Cuántica"
     ],
-    "formato": "Físico",
     "notas": "Erwin Schrödinger (Viena, 1887-1961) fue el creador de la mecánica ondulatoria y uno de los científicos que más contribuyeron al desarrollo de la física atómica durante la primera mitad del siglo xx. Otros campos en los que hizo importantes aportaciones son la termodinámica, la mecánica estadística y la teoría de la relatividad. En 1933 compartió el Premio Nobel de Física con Paul Dirac. Erwin Schrödinger es autor de un clásico perenne: ¿Qué es la vida?, y de otros textos fundamentales, como Mente y materia y La naturaleza y los griegos, todos ellos publicados en la colección Metatemas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/schrodinger-las-paradojas-cuanticas-el-universo-esta-en-la-onda.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/schrodinger-las-paradojas-cuanticas-el-universo-esta-en-la-onda.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766258185480-f36d53df5d7a8",
@@ -288,13 +828,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "6",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "«Fermat. El teorema de Fermat: el problema más difícil del mundo» es un libro divulgativo que narra la historia de uno de los enigmas matemáticos más famosos: el Último Teorema de Fermat, propuesto por Pierre de Fermat en 1637 y considerado durante siglos como el problema más difícil del mundo. La obra explica de forma amena y accesible qué es el teorema, cómo Fermat lo formuló en el margen de un libro alegando que tenía una demostración pero sin mostrarla, y cómo generaciones de matemáticos intentaron resolverlo durante más de tres siglos. A través de anécdotas, contexto histórico y perfiles de personajes que contribuyeron a su estudio, el autor logra que lectores sin formación avanzada puedan entender la importancia y complejidad del problema. Finalmente, el libro aborda la solución moderna, lograda en 1994 por Andrew Wiles, cuyo trabajo no sólo resolvió el teorema sino que también impulsó desarrollos profundos en la teoría de números, lo que convierte la historia en una epopeya intelectual de la matemática.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fermat-el-teorema-de-fermat-el-problema-mas-dificil-del-mundo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fermat-el-teorema-de-fermat-el-problema-mas-dificil-del-mundo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766255766755-f6293baf4d4c9",
@@ -305,14 +846,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "5",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Mecánica cuántica"
     ],
-    "formato": "Físico",
     "notas": "Heisenberg. El principio de incertidumbre. ¿Existe el mundo cuando no lo miras? es un libro de divulgación científica que explica de manera clara y accesible uno de los conceptos más revolucionarios de la física cuántica: el principio de incertidumbre, formulado por Werner Heisenberg en 1927. a obra, escrita por Jesús Navarro Faus, introduce al lector en las ideas fundamentales de la mecánica cuántica y en cómo el acto de observar influye en lo observado, desafiando las nociones clásicas de realidad y certeza. A través de ejemplos cotidianos, ilustraciones y un lenguaje didáctico, el autor desmitifica términos técnicos y hace que conceptos complejos sean comprensibles para lectores no especializados, invitándolos a reflexionar sobre la naturaleza de la realidad y el papel del observador en el mundo físico. El libro combina explicaciones científicas con cuestiones filosóficas sobre si “el mundo existe cuando no lo miramos”, presentando la física cuántica como un campo fascinante que desafía nuestras intuiciones sobre el universo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/heisenberg-el-principio-de-la-incertidumbre-existe-el-mundo-cuando-no-lo-miras.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/heisenberg-el-principio-de-la-incertidumbre-existe-el-mundo-cuando-no-lo-miras.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766255291757-5d9e7999b48a4",
@@ -323,14 +865,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "4",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Astronomía"
     ],
-    "formato": "Físico",
     "notas": "Descubre los secretos del universo con 'Bailando con las estrellas', un fascinante libro que explora el movimiento planetario de Kepler. A través de sus páginas, Eduardo Battaner López te guiará en un viaje astronómico, revelando las grandes ideas de la ciencia de una manera accesible y cautivadora. Sumérgete en el cosmos y maravíllate con la danza celestial que rige nuestro sistema solar.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/kepler-el-movimiento-planetario-bailando-con-las-estrellas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/kepler-el-movimiento-planetario-bailando-con-las-estrellas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766255045298-466e6fd49af088",
@@ -341,14 +884,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "3",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Mecánica cuántica"
     ],
-    "formato": "Físico",
     "notas": "Dos grandes pilares sustentan la visión científica moderna del universo: la relatividad y la teoría cuántica. Esta segunda dirige su mirada al terreno de lo microscópico y algunos de sus postulados son tan asombrosos que su pionero, Max Planck, confesó en más de una ocasión sentirse abrumado por las consecuencias de su hallazgo: la energía no se emite de forma continua sino por medio de “paquetes” o cuantos. Corría el año 1900, y la física ya nunca volvería a ser la misma.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/max-planck-la-teoria-cuantica-la-revolucion-de-lo-muy-pequeno.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/max-planck-la-teoria-cuantica-la-revolucion-de-lo-muy-pequeno.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766254892040-484b9da67c5d6",
@@ -359,13 +903,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Entre los siglos XVI y XVII se produjo en Europa una revolución en todos los ámbitos de la ciencia. Su punto álgido fue la publicación en 1687 de los Principia Mathematica de Isaac Newton, en la que el inglés postuló un cosmos armado por las tres leyes del movimiento y una fuerza atractiva de alcance universal: la gravedad. A estas aportaciones fundamentales aún cabría sumar la invención del cálculo y las bases de la óptica para componer la figura de un genio sin parangón.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/newton-la-ley-de-la-gravedad-la-fuerza-mas-atractiva-del-universo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/newton-la-ley-de-la-gravedad-la-fuerza-mas-atractiva-del-universo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766254762093-8697fd9adf1a7",
@@ -376,13 +921,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "ALBERT EINSTEIN (1879-1955) El más importante físico moderno, en 1905 publicó su teoría de la relatividad especial, descubriendo la famosa relación entre masa y energía: E = mc2. En 1915 extendió el marco de la teoría para incluir la gravedad, desarrollando la teoría de la relatividad general. También jugó un rol fundamental en la física cuántica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/einstein-la-teoria-de-la-relatividad-el-espacio-es-una-cuestion-de-tiempo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/einstein-la-teoria-de-la-relatividad-el-espacio-es-una-cuestion-de-tiempo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766245013649-b287611548f198",
@@ -393,15 +939,16 @@
     "editorial": "Seix Barral",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Novela Policial",
       "Thriller"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Qué solos se quedan los muertos es una novela de Mempo Giardinelli publicada en 1985 que combina elementos de crimen, memoria y exilio dentro de una trama intensa y reflexiva. \nLa historia sigue a José Giustozzi, un periodista argentino exiliado en México tras la dictadura militar de su país, quien recibe una llamada de Carmen Rubiolo, una vieja amante, para que acuda a Zacatecas tras el asesinato de su esposo. Al llegar, José se ve envuelto en una serie de asesinatos y una intriga criminal que lo obligan a enfrentar tanto la violencia del entorno como sus propios recuerdos y dilemas internos. \nMás allá del género policial, la novela explora temas profundos como el exilio, la memoria histórica, el amor perdido y la soledad que sobreviene tras la violencia y la represión política. El protagonista no sólo trata de resolver un misterio, sino también de reconciliarse con su pasado y el peso de su propia historia en un contexto de impunidad y desasosiego. \nRevista Calibre .38\n\nEn conjunto, Giardinelli utiliza la trama criminal como vehículo para reflexionar sobre el impacto emocional y social del trauma político, la nostalgia y el intento de encontrar sentido en medio de la violencia y la pérdida.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/que-solo-se-quedan-los-muertos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/que-solo-se-quedan-los-muertos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766244549086-b5455b4314b5c",
@@ -412,14 +959,15 @@
     "editorial": "Ediciones Paraninfo, S.A.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería Térmica",
       "Transferencia de Calor"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Es una obra técnica dirigida principalmente a estudiantes de ingeniería, diseñadores e ingenieros térmicos, que reúne de manera práctica los conocimientos y procedimientos necesarios para diseñar, analizar y calcular intercambiadores de calor en flujo monofásico (cuando los fluidos no cambian de fase durante el intercambio térmico).",
-    "portada": "https://books.google.com/books/content?id=PfVRAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=PfVRAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766244188364-8d665ea6557e4",
@@ -430,15 +978,16 @@
     "editorial": "Fondo de Cultura Economica",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Filosofía",
       "Ciencia",
       "Historia"
     ],
-    "formato": "Físico",
     "notas": "El libro El Círculo de Viena. Empirismo lógico, ciencia, cultura y política, de Friedrich Stadler, es una obra histórica y filosófica que ofrece un estudio profundo sobre el grupo de intelectuales conocido como el Círculo de Viena, su contexto sociocultural y su impacto en la filosofía y ciencia del siglo XX. \n\nEn esta obra se analiza el surgimiento y desarrollo del empirismo lógico (también llamado positivismo lógico o neopositivismo), el esfuerzo de este grupo por establecer una filosofía de la ciencia basada en la lógica y la verificación empírica, y su relación con la cultura, la política y el entorno intelectual de la Viena de entreguerras. \nLibros CECSH\n+1\n\nEl texto combina historia de las ideas, análisis filosófico y contexto cultural, mostrando cómo figuras como Moritz Schlick, Rudolf Carnap y otros miembros del Círculo intentaron unificar las ciencias bajo criterios de racionalidad, claridad lógica y rechazo de la metafísica, y cómo estos esfuerzos se vieron marcados por los cambios políticos y sociales de la época",
     "comentarios": "Los principales exponentes del Círculo de Viena (empirismo lógico / positivismo lógico) fueron:\n\nMoritz Schlick – Fundador y figura central; impulsó la orientación epistemológica del grupo.\n\nRudolf Carnap – Desarrolló la lógica del lenguaje científico y el principio de verificación.\n\nOtto Neurath – Enfatizó la unidad de la ciencia y sus implicancias sociales y políticas.\n\nHans Hahn – Aportó el rigor lógico-matemático al programa del grupo.\n\nPhilipp Frank – Conectó física moderna y filosofía de la ciencia.\n\nHerbert Feigl – Difusor del empirismo lógico en Estados Unidos.\n\nKurt Gödel – Cercano al círculo; sus teoremas marcaron límites del programa lógico.\n\nFriedrich Waismann – Enlace con Wittgenstein y el análisis del lenguaje.\n\nFigura influyente asociada (no miembro formal):\n\nLudwig Wittgenstein – Su Tractatus influyó decisivamente en la orientación inicial del grupo.",
-    "portada": "https://books.google.com/books/content?id=J7CeAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=J7CeAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766243902703-100051c619faa",
@@ -449,13 +998,14 @@
     "editorial": "Paidos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Economía"
     ],
-    "formato": "Físico",
     "notas": "Con esta obra, Thomas Piketty se estableció como una voz decisiva: puso en el centro del debate mundial el tema de la desigualdad. Su análisis de la historia de la distribución de la riqueza y la riqueza a nivel global desde el siglo XVIII hasta la actualidad tiene el valor de la evidencia en un campo en el que han abundado los prejuicios.\nResultado de quince años de investigación sobre la dinámica de los ingresos y la desigualdad, el libro utiliza la base de datos de más de veinte países para responder una serie de preguntas que merecían una respuesta urgente. ¿La acumulación del capital privado conduce a la concentración del poder y la riqueza cómo lo creyó Marx en el siglo XIX? ¿Qué se sabe realmente sobre la evolución de la distribución de la riqueza y qué lección podemos extraer para el siglo XXI? Piketty propone regulaciones para el capital financiero y políticas fiscales que moderen la disparidad, como impuestos a la riqueza y la herencia.\nBestseller mundial de economía de los últimos años, El capital del siglo XXI ha tenido decenas de miles de lectores en América Latina: nadie que se interese por el destino de su país puede eludir el tema de la desigualdad. Paidós publica por primera vez en edición de bolsillo un texto que continuará alimentado la discusión pública en las siguientes décadas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-capital-el-siglo-xxi.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-capital-el-siglo-xxi.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766243089449-e1cdc46281686",
@@ -466,14 +1016,15 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "40",
+    "formato": "Físico",
     "categorias": [
       "Astrobiología",
       "Biogénesis"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Este libro se presenta como una introducción breve y accesible a los conceptos fundamentales de la astrobiología, abordando cómo pudo surgir la vida en la Tierra y las condiciones que serían necesarias para que exista vida en otros lugares del universo",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-origen-de-la-vida-en-el-universo-pequeno-manual-de-astrobiologia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-origen-de-la-vida-en-el-universo-pequeno-manual-de-astrobiologia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766242728871-5c8bbf2115c128",
@@ -484,13 +1035,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "39",
+    "formato": "Físico",
     "categorias": [
       "Geología"
     ],
-    "formato": "Físico",
     "notas": "Una mirada geológica a nuestro planeta. Medio siglo después de que el hombre pisara la luna y a pocos pasos de conquistar el planeta rojo, aún sabemos muy poco de lo que hay bajo nuestros pies. Un terremoto o la erupción de un volcán pueden cambiar el rostro de ciudades enteras en cuestión de minutos y, sin embargo, desconocemos los procesos que los generan en las entrañas de la tierra. Este libro propone un viaje por nuestro planeta en el que contaremos que sabemos de él y cómo lo hemos descubierto. Un apasionante paseo geologico que nos lleva desde las más altas cimas hasta lo más profundo y ardiente del globo terraqueo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/viaje-al-centro-de-la-tierra-una-mirada-geologica-a-nuestro-planeta.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/viaje-al-centro-de-la-tierra-una-mirada-geologica-a-nuestro-planeta.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766242496648-70eda725c9d718",
@@ -501,14 +1053,15 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "38",
+    "formato": "Físico",
     "categorias": [
       "Genética",
       "Biotecnología"
     ],
-    "formato": "Físico",
     "notas": "Biotecnología. La vida al servicio de la vida ofrece una introducción clara y actual a la biotecnología como disciplina clave para enfrentar desafíos contemporáneos en salud, alimentación y medio ambiente. Con un enfoque divulgativo pero riguroso, Gian Gaetano Tartaglia y Davide Cirillo explican cómo el conocimiento de los procesos biológicos —potenciado por la bioinformática y la inteligencia artificial— se traduce en aplicaciones concretas como terapias personalizadas, biomedicina de precisión y biotecnologías sostenibles. El libro destaca por su equilibrio entre fundamentos científicos, ejemplos prácticos y reflexión ética, mostrando cómo la ciencia de la vida puede ponerse genuinamente al servicio de la vida humana y del planeta.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/biotecnologia-la-vida-al-servicio-de-la-vida.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/biotecnologia-la-vida-al-servicio-de-la-vida.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766242010894-5f78576a552c2",
@@ -519,14 +1072,15 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "37",
+    "formato": "Físico",
     "categorias": [
       "Ciencia",
       "Neurociencia"
     ],
-    "formato": "Físico",
     "notas": "Gracias a los recientes avances en el conocimiento del cerebro y a las evidencias experimentales acumuladas, ahora sabemos que las emociones, además de hacernos, al igual que la razón, propiamente humanos, desempeñan un rol esencial en el correcto funcionamiento de nuestras . Diversos estudios han demostrado que memorizamos más y mejor aquellas informaciones que estan vinculadas a emociones. Por otra parte, las nuevas técnicas de la imagen y el estudio de las lesiones de zonas específicas del cerebro nos han permitido conocer cuáles son las áreas cerebrales que se activan o se desactivan ante un cambio emocional. Como ya intuyó Charles Darwin, uno de los percusores de la neurociencia afectiva, si las emociones están ahí es porque cumplen una función positiva en nuestra supervivencia como especie. Este es precisamente el propósito del presente libro: hacer una reivindicación, razonada y sensata, de las emociones.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-y-las-emociones-sentir-pensar-decidir.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-y-las-emociones-sentir-pensar-decidir.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766241181846-9162806efde0e",
@@ -537,14 +1091,15 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "36",
+    "formato": "Físico",
     "categorias": [
       "Informática",
       "Computación"
     ],
-    "formato": "Físico",
     "notas": "La aventura de contar, de la máquina de Turing a la computación cuántica\" se refiere a un libro de divulgación de Filippo Annovi que narra la evolución del cálculo, desde el concepto teórico fundamental de la Máquina de Turing (un modelo abstracto que define qué es computable) hasta la frontera de la computación cuántica, que explora el poder del entrelazamiento y la superposición para resolver problemas inabordables para las máquinas clásicas. Es un viaje desde el bit binario (0s y 1s) hacia el qubit cuántico, mostrando cómo el concepto de computación ha evolucionado de ser un proceso mecánico a uno basado en las extrañas leyes de la física cuántica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-aventura-de-contar-de-la-maquina-de-turing-a-la-computacion-cuantica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-aventura-de-contar-de-la-maquina-de-turing-a-la-computacion-cuantica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766241026923-3a099ff5a34568",
@@ -555,14 +1110,15 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "35",
+    "formato": "Físico",
     "categorias": [
       "Biología",
       "Microbiología"
     ],
-    "formato": "Físico",
     "notas": "En los últimos años no sólo hemos visto como la gripe volvía a las portadas de los periódicos, sino que nos hemos enfrentado a nuevas enfermedades temibles, como la SARS, el ébola o el zika. Pocos campos de la ciencia despiertan yanto miedo e incomprensión como la microbiología, el estudio de los organismos invisibles para el ojo humano que, por un lado, nos ayudan a sobrevivir y, por otro, amenazan con eliminarnos del planeta. Este libro recoge lo que sabemos acerca de las principales enfermedades infecciosas- tan habituales pero, en realidad, tan desconocidas- a la vez que desmiente con argumentos científicos una serie de falsas creencias que entorpecen los avances sanitarios. A lo largo de las páginas de este volumen veremos que virus y bacterias no sólo han participado en la historia de la humanidad, sino que son todavía responsables de millones de muertes.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/enemigos-microscopicos-virus-bacterias-y-vacunas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/enemigos-microscopicos-virus-bacterias-y-vacunas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766199118593-62744094f321a",
@@ -573,13 +1129,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "34",
+    "formato": "Físico",
     "categorias": [
       "Climatología"
     ],
-    "formato": "Físico",
     "notas": "El cambio climático es una de las grandes amenazas a las que debe enfrentarse la humanidad, y con carácter de urgencia. Por ello los científicos estudian activamente los cambios del clima en el pasado buscando las claves para comprender la situación actual y para valorar correctamente las previsiones acerca de las condiciones climatológicas futuras. En definitiva, estas conforman la base para las decisiones políticas de mitigación y adaptación.\n\nTécnicas científicas altamente sofisticadas están permitiendo conocer las pautas de los cambios pasados en el clima, los factores que los indujeron, los procesos que los amplificaron, y los impactos que tuvieron en ecosistemas y sociedades. Entender el pasado es, hoy más que nunca, la base para comprender lo que la humanidad se juega a corto plazo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/memorias-de-un-clima-cambiante-claves-cientificas-para-enfrentarse-al-cambio-climatico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/memorias-de-un-clima-cambiante-claves-cientificas-para-enfrentarse-al-cambio-climatico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766198972374-f2dbeefa936de",
@@ -590,13 +1147,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "33",
+    "formato": "Físico",
     "categorias": [
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "Si el siglo XIX fue el desarrollo de la ciencia y la tecnología en el macromundo, y el siglo XX el del desarrollo de las microtecnologías, se podría afirmar que el siglo XXI será (esta siendo ya) el siglo del desarrollo de las nanotecnologías. La ciencia se ha volcado en la búsqueda de las propiedades de la materia a profundidades nanométricas, en el dominio de átomos y moléculas aislados y en el diseño de nanomateriales con propiedades a medida. En este volumen el lector podrá contemplar de forma relajada los hitos más destacados de la nanotecnología, comprender el nuevo conocimiento que encierra la nanociencia y, finalmente echar una ojeada a los horizontes más o menos lejanos de las tecnologías del futuro.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/nanomundo-un-paseo-por-la-nanotecnologia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/nanomundo-un-paseo-por-la-nanotecnologia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766198826164-57ac5d7d3cadd",
@@ -607,13 +1165,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "32",
+    "formato": "Físico",
     "categorias": [
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "La ciencia es el mejor instrumento que poseemos para conocer la realidad. Lo que sabemos es el resultado de un camino largo y tortuoso recorrido con el deseo de explicar cuanto nos rodea. A partir de la observación de la naturaleza, el genero humano ha intentado dar respuesta a sus interrogantes recurriendo a la magia y elaborando mitos y sistemas religiosos. Con el paso del tiempo, gracias a una observaciones cada vez más elaboradas y a instrumentos más eficaces, se han conseguido métodos y técnicas fiables, se han establecido las reglas que nos permiten estudiar la naturaleza de forma correcta y llegar a la formulación de conclusiones que pueden compartirse. En estas páginas se recorre este camino: algunas creencias antiguas o pueden arrancarnos una sonrisa, pero no hay que olvidar que la ciencia necesita imaginación y creatividad, y que hemos llegado a muchas respuestas por cías extrañas e imprevisibles. Como escribió el gran físico Richard Freynman: «si no se pudiera o quisiera mirar en nuevas direcciones, si no se albergaran dudas, o no se reconociera el valor de la ignorancia, no se producirán ideas nuevas».",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ciencia-y-creencias-historias-de-exitos-e-ilusiones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ciencia-y-creencias-historias-de-exitos-e-ilusiones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766198585804-f8b2d16cf66d88",
@@ -624,13 +1183,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "31",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "¿Cuál es la naturaleza ultima de la materia? ¿Cuáles son las leyes fundamentales que gobiernan la naturales a las escalas más diminutas y bajo las energías mas extremas? Y ¿Por qué dar sentido a la sustancia de la que estamos formados es crucial para entender el origen y el destino del universo, y nuestro lugar en el mismo? ¿Cómo es posible que el orden y la belleza de la realidad física nazcan del caos y del azar? Las respuestas a estas preguntas y otras muchas se encuentran en el estudio de la física de las partículas elementales. En este libro presentamos un fascinante viaje por la vida íntima de las particulas. Conoceremos la historia de los increíbles desarrollos teòricos y experimentales que nos han llevado en poco mas de un siglo desde el descubrimiento de los átomos hasta el del bosón de Higgs. Un tour de Force que nos ha permitidoformular el modelo estandar de las partículas, una de las teorías científicas mas exitosas de la historia. Veremos también cuáles son las limitaciones de esta teoría, y cuáles las direcciones más prometedoras para desvelar el siguiente nivel de complejidad de la realidad: una nueva física de las partículas más allá del Modelo Estándar.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-intima-de-las-particulas-de-los-atomos-de-democrito-al-boson-de-higgs.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-intima-de-las-particulas-de-los-atomos-de-democrito-al-boson-de-higgs.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766198298455-a2b4a79695d1",
@@ -641,13 +1201,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "30",
+    "formato": "Físico",
     "categorias": [
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "Durante el segundo trimestre de embarazo, el cerebro del feto genera cada minuto unas 20 000 nuevas neuronas. Algo más de un millón por hora. A los cinco meses de vida, la corteza cerebral ya ha alcanzado los 10 000 millones de neuronas, que seguirán aumentando a un ritmo vertiginoso. Entre los 4 y 12 meses de vida, los bebés tienen un 50 por ciento más de sinapsis que los adultos. Bastan unos pocos datos para entender la fascinación que despierta todo lo relacionado con el desarrollo del cerebro. Y más aún entre los padres de los pequeños cerebros en formación. Pero ese mismo interés propicia que proliferen todo tipo de informaciones al respecto y algunas de ellas llegan incluso a prometer la posibilidad de moldear o programar la mente de los niños, como si se tratara del manual de programación de un ordenador. Según señala la autora en este libro, neurocientífica y madre de dos niñas, si en alguna etapa de la vida es especialmente inadecuada la analogía entre un cerebro y un ordenador es durante la infancia. Realidades como la plasticidad cerebral, las neuronas espejo y la importancia de las emociones en el aprendizaje ponen en tela de juicio este tipo de metáforas mecanicistas. Este libro presenta una amplia exposición de las verdades que las investigaciones sobre el desarrollo del cerebro del niño han comprobado, desde la gestación en el vientre materno hasta la adolescencia, y profundiza en el rol que juegan los llamados \"períodos críticos\" para la adquisición de las principales capacidades, como el aprendizaje, la memoria, el lenguaje o las matemáticas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/en-la-mente-del-nino-el-cerebro-en-sus-primeros-anos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/en-la-mente-del-nino-el-cerebro-en-sus-primeros-anos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766198127665-3585ddf64ea48",
@@ -658,13 +1219,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "29",
+    "formato": "Físico",
     "categorias": [
       "Estadistica"
     ],
-    "formato": "Físico",
     "notas": "De la entropía al algoritmo de Google (y otros caminantes aleatorios). Cómo la probabilidad y la estadística explican el mundo que nos rodea. Somos víctimas del abuso estadístico y de nuestra incompetencia en cálculo de probabilidades por nuestro analfabetismo numérico, por nuestro «anumerismo», como gusta decir al lógico Douglas Hofstadter. La brecha entre las dos culturas, las humanidades y las ciencias, nos ha conducido a situaciones tan paradójicas como que el ciudadano medio se jacte de su analfabetismo matemático: «Yo de números no entiendo…» y sin embargo le parezca signo de profunda incultura el desconocimiento de quién era Cervantes. Ambas negligencias son incultura. Y la ignorancia siempre ha sido la puerta de entrada para las injusticias, los atropellos y el engaño. Como escribe el matemático A. K. Dewdney: «Aquellos que abusan de las matemáticas también abusan de nosotros. Nos convertimos en presas de las triquiñuelas comerciales, las estafas financieras, la charlatanería médica y el terrorismo numérico de los grupos de presión, todo porque somos incapaces (o no estamos dispuestos) a pensar con claridad durante unos momentos». La teoría de la probabilidad y la estadística son dos herramientas esenciales para entender el mundo, desarrollar nuestro sentido crítico y enarbolar un sano escepticismo. Después del viaje que propone este libro, el lector tendrá una panorámica del papel protagonista que tienen estas dos ramas de las matemáticas en las nuevas tecnologías y en la descripción que la ciencia hace del mundo. Esta es sin duda motivación suficiente para emprenderlo y completarlo. Pero, además, cada etapa del viaje es lo suficientemente curiosa y divertida como para que el lector disfrute, a buen seguro, del trayecto.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-leyes-del-azar-probabilidad-informacion-estadistica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-leyes-del-azar-probabilidad-informacion-estadistica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766197802021-c836952edb9f5",
@@ -675,13 +1237,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "28",
+    "formato": "Físico",
     "categorias": [
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "El libro parte de una observación fundamental: aunque el envejecimiento ha sido considerado tradicionalmente como una consecuencia inevitable de estar vivos, los avances en biología molecular y genética han comenzado a revelar los mecanismos que lo gobiernan. El autor explora cómo se produce el envejecimiento a nivel celular y molecular, qué procesos biológicos están implicados (como daño acumulado en el ADN, el papel de las células madre, el límite de replicación celular y otros factores biológicos) y qué descubrimientos han surgido para enfrentar estos procesos.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/es-posible-frenar-el-envejecimiento-la-ciencia-en-las-fronteras-de-la-vida.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/es-posible-frenar-el-envejecimiento-la-ciencia-en-las-fronteras-de-la-vida.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-9",
@@ -692,14 +1255,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Biografía",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "En Dostoievski, Henri Troyat construye una biografía vívida y profundamente humana del célebre escritor ruso, combinando rigurosidad histórica con una narrativa envolvente. A través de un relato detallado y accesible, Troyat explora las tensiones que marcaron la vida de Dostoievski: su relación con la fe, la enfermedad y la pobreza; sus luchas con la censura y la política; y la intensidad emocional que forjó sus grandes novelas. El autor consigue mostrar cómo la experiencia personal —el presidio en Siberia, la epilepsia, las pasiones desbordadas— se entrelaza con las obsesiones literarias de Dostoievski, dando origen a una obra que indaga en los abismos de la conciencia humana. El resultado es un retrato equilibrado y esclarecedor que permite comprender al hombre detrás del mito y al creador de personajes inmortales como Raskólnikov, el príncipe Myshkin o los Karamázov.",
     "comentarios": "",
-    "portada": "http://books.google.com/books/content?id=oH9ljLW_lL8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "http://books.google.com/books/content?id=oH9ljLW_lL8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765775939945-a053ddab55815",
@@ -710,13 +1274,14 @@
     "editorial": "Crítica",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Biografía"
     ],
-    "formato": "Digital",
     "notas": "Este libro que el lector tiene en sus manos es una pieza única por su contenido y por quien lo ha compilado. En efecto, el gran científico Stephen Hawking ha reunido en él, por primera vez en la historia de la edición, las cinco obras que a su juicio representan el canon de la cultura universal en el campo de la Física y la Astronomía y ha escrito una introducción a cada una, explicando lo que han…",
     "comentarios": "Esto libro es Epub Libre,   ePub r1.0, por lo que tiene 300 paginas de 1000 en formato fisico",
-    "portada": "https://books.google.com/books/content?id=Yg2bwQ0DrJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=Yg2bwQ0DrJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766084332874-a4a6e75d03b08",
@@ -727,13 +1292,14 @@
     "editorial": "Grupo Planeta Spain",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Digital",
     "notas": "\"He descubierto una demostración verdaderamente maravillosa, pero este margen es demasiado estrecho para contenerla\" Con estas palabras, el matemático francés del siglo XVII Pierre de Fermat lanzaba su desafío a las generaciones venideras. El último teorema de Fermat, de apariencia tan simple que hasta un niño podía resolverlo, tuvo durante siglos a las mentes más brillantes enfrascadas en su reso…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=gRd1CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=gRd1CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765686784362-4661190af89bd",
@@ -744,13 +1310,14 @@
     "editorial": "Alianza editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Digital",
     "notas": "La casi mítica fama de Kurt Gödel entre lógicos, matemáticos y filósofos descansa en tres logros de importancia excepcional: en 1930 probó la suficiencia del cálculo lógico de primer orden; en 1931 probó que todo sistema formal que contenga un poco de aritmética es necesariamente incompleto y que es imposible probar su consistencia con sus propios medios; y en 1938-1939 probó la consistencia relat…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=vCbPAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=vCbPAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-32",
@@ -761,13 +1328,14 @@
     "editorial": "Planeta",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Física"
     ],
-    "formato": "Físico",
     "notas": "Steven Weinberg, premio Nobel de Física por su contribución a la unificación de dos de las fuerzas básicas de la naturaleza -la fuerza débil y el electromagnetismo-, aborda en este libro la gran aventura intelectual de nuestro tiempo: la búsqueda de una \"teoría final\", aquella en la que todas las preguntas fundamentales hallarían respuesta sin requerir una explicación en términos de otros principi…",
     "comentarios": "",
-    "portada": "http://books.google.com/books/content?id=D7pytwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "http://books.google.com/books/content?id=D7pytwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-31",
@@ -778,13 +1346,14 @@
     "editorial": "ecu",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "En los últimos años, paralelamente al desarrollo de los ordenadores, la Teoría de la Optimización ha experimentado un notable auge, convirtiéndose en un campo puntero de investigación tanto por el interés matemático de sus resultados como por sus múltiples aplicaciones a diferentes áreas como son la medicina, economía, industria, finanzas, logística, entre otras. Desde el punto de vista docente, e…",
     "comentarios": "",
-    "portada": "http://books.google.com/books/content?id=1gPnwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "http://books.google.com/books/content?id=1gPnwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765921926898-04939efcd0594",
@@ -795,14 +1364,15 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "27",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Mecánica cuántica"
     ],
-    "formato": "Físico",
     "notas": "De entre todas las rarezas que nos reserva la física moderna, la que desde el principio deja perplejo a quien se adentra en su estudio es el denominado dualismo onda-partícula. Según este concepto, la materia y la radiación electromagnética tienen una naturaleza doble, y pueden comportarse como una partícula y como una onda. Pero ¿qué significa eso realmente? ¿Cómo han conseguido los científicos concebir esta idea tan extravagante?\n\nBuscando respuestas a estas preguntas, este libro recorre una historia fascinante y sorprendente, la de nuestro modo de comprender qué es realmente lo que llamamos luz. Seguiremos los pasos de los protagonistas de esta aventura intelectual, desde Demócrito hasta Einstein, sus vidas, sus ideas, un largo viaje desde los orígenes de la ciencia hasta el nacimiento de la mecánica cuántica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/entre-ondas-y-particulas-las-apasionantes-historias-del-foton.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/entre-ondas-y-particulas-las-apasionantes-historias-del-foton.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765921706841-c8d1d0cbae2488",
@@ -813,14 +1383,15 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "26",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Caos"
     ],
-    "formato": "Físico",
     "notas": "El caos en el sentido físico y matemático (el caos determinista) no es un desorden total ni se debe a la ausencia de reglas. Más bien al contrario, lo interesante del caos determinista es que puede apreciarse en los caprichos de la meteorología, las sorpresas de la economía mundial y las variaciones de los ritmos del organismo. Se trata de un desorden ordenado, un determinismo disfrazado de azar que ha dado pie al surgimiento de la ciencia de la complejidad. En este libro, el físico Sergio de Régules nos muestra un catálogo comentado, a través de muchos e interesantes ejemplos, de los sucesos más importantes y los conceptos relacionados con el caos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-teorias-del-caos-y-la-complejidad-el-mundo-es-un-caleidoscopio.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-teorias-del-caos-y-la-complejidad-el-mundo-es-un-caleidoscopio.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765771752091-6e946f8a057208",
@@ -831,14 +1402,15 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "25",
+    "formato": "Físico",
     "categorias": [
       "Ciencia",
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "En ¿Por qué es científica la ciencia?: La ciencia a la luz de la filosofía, Agustín González propone una reflexión rigurosa y accesible sobre los fundamentos epistemológicos que distinguen a la ciencia como forma privilegiada de conocimiento. A partir del diálogo con la filosofía de la ciencia, el autor analiza conceptos clave como método, explicación, verdad, objetividad y racionalidad, mostrando que el carácter científico no se reduce a la mera acumulación de datos, sino que implica marcos teóricos, criterios de validación y una actitud crítica permanente. El libro logra tender puentes entre la práctica científica y la reflexión filosófica, invitando al lector a comprender la ciencia como una actividad humana racional, histórica y perfectible. Su enfoque claro y argumentativo lo convierte en una obra valiosa tanto para estudiantes como para docentes e investigadores interesados en profundizar en el sentido y los límites del conocimiento científico.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-es-cientifica-la-ciencia-la-ciencia-a-la-luz-de-la-filosofia-descubrir-la-ciencia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-es-cientifica-la-ciencia-la-ciencia-a-la-luz-de-la-filosofia-descubrir-la-ciencia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765771129602-48d068dca1f58",
@@ -849,13 +1421,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "24",
+    "formato": "Físico",
     "categorias": [
       "Astronomía"
     ],
-    "formato": "Físico",
     "notas": "Pasado, presente y futuro de la exploración del espacio. Desde hace algunas décadas, el hombre se ha asomado a la escena del espacio con viajes orbitales, ha llegado a la luna y ha enviado sondas a explorar los planetas del Sistema Solar. A su vez, ha investigado la naturaleza de las estrellas y ha descubierto que existen muchísimos sistemas planetarios en torno a ellas. La exploración del espacio acaba de empezar. ¿Qué nos reservará el futuro? ¿Mandaremos dotaciones humanas a Marte? ¿Conseguiremos llegar a alguna estrella vecina, superando abismos de espacio que apenas podemos imaginar? ¿Y quizás en un futuro muy lejano colonizaremos los planetas de otras estrellas? En este volumen, tras haber recorrido las exploraciones espaciales del pasado, intentaremos proyectarnos hacia el futuro y responder a estas preguntas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hacia-las-estrellas-pasado-presente-y-futuro-de-la-exploracion-del-espacio.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hacia-las-estrellas-pasado-presente-y-futuro-de-la-exploracion-del-espacio.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765770924434-e1bac52df66228",
@@ -866,13 +1439,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "23",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "¿Cómo es posible que Algo surja de la nada? ¿Qué es la Nada? ¿Cómo la podemos imaginar? ¿Podemos recurrir a la ciencia para obtener alguna certeza, algo a lo que agarrarnos firmemente? De forma muy humilde y sin alcanzar respuestas del todo satisfactorias, la ciencia ha intentado comprender la Nada. Hay un paso intermedio entre nuestro mundo y la Nada: el vacío. Aunque parezca imposible hablar de la Nada, tiene perfecto sentido científico comprender qué propiedades tiene el vacío, aunque el camino para conseguirlo es tortuoso. Muchos han sido los prejuicios a demoler antes de comprender la estructura de un espacio-tiempo carente de partículas pero dotado de geometría y de sorprendentes propiedades cuánticas. Este volumen ofrece al lector un relajado paseo por la Nada. Tras una introducción donde se tratan las referencias a la Nada en las artes y el pensamiento, se aborda la relación de la Nada con la ingeniería con la estructura relativista del espacio-tiempo, y con los vacíos cuántico y cuántico gravitatorio.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nada-o-el-vacio-cuantico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nada-o-el-vacio-cuantico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765770646224-87702f77e37b3",
@@ -883,13 +1457,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "22",
+    "formato": "Físico",
     "categorias": [
       "Genética"
     ],
-    "formato": "Físico",
     "notas": "¿Educados o programados? Los genes dan forman a nuestra existencia configurándola incluso antes del nacimiento. Pero no menos importante es la experiencia, cuyo impacto sobre las personas es diferente y de mayor calado al que tiene sobre el resto de especies que pueblan el planeta. Eso es así porque, además de la casualidad de los fenómenos naturales, como seres humanos debemos tener en cuenta también el contexto socioeconómico en el que vivimos. Esta evidencia nos convierte en una especie más flexible y al mismo tiempo más expuesta a las variables culturales agrupadas bajo el nombre de ambiente.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/genes-ambiente-y-cultura-educados-o-programados.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/genes-ambiente-y-cultura-educados-o-programados.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765770445287-2e75d21b63574",
@@ -900,15 +1475,16 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "21",
+    "formato": "Físico",
     "categorias": [
       "Química",
       "Biología",
       "Geología"
     ],
-    "formato": "Físico",
     "notas": "Como toda historia biográfica, la de nuestro planeta tendría varias versiones posibles en función del guionista elegido para contarla. Para un experto en átomos, moléculas y reacciones químicas, lo más destacable de la trama sería la aparición del agua, la evolución de la atmósfera hasta convertirse en aire respirable, la versatilidad del carbono y su papel en la vida, el surgimiento del ozono… En contrapartida, un biólogo argumentaría que muchos de los hitos químicos han sido posibles gracias a seres vivos como las plantas verdes, que con su fotosíntesis eliminaron ingentes cantidades de dióxido de carbono de la atmósfera produciendo, a cambio, oxigeno a manos llenas. Y nada de esto sería posible sin el adecuado soporte geológico, asunto que dominaría sin duda la línea argumental o storyline de un experto en ciencias de la tierra. Y como a ninguno de los posibles narradores les faltaría razón, para que el lector no se pierda ni un detalle sobre la Tierra, en este libro contamos su triple historia: geológica, biológica y química.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historias-de-la-tierra-una-triple-biografia-de-nuestro-planeta.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historias-de-la-tierra-una-triple-biografia-de-nuestro-planeta.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765770278733-6428b98f73dbe",
@@ -919,13 +1495,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "20",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "A menudo tenemos la sensación de que por debajo del inmenso revoltijo de fenómenos que constituye la vida cotidiana, deben existir unos principios organizadores que den coherencia al universo. Los principales científicos a lo largo de la historia han compartido esa misma convicción, desplegando todos sus esfuerzos por descubrir una «teoría del todo». Tendríamos así la teoría definitiva capaz de abarcar las leyes fundamentales que reinan con independencia en los diferentes dominios de la naturaleza, desde el microcosmos al macrocosmos. Desde las sorprendentes geometrías espacio-temporales de Einstein hasta las modernas teorías de supercuerdas, pasando por la quinta dimensión y muchas otras exóticas conjeturas, esta es la historia de un empeño fascinante cuyo final ni siquiera se vislumbra todavía en el horizonte.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/en-busca-de-la-teoria-del-todo-una-teoria-para-dominarlas-a-todas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/en-busca-de-la-teoria-del-todo-una-teoria-para-dominarlas-a-todas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765770026798-8f596e4f76d458",
@@ -936,13 +1513,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "19",
+    "formato": "Físico",
     "categorias": [
       "Química"
     ],
-    "formato": "Físico",
     "notas": "La química en el día a día. Desde que nos levantamos hasta que nos acostamos, la química esta presente, de una forma u otra, en todos y cada uno de nuestros actos. Reacciones cotidianas aborda de una menera original muchos de los principios fundamentales de la química presentes en nuestras vidas. La químicaen la alimentacón, en nuestros hábitos higiénicos, en los productos de belleza, en la ropa, en el deporte y, como no, en la medicina. Este libro nos descubre tambien que són y qué últimadamente se han puesto de moda y de los que oímos hablar incansablemente en anuncios publicitarios. Reacciones químicas analiza los beneficios que esta ciencia aporta a la sociedad y ofrece argumentos contra la creciente «quimiofobia» de muchos consumidores.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reacciones-cotidianas-la-quimica-en-el-dia-a-dia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reacciones-cotidianas-la-quimica-en-el-dia-a-dia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765769846577-d07d9f926b68a",
@@ -953,13 +1531,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "18",
+    "formato": "Físico",
     "categorias": [
       "neurobiológica"
     ],
-    "formato": "Físico",
     "notas": "Los avances en el ámbito de la neurociencia han permitido arrojar un poco de luz sobre algunosaspectos del ser humano tan fundamentales como la conciencia, el pensamiento y las emociones, cuya comprensión había quedado relegada a la esfera de la especulación. Cada día sabemos más sobre el proceso extraordinario mediante el cual cualquier estimulo -por ejemplo, la imagen de un objeto- puede convertirse en pensamiento y, por tanto, en parte de nuestra memoria, de tal manera que desde ese momento siempre podremos recordar ese objeto y su uso. El sueño de la razón nos guía a través de las principales funciones cognitivas que rigen este proceso: la percepción (es decir, cómo recibimos la información), el pensamiento (cómo la procesaremos) y la memoria (cómo la almacenamos).",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-sueno-de-la-razon-como-funciona-el-cerebro.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-sueno-de-la-razon-como-funciona-el-cerebro.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765769673303-b3261cb31de69",
@@ -970,13 +1549,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "17",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "La reina del desorden. De entre todos los conceptos de la física, sin lugar a dudas existe uno que, por encima de cualquier otro, se antoja huidizo, difícil de entender. Se trata de la entropía, que aunque es un término acuñadoen el siglo XIX, aún hoy posee ese halo de misterio tanto para propios como para extraños, aficionados o expertos. Esta magnitud, a la que pretende enfrentarse ese libro, controla aspectos de los sistemas físicos que son realmente fascinantes. Y es que la entropía, ese extraño concepto relacionado con el paso del orden al desorden, con el calor y la energía, con el caos, es la que nos ayuda a determinar cuándo un fenómeno físico se puede llevar a cabo, como evoluciona hacia el aquilibrio, o como se degrada la energía que este sistema puede usar o poner en juego para influir o ser influido por otros constituyentes del universo. Por lo tanto,a nadie sorprende que esta magnitud sea fundamental no solo para la física, sino tambien para entender la química, o para algunas cuestiones de biología, o que incluso se haya usado para explicar diversos comportamientos tanto en conomía como sociología.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/entropia-la-reina-del-desorden.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/entropia-la-reina-del-desorden.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765769394321-97759d004f3f7",
@@ -987,13 +1567,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "16",
+    "formato": "Físico",
     "categorias": [
       "Biología"
     ],
-    "formato": "Físico",
     "notas": "Desde que Charles Darwin publicó El origen de las especies, las pruebas que sustentan la teoría de la evolución han ido confirmándose de modo incontestable, mientras que las disciplinas biológicas que han ido surgiendo -la genética, la bioquímica, la ecología, el comportamiento animal (la etología), la neurobiología y especialmente la biología molecular- han proporcionado notables pruebas adicionales y confirmación detallada de la misma. Y lo más hoy sabemos, también, que la naturaleza biológica de la humanidad no sólo ha evolucionado, sino que continúa haciéndolo. En este libro, el doctor honoris causa de la Universidad de Padua Francisco J. Ayala, uno de los más prestigiosos científicos españoles en activo, nos el recorrido de esta teoría y cómo están aún por escribirse los últimos capítulos de la maravillosa historia de la evolución.",
     "comentarios": "Francisco J. Ayala Spanish-American evolutionary biologist and philosopher at the University of California, Irvine. Member of the National Academy of Sciences, recipient of the 2001 National Medal of Science and the 2010 Templeton Prize.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-origen-de-la-humanidad-y-su-futuro-biologico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-origen-de-la-humanidad-y-su-futuro-biologico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765769105652-baac8ee0761438",
@@ -1004,13 +1585,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "15",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Las historias que cuenta este libro tiene que ver con algunos de los mayores misterios jamás planteados, y son aventuras cien por cien reales, por supuesto más sorprendentes que las de ficción. Hablan de la mezcla espacio-temporal que compone la realidad; de lo que no sentimos pero que está; de lo que hay más allá de la Puerta de Tannhäuser (sí, esto es un guiño Freak para hacer referencia a fenómenos tan extraños como estrellas muertas que giran miles de veces por segundo, o sucesos que en menos de un parpadeo liberan tanta energía como todas las estrellas del universo observable). Quizás lo más llamativo es que de todas estas exóticas historias comparten una protagonista muy cotidiana: la gravedad. La fuerza con la que aprendemos a convivir desde bebés es la misma que fabrica agujeros negros. Mientras se escribía este libro, los científicos del observatorio de detección de ondas gravitacionales LIGO anunciaban uno de los logros más ansiados de la física moderna, la primera detección directa de estas ondas. Un descubrimiento que en estas páginas se narra como la aventura emocionante que ha sido.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-universo-gravitacional-agujeros-de-gusano-materia-oscura-y-espacio.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-universo-gravitacional-agujeros-de-gusano-materia-oscura-y-espacio.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765768929690-66875e5a01af5",
@@ -1021,13 +1603,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "14",
+    "formato": "Físico",
     "categorias": [
       "neurobiológica"
     ],
-    "formato": "Físico",
     "notas": "Atracción, deseo y amor vistos por la neurobiología. Mucho es ya cuanto se ha escrito sobre sexo y sexualidad. De ello se han ocupado la filosofía, la antropología, la psicología, la religión y, por supuesto, la literatura, desde diferentes perspectivas y con distintos objetivos. En las últimas décadas, la neurobiología ha irrumpido con fuerza en este campo con la intención de alumbrar cuestiones que todavía hoy desconocemos sobre nuestra sexualidad, y también para romper algunos de los estereotipos y mitos mas extendidos sobre el sexo. Los nuevos hallazgos han empezado a trazar un panorama de los circuitos y moléculas que intervienen en la atracción sexual, la seducción, la excitación sexual y el orgasmo, ademas de desvelar las intrincadas conexiones que existen entre nuestras ardientes pasiones y los sentimientos amorosos. En este libro se recogen algunos de los recorridos neurobiológicos, cada vez mejor caracterizados, que hay detrás de nuestro comportamiento sexual y amoroso.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-del-sexo-atraccion-deseo-y-amor-vistos-por-la-neurobiologia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-del-sexo-atraccion-deseo-y-amor-vistos-por-la-neurobiologia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765768684459-69a0d5ea0b3a6",
@@ -1038,13 +1621,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "13",
+    "formato": "Físico",
     "categorias": [
       "Energía"
     ],
-    "formato": "Físico",
     "notas": "Tesla y Edison no podían ser personas más distintas: ciencia contra negocio, especulación frente a pragmatismo, desinterés frente a rentabilidad. Su lucha por establecer el estándar de la red de corriente eléctrica se volvió especialmente despiadada porque sucedió durante la segunda revolución industrial, cuando una nueva energía volvía a poner el mundo patas arriba, trayendo espectaculares oportunidades que atrajeron la atención de las grandes corporaciones dirigidas por los magnates del mito norteamericano: Rockefeller, Vanderbilt, Morgan… Edison y Telsa tuvieron que nadar en las mismas aguas salvajes que los grandes tiburones de aquel periodo llamado el Gran Capitalismo, cuando este régimen socioeconómico sentó sus pilares. El relato intenso de aquella guerra aúna historia y ciencia y, a la vez, presenta los conceptos teóricos que permiten comprender una de las cuatro grandes fuerzas del universo: la electricidad.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guerra-de-corrientes-la-revolucion-de-la-electricidad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guerra-de-corrientes-la-revolucion-de-la-electricidad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765767644285-d5dce6def20328",
@@ -1055,13 +1639,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "12",
+    "formato": "Físico",
     "categorias": [
       "Astronomía"
     ],
-    "formato": "Físico",
     "notas": "Breve historia de la astronomía. La actual visión que la humanidad tiene del universo -con más de 100 000 millones de galaxias, cada una con unos 150 000 millones de estrellas- se forjó en el siglo XX, mediante la combinación de los nuevos métodos de observación y las teorias de la astrofísica. El camino hasta esta cosmovisión ha sido largo. Arranca de tiempos prehistóricos, con los aún no bien entendidos megalitos, y tiene grandes épocas doradas en la antigüedad: Babilonia con su aritmética, el Egipto faraónico, la grecia clásica con su ciencia geométrica, las impresionantes síntesis realizadas en Alejandría. El desinterés de Roma y del Medievo cristiano por la astronomía fue compensado por la sabiduría islamica. Y la decisiva Revolución Cientifíca de Copérnico, Kepler, Galileo y Newton, en los siglos XVI y XVII, enseño a la humanidad a mirar el cielo con ojos modernos. Gracias a ellos y a otros gigantes de la astronomía – William y John Herschel, Henrietta Leavitt, Edwin Hubble…- conocemos hoy el universo mejor que cualquier otro momento de la historia. El presente libro es un recorrido por este apasionante y milenario camino que acerca la mente humana a los confines más remotos del Cosmos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mirando-al-cielo-breve-historia-de-la-astronomia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mirando-al-cielo-breve-historia-de-la-astronomia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765767279887-1a3b2f6c9c3de",
@@ -1072,13 +1657,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "11",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Imaginemos que asistimos a un espectáculo de magia. Cuando el mago mezcla las cartas, aparecen, de la nada, algunos principios matemáticos sorprendentes. Suena increíble pero los nudos que prepara el mago en el truco de las cuerdas dan nombre a una importante rama de la topología. Y es que magia y matemática van siempre de la mano. El doctor en Ciencias Matemáticas por la Universidad Complutense de Madrid Fernando Blasco nos acompaña en estos números de magia, donde el sistema binario, la teoría de códigos y las leyes de probabilidades harán su aparición, y donde descubriremos que los objetos cotidianos como monedas, billetes o calendarios, utilizando algunas reglas de divisibilidad o aritmética elemental, son los auténticos conejos en la chistera del mago.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-conejo-matematico-en-la-chistera-magia-matematica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-conejo-matematico-en-la-chistera-magia-matematica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765766993602-632a22a96999f8",
@@ -1089,13 +1675,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "10",
+    "formato": "Físico",
     "categorias": [
       "neurobiológica"
     ],
-    "formato": "Físico",
     "notas": "El arte y la belleza son fenómenos complejos, dificiles de definir desde una perspectiva neurobiológica. Aún no comprendemos qué ocurre en el cerebro durante la creación o percepción de arte. Para profundizar en la neurobiología de la experiencia artística, debemos antes comprender una serie de componentes fundamentales del cerebro, oues el arte es posiblemente la expresión de cómo este organiza e interpreta la información. Este libro ayuda a debatir inevitables cuestiones fundamentales como qué es la belleza, y si se trata de una propiedad inherente al objeto, y por tanto apreciable de forma general por cualquier cerebro, o por el contrario reside en la subjetividad de la respuesta cerebral del que la aprecia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-artistico-la-creatividad-desde-la-neurociencia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-artistico-la-creatividad-desde-la-neurociencia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765766786353-57a24e98cbfbb",
@@ -1106,13 +1693,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "9",
+    "formato": "Físico",
     "categorias": [
       "Meteorología"
     ],
-    "formato": "Físico",
     "notas": "No es de extrañar que la Meteorología haya interesado desde siempre al ser humano, habida cuenta de su utilidad: de ella dependen las cosechas,la seguridad aérea o la posibilidad de rellenar incómodos silencios en el ascensor. Pero ¿cuánto sabemos en realidad sobre los caprichos del tiempo y el clima? ¿A qué se deben los anticiclones, las tormentas o los vendavales que nos anuncian, en ocasiones, los hombres del tiempo? ¿En qué basan sus predicciones? Detrás de los pronósticos del tiempo, de una nube o de cualquier fenómeno atmosférico que se precie, Se esconde un universo metereológico que descubrirá en este libro. La Metereología es una ciencia relativamente moderna, que sigue conviviendo con tradiciones populares, ritos y creencias muy arraigadas aún en algunas personas. Si no queremos depender del refranero, solo la ciencia nos puede proporcionar las respuestas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-universo-meteorologico-un-cientifico-en-las-nubes.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-universo-meteorologico-un-cientifico-en-las-nubes.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765766287187-2ff3f0f07c0148",
@@ -1123,13 +1711,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "8",
+    "formato": "Físico",
     "categorias": [
       "Astronomía"
     ],
-    "formato": "Físico",
     "notas": "El universo, como la naturaleza, nos invita a contemplar y a conocer su rica «biodiversidad» con las singulares «especies» que los conforman y las relaciones que las mismas establecen con su entorno. Este peculiarzoo «cósmico», el mayor hábitat natural imaginable, nos abre sus puertas. ¿Cómo no entrar y descubrir las violentas explosiones de rayos gamma, las galaxias en interacción, las supernovas, los astros recién nacidos o los planetas que orbitan en torno a estrellas distintas del Sol. Cuando no vagan en solitario por el medio interestelar? Allí nos esperan los gigantes rojas, las enanas blancas, los pulsares y los agujeros negros, sin olvidar otras «especies» menosconocidas, como las enanas marrones. Cómo se originaron y evolucionaron estas «especies» en el «océano» cósmico o qué condiciones se dieron en el Sistema Solar para que surgiera la vida en la Tierra son algunas de las cuestiones que se abordan en este libro.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/especies-cosmicas-entre-gigantes-rojas-y-agujeros-negros.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/especies-cosmicas-entre-gigantes-rojas-y-agujeros-negros.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765766039560-a91b22e7c9e75",
@@ -1140,13 +1729,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "7",
+    "formato": "Físico",
     "categorias": [
       "Ciencia Ficción"
     ],
-    "formato": "Físico",
     "notas": "El escritor Isaac Asimov definió la ciencia-ficción como el género que analiza la respuesta de los seres humanos ante los cambios producidos por la ciencia y la tecnología. Sin duda, la ciencia-ficción posee un potencial anagotable para el aprendizaje de la tecnociencia, con la que comparte especulación y sentido de la maravilla, y es además una herramienta magnífica para desarrollar un sano e imprescindible espíritu crítico y escéptico, rasgo que esta en la base del propiométodo científico. De la mano de algunos mitos clásicos y modernos del género, como Godzilla, Han Solo o Ant-Man, entre otros, en esta obra se examinan y discuten aspectos como las leyes de escala, la tecnología mostrada en la saga Star Wars o los superpoderes que exhiben los superhéroes. Un viaje iniciático para ampliar, incluso, los límites de la imaginación y poner en entredicho el mundo en que vivimos al ser presentado, a través de las creaciones de la ficciòn, como uno más de los muchos mundos posibles.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-de-la-ciencia-ficcion-espadas-laser-naves-espaciales-y-superpoderes.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-de-la-ciencia-ficcion-espadas-laser-naves-espaciales-y-superpoderes.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765764965211-27b101adfba1f8",
@@ -1157,13 +1747,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "6",
+    "formato": "Físico",
     "categorias": [
       "Biología"
     ],
-    "formato": "Físico",
     "notas": "El proyecto Genoma Humano (PGH) es una de las mayores empresas científicas de la historia de la humanidad. La mayor en el campo de la Biología. Algunos la han comparado con la llegada del hombre a la luna. Una auténtica exploración de nuestro propio yo, de saber por que somos como somos. En este libro se narra, paso a paso se explica el descubrimiento del ADN, la determinación de su estructura y la optimización de las herramientas moleculares y tecnológicas necesarias para llevar a cabo con éxito el PGH. paso a paso se recorre que no estuvo exento de Polémica, dado no solo su altísimo coste, sino también la carera entre los dos consorcios, público y privado, liderados por científicos cuyos egos eran casi tan grandes como el propio proyecto planteado. También paso a paso, se desgranan las consecuencias del PGH, las falsas expectativas y los innegables beneficios que ha producido y. sobretodo generará a medio plazo. Ha sido un largo camino, de casi 150 años, tras el cual conocemos con detalle nuestro genoma. Sin embargo, lo que realmente hemos descubierto es que aún queda mucho por hacer para entender de verdad por qué somos como somos…",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-somos-como-somos-el-genoma-humano-paso-a-paso.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/por-que-somos-como-somos-el-genoma-humano-paso-a-paso.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765764624840-e8395bbda19cb",
@@ -1174,11 +1765,12 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "5",
-    "categorias": [],
     "formato": "Físico",
+    "categorias": [],
     "notas": "Son varias, y de distintos campos, las leyes físicas implicadas en multitud de fenómenos cotidianos. Por eso muchos de los procesos que observamos habitualmente no se han podido abordar desde la física hasta fechas muy recientes. Aunque nos parezca extraño, es más sencillo describir el movimiento de un planeta que el de un coche por una carretera. La mecánica, la termodinámica, la óptica, el electromagnetismo… Todas estas ramas de la física clásica intervienen en nuestra vida cotidiana. En este libro se explica que fuerzas actúan sobre una moto cuando toma una curva, por qué se nos pegan los cabellos cuando estan mojados, por qué se nos hielan los coches que quedan bajo un árbol, cómo se forman las pompas de jabón o como funciona una olla a presión, entre otros muchos fenómenos.Todo ello explicado desde los dos pilares fundamentales en los que se basa la física, las matemáticas y la experiencia, y con un estilo riguroso y ameno.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fenomenos-cotidianos-la-fisica-del-dia-a-dia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fenomenos-cotidianos-la-fisica-del-dia-a-dia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765764283964-e6b360a3daebd",
@@ -1189,13 +1781,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "4",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "El origen del Universo representa uno de los misterios que ha ocupado a la humanidad desde un nacimiento y ha sido objeto de análisis tanto para la filosofía como para la ciencia o la religión. Este volumen se ocupa de la cosmología, la rama de la física que se encarga del estudio del Universo como un todo, incluyendo su origen, su evolución y su destino. Desde un punto de vista eminentemente observacional repasaremos las principales evidencias que sustentan el modelo de la gran explosión, que mantiene que el Universo nació hace 13.800 millones de años en un estado de densidad y temperatura extremadamente altas: la expansión cósmica, las abundancias de los diferentes elementos químicos, la radiación de fondo de microondas, la distribución de la materia a gran escala… Hace tan sólo cien años nada sabíamos sobre esos temas. Aún hoy subsisten misterios como la naturaleza de la materia o la energía oscuras, que nos indican que queda mucho por aprender en el futuro.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tras-el-big-bang-del-origen-al-final-del-universo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tras-el-big-bang-del-origen-al-final-del-universo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765691736787-be1077e01c6dc",
@@ -1206,13 +1799,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "3",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Las matemáticas de la naturaleza, la naturaleza de las matemáticas es un ensayo de divulgación científica y filosófica que explora la profunda y a veces sorprendente relación entre las estructuras matemáticas y el mundo natural. A través de ejemplos que van desde las formas geométricas en plantas y cristales hasta los patrones en sistemas dinámicos, el libro muestra cómo las matemáticas no solo describen la naturaleza, sino que parecen emerger de ella como un lenguaje intrínseco. Con un enfoque reflexivo y accesible, el autor invita a cuestionar si las matemáticas son una invención humana o un descubrimiento de las regularidades del universo, tendiendo puentes entre ciencia, filosofía y estética. La obra destaca por su capacidad de despertar asombro intelectual y por proponer una mirada integradora sobre el orden, el caos y la creatividad en la realidad natural.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-matematicas-de-la-naturaleza-la-naturaleza-de-las-matematicas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-matematicas-de-la-naturaleza-la-naturaleza-de-las-matematicas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765691488220-dd68388242ecf",
@@ -1223,13 +1817,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Mundo cuántico: guía de viaje para peatones es un libro de divulgación científica ingenioso y accesible que invita al lector a adentrarse en los conceptos fundamentales de la física cuántica sin necesidad de formación técnica previa. A través de metáforas cotidianas, ejemplos claros y un tono cercano, el autor explica fenómenos como la superposición, el principio de incertidumbre, la dualidad onda-partícula y el entrelazamiento, mostrando cómo estas ideas desafían nuestra intuición clásica del mundo. El libro destaca por su enfoque pedagógico y su capacidad para traducir teorías abstractas en imágenes comprensibles, convirtiendo la complejidad cuántica en una experiencia intelectual estimulante. Es una obra ideal para lectores curiosos que desean comprender los principios del mundo cuántico desde una perspectiva amena y orientada a la divulgación.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mundo-cuantico-guia-de-viaje-para-peatones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mundo-cuantico-guia-de-viaje-para-peatones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765857932373-c2dfc4c17f3578",
@@ -1240,14 +1835,15 @@
     "editorial": "Editorial Universitaria",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Ciencia",
       "Filosofía"
     ],
-    "formato": "Digital",
     "notas": "A veinte años de la publicación de este libro, la noción de autopoiesis u organización de lo viviente como caracterización de los sistemas vivos, tiene plena vigencia en nuestros días. En un enfoque mecanicista de la realidad biológica, en que se renuncia a toda explicación teleonómica, los sistemas vivos son explicados en términos de relaciones de producción y no de las propiedades de sus componentes.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=NFWInYqvVOMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=NFWInYqvVOMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765857817561-7a92e8ad6a1fb",
@@ -1258,13 +1854,14 @@
     "editorial": "Princeton University Press",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Digital",
     "notas": "The ultimate mathematics reference book This is a one-of-a-kind reference for anyone with a serious interest in mathematics. Edited by Timothy Gowers, a recipient of the Fields Medal, it presents nearly two hundred entries—written especially for this book by some of the world's leading mathematicians—that introduce basic mathematical tools and vocabulary; trace the development of modern mathematic…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=ZOfUsvemJDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=ZOfUsvemJDMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765857336427-d8f2e7fd212f8",
@@ -1275,14 +1872,15 @@
     "editorial": "DEBATE",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Filosofía",
       "Ciencia"
     ],
-    "formato": "Digital",
     "notas": "Con la agudeza y la elegancia características de su gran talento literario, Argüello relata en estas páginas, con visionaria lucidez, el origen y la consolidación, las contradicciones y las incongruencias del rocambolesco camino que nos ha llevado a construir una fantasía tan prodigiosa como «la realidad». Y, al mismo tiempo, nos invita a mirar hacia el futuro para explorar los desafíos a los que …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=GEw5EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=GEw5EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765857033218-d2b7759e97c6d8",
@@ -1293,16 +1891,17 @@
     "editorial": "sintesis",
     "coleccion": "",
     "vol": "1",
+    "formato": "Digital",
     "categorias": [
       "Historia",
       "Matemáticas",
       "Ciencia",
       "Filosofía"
     ],
-    "formato": "Digital",
     "notas": "Filosofía, física, matemáticas, astronomía, cosmología, óptica e incluso música son algunos de los saberes que han configurado las respuestas a los interrogantes históricamente planteados sobre el universo. Esta obra pone de manifiesto este intercambio interdisciplinar en relación con las principales teorías que sobre el universo se han sucedido hasta Galileo.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765857175484-f4d516ad853378",
@@ -1313,16 +1912,17 @@
     "editorial": "sintesis",
     "coleccion": "",
     "vol": "2",
+    "formato": "Digital",
     "categorias": [
       "Historia",
       "Matemáticas",
       "Ciencia",
       "Filosofía"
     ],
-    "formato": "Digital",
     "notas": "Filosofía, física, matemáticas, astronomía, cosmología, óptica e incluso música son algunos de los saberes que han configurado las respuestas a los interrogantes históricamente planteados sobre uno de los objetos de investigación más difíciles y enigmáticos: el universo. Tras haber analizado en el volumen primero el desarrollo de las principales teorías desde los antiguos pitagóricos hasta Galileo, este segundo volumen examina la configuración del cosmos durante el siglo XVII, tomando como punto de partida este autor y finalizando con la obra con Newton. Un tercer volumen descubrirá el periodo que separa al gran astrónomo inglés de E. P. Hubble, lo cual nos situará ya en el siglo XX.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765856811394-70a0abb324a1a8",
@@ -1333,14 +1933,15 @@
     "editorial": "Turner",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Biografía",
       "Informática"
     ],
-    "formato": "Digital",
     "notas": "¿Quién fue Turing, y cuáles fueron sus logros durante sus 41 años de vida? Hoy es mejor conocido como el genio que descifraba las comunicaciones secretas de los alemanes durante la Segunda Guerra Mundial. Fue también el padre de la informática moderna: cada vez que hacemos clic para abrir un archivo, estamos poniendo en práctica sus ideas y visiones. Pero fue también un hombre que se preguntaba si…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=CSpZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=CSpZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765856644104-6d5c33a0e9b548",
@@ -1351,13 +1952,14 @@
     "editorial": "Krk Ediciones",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Informática"
     ],
-    "formato": "Digital",
     "notas": "En 1947 Alan M. Turing pronunció una conferencia ante un auditorio compuesto en su mayor parte por miembros del National Physical Laboratory de Londres en la que intentaba responder a la vieja y controvertida pregunta ¿Puede pensar una máquina?. Lo expuesto en ese acto apareció publicado tres años más tarde en Mind —una importante revista de filosofía británica— y es lo que ofrecemos aquí al lector en su traducción castellana. Este texto se convirtió enseguida en uno de los escritos fundacionales de la lógica informática y la inteligencia artificial, al presentar las líneas generales por las que debería discurrir una respuesta precisa y manejable (aunque no indiscutible) a la pregunta formulada. Se trata del famoso Test de Turing, una prueba para decidir si una máquina es inteligente (o “piensa”). Para ello Turing diseñó un juego de imitación en el que participan una máquina y seres humanos; podemos decir que una máquina piensa si un ser humano que se comunica con la máquina y con otros seres humanos no logra distinguir cuando su interlocutor es una máquina y cuando un humano. Una “máquina de Turing” como la que participa en el juego, es un dispositivo ideal de cálculo, capaz de resolver una función computable —una función cuya solución es susceptible de ser obtenida por un procedimiento mecánico— . Pero lo más significativo es que Turing demostró que hay una máquina peculiar —la máquina universal de Turing— en la que se puede representar cualquier máquina que sea capaz de computar una función particular. De acuerdo con esto, una máquina universal de Turing sería una especie de sistema operativo en el que se implementan diferentes programas (máquinas de Turing especiales), un poco a la manera en que nos es familiar en los ordenadores personales. La denominada “metáfora del ordenador” como modelo capaz de simular la mente humana y, por ende, el pensar, tiene aquí su fuente.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765856482942-c46e9c441c2b6",
@@ -1368,14 +1970,15 @@
     "editorial": "Springer",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "IA",
       "Matemáticas"
     ],
-    "formato": "Digital",
     "notas": "The third edition of this handbook is designed to provide a broad coverage of the concepts, implementations, and applications in metaheuristics. The book’s chapters serve as stand-alone presentations giving both the necessary underpinnings as well as practical guides for implementation. The nature of metaheuristics invites an analyst to modify basic methods in response to problem characteristics, …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=J3hvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=J3hvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765856379970-79462be6adbad",
@@ -1386,14 +1989,15 @@
     "editorial": "Paidos",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Matemáticas",
       "Historia"
     ],
-    "formato": "Digital",
     "notas": "",
     "comentarios": "A la mayoría nos gustan las matemáticas, el problema es que no lo sabemos. La historia de las matemáticas fue escrita por hombres y mujeres con un intelecto sorprendente, pero no se equivoquen: los verdaderos héroes de esta gran novela son las ideas. Esas pequeñas ideas que germinan un día y se propagan de un siglo a otro, las que nos dicen que hay un mundo de impresionante riqueza justo delante de nuestros ojos.Junto con MickaÁl Launay, descubriremos que las matemáticas son hermosas, poéticas, sorprendentes, emocionantes y estimulantes. El número Pi es fascinante. La sucesión de Fibonacci y el número aúreo nos llevan por caminos inesperados donde se unen el arte y la naturaleza. Las ecuaciones son un desafío y también representan el infinito universo matemático. Si nunca llegaste a comprender las matemáticas. Incluso si las llegaste a odiar... ¿Qué te parecería darles una segunda oportunidad? ¡Te sorprenderás!",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765856212792-9f26d13dbd61c8",
@@ -1404,14 +2008,15 @@
     "editorial": "Grupo Planeta (GBS)",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Filosofía",
       "Ciencia"
     ],
-    "formato": "Digital",
     "notas": "Cuatro mil años de aventura científica y descubrimientos, desde las ancestrales Babilonia y China hasta la genética y las partículas físicas. Breve historia de la ciencia es un relato fascinante de los acontecimientos, las historias y los intereses que hay detrás de la teoría abstracta y los experimentos esotéricos que componen la historia oficial de la ciencia. Pone de manifiesto que la ciencia s…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=u7b8i7W7-JYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=u7b8i7W7-JYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765856111356-1536629da2288",
@@ -1422,13 +2027,14 @@
     "editorial": "",
     "coleccion": "Historia de la filosofía",
     "vol": "4",
+    "formato": "Digital",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Digital",
     "notas": "",
     "comentarios": "Al final del volumen anterior de esta Historia de la Filosofía expresé la esperanza de abarcar en éste todo el período que va de Descartes a Kant, ambos inclusive. Pero mi esperanza de tratar toda esa parte de la filosofía moderna en un solo libro, no se ha cumplido. Me he visto obligado a dedicar tres libros al período en cuestión, y, por razones de conveniencia, he hecho un volumen distinto de cada uno de esos libros. El primero, de Descartes a Leibniz, trata de los grandes sistemas de filosofía racionalista en el continente en el período prekantiano.",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765855969413-14ce03bcc4bde",
@@ -1439,14 +2045,15 @@
     "editorial": "Alianza Editorial Sa",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Física",
       "Ciencia"
     ],
-    "formato": "Digital",
     "notas": "",
     "comentarios": "Albert Einstein presentaba en 1916 Sobre la teoría de la relatividad especial y general con las siguientes palabras: «El presente librito pretende dar una idea lo más exacta posible de la teoría de la relatividad, pensando en aquellas personas que, sin dominar el aparato matemático de la física teórica, tienen interés en la teoría desde el punto de vista científico o filosófico». He aquí pues los fundamentos de la teoría de la relatividad expuestos con la mayor claridad posible por su propio autor.",
-    "portada": "https://books.google.com/books/content?id=AzS3NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=AzS3NAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765855830978-4f29589791fb6",
@@ -1457,14 +2064,15 @@
     "editorial": "ALBA Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Novela",
       "Ciencia"
     ],
-    "formato": "Digital",
     "notas": "«En el caso de Newton y el falsificador, las complejas explicaciones sobre la economía inglesa de la época se alternan con los cuadros narrativos que presentan a Newton moviéndose por callejones oscuros e interrogando a presos. Tras este viaje por las cárceles del Londres de finales del XVII, el lector termina convencido de que si el genio inglés siguiera vivo no harían falta máquinas para detecta…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=TauVbmR6LwUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=TauVbmR6LwUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765855720518-8585609e24b688",
@@ -1475,13 +2083,14 @@
     "editorial": "Random House",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Novela"
     ],
-    "formato": "Digital",
     "notas": "A magisterial anthology of American noir writing in the 20th century by the best-selling author of the LA Quartet: The Black Dahlia. The Big Nowhere , LA Confidential and White Jazz. In his intoduction to The Best American Noir of the Century, James Ellroy writes, \"noir is the most scrutinised offshoot of the hard-boiled school of fiction. It's the long drop off the short pier and the wrong man an…",
     "comentarios": "James Ellroy y Otto Penzler han seleccionado los mejores cuentos negros americanos del siglo XX, en su mayoría inéditos en español.\n\n  Una verdadera obra magna, en la que destacan textos de James M. Cain, Michael Spillane, David Goodis, John Thompson, Patricia Highsmith, Dennis Lehane, Joyce Carol Oates y del propio Ellroy.",
-    "portada": "https://books.google.com/books/content?id=SZDf-2Cyzx8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=SZDf-2Cyzx8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765691260701-f962e4755752c",
@@ -1492,13 +2101,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la ciencia",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Persiguiendo a Einstein: de la intuición a las ondas gravitacionales es un apasionante relato de divulgación científica que recorre el camino intelectual y experimental que llevó desde las intuiciones teóricas de Albert Einstein hasta la detección directa de las ondas gravitacionales un siglo después. El libro combina historia de la ciencia, explicación accesible de la relatividad general y crónica de la colaboración internacional que culminó en los experimentos de LIGO, mostrando cómo la perseverancia, la creatividad y el avance tecnológico permitieron confirmar una de las predicciones más audaces de la física moderna. Con un lenguaje claro y narrativo, la obra acerca al lector a los desafíos conceptuales y técnicos involucrados, así como al espíritu humano detrás de los grandes descubrimientos científicos. Es una lectura estimulante que celebra la unión entre intuición, matemática y experimentación en la búsqueda por comprender el universo.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/persiguiendo-a-einstein-de-la-intuicion-a-las-ondas-gravitacionales.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/persiguiendo-a-einstein-de-la-intuicion-a-las-ondas-gravitacionales.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765778587145-c4aaa47f76c8e",
@@ -1509,13 +2119,14 @@
     "editorial": "Alianza Editorial Sa",
     "coleccion": "En busca del tiempo perdido",
     "vol": "3",
+    "formato": "Digital",
     "categorias": [
       "Novela"
     ],
-    "formato": "Digital",
     "notas": "Tercer volumen de los siete que componen la monumental obra, presenciamos el ingreso del joven Marcel...En busca del tiempo perdido es una de las más geniales creaciones literarias del siglo XX. Verdadera suma novelesca de la sociedad francesa anterior a la Primera Guerra Mundial, el propósito en que se inspira es preservar del olvido las experiencias del pasado, aniquiladas por el tiempo pero conservadas en la memoria inconsciente del narrador. Proust, en efecto, vive obsesionado por la huida irreparable del tiempo, por su implacable efecto destructor sobre las personas y las cosas. En La parte de Guermantes , tercer volumen de los siete que componen la monumental obra, presenciamos el ingreso del joven Marcel en el soñado mundo de la aristocracia. A la elegancia de los salones servirá de contrapunto fúnebre la sombra de la muerte. «Me has dicho a menudo que la extensión de las frases de Proust te extenúa. Pero espera a que regrese y te leeré esas interminables frases en voz alta: ¡cómo, inmediatamente, todo se organiza!, ¡cómo los diferentes planos se colocan!, ¡cómo se profundiza en el paisaje del pensamiento!» ANDRÉ GUIDE en su Carta a Angèle",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765778042155-c060240fad617",
@@ -1526,13 +2137,14 @@
     "editorial": "Alianza Editorial Sa",
     "coleccion": "En busca del tiempo perdido",
     "vol": "2",
+    "formato": "Digital",
     "categorias": [
       "Novela"
     ],
-    "formato": "Digital",
     "notas": "Para muchos historiadores y críticos, «En busca del tiempo perdido» no sólo es una obra cumbre de las letras francesas del siglo xx, sino también una de las más grandes creaciones literarias de todas las épocas, en la que la trasposición en el relato de la vida de Marcel Proust (1871-1922), así como de personajes y ambientes sociales de su tiempo, dio forma a un nuevo y fecundo camino en el campo de la novela. «A la sombra de las muchachas en flor» es el segundo volumen de la serie que inicia «Por el camino de Swann» y completan, por este orden, «El mundo de Guermantes», «Sodoma y Gomorra», «La prisionera», «La fugitiva» y «El tiempo recobrado».",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=8JKwpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=8JKwpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765777427590-bc83fb9e0c00d8",
@@ -1543,13 +2155,14 @@
     "editorial": "Alianza Editorial Sa",
     "coleccion": "En busca del tiempo perdido",
     "vol": "1",
+    "formato": "Digital",
     "categorias": [
       "Novela"
     ],
-    "formato": "Digital",
     "notas": "Para muchos historiadores y críticos, «En busca del tiempo perdido» no sólo es una obra cumbre de las letras francesas del siglo xx, sino también una de las más grandes creaciones literarias de todas las épocas, en la que la trasposición en el relato de la vida de Marcel Proust (1871-1922), así como de personajes y ambientes sociales de su tiempo, dio forma a un nuevo y fecundo camino en el campo de la novela. «Por el camino de Swann» es el primer volumen de la serie que completan, por este orden, «A la sombra de las muchachas en flor», «El mundo de Guermantes», «Sodoma y Gomorra», «La prisionera», «La fugitiva» y «El tiempo recobrado».",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765776444575-803e322b7471d8",
@@ -1560,13 +2173,14 @@
     "editorial": "Crítica",
     "coleccion": "Drakontos",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Aunque muchos lo ignoren, una parte sustancial de los pilares que sustentan la civilización actual se nutre de la física cuántica, junto a la relatividad una de las dos grandes revoluciones científicas que cambiaron nuestra comprensión del mundo durante la primera mitad del siglo XX.Es el cuántico un mundo regido por leyes que parecen violar las leyes del sentido común, como expresó con una ironía…",
     "comentarios": "Dirigida e introducida por el difunto Stephen Hawking, el científico más célebre del pasado reciente, Los sueños de los que está hecha la materia reúne las obras esenciales de la física cuántica; textos que provocaron un cambio de paradigma que revolucionó la física para siempre, cambiando nuestra comprensión del universo a un nivel totalmente nuevo. Reunidos en esta antología están los trabajos de la élite cuántica, entre otros: Max Planck, Niels Bohr, Werner Heisenberg, Max Born, Erwin Schrödinger, Paul Dirac, J. Robert Oppenheimer y Richard Feynman.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-suenos-de-los-que-esta-hecha-la-materia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-suenos-de-los-que-esta-hecha-la-materia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765692733819-8e00a745fe84b8",
@@ -1576,13 +2190,15 @@
     "isbn": "9788413611440",
     "editorial": "Shackleton Books",
     "coleccion": "",
+    "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Digital",
     "notas": "La apasionante historia de un libro que, a lo largo de dos mil trescientos años, consiguió moldear la ciencia, la filosofía, el arte, e incluso la literatura: los Elementos de Euclides. Sería difícil encontrar un libro más influyente en la historia de la cultura que los Elementos de Euclides. A lo largo de dos mil trescientos años, su poder ha traspasado las matemáticas y la ciencia para ejercer u…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=NPXIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=NPXIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765686935541-d89ddeb9988558",
@@ -1591,15 +2207,17 @@
     "anio": 1991,
     "isbn": "9788420626901",
     "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Filosofía",
       "Matemáticas"
     ],
-    "formato": "Digital",
-    "estado": "Sin leer",
     "notas": "",
     "comentarios": "Reflexiones sobre Kurt Gödel es un ensayo profundo y sugerente que aborda la figura y el pensamiento de uno de los lógicos más influyentes del siglo XX, cuya obra transformó de manera radical la matemática y la filosofía. A través de una aproximación reflexiva más que técnica, el libro explora el impacto de los teoremas de incompletitud, la personalidad reservada y obsesiva de Gödel, y las implicancias filosóficas de sus ideas sobre verdad, demostración y límites del conocimiento formal. El autor presenta a Gödel no solo como un genio matemático, sino también como un pensador que desafió las pretensiones de certeza absoluta de la razón, abriendo un espacio de diálogo entre lógica, metafísica y epistemología. La obra se distingue por su tono meditativo y accesible, invitando al lector a reflexionar sobre los alcances y las fronteras del pensamiento humano.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reflexiones-sobre-kurt-godel.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reflexiones-sobre-kurt-godel.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1",
@@ -1608,15 +2226,17 @@
     "anio": null,
     "isbn": "",
     "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Coliumo"
     ],
-    "formato": "Físico",
-    "estado": "Sin leer",
     "notas": "El lugar donde estuvo el paraíso, de Carlos Franz, es una novela poderosa y atmosférica que retrata la descomposición moral y emocional de un cónsul chileno en la Amazonía peruana, un hombre que se aferra a un mundo decadente mientras su vida personal y profesional se desmorona. A través de una prosa intensa y cargada de simbolismo, Franz explora temas como la soledad, la pérdida, la ilusión del poder y el choque entre la civilización y el paisaje salvaje que lo rodea. El protagonista, encerrado en su propio fracaso y en una diplomacia estéril, se enfrenta al clima implacable, la corrupción y sus propios demonios internos, convirtiendo la selva en un espejo de su deterioro. La novela destaca por su atmósfera densa, su mirada crítica a las instituciones y su profunda exploración psicológica, consolidando a Franz como una de las voces más sólidas de la narrativa chilena contemporánea.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/franz.png"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/franz.png",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766151654188-bea8de57333658",
