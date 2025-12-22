@@ -1,5 +1,345 @@
 [
   {
+    "id": "libro-1766372483718-358e9b01f4d828",
+    "titulo": "Spinoza, la filosofía al modo geométrico",
+    "autor": "Joan Solé",
+    "anio": 2017,
+    "isbn": "9788447130658",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "20",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Spinoza. La filosofía al modo geométrico es una obra de divulgación que introduce el pensamiento de Baruch Spinoza a partir de su método más característico: el orden geométrico. El libro explica cómo Spinoza construyó su filosofía mediante definiciones, axiomas y proposiciones, buscando una comprensión racional y necesaria de la realidad, la naturaleza y el ser humano.\n\nCon un enfoque claro y accesible, la obra aborda ideas centrales como Dios o la Naturaleza, el determinismo, la libertad entendida como conocimiento de la necesidad y la ética basada en la razón. Es una lectura ideal para comprender por qué la filosofía de Spinoza aspira a la misma claridad y rigor que las matemáticas, y por qué su pensamiento sigue siendo profundamente actual.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/spinoza-la-filosofia-al-modo-geometrico.jpg"
+  },
+  {
+    "id": "libro-1766372259317-33bbf490abadd8",
+    "titulo": "hegel, lo real y lo racional",
+    "autor": "Víctor Gómez Pin",
+    "anio": 2015,
+    "isbn": "9788413610719",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "19",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "La figura de Georg Wilhelm Friedrich Hegel (Stuttgart, 27 de agosto de 1770 - Berlín, 14 de noviembre de 1831) ha tenido una recepción tan contradictoria a lo largo de la historia como lo fue su propia filosofía. Aclamado y casi venerado durante buena parte del siglo XIX, convertido en una suerte de “filósofo oficial” del estado prusiano, con el cambio de centuria su prestigio sufrió una vertiginosa caída, hasta convertirse para la filosofía en algo así como una pieza de museo, rara y enigmática. ¿Cuál de esas dos lecturas es la acertada? ¿O quizás no lo es ninguna de ellas y, como nos habría sugerido el proprio Hegel, deberíamos alcanzar una síntesis que las supere? Este es, en parte, el propósito de este libro, una invitación a introducirse en el pensamiento de Hegel, o al menos a provocar una cierta curiosidad por el autor. En él, Víctor Gómez Pin se propone rescatar, siquiera parcialmente, el pensamiento del gran filósofo del idealismo alemán, indagando en la capacidad que todavía conserva de incidir en la reflexión de nuestro tiempo y de transformar a la persona que en él se adentra. Es bien sabido que algunos nombres de la filosofía tienen tanto peso que no se puede prescindir de ellos, como en los casos de Platón, Aristóteles o Kant, que representan momentos absolutamente nucleares de la disciplina. ¿Cabe decir lo mismo de Hegel? El lector juzgará al final de la lectura si es, como consideraban algunos, un faro en la filosofía.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hegel-lo-real-y-lo-racional.jpg"
+  },
+  {
+    "id": "libro-1766372139458-2c28d089ac7a3",
+    "titulo": "Filosofía Medieval. De Al-Farabi a Ockham",
+    "autor": "Andrés Martínez Lorca",
+    "anio": 2015,
+    "isbn": "9788447130733",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "18",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "En contra de los tópicos del pasado y de los viejos prejuicios, el pensamiento medieval se nos presenta diverso, crítico y polémico. Superada la etapa inicial de barbarie, comienza un diálogo con la filosofía griega en sus variadas corrientes; se afina el método y la lógica impone sus leyes en los debates.\n\nEl presente libro traza el horizonte del mundo intelectual desde esta innovadora perspectiva. La huella de aquellos grandes maestros sigue viva a día de hoy. En efecto, Averroes constituye un punto de referencia para el pensamiento árabo-islámico contemporáneo; Maimónides está presente en el diálogo de los filósofos judíos con su propia tradición; y Tomás de Aquino sigue inspirando a la filosofía cristiana en su renovación doctrinal.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/filosofia-medieval-de-al-farabi-a-ockham.jpg"
+  },
+  {
+    "id": "libro-1766371951265-d58d3eaf8b7168",
+    "titulo": "Pascal, el hombre es una caña que piensa",
+    "autor": "Gonzalo Muñoz Barallobre",
+    "anio": 2017,
+    "isbn": "9788447130771",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "17",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Pascal. El hombre es una caña que piensa es una obra de divulgación que presenta el pensamiento de Blaise Pascal a partir de su célebre idea sobre la fragilidad y grandeza del ser humano. El libro explica cómo, para Pascal, el hombre es físicamente débil frente al universo, pero superior por su capacidad de pensar, reflexionar y reconocerse a sí mismo.\n\nCon un enfoque claro y accesible, la obra aborda temas como la razón, la fe, la condición humana y la tensión entre miseria y grandeza, mostrando la vigencia del pensamiento pascaliano. Es una lectura ideal para comprender por qué Pascal ocupa un lugar central entre la filosofía, la ciencia y la reflexión existencial.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pascal-el-hombre-es-una-cana-que-piensa.jpg"
+  },
+  {
+    "id": "libro-1766371818030-bc3a40b26687c8",
+    "titulo": "Hume, cuándo saber ser escéptico",
+    "autor": "Gerardo López Sastre",
+    "anio": 2017,
+    "isbn": "9788447130665",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "16",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Hume. Cuándo saber ser escéptico es una obra de divulgación que introduce el pensamiento de David Hume a partir de una cuestión central: los límites del conocimiento humano. El libro explica cómo Hume defendió un escepticismo moderado, basado en la experiencia y el hábito, que cuestiona la certeza absoluta de nociones como causalidad, yo e inducción.\n\nCon un enfoque claro y accesible, la obra muestra cuándo el escepticismo es una actitud intelectual saludable y cuándo debe ceder ante la vida práctica y la ciencia empírica. Es una lectura ideal para comprender por qué Hume sigue siendo clave para pensar críticamente, distinguir creencias justificadas de suposiciones infundadas y ejercer una razón prudente frente a la certeza.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hume-cuando-saber-ser-esceptico.jpg"
+  },
+  {
+    "id": "libro-1766371661187-b6394f5e2539d8",
+    "titulo": "Ortega y Gasset, pensar la circunstancia",
+    "autor": "Carlos Javier González Serrano",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "15",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Ortega y Gasset. Pensar la circunstancia es una obra de divulgación que presenta el núcleo del pensamiento de José Ortega y Gasset, sintetizado en su célebre afirmación: «Yo soy yo y mi circunstancia». El libro explica cómo, para Ortega, la vida humana no puede comprenderse al margen del contexto histórico, social y vital en el que se desarrolla.\n\nCon un enfoque claro y accesible, la obra introduce ideas centrales como la razón vital, la perspectiva y la responsabilidad del individuo frente a su tiempo. Es una lectura ideal para comprender por qué pensar filosóficamente implica asumir la propia circunstancia y dialogar críticamente con ella, haciendo de la filosofía una herramienta viva para interpretar la realidad contemporánea.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ortega-y-gasset-pensar-la-circunstancia.jpg"
+  },
+  {
+    "id": "libro-1766371517605-d54185e00d16e",
+    "titulo": "Kierkegaard, el primer existencialista",
+    "autor": "Joan Solé",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "14",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Kierkegaard. El primer existencialista es una obra de divulgación que presenta el pensamiento de Søren Kierkegaard, considerado el precursor del existencialismo. El libro explica cómo Kierkegaard puso en el centro de la filosofía a la existencia individual, la angustia, la libertad y la elección, en contraste con los sistemas filosóficos abstractos de su tiempo.\n\nCon un enfoque claro y accesible, la obra introduce ideas clave como los estadios de la vida (estético, ético y religioso) y el salto de fe, mostrando por qué la subjetividad y la responsabilidad personal son esenciales para comprender la condición humana. Es una lectura ideal para entender por qué Kierkegaard es llamado el primer existencialista y por qué su pensamiento sigue siendo profundamente actual.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/kierkegaard-el-primer-existencialista.jpg"
+  },
+  {
+    "id": "libro-1766371325396-34ecee0b8a5d1",
+    "titulo": "Freud, un viaje a las profundidades del yo",
+    "autor": "Marc Pepiol",
+    "anio": 2017,
+    "isbn": "9788447130634",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "13",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Freud. Un viaje a las profundidades del yo es una obra de divulgación que introduce el pensamiento de Sigmund Freud y los fundamentos del psicoanálisis. El libro explica cómo Freud propuso explorar el inconsciente para comprender los sueños, los deseos reprimidos y los conflictos internos que influyen en la conducta humana.\n\nCon un lenguaje claro y accesible, la obra recorre conceptos clave como ello, yo y superyó, así como la interpretación de los sueños y la dinámica psíquica. Es una lectura ideal para entender por qué Freud inauguró un “viaje” hacia las profundidades del yo que transformó la psicología, la cultura y nuestra manera de pensar la subjetividad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/freud-un-viaje-a-las-profundidades-del-yo.jpg"
+  },
+  {
+    "id": "libro-1766371089477-4bafda5ff5d98",
+    "titulo": "Pitágoras y el pensamiento presocrático",
+    "autor": "Victor Gómez Pin",
+    "anio": 2015,
+    "isbn": "9789701069677",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "12",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Pitágoras y el pensamiento presocrático es una obra de divulgación que presenta la figura de Pitágoras dentro del marco del pensamiento presocrático. El libro explica cómo la escuela pitagórica concibió el número como principio ordenador del cosmos, integrando matemáticas, filosofía, música y una visión ética de la vida.\n\nCon un enfoque claro y accesible, la obra recorre ideas clave como la armonía, la proporción y la relación entre conocimiento racional y experiencia mística, mostrando la influencia duradera del pitagorismo en la filosofía y la ciencia occidentales. Es una lectura ideal para comprender cómo, antes de Sócrates, surgieron las primeras explicaciones racionales del mundo que sentaron las bases del pensamiento científico y filosófico.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pitagoras-y-el-pensamiento-presocratico.jpg"
+  },
+  {
+    "id": "libro-1766370818399-37becf3ec0125",
+    "titulo": "Rousseau, y la política hizo al hombre (tal como es)",
+    "autor": "Roberto Rodríguez Aramayo",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "11",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Rousseau. Y la política hizo al hombre (tal como es) es una obra de divulgación que introduce el pensamiento de Jean-Jacques Rousseau sobre la relación entre naturaleza humana, sociedad y política. El libro explica cómo Rousseau sostuvo que el ser humano no nace corrompido, sino que es la organización social —las leyes, las instituciones y las desigualdades— la que moldea su carácter.\n\nCon un enfoque claro y accesible, la obra aborda ideas centrales como el contrato social, la voluntad general y la crítica a la desigualdad, mostrando su vigencia para comprender la política moderna. Es una lectura ideal para entender por qué, para Rousseau, la política no solo gobierna a los hombres, sino que los hace tal como son.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/rousseau-y-la-politica-hizo-al-hombre-tal-como-es.jpg"
+  },
+  {
+    "id": "libro-1766370671764-42c2bf9a4c0fd8",
+    "titulo": "Locke, la mente es una \"tabula rasa\"",
+    "autor": "Sergi Aguilar",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "10",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Locke. La mente es una tabula rasa es una obra de divulgación que presenta el pensamiento de John Locke y su tesis central: la mente humana no posee ideas innatas, sino que se forma a partir de la experiencia. El libro explica cómo el conocimiento surge de la sensación y la reflexión, sentando las bases del empirismo moderno.\n\nCon un enfoque claro y accesible, la obra aborda implicancias clave para la educación, la psicología y la política, mostrando por qué la idea de la tabula rasa transformó la comprensión del aprendizaje y de la naturaleza humana. Es una lectura ideal para entender el giro empirista que marcó la filosofía moderna y su influencia duradera.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/locke-la-mente-es-una-tabula-rasa.jpg"
+  },
+  {
+    "id": "libro-1766370526434-ce79337b38a1f8",
+    "titulo": "Maquiavelo, de príncipes, caciques y otros animales políticos",
+    "autor": "Ignacio Iturralde Blanco",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "9",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Maquiavelo. De príncipes, caciques y otros animales políticos es una obra de divulgación que acerca el pensamiento de Nicolás Maquiavelo al mundo político contemporáneo. El libro explica, con tono claro y actual, cómo las ideas maquiavelianas sobre el poder, la estrategia y el realismo político siguen vigentes en líderes, partidos y estructuras de autoridad modernas.\n\nA partir de ejemplos históricos y actuales, la obra muestra que la política obedece a lógicas propias, donde la eficacia, la astucia y el control del poder suelen imponerse a la moral ideal. Es una lectura ágil para comprender por qué Maquiavelo continúa siendo una referencia clave para analizar el comportamiento político “tal como es”, más que como nos gustaría que fuera.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/maquiavelo-de-principes-caciques-y-otros-animales-politicos.jpg"
+  },
+  {
+    "id": "libro-1766370378943-c87c6eb1ee4758",
+    "titulo": "Schopenhauer, el pesimismo se hace filosofía",
+    "autor": "Joan Solé",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "8",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Schopenhauer. El pesimismo se hace filosofía es una obra de divulgación que presenta el pensamiento de Arthur Schopenhauer desde su visión radicalmente pesimista de la existencia. El libro explica cómo Schopenhauer concibe el mundo como manifestación de una voluntad irracional, fuente del sufrimiento humano, y por qué el deseo perpetuo impide una felicidad duradera.\n\nCon un enfoque claro y accesible, la obra introduce ideas centrales como la voluntad y representación, la compasión, el arte y la negación del querer vivir como vías de alivio frente al dolor. Es una lectura ideal para comprender cómo el pesimismo de Schopenhauer se convierte en una filosofía profunda y coherente, influyente en la literatura, la psicología y el pensamiento contemporáneo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/schopenhauer-el-pesimismo-se-hace-filosofia.jpg"
+  },
+  {
+    "id": "libro-1766370213769-3244724ad587c",
+    "titulo": "Marx, del ágora al mercado",
+    "autor": "José Manuel Bermudo Ávila",
+    "anio": 2017,
+    "isbn": "9788447130627",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "7",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Marx. Del ágora al mercado es una obra de divulgación que presenta el pensamiento de Karl Marx desde una perspectiva histórica y crítica sobre la economía política y la sociedad moderna. El libro explica cómo Marx analizó el paso desde las formas clásicas de vida pública y política —el ágora— hacia una sociedad dominada por el mercado, el capital y las relaciones de producción.\n\nCon un enfoque claro y accesible, la obra introduce conceptos centrales como trabajo, valor, plusvalía y alienación, mostrando su relevancia para comprender las dinámicas del capitalismo y sus tensiones sociales. Es una lectura ideal para entender por qué el pensamiento marxiano sigue siendo una herramienta influyente para analizar la economía, la política y las desigualdades contemporáneas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/marx-del-agora-al-mercado.jpg"
+  },
+  {
+    "id": "libro-1766370076334-75787d1cf62848",
+    "titulo": "Descartes, un filósofo más allá de toda duda",
+    "autor": "Antonio Dopazo Gallego",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "6",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Descartes. Un filósofo más allá de toda duda es una obra de divulgación que introduce el pensamiento de René Descartes a partir de su proyecto de duda metódica. El libro explica cómo Descartes buscó un fundamento absolutamente seguro para el conocimiento, llegando al célebre “pienso, luego existo” como punto de partida de la filosofía moderna.\n\nCon un lenguaje claro y accesible, la obra recorre ideas clave como la distinción entre mente y cuerpo, el papel de la razón y el método como camino hacia la certeza. Es una lectura ideal para comprender por qué Descartes marcó un giro decisivo en la historia del pensamiento y por qué su filosofía sigue siendo, literalmente, “más allá de toda duda”.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/descartes-un-filosofo-mas-alla-de-toda-duda.jpg"
+  },
+  {
+    "id": "libro-1766369939771-fb62d1afeb55b",
+    "titulo": "San Agustín, el doctor de la gracia contra el mal",
+    "autor": "E. A. Dal Maschio",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "5",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "San Agustín. El Doctor de la Gracia contra el Mal es una obra de divulgación que presenta el pensamiento de Agustín de Hipona en torno a uno de los problemas centrales de la filosofía y la teología: el mal. El libro explica cómo Agustín concibió el mal no como una sustancia, sino como privación del bien, y cómo desarrolló la doctrina de la gracia para comprender la libertad humana, la responsabilidad moral y la relación con Dios.\n\nCon un enfoque claro y accesible, la obra recorre temas como el pecado, la voluntad, el tiempo y la interioridad, mostrando la profunda influencia de Agustín en la filosofía medieval y en el pensamiento occidental. Es una lectura ideal para comprender por qué fue llamado el Doctor de la Gracia y cómo su reflexión sigue siendo clave para pensar el mal, la libertad y la condición humana.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/san-agustin-el-doctor-de-la-gracia-contra-el-mal.jpg"
+  },
+  {
+    "id": "libro-1766369807832-c57fff0c8fcb",
+    "titulo": "Aristóteles, de la potencia al acto",
+    "autor": "P. Ruiz Trujillo",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "4",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Aristóteles. De la potencia al acto es una obra de divulgación que introduce uno de los conceptos centrales del pensamiento de Aristóteles: la distinción entre potencia y acto. El libro explica cómo, para Aristóteles, el cambio y el movimiento se comprenden como el paso de lo que puede ser a lo que efectivamente es, ofreciendo una explicación racional del devenir de la naturaleza y del ser.\n\nCon un enfoque claro y pedagógico, la obra aborda nociones clave de la metafísica aristotélica, como sustancia, forma y causa, mostrando su influencia duradera en la filosofía, la ciencia y la teología. Es una lectura ideal para comprender cómo Aristóteles construyó una visión del mundo basada en el cambio ordenado y la realización plena de las posibilidades.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aristoteles-de-la-potencia-al-acto.jpg"
+  },
+  {
+    "id": "libro-1766368809105-abc2614dd0bcb8",
+    "titulo": "Kant, el giro copernicano en la filosofía",
+    "autor": "Joan Solé",
+    "anio": 2017,
+    "isbn": "9788447130559",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "3",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Kant. El giro copernicano en la filosofía es una obra de divulgación que presenta de manera clara el aporte decisivo de Immanuel Kant a la filosofía moderna. El libro explica el llamado “giro copernicano” kantiano: no es el conocimiento el que se adapta pasivamente a los objetos, sino que los objetos de la experiencia se comprenden a partir de las estructuras del sujeto que conoce.\n\nCon un enfoque accesible, la obra introduce conceptos centrales como a priori, fenómeno y noúmeno, y las condiciones de posibilidad del conocimiento, mostrando cómo Kant transformó la epistemología y sentó las bases del pensamiento contemporáneo. Es una lectura ideal para entender por qué este giro marcó un antes y un después en la historia de la filosofía.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/kant-el-giro-copernicano-en-la-filosofia.jpg"
+  },
+  {
+    "id": "libro-1766368572625-bd2b1aca0db98",
+    "titulo": "Nietzsche. el superhombre y la voluntad de poder",
+    "autor": "Toni Llácer",
+    "anio": 2019,
+    "isbn": "9788417506131",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "2",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Nietzsche. El superhombre y la voluntad de poder es una obra de divulgación que introduce las ideas centrales de Friedrich Nietzsche sobre la voluntad de poder, el superhombre y la crítica a la moral tradicional. El libro explica cómo Nietzsche propone superar los valores heredados para afirmar la vida, la creación y la responsabilidad individual frente al nihilismo.\n\nCon un enfoque claro y accesible, la obra recorre conceptos como el eterno retorno, la transvaloración de los valores y el papel del individuo creador. Es una lectura ideal para comprender por qué Nietzsche sigue siendo un pensador provocador y vigente, y cómo su filosofía invita a repensar la libertad, el sentido y la cultura contemporánea.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/nietzsche-el-superhombre-y-la-voluntad-de-poder.jpg"
+  },
+  {
+    "id": "libro-1766368204935-4dfa92e74efbe8",
+    "titulo": "Platón, la verdad está en otra parte",
+    "autor": "Eduardo Acín Dal Maschio",
+    "anio": 2019,
+    "isbn": "9788417506124",
+    "editorial": "Bonalletra Alcompas",
+    "coleccion": "Descubrir la filosofía",
+    "vol": "1",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "Platón. La verdad está en otra parte es una obra de divulgación que introduce el pensamiento de Platón a través de una mirada clara y sugerente sobre sus ideas centrales. El libro explica cómo, para Platón, la verdad no se agota en el mundo sensible, sino que se encuentra en el ámbito de las Ideas o Formas, accesible mediante la razón y el diálogo filosófico.\n\nCon un enfoque accesible y apoyado en metáforas clásicas como el mito de la caverna, la obra invita a reflexionar sobre el conocimiento, la apariencia, la justicia y la educación. Es una lectura ideal para comprender por qué Platón sigue siendo un pilar del pensamiento occidental y cómo su propuesta filosófica nos desafía a buscar la verdad “en otra parte”, más allá de lo inmediato y lo visible.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/platon-la-verdad-esta-en-otra-parte.jpg"
+  },
+  {
     "id": "libro-1766367662486-1a360bfc3bf3e8",
     "titulo": "Chandrasekhar, la evolución estelar, ha muerto una estrella",
     "autor": "Eduardo Battaner López",
@@ -8,14 +348,15 @@
     "editorial": "",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "50",
+    "formato": "Físico",
     "categorias": [
       "Astrofísica",
       "Cosmología"
     ],
-    "formato": "Físico",
     "notas": "Chandrasekhar. La evolución estelar: Ha muerto una estrella es una obra de divulgación que explica los procesos fundamentales de la evolución estelar a partir de las contribuciones de Subrahmanyan Chandrasekhar. El libro describe cómo nacen, evolucionan y mueren las estrellas, introduciendo conceptos clave como el límite de Chandrasekhar, que determina el destino final de estrellas masivas y la formación de enanas blancas, supernovas y objetos compactos.\n\nCon un enfoque claro y accesible, la obra combina contexto histórico y explicación científica para mostrar por qué la muerte de una estrella no es un final, sino un evento crucial en la dinámica y el reciclaje del cosmos. Es una lectura ideal para comprender cómo la física gobierna los ciclos de vida estelares y moldea la estructura del universo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chandrasekhar-la-evolucion-estelar-ha-muerto-una-estrella.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chandrasekhar-la-evolucion-estelar-ha-muerto-una-estrella.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766367528347-f685681c38534",
@@ -26,14 +367,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "48",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "Landau. La superfluidez: La física que surgió del frío es una obra de divulgación que introduce el fenómeno de la superfluidez, explicado por Lev Landau para describir el comportamiento extraordinario de la materia a temperaturas extremadamente bajas. El libro muestra cómo ciertos fluidos pueden fluir sin fricción, desafiar la intuición clásica y revelar nuevas leyes cuánticas a escala macroscópica.\n\nCon un enfoque claro y contextualizado, la obra explica por qué el estudio del frío extremo abrió un territorio inédito en la física de la materia condensada, con implicancias profundas para nuestra comprensión de los estados cuánticos colectivos. Es una lectura ideal para descubrir cómo del frío surgieron algunas de las ideas más elegantes y sorprendentes de la física moderna.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/landau-la-superfluidez-la-fisica-que-surgio-del-frio.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/landau-la-superfluidez-la-fisica-que-surgio-del-frio.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766367365898-eab70afe5302b",
@@ -44,13 +386,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "49",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Cavendish. La constante gravitatoria: Pura atracción es una obra de divulgación que explica cómo Henry Cavendish logró medir por primera vez la constante gravitatoria, cuantificando la fuerza de atracción entre masas. El libro describe el célebre experimento de la balanza de torsión, que permitió “pesar la Tierra” y convertir la gravitación newtoniana en una ley medible.\n\nCon un enfoque histórico y accesible, la obra muestra por qué esta medición fue decisiva para la física y la astronomía, al fijar la escala de las fuerzas cósmicas. Es una lectura ideal para comprender cómo una atracción aparentemente débil encierra uno de los números fundamentales que gobiernan el universo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cavendish-la-constante-gravitatoria-pura-atraccion.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cavendish-la-constante-gravitatoria-pura-atraccion.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766367212815-734f4650e9a328",
@@ -61,13 +404,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "47",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Poincaré. La topología: Las matemáticas pierden las formas es una obra de divulgación que introduce las ideas fundamentales de la topología, disciplina impulsada por Henri Poincaré, en la que las propiedades esenciales de los objetos no dependen de su forma exacta sino de cómo están conectados. El libro explica, de manera intuitiva, conceptos como continuidad, deformaciones y equivalencia topológica, mostrando por qué una taza y una rosquilla pueden considerarse “lo mismo” desde este punto de vista.\n\nCon un enfoque histórico y accesible, la obra revela cómo la topología transformó la matemática moderna y abrió caminos en la física, la dinámica y la cosmología. Es una lectura ideal para comprender por qué, en este nuevo lenguaje, las matemáticas “pierden las formas” para ganar profundidad conceptual.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/poincare-la-topologia-las-matematicas-pierden-las-formas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/poincare-la-topologia-las-matematicas-pierden-las-formas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766367014839-68fb3b35655f28",
@@ -78,13 +422,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "46",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "Boyle. La ley de Boyle: Bajo presión es una obra de divulgación que presenta uno de los principios fundamentales del comportamiento de los gases, formulado por Robert Boyle. El libro explica de manera clara la relación inversa entre presión y volumen, mostrando cómo, a temperatura constante, un gas se comprime o expande según las condiciones externas.\n\nCon un enfoque histórico y accesible, la obra conecta experimentos sencillos con aplicaciones reales en física, química e ingeniería, desde la respiración hasta los sistemas industriales. Es una lectura ideal para comprender por qué “bajo presión” los gases obedecen leyes simples que ayudaron a consolidar el método experimental en la ciencia moderna.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/boyle-la-ley-de-boyle-bajo-presion.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/boyle-la-ley-de-boyle-bajo-presion.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766366853413-0d442321320d88",
@@ -95,13 +440,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "45",
+    "formato": "Físico",
     "categorias": [
       "Química"
     ],
-    "formato": "Físico",
     "notas": "Pauli. El espín: Los electrones bailan es una obra de divulgación que introduce uno de los conceptos más sutiles y fundamentales de la física cuántica: el espín, formulado por Wolfgang Pauli. El libro explica cómo esta propiedad intrínseca de los electrones —lejos de ser una rotación clásica— gobierna su comportamiento cuántico y da lugar a reglas esenciales como el principio de exclusión de Pauli.\n\nCon un enfoque claro y metafórico, la obra muestra cómo el espín determina la estructura electrónica de los átomos, la tabla periódica, el magnetismo y muchas propiedades de la materia. Es una lectura accesible para comprender por qué, en el mundo cuántico, los electrones “bailan” siguiendo reglas precisas que sostienen la química y la física modernas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pauli-el-espin-los-electrones-bailan.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pauli-el-espin-los-electrones-bailan.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766366725189-a13d1cd5ca1eb",
@@ -112,13 +458,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "44",
+    "formato": "Físico",
     "categorias": [
       "Estadistica"
     ],
-    "formato": "Físico",
     "notas": "Fisher. La inferencia estadística: Probablemente sí, probablemente no es una obra de divulgación que introduce los fundamentos de la inferencia estadística a partir de las ideas de Ronald Aylmer Fisher, una de las figuras clave de la estadística moderna. El libro explica cómo, a partir de datos limitados y sujetos a incertidumbre, es posible extraer conclusiones racionales, evaluar hipótesis y cuantificar la probabilidad de error.\n\nCon un lenguaje accesible y ejemplos intuitivos, la obra aborda conceptos como probabilidad, significancia estadística y contraste de hipótesis, mostrando por qué en ciencia rara vez hay certezas absolutas y casi siempre se decide entre “probablemente sí” o “probablemente no”. Es una lectura ideal para comprender el papel central de la estadística en la investigación científica y en la toma de decisiones informadas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fisher-la-inferencia-estadistica-probablemente-si-probablemente-no.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fisher-la-inferencia-estadistica-probablemente-si-probablemente-no.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766366559819-beb04d5ab9c2b",
@@ -129,15 +476,16 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "43",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Termodinámica",
       "Energía"
     ],
-    "formato": "Físico",
     "notas": "Helmholtz. La conservación de la energía: Sin fecha de caducidad es una obra de divulgación que presenta uno de los principios más universales de la física: la conservación de la energía, formulado y consolidado por Hermann von Helmholtz. El libro explica cómo la energía no se crea ni se destruye, sino que se transforma, unificando fenómenos mecánicos, térmicos, eléctricos y químicos bajo una misma ley.\n\nCon un enfoque histórico y accesible, la obra muestra por qué este principio sigue siendo válido “sin fecha de caducidad”, desde la física clásica hasta la ciencia y la ingeniería modernas. Es una lectura ideal para comprender cómo una idea fundamental dio coherencia a la física del siglo XIX y continúa sustentando nuestra comprensión del mundo natural.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/helmholtz-la-conservacion-de-la-energia-sin-fecha-de-caducidad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/helmholtz-la-conservacion-de-la-energia-sin-fecha-de-caducidad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766366393241-85ba55756f9bf8",
@@ -148,14 +496,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "42",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Cosmología"
     ],
-    "formato": "Físico",
     "notas": "Gamow. El Big Bang: El conocimiento en expansión es una obra de divulgación que presenta las ideas fundamentales del Big Bang a partir de los aportes de George Gamow. El libro explica cómo el universo tuvo un origen caliente y denso y cómo su expansión da sentido a observaciones clave como la radiación de fondo y la abundancia de los elementos ligeros.\n\nCon un estilo claro y pedagógico, la obra combina ciencia, historia y reflexión para mostrar cómo el conocimiento cosmológico ha ido creciendo junto con la expansión del propio universo. Es una lectura ideal para comprender por qué el Big Bang se convirtió en el marco central de la cosmología moderna y cómo Gamow ayudó a acercar estas ideas al gran público.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gamow-el-big-bang-el-conocimiento-en-expansion.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gamow-el-big-bang-el-conocimiento-en-expansion.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766366163082-728a59aa4980d",
@@ -166,13 +515,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "41",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Riemann. La geometría diferencial: La matemática traspasa fronteras es una obra de divulgación que introduce las ideas revolucionarias de Bernhard Riemann, quien transformó la geometría al extenderla más allá del espacio euclidiano. El libro explica cómo la geometría diferencial permite estudiar superficies y espacios curvos, abriendo nuevas formas de describir el espacio y sus propiedades.\n\nCon un enfoque histórico y accesible, la obra muestra el impacto profundo de las ideas de Riemann en la matemática moderna y en la física, especialmente en la teoría de la relatividad. Es una lectura ideal para comprender cómo la matemática “traspasa fronteras”, ampliando nuestra visión del espacio, la forma y la estructura del universo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/riemann-la-geometria-diferencial-la-matematica-traspasa-fronteras.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/riemann-la-geometria-diferencial-la-matematica-traspasa-fronteras.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766366090533-4d5f1d495011a",
@@ -183,13 +533,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "40",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Hooke. La ley de Hooke: Estiramientos para recuperar la forma es una obra de divulgación que explica de manera clara el principio formulado por Robert Hooke, según el cual la deformación de un cuerpo elástico es proporcional a la fuerza aplicada, dentro de ciertos límites. El libro introduce conceptos como elasticidad, esfuerzo y deformación, fundamentales para comprender el comportamiento mecánico de materiales.\n\nCon un enfoque intuitivo y apoyado en ejemplos cotidianos, la obra muestra cómo esta ley permite describir resortes, estructuras y materiales reales, conectando la física teórica con aplicaciones en ingeniería y ciencia de materiales. Es una lectura accesible para entender cómo los “estiramientos” explican la capacidad de los cuerpos para recuperar su forma y por qué la ley de Hooke sigue siendo clave en la física clásica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hooke-la-ley-de-hooke-estiramientos-para-recuperar-la-forma.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hooke-la-ley-de-hooke-estiramientos-para-recuperar-la-forma.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766365949866-b65bff926a28b",
@@ -200,13 +551,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "39",
+    "formato": "Físico",
     "categorias": [
       "Electricidad"
     ],
-    "formato": "Físico",
     "notas": "Edison. La iluminación eléctrica: Una idea auténticamente brillante es una obra de divulgación que presenta el impacto de Thomas Alva Edison en el desarrollo de la iluminación eléctrica y en la electrificación de la vida cotidiana. El libro explica cómo la mejora de la bombilla incandescente fue parte de un sistema tecnológico completo —generación, distribución y uso de la electricidad— que transformó ciudades, industrias y hábitos sociales.\n\nCon un enfoque histórico y accesible, la obra destaca el método práctico de Edison, basado en la experimentación sistemática y la innovación aplicada, mostrando por qué su aporte fue mucho más que un invento aislado. Es una lectura ideal para comprender cómo una “idea auténticamente brillante” iluminó el camino hacia la era eléctrica moderna.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/edison-la-iluminacion-electrica-una-idea-autenticamente-brillante.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/edison-la-iluminacion-electrica-una-idea-autenticamente-brillante.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766365743489-0c5f2598b2cde8",
@@ -217,14 +569,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "38",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Optica"
     ],
-    "formato": "Físico",
     "notas": "Huygens. La teoría ondulatoria de la luz: Un rayo atrapado en una onda es una obra de divulgación que introduce la teoría ondulatoria de la luz propuesta por Christiaan Huygens. El libro explica cómo la luz puede entenderse como una onda que se propaga, permitiendo comprender fenómenos como la reflexión, la refracción y la difracción, en contraste con las concepciones puramente corpusculares.\n\nCon un enfoque histórico y accesible, la obra muestra la importancia del principio de Huygens y su influencia decisiva en el desarrollo posterior de la óptica y la física moderna. Es una lectura ideal para entender cómo un “rayo atrapado en una onda” cambió nuestra forma de interpretar la naturaleza de la luz y abrió el camino a la óptica contemporánea.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/huygens-la-teoria-ondulatoria-de-la-luz-un-rayo-atrapado-en-una-onda.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/huygens-la-teoria-ondulatoria-de-la-luz-un-rayo-atrapado-en-una-onda.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766365576008-df4130321a6988",
@@ -235,13 +588,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "37",
+    "formato": "Físico",
     "categorias": [
       "Electrodinámica"
     ],
-    "formato": "Físico",
     "notas": "Ampère. La electrodinámica clásica: Objetos eléctricos aún no identificados es una obra de divulgación que presenta los fundamentos de la electrodinámica clásica a partir de los aportes de André-Marie Ampère. El libro explica cómo Ampère formuló las leyes que describen la interacción entre corrientes eléctricas y campos magnéticos, sentando las bases teóricas de la electricidad moderna.\n\nCon un enfoque histórico y accesible, la obra muestra cómo fenómenos eléctricos inicialmente enigmáticos —“objetos eléctricos aún no identificados”— adquirieron sentido mediante leyes precisas y mediciones rigurosas, dando origen a conceptos clave como la corriente eléctrica y su unidad de medida. Es una lectura ideal para comprender el nacimiento de la electrodinámica y su impacto duradero en la física y la ingeniería eléctrica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ampere-la-electrodinamica-clasica-objetos-electricos-aun-no-identificados.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ampere-la-electrodinamica-clasica-objetos-electricos-aun-no-identificados.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766365438281-c85eb4561bf118",
@@ -252,13 +606,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "36",
+    "formato": "Físico",
     "categorias": [
       "Electricidad"
     ],
-    "formato": "Físico",
     "notas": "Tesla. La corriente alterna: La electricidad tiene un doble sentido es una obra de divulgación que presenta las ideas y aportes de Nikola Tesla en torno a la corriente alterna, fundamento de los sistemas eléctricos modernos. El libro explica, de manera clara y accesible, por qué la corriente alterna permitió transportar electricidad a grandes distancias con mayor eficiencia y cómo superó a los sistemas de corriente continua en la electrificación del mundo.\n\nCon un enfoque histórico y didáctico, la obra muestra el ingenio de Tesla, sus innovaciones en motores y transformadores, y el impacto tecnológico y social de la corriente alterna. Es una lectura ideal para comprender por qué la electricidad “tiene un doble sentido” y cómo esta idea cambió para siempre la forma en que producimos y usamos la energía eléctrica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tesla-la-corriente-alterna-la-electricidad-tiene-un-doble-sentido.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tesla-la-corriente-alterna-la-electricidad-tiene-un-doble-sentido.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766365266615-95739b9ad72038",
@@ -269,14 +624,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "35",
+    "formato": "Físico",
     "categorias": [
       "Computación",
       "Informática"
     ],
-    "formato": "Físico",
     "notas": "Von Neumann. La teoría de juegos: Piedra, papel, teorema es una obra de divulgación que introduce los fundamentos de la teoría de juegos a partir de las ideas de John von Neumann. El libro explica cómo situaciones de conflicto, cooperación y decisión racional pueden modelarse matemáticamente, desde juegos simples hasta problemas complejos de economía, estrategia y política.\n\nCon un enfoque claro y didáctico, la obra presenta conceptos clave como estrategias, equilibrio y juegos de suma cero, mostrando por qué un juego tan cotidiano como “piedra, papel o tijera” encierra teoremas profundos. Es una lectura ideal para comprender cómo las matemáticas pueden describir el comportamiento estratégico y por qué la teoría de juegos se convirtió en una herramienta central de las ciencias sociales y la toma de decisiones.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/von-neumann-la-teoria-de-los-juegos-piedra-papel-teorema.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/von-neumann-la-teoria-de-los-juegos-piedra-papel-teorema.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766365107381-5249aab792ac78",
@@ -287,13 +643,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "34",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Hilbert. Las bases de la matemática: En el principio fue el axioma es una obra de divulgación que presenta el ambicioso proyecto de David Hilbert por fundamentar toda la matemática sobre sistemas axiomáticos rigurosos. El libro explica, de forma clara y accesible, qué son los axiomas, por qué resultan esenciales para construir teorías coherentes y cómo el programa de Hilbert buscó garantizar consistencia, completitud y rigor en las matemáticas.\n\nCon un enfoque histórico y conceptual, la obra aborda el impacto de estas ideas en la lógica y la filosofía de la matemática, así como los límites revelados posteriormente por Gödel. Es una lectura ideal para comprender por qué “en el principio fue el axioma” y cómo la formalización axiomática marcó un punto de inflexión en el pensamiento matemático moderno.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hilbert-las-bases-de-la-matematica-en-el-principio-fue-el-axioma.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hilbert-las-bases-de-la-matematica-en-el-principio-fue-el-axioma.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766364957707-2dda60e950d2f8",
@@ -304,13 +661,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "33",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Meitner. La fisión nuclear: Uranio partido por dos, igual a energía es una obra de divulgación que explica el descubrimiento de la fisión nuclear a partir del trabajo fundamental de Lise Meitner. El libro relata cómo la división del núcleo de uranio libera enormes cantidades de energía, clarificando el significado físico de la célebre relación entre masa y energía.\n\nCon un enfoque histórico y accesible, la obra destaca el papel crucial —y durante mucho tiempo subestimado— de Meitner en la interpretación teórica de la fisión, así como las consecuencias científicas y tecnológicas de este hallazgo. Es una lectura ideal para comprender cómo un avance en la física nuclear transformó la ciencia del siglo XX y abrió debates profundos sobre el uso de la energía atómica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/meitner-la-fision-nuclear-uranio-partido-por-dos-igual-a-energia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/meitner-la-fision-nuclear-uranio-partido-por-dos-igual-a-energia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766364724315-2da01500aed188",
@@ -321,14 +679,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "32",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Mecánica Cuántica"
     ],
-    "formato": "Físico",
     "notas": "Dirac. La antimateria: El reflejo oscuro de la materia es una obra de divulgación que presenta una de las ideas más sorprendentes de la física moderna: la existencia de la antimateria, predicha teóricamente por Paul Dirac. El libro explica cómo, al unificar la mecánica cuántica con la relatividad, Dirac llegó a una ecuación que implicaba partículas “espejo” de la materia ordinaria, con la misma masa pero carga opuesta.\n\nCon un enfoque claro y accesible, la obra recorre el contexto histórico del descubrimiento del positrón, las implicancias conceptuales de la antimateria y su relevancia en la física de partículas y la cosmología. Es una lectura ideal para comprender por qué la antimateria puede verse como el “reflejo oscuro” de la materia y cómo una predicción matemática terminó revelando una nueva dimensión de la realidad física.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/dirac-la-antimateria-el-reflejo-oscuro-de-la-materia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/dirac-la-antimateria-el-reflejo-oscuro-de-la-materia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766364537146-720f149234f938",
@@ -339,13 +698,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "31",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "Lord Kelvin. La termodinámica clásica: La física entra en calor es una obra de divulgación que presenta los fundamentos de la termodinámica clásica a partir de las contribuciones de William Thomson, Lord Kelvin. El libro explica conceptos esenciales como temperatura absoluta, energía, entropía y las leyes de la termodinámica, mostrando cómo estas ideas permitieron comprender el calor, el trabajo y la eficiencia de las máquinas.\n\nCon un enfoque histórico y didáctico, la obra destaca el impacto de la termodinámica en la física y la ingeniería —desde la revolución industrial hasta la ciencia moderna— y por qué “la física entra en calor” cuando el estudio del calor se convierte en un pilar conceptual. Es una lectura accesible para entender uno de los marcos teóricos más influyentes de la ciencia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lord-kelvin-la-termodinamica-clasica-la-fisica-entra-en-calor.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lord-kelvin-la-termodinamica-clasica-la-fisica-entra-en-calor.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766364369900-cf7463d9e7e2f",
@@ -356,13 +716,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "30",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Cantor. El infinito en matemáticas: Lo incontable es lo que cuenta es una obra de divulgación que introduce las ideas revolucionarias de Georg Cantor sobre el infinito. El libro explica de forma clara la distinción entre infinitos numerables y no numerables, mostrando cómo Cantor demostró que no todos los infinitos son iguales y que algunos “contienen” a otros.\n\nCon un enfoque histórico y pedagógico, la obra presenta conceptos como conjuntos, cardinalidad y el argumento diagonal, resaltando el impacto profundo de estas ideas en la matemática moderna y en la filosofía del conocimiento. Es una lectura accesible para comprender por qué lo “incontable” es, paradójicamente, lo que más cuenta en la comprensión del infinito matemático.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cantor-el-infinito-en-matematicas-lo-incontable-es-lo-que-cuenta.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cantor-el-infinito-en-matematicas-lo-incontable-es-lo-que-cuenta.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766363835992-904fd039961178",
@@ -373,13 +734,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "29",
+    "formato": "Físico",
     "categorias": [
       "Química"
     ],
-    "formato": "Físico",
     "notas": "Lavoisier. La química moderna: La revolución está en el aire es una obra de divulgación que presenta el nacimiento de la química moderna a partir de los aportes de Antoine Lavoisier. El libro explica cómo la introducción del método experimental cuantitativo, la ley de conservación de la masa y una nueva nomenclatura química transformaron radicalmente la disciplina, dejando atrás explicaciones cualitativas como la teoría del flogisto.\n\nCon un enfoque histórico y accesible, la obra muestra cómo el estudio del aire, la combustión y los gases impulsó una auténtica revolución científica y conceptual. Es una lectura ideal para comprender por qué Lavoisier cambió la forma de hacer química y sentó las bases del lenguaje y los métodos que aún hoy estructuran la ciencia química.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lavoisier-la-quimica-moderna-la-revolucion-esta-en-el-aire.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lavoisier-la-quimica-moderna-la-revolucion-esta-en-el-aire.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766363602936-e7388507b58ab8",
@@ -390,13 +752,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "28",
+    "formato": "Físico",
     "categorias": [
       "Astronomía"
     ],
-    "formato": "Físico",
     "notas": "Hubble. La expansión del universo: El cosmos se hace mayor es una obra de divulgación que explica de manera clara el descubrimiento fundamental de Edwin Hubble: el universo no es estático, sino que se expande. El libro describe cómo la observación de galaxias lejanas y el corrimiento al rojo llevó a formular la ley de Hubble, transformando nuestra comprensión del cosmos.\n\nCon un enfoque histórico y accesible, la obra muestra el impacto de este hallazgo en la cosmología moderna, abriendo el camino a teorías como el Big Bang y a la medición de la escala del universo. Es una lectura ideal para comprender por qué el cosmos “se hace mayor” y cómo una observación astronómica cambió para siempre nuestra visión del espacio y del tiempo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hubble-la-expansion-del-universo-el-cosmos-se-hace-mayor.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hubble-la-expansion-del-universo-el-cosmos-se-hace-mayor.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766363456197-5e103a9d70a048",
@@ -407,13 +770,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "27",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Leibniz. El cálculo infinitesimal: La física aprende un nuevo idioma es una obra de divulgación que explica cómo Gottfried Wilhelm Leibniz contribuyó decisivamente al nacimiento del cálculo infinitesimal, el lenguaje matemático que permitió describir el cambio continuo en la naturaleza. El libro muestra cómo conceptos como derivadas e integrales se convirtieron en herramientas esenciales para la física, posibilitando el análisis del movimiento, la dinámica y los procesos naturales con una precisión inédita.\n\nCon un enfoque histórico y pedagógico, la obra destaca la potencia simbólica del método de Leibniz y su influencia duradera en la ciencia moderna. Es una lectura accesible para comprender por qué el cálculo representó un “nuevo idioma” para la física y marcó un antes y un después en la forma de pensar y modelar el mundo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/leibniz-el-calculo-infinitesimal-la-fisica-aprende-un-nuevo-idioma.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/leibniz-el-calculo-infinitesimal-la-fisica-aprende-un-nuevo-idioma.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766363301160-8a40840a5572d",
@@ -424,14 +788,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "26",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Mecánica cuántica"
     ],
-    "formato": "Físico",
     "notas": "Niels Bohr. El átomo cuántico: Pasaporte cuántico a otro estado es una obra de divulgación que introduce de forma clara los principios del modelo atómico cuántico propuesto por Niels Bohr. El libro explica cómo los electrones solo pueden ocupar niveles de energía discretos y cómo los “saltos cuánticos” entre estos estados permiten comprender la emisión y absorción de luz por los átomos.\n\nCon un enfoque histórico y pedagógico, la obra muestra el papel clave del modelo de Bohr en la transición desde la física clásica a la cuántica, sentando las bases para desarrollos posteriores de la mecánica cuántica. Es una lectura accesible para entender por qué el átomo cuántico implica un verdadero “pasaporte a otro estado” de la ciencia y del pensamiento físico.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/niels-bohr-el-atomo-cuantico-pasaporte-cuantico-a-otro-estado.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/niels-bohr-el-atomo-cuantico-pasaporte-cuantico-a-otro-estado.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766363083616-af44b426b22d48",
@@ -442,15 +807,16 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "25",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Electricidad",
       "Magnetismo"
     ],
-    "formato": "Físico",
     "notas": "Maxwell. La síntesis electromagnética: Magnetismo ad alto voltaggio es una obra de divulgación que presenta la unificación de la electricidad y el magnetismo lograda por James Clerk Maxwell. El libro explica, de manera accesible, cómo las ecuaciones de Maxwell integran fenómenos eléctricos, magnéticos y ópticos en un marco coherente, sentando las bases del electromagnetismo moderno.\n\nCon ejemplos intuitivos y contexto histórico, la obra muestra el impacto de esta síntesis en tecnologías clave —desde motores y transformadores hasta telecomunicaciones— y por qué puede hablarse de un “magnetismo a alto voltaje” como metáfora del poder explicativo y práctico de la teoría. Es una lectura ideal para comprender uno de los pilares conceptuales de la física y la ingeniería contemporáneas sin recurrir a formalismos matemáticos complejos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/maxwell-la-sintesis-electromagnetica-magnetismo-de-alto-voltaje.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/maxwell-la-sintesis-electromagnetica-magnetismo-de-alto-voltaje.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766362935581-fb464e86cd93b8",
@@ -461,14 +827,15 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "24",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Energía Nuclear"
     ],
-    "formato": "Físico",
     "notas": "Fermi. La energía nuclear: La fisión hace la fuerza es una obra de divulgación que introduce de forma clara los fundamentos de la energía nuclear a partir de los aportes de Enrico Fermi. El libro explica qué es la fisión nuclear, cómo se libera la enorme energía contenida en el núcleo atómico y por qué este proceso permitió el desarrollo de reactores nucleares y nuevas aplicaciones científicas y tecnológicas.\n\nCon un enfoque histórico y didáctico, la obra muestra el papel decisivo de Fermi en la comprensión y control de las reacciones nucleares en cadena, así como las implicancias científicas y sociales de este descubrimiento. Es una lectura accesible para comprender cómo la fisión “hace la fuerza” y por qué la energía nuclear marcó un punto de inflexión en la historia de la ciencia y la tecnología del siglo XX.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fermi-la-energia-nuclear-la-fision-hace-la-fuerza.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fermi-la-energia-nuclear-la-fision-hace-la-fuerza.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766362704061-b143c14aebd5d",
@@ -479,13 +846,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "23",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Rutherford. El núcleo atómico: Los átomos también tienen corazón es una obra de divulgación que explica el descubrimiento del núcleo atómico a partir de los experimentos de Ernest Rutherford. El libro relata cómo, mediante el célebre experimento de la lámina de oro, se demostró que el átomo posee un centro pequeño, denso y cargado positivamente, revolucionando el modelo atómico clásico.\n\nCon un lenguaje claro y apoyado en el contexto histórico, la obra muestra cómo este hallazgo transformó la física y abrió el camino a la física nuclear y a la comprensión moderna de la estructura de la materia. Es una lectura accesible para entender por qué puede decirse que los átomos “también tienen corazón” y cómo este descubrimiento cambió para siempre nuestra visión del mundo microscópico.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/rutherford-el-nucleo-atomico-los-atomos-tambien-tienen-corazon.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/rutherford-el-nucleo-atomico-los-atomos-tambien-tienen-corazon.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766362569819-057814b5e32ec",
@@ -496,13 +864,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "22",
+    "formato": "Físico",
     "categorias": [
       "Química"
     ],
-    "formato": "Físico",
     "notas": "Dalton. La teoría atómica: ¿Cuánto pesan los átomos? es una obra de divulgación que presenta de forma clara el surgimiento de la teoría atómica moderna a partir del trabajo de John Dalton. El libro explica cómo Dalton introdujo la idea de que la materia está compuesta por átomos con masas definidas, sentando las bases de la estequiometría y de la química cuantitativa.\n\nA través de ejemplos históricos y explicaciones sencillas, la obra muestra cómo la pregunta aparentemente simple —¿cuánto pesan los átomos?— condujo a una revolución científica que permitió comparar sustancias, formular leyes químicas y avanzar hacia la comprensión moderna de la materia. Es una lectura ideal para entender el origen conceptual de la química moderna y su impacto en la ciencia y la industria.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/dalton-la-teoria-atomica-cuanto-pesan-los-atomos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/dalton-la-teoria-atomica-cuanto-pesan-los-atomos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766362419600-157ba18a8803c",
@@ -513,13 +882,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "20",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Euler. El análisis matemático: Números al límite es una obra de divulgación que introduce de manera clara e intuitiva las ideas centrales del análisis matemático a través de la figura de Leonhard Euler. El libro explica conceptos como límite, continuidad, series y funciones, mostrando cómo estas nociones permiten describir fenómenos de cambio y movimiento en la ciencia y la ingeniería.\n\nCon un enfoque histórico y pedagógico, la obra destaca la enorme influencia de Euler en la formalización del cálculo moderno y en el lenguaje matemático que aún utilizamos. Es una lectura accesible para curiosos y estudiantes que desean comprender qué significa “llevar los números al límite” y por qué el análisis matemático se convirtió en una de las herramientas más poderosas de la ciencia moderna.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/euler-el-analisis-matematico-numeros-al-limite.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/euler-el-analisis-matematico-numeros-al-limite.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766358921886-864102b1a2e1c8",
@@ -530,14 +900,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Electromagnetismo",
       "Electricidad"
     ],
-    "formato": "Físico",
     "notas": "Faraday. La inducción electromagnética: Ciencia de alta tensión es una obra de divulgación que presenta de manera clara y accesible los principios de la inducción electromagnética, a partir de los descubrimientos de Michael Faraday. El libro explica cómo la relación entre electricidad y magnetismo dio origen a tecnologías fundamentales como generadores, transformadores y motores eléctricos.\n\nCon un enfoque intuitivo y apoyado en ejemplos históricos, la obra destaca el valor del experimento y la observación frente al formalismo matemático, rasgo distintivo del método de Faraday. Es una lectura ideal para comprender cómo una idea científica aparentemente simple desencadenó la electrificación del mundo moderno y sentó las bases de la ingeniería eléctrica contemporánea.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/faraday-la-induccion-electromagnetica-ciencia-de-alta-tension.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/faraday-la-induccion-electromagnetica-ciencia-de-alta-tension.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766358405533-4fbc41bd1cfbb",
