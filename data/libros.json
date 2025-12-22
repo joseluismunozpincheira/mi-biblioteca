@@ -1,5 +1,192 @@
 [
   {
+    "id": "libro-1766445167351-64e4b4258a0f2",
+    "titulo": "APOLOGIA DE UN MATEMATICO",
+    "autor": "Godfrey Harold Hardy",
+    "anio": 2017,
+    "isbn": "9788494740794",
+    "editorial": "Capitan Swing",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Divulgación"
+    ],
+    "formato": "Digital",
+    "notas": "G.H. Hardy fue uno de los mejores matemáticos de este siglo, reconocido entre sus contemporáneos como un «matemático auténtico, el más puro entre los puros». Esta Apología, escrita emotivamente cuando su poder creativo matemático estaba ya en su ocaso, es un relato brillante y cautivador de las matemáticas consideradas como mucho más que una ciencia, que nos proporciona una de las mejores visiones de cómo discurre la mente de un matemático en pleno proceso de trabajo. De hecho, este libro está ampliamente considerado como una de las mejores penetraciones en la mente de un matemático profesional, escrita para profanos. En sus páginas, Hardy defiende el valor de la matemática teórica más abstracta y la belleza como valor indispensable de las buenas teorías matemáticas por encima de otros valores como su aplicabilidad o relevancia para los problemas de física. Cuando fue publicada en inglés por primera vez, Graham Greene la aclamó, junto con los cuadernos de notas de Henry James, como «la mejor narración de lo que representa el ser un artista creativo». El prólogo de C. P. Snow a la edición inglesa proporciona algunas claves de la vida de Hardy, incluyendo las anécdotas relativas a su colaboración con el matemático indio Ramanujan, sus aforismos y su pasión por el críquet. Este es un relato único de la fascinación por las matemáticas y de uno de sus exponentes más convincentes de los tiempos modernos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/apologia-de-un-matematico.jpg"
+  },
+  {
+    "id": "libro-1766444738344-a6860c63a173",
+    "titulo": "Un Descubrimiento sin fin, el infinito matemático",
+    "autor": "Enrique Gracián",
+    "anio": 2010,
+    "isbn": "9788447369683",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "29",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Un descubrimiento sin fin: El infinito matemático, de Enrique Gracián, es un libro de divulgación que aborda uno de los conceptos más fascinantes y desafiantes del pensamiento humano: el infinito. La obra invita a explorar cómo las matemáticas han intentado comprender, definir y trabajar con aquello que, por naturaleza, parece inabarcable.\n\nEl texto recorre distintas concepciones del infinito, desde las paradojas clásicas y las intuiciones filosóficas hasta los desarrollos matemáticos modernos, mostrando cómo nociones como infinito potencial y actual, conjuntos infinitos, límites y cardinalidades han transformado la manera en que entendemos el número y la magnitud. El autor logra presentar estas ideas complejas con claridad y profundidad conceptual.\n\nCon un lenguaje accesible y un enfoque reflexivo, el libro destaca que el infinito no es solo una abstracción teórica, sino una herramienta fundamental en áreas como el cálculo, la geometría y la teoría de conjuntos. Al mismo tiempo, invita al lector a confrontar las dificultades intuitivas que este concepto genera.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-descubrimiento-sin-fin-el-infinito-matematico.jpg"
+  },
+  {
+    "id": "libro-1766444630596-f52038b44c3088",
+    "titulo": "Planeta matemático, un viaje numérico por el mundo",
+    "autor": "Miquel Albertí Palmer",
+    "anio": 2011,
+    "isbn": "9788447374434",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "28",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Planeta matemático: Un viaje numérico por el mundo, de Miquel Albertí, es un libro de divulgación que propone un recorrido cultural y conceptual por las matemáticas tal como aparecen en distintos lugares, tradiciones y situaciones de la vida cotidiana. El texto invita a entender las matemáticas como un lenguaje universal que adopta formas diversas según el contexto histórico y social.\n\nA través de ejemplos accesibles, el autor muestra cómo números, patrones y razonamientos matemáticos emergen en actividades tan variadas como el comercio, la arquitectura, los juegos, los calendarios o las costumbres locales. El enfoque no es técnico, sino narrativo y exploratorio, lo que permite al lector descubrir conexiones inesperadas entre matemática, cultura y experiencia humana.\n\nCon un estilo claro y ameno, el libro refuerza la idea de que las matemáticas no son un conocimiento abstracto y aislado, sino una herramienta viva para comprender el mundo, presente en todos los rincones del “planeta” que habitamos. Cada capítulo funciona como una parada en este viaje intelectual, despertando curiosidad y sentido crítico.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/planeta-matematico-un-viaje-numerico-por-el-mundo.jpg"
+  },
+  {
+    "id": "libro-1766444471437-f8aa7e320338c8",
+    "titulo": "Números notables, El 0, el 666 y otras bestias numéricas",
+    "autor": "Lamberto García del Cid",
+    "anio": 2011,
+    "isbn": "9788490060209",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "27",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Dónde radica la importancia de un número? Hay números importantes para los matemáticos, como el cero. Otros lo son para ciertas religiones, como el 3 o el 666. Y, desde luego, los hay para los aficionados a la lotería, como el 22. Ya seamos matemáticos, creyentes o aficionados a los juegos de azar, o las tres cosas o ninguna, la importancia e influencia de los números permean nuestra vida. No todo…",
+    "comentarios": "Números notables: El 0, el 666 y otras bestias numéricas, de Lamberto García del Cid, es un libro de divulgación que explora algunos de los números más singulares y simbólicos de las matemáticas, mostrando cómo ciertos valores han adquirido significados especiales tanto en el ámbito científico como en la cultura popular.\n\nLa obra recorre números emblemáticos como el 0, el 1, el π, el e o el 666, explicando sus propiedades matemáticas, su origen histórico y las interpretaciones —a veces míticas o supersticiosas— que los han rodeado. El autor logra combinar el rigor matemático con anécdotas culturales, revelando cómo los números trascienden el cálculo para convertirse en objetos cargados de significado.\n\nCon un estilo ameno y divulgativo, el libro desmonta mitos y aclara malentendidos, mostrando que detrás de la fascinación por ciertos números hay razones matemáticas profundas, así como construcciones simbólicas creadas por las sociedades. El texto invita al lector a distinguir entre ciencia y superstición sin perder el asombro por la riqueza numérica.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/numeros-notables-el-0-el-666-y-otras-bestias-numericas.jpg"
+  },
+  {
+    "id": "libro-1766444324291-12575c5cab9bf8",
+    "titulo": "Mujeres matemáticas",
+    "autor": "Joaquín Navarro",
+    "anio": 2019,
+    "isbn": "9788491872665",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "26",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Genero"
+    ],
+    "formato": "Digital",
+    "notas": "Desde el siglo IV a. C. y hasta nuestros días, son muchas las mujeres que han aportado conocimiento al mundo matemático. Hipatia de Alejandría mejoró el astrolabio y creó el higrómetro; Caroline Lucretia Herschel descubrió dos mil estrellas dobles y demostró sus sistemas binarios; Sofia Kovalevskaya formuló el teorema de Cauchy-Kovalevski y ganó el reputado Premio Bordin. Este libro nos descubre a grandes mujeres, de todas las épocas, que, superando los más arraigados prejuicios, marcaron la evolución y la historia de las ciencias matemáticas.",
+    "comentarios": "Mujeres matemáticas: De Hipatia a Emmy Noether, de Joaquín Navarro, es un libro de divulgación que recupera y visibiliza el papel fundamental de las mujeres en la historia de las matemáticas, desde la Antigüedad hasta la era moderna, en contextos muchas veces adversos y excluyentes.\n\nLa obra traza un recorrido biográfico e histórico que comienza con Hipatia de Alejandría y culmina con figuras clave del siglo XX como Emmy Noether, mostrando no solo sus aportes científicos, sino también las dificultades sociales, institucionales y culturales que enfrentaron para desarrollar su trabajo. El autor destaca cómo estas matemáticas contribuyeron de manera decisiva a áreas como el álgebra, la física matemática y los fundamentos de la ciencia moderna.\n\nCon un lenguaje claro y accesible, el libro combina rigor histórico con vocación pedagógica, evitando el tono meramente enciclopédico y poniendo énfasis en la dimensión humana de las protagonistas. Más que una simple enumeración de nombres, el texto invita a reflexionar sobre la construcción del conocimiento científico y sobre las desigualdades de género que han marcado su desarrollo.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mujeres-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766444124818-01ed5d06d15d18",
+    "titulo": "Mentes, máquinas y matemáticas",
+    "autor": "Ignasi Belda",
+    "anio": 2011,
+    "isbn": "9788447374366",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "25",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "IA"
+    ],
+    "formato": "Digital",
+    "notas": "Mentes, máquinas y matemáticas: La inteligencia artificial y sus retos, de Ignasi Belda, es un libro de divulgación que aborda la inteligencia artificial (IA) desde una perspectiva matemática y conceptual, analizando tanto sus fundamentos como los desafíos que plantea para la ciencia y la sociedad contemporánea.\n\nLa obra explica cómo las matemáticas sostienen el funcionamiento de los sistemas inteligentes, introduciendo de forma accesible ideas como algoritmos, modelos, aprendizaje automático, optimización y toma de decisiones automatizada. El autor muestra que, más allá de la apariencia “inteligente” de las máquinas, existe una base rigurosa de métodos matemáticos que permite simular, aprender y predecir comportamientos.\n\nUno de los ejes centrales del libro es la reflexión sobre los límites y retos de la IA: qué significa realmente que una máquina “piense”, hasta dónde puede llegar la automatización y qué implicaciones éticas, sociales y laborales surgen de su desarrollo. El texto invita a distinguir entre expectativas exageradas y posibilidades reales, aportando una mirada crítica y bien informada.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mentes-maquinas-y-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766444001271-c6161d2316128",
+    "titulo": "Matemáticos, espías y piratas informáticos, codificación y criptografía",
+    "autor": "Joan Gómez i Urgellés",
+    "anio": 2010,
+    "isbn": "9788447366248",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "24",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Informática",
+      "Criptografía"
+    ],
+    "formato": "Digital",
+    "notas": "Matemáticos, espías y piratas informáticos: Codificación y criptografía, de Joan Gómez, es un libro de divulgación que introduce al lector en el mundo de la criptografía, mostrando cómo las matemáticas han sido fundamentales para proteger la información desde la antigüedad hasta la era digital.\n\nLa obra recorre la historia de los códigos y sistemas de cifrado, desde mensajes secretos en contextos militares y diplomáticos hasta los algoritmos que hoy resguardan transacciones bancarias, comunicaciones por Internet y datos personales. Con ejemplos claros y narrativos, el autor explica cómo ideas matemáticas como aritmética modular, claves, algoritmos y complejidad se convierten en herramientas esenciales de seguridad.\n\nUno de los grandes aciertos del libro es su enfoque histórico y aplicado, que combina episodios de espionaje, avances científicos y desafíos tecnológicos modernos. El texto logra transmitir que la criptografía no es solo una técnica informática, sino una disciplina profundamente ligada al desarrollo del pensamiento matemático y a las necesidades sociales de confidencialidad y confianza.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/matematicos-espias-y-piratas-informaticos-codificacion-y-criptografia.jpg"
+  },
+  {
+    "id": "libro-1766443801263-0a165f27bd483",
+    "titulo": "Los secretos del número Pi",
+    "autor": "Joaquín Navarro Quijada",
+    "anio": 2011,
+    "isbn": "9788498679182",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "23",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Todos los secretos, singularidades y sorpresas de la cifra más estudiada y admirada de la historia. Tres-catorce-quince... esta familiar cantinela describe la razón entre la longitud de una circunferencia y su radio, también conocida como número À. Objeto de estudio desde los albores mismos de la civilización, ningún otro número ha despertado tanto interés y controversia a través de las épocas. Es…",
+    "comentarios": "Los secretos del número π: ¿Por qué es imposible la cuadratura del círculo?, de Joaquín Navarro, es un libro de divulgación que toma como protagonista al número π, uno de los símbolos más célebres y enigmáticos de las matemáticas, para explorar su historia, sus propiedades y sus profundas implicancias teóricas.\n\nLa obra recorre el origen de π en la geometría clásica, su presencia en múltiples áreas de las matemáticas y la ciencia, y culmina en la explicación de uno de los resultados más sorprendentes: la imposibilidad de la cuadratura del círculo usando solo regla y compás. El autor expone estos temas con claridad, mostrando cómo siglos de intentos condujeron finalmente a una comprensión más profunda de la naturaleza de los números.\n\nCon un lenguaje accesible y un enfoque histórico-conceptual, el libro introduce ideas como los números irracionales y trascendentes, explicando por qué π no puede ser expresado de forma exacta mediante construcciones geométricas clásicas. Lejos de ser una simple curiosidad, este resultado revela límites fundamentales del conocimiento matemático.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-secretos-del-numero-pi.jpg"
+  },
+  {
+    "id": "libro-1766443668596-3742fc08211f38",
+    "titulo": "Las mil caras de la belleza geométrica",
+    "autor": "CLAUDI ALSINA BARNES",
+    "anio": 2011,
+    "isbn": "9788490060223",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "22",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Geometría"
+    ],
+    "formato": "Físico",
+    "notas": "Unas figuras con especial glamour destacan en el mundo de los cuerpos geométricos: los poliedros. Viven entre nosotros y nos ofrecen formas artísticas de gran belleza, pero también soluciones funcionales muy útiles. Han interesado desde siempre a los geómetras, pero también a cristalógrafos y arquitectos, a pintores y escultores, a fabricantes de cajas y joyeros ... Verlos es admirarlos. Este libr…",
+    "comentarios": "Las mil caras de la belleza geométrica: Los poliedros, de Claudi Alsina, es un libro de divulgación que celebra la geometría tridimensional a través de uno de sus objetos más fascinantes: los poliedros. La obra invita a descubrir cómo estas formas, compuestas por caras planas y aristas, concentran una riqueza matemática que combina rigor, creatividad y belleza visual.\n\nCon un enfoque claro y sugerente, el autor recorre desde los poliedros clásicos —como los sólidos platónicos— hasta configuraciones más complejas y sorprendentes, mostrando sus propiedades, simetrías y relaciones internas. A lo largo del texto se enfatiza que los poliedros no son meras curiosidades formales, sino estructuras que conectan la matemática con el arte, la arquitectura, la cristalografía y el diseño.\n\nEl libro destaca por su capacidad para despertar la intuición espacial, apoyándose en descripciones accesibles y en la contemplación de las formas como vía de comprensión. Sin exigir conocimientos técnicos avanzados, logra transmitir ideas profundas sobre simetría, regularidad y construcción geométrica, reforzando la dimensión estética del razonamiento matemático.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-mil-caras-de-la-belleza-geometrica.jpg"
+  },
+  {
+    "id": "libro-1766443466267-903a2d4a45a68",
+    "titulo": "Las medidas del mundo, calendarios, longitudes y matemáticas",
+    "autor": "Iolanda Guevara, Carles Puig, Carles Puig i Pla",
+    "anio": 2011,
+    "isbn": "9788447374427",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "21",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Geografía"
+    ],
+    "formato": "Digital",
+    "notas": "Las medidas del mundo: Calendarios, longitudes y matemáticas, de Iolanda Guevara y Carles Puig, es un libro de divulgación que explora cómo las medidas —del tiempo y del espacio— han sido construcciones matemáticas fundamentales para organizar la experiencia humana y comprender el mundo.\n\nLa obra recorre la historia y el sentido de los calendarios, las unidades de longitud y los sistemas de medición, mostrando que medir no es solo comparar magnitudes, sino establecer convenciones basadas en regularidades naturales, necesidades sociales y avances científicos. Los autores explican cómo las matemáticas permiten dar coherencia y precisión a estas convenciones, desde los ciclos astronómicos hasta la estandarización moderna.\n\nCon un enfoque claro y accesible, el libro revela la estrecha relación entre matemáticas, astronomía, geografía y cultura, destacando que conceptos tan cotidianos como días, meses, metros o kilómetros son el resultado de largos procesos históricos e intelectuales. El texto invita a reflexionar sobre la importancia de medir bien para comunicar, planificar y comprender la realidad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-medidas-del-mundo-calendarios-longitudes-y-matematicas.jpg"
+  },
+  {
     "id": "libro-1766443118980-d41aa15ca5b9d8",
     "titulo": "Las matemáticas de la vida, modelos numéricos para la biología y la ecología",
     "autor": "",
@@ -16,7 +203,7 @@
     "formato": "Digital",
     "notas": "Las matemáticas de la vida: Modelos numéricos para la biología y la ecología, de Rafael Lahoz-Beltra, es un libro de divulgación que muestra cómo las matemáticas se convierten en una herramienta esencial para comprender los sistemas vivos, desde poblaciones biológicas hasta ecosistemas complejos.\n\nLa obra introduce de forma accesible los modelos matemáticos que permiten describir y predecir fenómenos biológicos, como el crecimiento poblacional, la dinámica depredador–presa, la competencia entre especies y la evolución de ecosistemas. El autor explica cómo ecuaciones, simulaciones y modelos numéricos ayudan a transformar observaciones empíricas en conocimiento cuantitativo.\n\nCon un enfoque didáctico y claro, el libro logra tender un puente entre disciplinas, demostrando que la biología moderna y la ecología no pueden entenderse plenamente sin el apoyo del razonamiento matemático. Sin recurrir a un formalismo excesivo, se enfatiza la intuición y el sentido de los modelos, así como sus limitaciones y supuestos.",
     "comentarios": "",
-    "portada": ""
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-matematicas-de-la-vida-modelos-numericos-para-la-biologia-y-la-ecologia.jpg"
   },
   {
     "id": "libro-1766442989377-f9e6e46345ce8",
