@@ -1,5 +1,441 @@
 [
   {
+    "id": "libro-1766379519603-052a1e56abbdd8",
+    "titulo": "El Libro de la Arquitectura",
+    "autor": "DK",
+    "anio": 2023,
+    "isbn": "9780744089066",
+    "editorial": "DK",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Arquitectura"
+    ],
+    "formato": "Digital",
+    "notas": "Descubra los conceptos arquitectónicos clave que hay detrás de los edificios y estructuras más increíbles del mundo. 'El libro de la arquitectura' va más allá de otros libros de arquitectura para analizar no solo los edificios en sí mismos, sino también las ideas y principios que hacen que cada una de estas estructuras sea tan importante para la historia y la evolución de nuestro entorno. Desde la…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=ljOlzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766379454781-411f3b1fee828",
+    "titulo": "El Libro del Arte",
+    "autor": "DK",
+    "anio": 2017,
+    "isbn": "9781465471253",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Arte"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro del arte desbroza la jerga de la historia y la teoría del arte y ofrece imágenes de las mayores obras de arte del mundo, además de ingeniosos diagramas que explican las ideas subyacentes. De las figurillas de fertilidad prehistóricas a las videoinstalaciones, este es el manual perfecto para iniciarse en el conocimiento del arte…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=B5SPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766379417247-6f60ec8905ad38",
+    "titulo": "El Libro de la Astronomía",
+    "autor": "DK",
+    "anio": 2018,
+    "isbn": "9781465473752",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Ciencia",
+      "Astronomía"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro de la astronomía proporciona breves y sencillas explicaciones que aclaran la jerga científica, esquemas que desbrozan complejas teorías, ilustraciones que juegan con nuestro conocimiento de los astros e ingeniosas citas que condensan los descubrimientos astronómicos. ¿Cómo medimos el universo? ¿Dónde se halla el horizonte de su…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=eJSPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766379271532-3e0cdf78635338",
+    "titulo": "El libro de la biología",
+    "autor": "Cristina Sánchez Bustamante",
+    "anio": 2023,
+    "isbn": "9780241668474",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Biologia"
+    ],
+    "formato": "Digital",
+    "notas": "Escrito en un lenguaje sencillo, este libro de biología está repleto de explicaciones breves y concisas sobre algunas de las ideas más trascendentales de la ciencia, desde la teoría celular hasta la evolución por selección natural y el descubrimiento del ADN. Gráficos sencillos, como líneas de tiempo y mapas mentales, complementan el texto y facilitan la comprensión de la explicación.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-biologia.jpg"
+  },
+  {
+    "id": "libro-1766378981063-fd6641752b6b38",
+    "titulo": "El libro de las culturas negras",
+    "autor": "DK",
+    "anio": 2022,
+    "isbn": "9780744064377",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Historia"
+    ],
+    "formato": "Digital",
+    "notas": "Libro EL LIBRO DE LAS CULTURAS NEGRAS - DK. Descubra la rica y compleja historia de los pueblos de África y las luchas y triunfos de las culturas y comunidades negras de todo el mundo.\n\n\n\n\nCon perfiles de personas, movimientos y eventos clave, The Black History Book reúne relatos de las ideas y los hitos más significativos en la historia y la cultura afroamericana. Este libro vital y estimulante presenta una visión general audaz y accesible de la historia del continente africano y sus pueblos, desde las primeras migraciones humanas hasta las comunidades negras modernas y la diáspora africana.\n\nImágenes potentes e infografías innovadoras dan vida a las historias de los primeros reinos del Antiguo Egipto, Nubia y Cartago; los poderosos imperios de las eras medieval y moderna temprana; y la lucha contra los colonizadores europeos. También se explora en detalle la historia y la cultura negra más allá del continente africano, incluido el comercio de esclavos en el Atlántico; los quilombos (campos de resistencia de esclavos) de Brasil; el Renacimiento de Harlem y la Era del Jazz; la migración “Windrush”; movimientos de derechos civiles y feministas negras; y Black Lives Matter.\n\nUtilizando la combinación de marca registrada de la serie \"Grandes ideas\" de texto autorizado y accesible y gráficos audaces, The Black History Book examina los logros y las luchas de las comunidades negras en todo el mundo hasta la actualidad, así como la influencia de las culturas negras en el arte. , la literatura y la música en todo el mundo.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=PNSOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766379067244-7f5b7690c317e",
+    "titulo": "El Libro del Cine",
+    "autor": "DK",
+    "anio": 2017,
+    "isbn": "9781465471710",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Cine"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, carteles de época, fotogramas de filmes emblemáticos y originales infografías, El libro del cine explora los personajes, las tramas y los temas de más de cien películas que han dejado huella más allá de la gran pantalla. ¿Cambió Chinatown las reglas del género negro? ¿Qué significó para el cine la estructura episódica de Pulp Fiction? ¿…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=H5SPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766378861883-6ebb3ff448fef8",
+    "titulo": "El Libro De La Ecologia",
+    "autor": "DK",
+    "anio": null,
+    "isbn": "9780241668696",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Ecología"
+    ],
+    "formato": "Digital",
+    "notas": "Este libro revela todos los detalles sobre la ecología y su constanteevolución. Hay unos cuatro millones de especies animales y vegetales enel mundo. Esto se traduce en cuatro millones de soluciones diferentes alos problemas de mantenerse con vida.Un libro para conocer los detalles de la historia de la ecología, losprocesos que existen, aprender a distinguir entre los distintosecosistemas y cómo el factor humano impacta sobre el planeta Tierra.Tanto el neófito en la materia como el ávido estudiante de ciencias,hallarán en este libro de ecología en español abundante material parasatisfacer su curiosidad.Descubre el impacto de la ecología en el mundo actual y futuro.Indaga sobre cómo está la ecología relacionada con otras ciencias comola zoología, la botánica, la geología, la geomorfología, laclimatología, la química, la física, la genética, la sociologi´a y otrasmaterias. La ecología moderna ha recorrido un largo camino desde sureconocimiento como ciencia, y en la actualidad se nutre de muchas otrasdisciplinas.Además, este libro relaciona de forma didáctica cómo la ecologi´ainfluye en las decisiones de gobiernos locales y nacionales sobreurbanismo, transporte, industria y crecimiento econo´mico.Descubre cuán importante es y será la ecología en el marco actual yvenidero. Los desafi´os del cambio clima´tico, el medioambiente, lasubida del nivel del mar, la destruccio´n de ha´bitats, la extincio´n deespecies, el pla´stico y otras formas de contaminacio´n, asi´ como laamenaza de una crisis del agua. Son amenazas graves para lacivilizacio´n humana y exigen respuestas poli´ticas radicales basadas enuna ciencia cabal. Este libro del medioambiente y la ecologíaproporcionara´ las respuestas. Prepárate para adentrarte en uno de lostemas más apasionantes y de más impacto en nuestro planeta en laactualidad.Explora cada uno de estos capítulos sobre la ciencia de la ecología: • Historia de la evolución • Procesos ecológicos • Ordenando el mundo natural • La diversidad de la vida • Ecosistemas • Organismos en un entorno cambiante • La Tierra viva • El factor humano • Ecologismo y conservaciónEl libro de la ecología pertenece a la galardonada serie Grandes Ideasexplica temas complejos de un modo fácil de entender medianteexplicaciones claras y alejándose del academicismo tradicional. Su creativo diseño y los gráficos innovadores que acompañan al texto hacende esta serie una introducción perfecta a una gran diversidad dematerias para toda la familia.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-ecologia.jpg"
+  },
+  {
+    "id": "libro-1766378734368-dbdf2dac324508",
+    "titulo": "El Libro de la Economía",
+    "autor": "DK",
+    "anio": null,
+    "isbn": "9780241668115",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Economía"
+    ],
+    "formato": "Digital",
+    "notas": "Con un lenguaje claro, El libro de la economía ofrece concisas explicaciones que desbrozan la jerga académica, esquemas que hacen sencillas las teorías más complejas, citas clásicas y una serie de ingeniosas ilustraciones que juegan con nuestra comprensión de la economía. ¿Por qué pagamos impuestos? ¿Qué sucede en una recesión? ¿Cómo funciona el mercado? La economía afecta a todos los aspectos de nuestras vidas, desde cómo nos desplazamos hasta qué compramos, y las ideas económicas siguen configurando el mundo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-economia.jpg"
+  },
+  {
+    "id": "libro-1766378570886-fc5199aefb31b8",
+    "titulo": "El libro del feminismo",
+    "autor": "DK",
+    "anio": null,
+    "isbn": "9780241668689",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Feminismo"
+    ],
+    "formato": "Digital",
+    "notas": "Esta obra ofrece una introducción accesible y visualmente atractiva al movimiento y a las ideas que lo han moldeado. En El libro del feminismo se combinan textos claros e ilustraciones gráficas que facilitan una lectura didáctica, detallando cada idea y acontecimiento dentro de su contexto social y cultural.\n\nEl recorrido histórico abarca desde los orígenes del movimiento y el sufragismo del siglo XIX hasta las manifestaciones más recientes, incluyendo el Everyday Sexism Project y el movimiento «#YoTambien» («#MeToo»). Cada capítulo sitúa los debates en marcos temporales y geográficos precisos para facilitar la comprensión de su evolución y sus efectos contemporáneos.\n\nPensado tanto para lectores que se acercan por primera vez al tema como para quienes buscan ordenar conocimientos ya adquiridos, aporta herramientas conceptuales y ejemplos ilustrativos que favorecen el análisis crítico y el diálogo informado en ámbitos educativos, comunitarios y profesionales.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-del-feminismo.jpg"
+  },
+  {
+    "id": "libro-1766378377481-0a608088ff2d48",
+    "titulo": "El libro de las física",
+    "autor": "DK",
+    "anio": 2020,
+    "isbn": "9780744025644",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Física"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Con una prosa sencilla, El libro de la física presenta explicaciones claras y concisas que desbrozan la jerga especializada, diagramas que plasman complejas teorías, citas memorables e ingeniosas ilustraciones que juegan con nuestros conocimientos de la física. ¿Cómo generan electricidad los imanes? ¿Qué es la antimateria? ¿Es posible viajar en el tiempo? A p…",
+    "comentarios": "INTRODUCCIÓN\n\nMEDIDA Y MOVIMIENTO\n\nLA FÍSICA Y EL MUNDO COTIDIANO\n\nENERGÍA Y MATERIA\n\nMATERIALES Y CALOR\n\nELECTRICIDAD Y MAGNETISMO\n\nDOS FUERZAS SE UNEN\n\nSONIDO Y LUZ\n\nLAS PROPIEDADES DE LAS ONDAS\n\nEL MUNDO CUÁNTICO\n\nNUESTRO INCIERTO UNIVERSO\n\nFÍSICA NUCLEAR Y DE PARTÍCULAS\n\nDENTRO DEL ÁTOMO\n\nLA RELATIVIDAD Y EL UNIVERSO\n\nNUESTRO LUGAR EN EL COSMOS\n\nBIOGRAFÍAS\n\nGLOSARIO\n\nÍNDICE\n\nCITAS\n\nAGRADECIMIENTOS",
+    "portada": "https://books.google.com/books/content?id=G82OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766378240914-214c946e2285f",
+    "titulo": "El Libro de la Historia",
+    "autor": "DK",
+    "anio": 2018,
+    "isbn": "9781465473769",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Historia"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro de la historia ofrece breves y sencillas explicaciones de las ideas que subyacen a los acontecimientos que han configurado nuestro mundo, esquemas que simplifican conceptos complejos e ingeniosas ilustraciones que juegan con nuestras ideas sobre el pasado. ¿Qué permitió el nacimiento de la democracia en la Antigua Grecia? ¿Qué …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=dpSPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766378119082-eec280e48720a8",
+    "titulo": "El Libro de la ley / pd.",
+    "autor": "DK",
+    "anio": null,
+    "isbn": "9780241547649",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Leyes"
+    ],
+    "formato": "Digital",
+    "notas": "Adéntrese en las profundidades del conocimiento y la sabiduría con El libro de la ley, una obra fundamental que ha marcado un hito en el pensamiento y la filosofía. Este texto esencial invita a la reflexión profunda sobre los principios que rigen la existencia, la moralidad y la estructura de la sociedad. A través de sus páginas, el lector será guiado por conceptos trascendentales que desafían las percepciones convencionales y abren nuevas vías de entendimiento. La riqueza de su contenido lo convierte en una lectura obligatoria para aquellos interesados en la filosofía, la espiritualidad, la jurisprudencia o cualquier disciplina que explore los cimientos de la civilización y el comportamiento humano. Cada capítulo de El libro de la ley está diseñado para estimular el intelecto y fomentar un análisis crítico de las normas y creencias establecidas. Es una herramienta invaluable para el estudio personal, la meditación y el debate, ofreciendo perspectivas que han influido en innumerables pensadores a lo largo de la historia. Descubra la profundidad de sus enseñanzas y permita que sus ideas transformen su visión del mundo y su lugar en él. Una obra maestra que perdura en el tiempo por su relevancia y su capacidad de inspirar la búsqueda de la verdad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-ley-pd.jpg"
+  },
+  {
+    "id": "libro-1766377944361-5ed8f79ab9965",
+    "titulo": "El Libro de la Historia Lgbtq+",
+    "autor": "DK",
+    "anio": null,
+    "isbn": "9780241662762",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Historia"
+    ],
+    "formato": "Digital",
+    "notas": "El libro de la historia LGBTQ+ celebra las victorias y los triunfos de las personas LGBTQ+ a lo largo de la historia, como los disturbios de Stonewall y las primeras cirugías transgénero, además de commemorar acontecimientos trágicos y persecuciones, desde la policía nocturna del renacimiento italiano hasta las políticas No preguntes, no digas del siglo XX. También recoge elementos culturales clave  el lenguaje secreto de la cultura polari, la cultura de salas de baile negra y latinx y las muchas banderas de la comunidad  y resigue la historia de los espacios LGBTQ+, desde las casas Molly del siglo XVIII hasta los barrios gay modernos. Con la combinación de de textos autorizados y accesibles y gráficos impactantes típica de la serie Grandes ideas, El libro de la historia LGBTQ+ celebra la larga, orgullosa y a menudo oculta historia de las personas, culturas y lugares LGBTQ+ de todo el mundo.\nOpiniones del libro",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-historia-lgbtq.jpg"
+  },
+  {
+    "id": "libro-1766377859468-6c47b79d8e635",
+    "titulo": "El Libro de la Literatura",
+    "autor": "DK",
+    "anio": 2018,
+    "isbn": "9781465478726",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Literatura"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, sencillos esquemas e ingeniosas ilustraciones, El libro de la literatura es el manual perfecto para introducirse en la historia de la literatura universal, desde las epopeyas antiguas como la Ilíada o el Mahabharata hasta la obra de autores contemporáneos como Gabriel García Márquez o Margaret Atwood. ¿Qué simboliza la gran ballena blan…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=GJWPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766377810646-ffc3c2f7a4c17",
+    "titulo": "El libro de las matemáticas",
+    "autor": "DK",
+    "anio": 2020,
+    "isbn": "9780744025668",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Escrito en un lenguaje accesible, El libro de las matemáticas presenta explicaciones claras y concisas que desbrozan la jerga especializada, diagramas que plasman complejas teorías, citas memorables e ingeniosas ilustraciones que juegan con nuestras ideas acerca de los números. ¿Qué es un número imaginario? ¿Cómo pueden servir las matemáticas para predecir el…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=J82OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766377722673-5d4315bcde48f8",
+    "titulo": "El libro de la música clásica (The Classical Music Book)",
+    "autor": "DK",
+    "anio": 2019,
+    "isbn": "9781465486745",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Música"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas El libro de la música clásica analiza con un lenguaje claro más de noventa obras de distintos compositores, unos legendarios y otros menos conocidos, e incluye diagramas e infografías que explican los conceptos fundamentales y las grandes ideas que subyacen a la creación y la apreciación de la música clásica. Parte vital de la cultura humana, la música ha si…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=vJaPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766377656547-d952f5eed4ea2",
+    "titulo": "El Libro de la Política",
+    "autor": "DK",
+    "anio": 2017,
+    "isbn": "9781465466297",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Política"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro de la política ofrece concisas explicaciones que desbrozan la jerga académica, esquemas que hacen sencillas las teorías más complejas e ingeniosas ilustraciones que juegan con nuestra comprensión de la política. ¿Debe ser derrocado un gobernante injusto? ¿Es la democracia la mejor forma de gobierno? ¿Puede ser justa una guerra?…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=J5OPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766377487594-e281e7c56aa458",
+    "titulo": "El libro de la química",
+    "autor": "DK",
+    "anio": null,
+    "isbn": "9780241682562",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Química"
+    ],
+    "formato": "Digital",
+    "notas": "Una guía visual y accesible para comprender la química en todas sus facetas. En El libro de la Química se presenta una exposición clara y directa que facilita el acceso a conceptos científicos complejos; la obra, elaborada por DK, combina rigor y sencillez para lectores con distintos niveles de conocimiento.\n\nEl contenido recorre la historia de la disciplina en orden cronológico, desde el nacimiento de la teoría atómica hasta desarrollos contemporáneos como el polietileno y las nuevas tecnologías de vacunas aplicadas en la lucha contra el COVID-19. Incluye aportes y el pensamiento de químicos célebres como John Dalton, Marie Curie, Dmitri Mendeleev, Kathleen Lonsdale y Stephanie Kwolek, y aborda temas clave de las ciencias físicas y naturales, como la geoquímica y los elementos de la tabla periódica, todo explicado mediante textos concisos y diagramas claros que refuerzan la comprensión.\n\nLa presentación visual y los gráficos innovadores caracterizan esta edición, que forma parte de una línea editorial orientada a explicar ideas complejas de forma comprensible y apartada del academicismo estricto. Pensado para estudiantes, profesionales y público general interesado en mantenerse informado, «Grandes Ideas» aporta un formato didáctico en español y un diseño que facilita el aprendizaje a lo largo de la lectura.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-quimica.jpg"
+  },
+  {
+    "id": "libro-1766377343191-27fa81f372f318",
+    "titulo": "El Libro de las Religiones",
+    "autor": "DK",
+    "anio": 2017,
+    "isbn": "9781465466280",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Religión"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro de las religiones ofrece concisas explicaciones que desbrozan la jerga académica, esquemas que hacen sencillas las teorías más complejas y una multitud de ingeniosas ilustraciones que juegan con nuestra comprensión de la religión. ¿Existe un solo dios? ¿Por qué sufrimos? ¿Qué ocurre tras la muerte? Miles de millones de personas…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=KZOPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766377198904-3da6aa417a50a8",
+    "titulo": "El Libro de la Segunda Guerra Mundial",
+    "autor": "DK",
+    "anio": 2024,
+    "isbn": "9780744064360",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Historia"
+    ],
+    "formato": "Digital",
+    "notas": "Descubre las batallas clave, las tácticas, las tecnologías y los puntos de inflexión de la Segunda Guerra Mundial, el conflicto que dio forma al mundo moderno.  Combinando textos claros y gráficos explicativos e innovadores, el libro explora las causas, los eventos importantes y las consecuencias de la Segunda Guerra Mundial.  Utilizando un enfoque original se perfilan más de 90 de las ideas y eventos importantes antes, durante y después del conflicto, desde el surgimiento de Hitler y el fascismo en la década de 1930 hasta Pearl Harbor, los aterrizajes del día D, y el bombardeo de Hiroshima a la fundación del Estado de Israel en 1948.  Ofreciendo una narrativa convincente, accesible e inmediata de la guerra, el libro de la Segunda Guerra Mundial muestra cómo las batallas clave, las fuerzas políticas y económicas, los líderes individuales y los avances tecnológicos influyeron en el curso del conflicto.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-segunda-guerra-mundial.jpg"
+  },
+  {
+    "id": "libro-1766376911483-d2ac940a9bf9d",
+    "titulo": "El Libro de Shakespeare",
+    "autor": "Stanley Wells",
+    "anio": 2016,
+    "isbn": "9781465460165",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Novela",
+      "Drama",
+      "Teatro"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas El libro de Shakespeare trae las obras de William Shakespeare a la vida con fotografías a todo color, imágenes, nubes de ideas, cronologías y citas que ayudarán al lector a comprender el contexto de las piezas y poemas de Shakespeare. Desde las obras más famosas de Shakespeare, como Romeo y Julieta, Hamlet, Julio César, hasta piezas menos representadas, como …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=WObkjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766376753681-c1296e7118816",
+    "titulo": "El libro de Sherlock Holmes",
+    "autor": "",
+    "anio": 2020,
+    "isbn": "9780744040340",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Novela",
+      "Novela Policial"
+    ],
+    "formato": "Digital",
+    "notas": "Descubre las ideas clave, los temas y las tramas detrás de cada caso investigado por Sherlock Holmes y el Dr. Watson en las famosas y celebradas historias de Sir Arthur Conan Doyle.Utilizando la combinación característica de la serie \"Grandes Ideas\" repleto de ingeniosas ilustraciones, esquemas claros y citas memorables, constituye la perfecta guía holmesiana. Cubriendo todo el canon desde Estudio en escarlata hasta la célebre \"La aventura de Shoscombe Old Place\" y situando las historias en un contexto más amplio.Tanto si esta es una primera introducción a las habilidades de Holmes como si uno ya está familiarizado con su extraordinaria capacidad de deducción, este libro interesará y cautivará al lector.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-sherlock-holmes.jpg"
+  },
+  {
+    "id": "libro-1766376517714-9143f24dccc1f",
+    "titulo": "El libro de la sociología",
+    "autor": "DK",
+    "anio": 2020,
+    "isbn": "9788446042976",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Ciencias sociales"
+    ],
+    "formato": "Digital",
+    "notas": "Grandes ideas, explicaciones sencillas El libro de la sociología aborda las preguntas más importantes que ha formulado la humanidad, como: ¿Qué es la sociedad? ¿Qué nos motiva a que funcione? ¿Por qué actuamos de cierta manera con amigos, compañeros de trabajo y rivales? El libro de la sociología presenta a los sociólogos más reconocidos del mundo y más de cientos de sus ideas que más impacto han …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=WpiPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766376202874-68e6a07849dda",
+    "titulo": "El libro de la Psicología",
+    "autor": "",
+    "anio": 2012,
+    "isbn": "9788446036388",
+    "editorial": "Ediciones Akal, S.A.",
+    "coleccion": "Grandes Ideas, Explicaciones Sencillas",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Sicología"
+    ],
+    "formato": "Digital",
+    "notas": "¿Somos individuos autónomos, o nos dejamos llevar por el conformismo? ¿Qué nos hace recordar y por qué olvidamos? ¿Cómo medir la inteligencia? Preguntas como estas subyacen en la obra de los grandes teóricos e investigadores del fascinante mundo de la psicología. Con un lenguaje claro, El libro de la psicología ofrece concisas explicaciones que desbrozan la jerga académica, esquemas que hacen senc…",
+    "comentarios": "INTRODUCCIÓN 1. RAÍCES FILOSÓFICAS. GÉNESIS DE LA PSICOLOGÍA 2. CONDUCTISMO. LA RESPUESTA AL MEDIO 3. PSICOTERAPIA. EL INCONSCIENTE DETERMINA LA CONDUCTA 4. PSICOLOGÍA COGNITIVA. EL CEREBRO PROCESADOR 5. PSICOLOGÍA SOCIAL. VIVIR EN UN MUNDO COMPARTIDO 6. PSICOLOGÍA DEL DESARROLLO. DEL BEBÉ AL ADULTO 7. PSICOLOGÍA DIFERENCIAL. PERSONALIDAD E INTELIGENCIA\n\nBIOGRAFÍAS GLOSARIO ÍNDICE AGRADECIMIENTOS",
+    "portada": "https://books.google.com/books/content?id=6I6lMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
     "id": "libro-1766374313491-04731502c207",
     "titulo": "Husserl y Gadamer, fenomenología y hermenéutica",
     "autor": "Miguel García-Baró",
@@ -8,13 +444,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "30",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Husserl y Gadamer. Fenomenología y hermenéutica es una obra de divulgación que presenta y pone en diálogo las propuestas de Edmund Husserl y Hans-Georg Gadamer, pilares de la fenomenología y la hermenéutica contemporáneas. El libro explica cómo Husserl buscó describir la experiencia tal como se da a la conciencia, mientras que Gadamer enfatizó la interpretación, la tradición y el lenguaje como condiciones del comprender.\n\nCon un enfoque claro y accesible, la obra muestra continuidades y tensiones entre ambos pensadores y su impacto en la filosofía, las ciencias humanas y la teoría del conocimiento. Es una lectura ideal para comprender cómo la experiencia y la interpretación se articulan en la comprensión del mundo y de nosotros mismos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/husserl-y-gadamer-fenomenologia-y-hermeneutica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/husserl-y-gadamer-fenomenologia-y-hermeneutica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766374178576-7048d5bee3adf",
@@ -25,13 +462,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "29",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Leibniz. En el mejor de los mundos posibles es una obra de divulgación que presenta el pensamiento de Gottfried Wilhelm Leibniz a partir de su célebre tesis optimista: el mundo existente es el mejor entre todos los mundos posibles porque responde a una razón suficiente y a una armonía racional. El libro explica cómo Leibniz concibió una realidad ordenada por leyes lógicas, donde el mal no niega la perfección del conjunto, sino que se integra en un plan global.\n\nCon un enfoque claro y accesible, la obra aborda nociones clave como mónadas, armonía preestablecida y razón, situando estas ideas en su contexto histórico y mostrando su influencia duradera. Es una lectura ideal para comprender el optimismo racional leibniziano y su diálogo crítico con otras corrientes filosóficas modernas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/leibniz-en-el-mejor-de-los-mundos-posibles.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/leibniz-en-el-mejor-de-los-mundos-posibles.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766374047972-8fc4ecfc8afa4",
@@ -42,13 +480,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "28",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Popper y Kuhn. Dos gigantes de la filosofía de la ciencia del siglo XX es una obra de divulgación que presenta y contrasta las ideas de Karl Popper y Thomas Kuhn, dos figuras decisivas para comprender cómo avanza el conocimiento científico. El libro explica, de forma clara, la propuesta falsacionista de Popper —la ciencia progresa refutando hipótesis— y la noción kuhniana de paradigmas y revoluciones científicas, que enfatiza los cambios históricos y sociales en la práctica científica.\n\nCon un enfoque comparativo y accesible, la obra muestra acuerdos y tensiones entre ambos enfoques y su impacto duradero en la epistemología contemporánea. Es una lectura ideal para entender por qué el debate Popper–Kuhn sigue siendo central al reflexionar sobre método, progreso y racionalidad en la ciencia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/popper-y-kuhn-dos-gigantes-de-la-filosofia-de-la-ciencia-del-siglo-xx.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/popper-y-kuhn-dos-gigantes-de-la-filosofia-de-la-ciencia-del-siglo-xx.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766373913449-2a45d9bf7ae8e8",
@@ -59,13 +498,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "27",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Foucault y Derrida. Pensamiento francés contemporáneo es una obra de divulgación que presenta y contrapone las ideas de Michel Foucault y Jacques Derrida, dos figuras centrales del pensamiento francés del siglo XX. El libro explica, de forma clara y accesible, cómo Foucault analizó las relaciones entre saber, poder y subjetividad, mientras que Derrida cuestionó los fundamentos del lenguaje y el sentido mediante la deconstrucción.\n\nCon un enfoque comparativo y contextual, la obra muestra convergencias y tensiones entre ambos autores, así como su influencia en la filosofía, las ciencias sociales y los estudios culturales. Es una lectura ideal para comprender los debates clave del pensamiento contemporáneo y por qué Foucault y Derrida siguen siendo referencias imprescindibles para analizar la modernidad tardía.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/foucault-y-derrida-pensamiento-frances-contemporaneo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/foucault-y-derrida-pensamiento-frances-contemporaneo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766373722740-ffb9e17e862768",
@@ -76,13 +516,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "26",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Habermas. La apuesta por la democracia es una obra de divulgación que presenta el pensamiento de Jürgen Habermas en torno a la democracia deliberativa y el papel central del diálogo racional en la vida pública. El libro explica cómo Habermas concibe la legitimidad democrática no solo como resultado de elecciones, sino como un proceso continuo de comunicación, argumentación y consenso entre ciudadanos libres e iguales.\n\nCon un enfoque claro y accesible, la obra aborda conceptos clave como el espacio público, la acción comunicativa y la relación entre derecho, política y ética, mostrando su vigencia frente a los desafíos contemporáneos de la democracia. Es una lectura ideal para comprender por qué la democracia es, para Habermas, una apuesta racional por la palabra, la participación y la responsabilidad colectiva",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/habermas-la-apuesta-por-la-democracia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/habermas-la-apuesta-por-la-democracia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766373590529-1cf46979d0d26",
@@ -93,13 +534,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "25",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Hobbes. La autoridad suprema del gran Leviatán es una obra de divulgación que presenta el pensamiento de Thomas Hobbes, centrado en la naturaleza humana, el miedo y el orden político. El libro explica cómo Hobbes concibió la vida en estado de naturaleza como una situación de conflicto permanente (“bellum omnium contra omnes”), y cómo esta visión lleva a la necesidad de una autoridad absoluta —el Leviatán— para garantizar la paz y la seguridad social.\n\nCon un enfoque claro y accesible, la obra recorre ideas clave como el contrato social, el derecho natural y la legitimidad del poder político, mostrando por qué Hobbes es una figura fundacional de la filosofía política moderna. Es una lectura ideal para comprender los fundamentos del Estado, la razón de la obediencia y las tensiones entre libertad e autoridad.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hobbes-la-autoridad-suprema-de-gran-leviatan.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hobbes-la-autoridad-suprema-de-gran-leviatan.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766373319716-cf28f3d6f3c86",
@@ -110,13 +552,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "24",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Heidegger. El fracaso del ser es una obra de divulgación que introduce el pensamiento de Martin Heidegger desde una lectura crítica y accesible de sus nociones centrales. El libro aborda la pregunta por el ser, el análisis del Dasein y la experiencia de la finitud, mostrando cómo la existencia humana se enfrenta al desarraigo, la angustia y la imposibilidad de un fundamento último plenamente seguro.\n\nCon un enfoque claro y sintético, la obra explica por qué en Heidegger el “fracaso” no es un error circunstancial, sino una condición estructural del existir: el ser nunca se deja apresar del todo por el lenguaje ni por los sistemas conceptuales. Es una lectura ideal para comprender la radicalidad de su filosofía y su influencia decisiva en el pensamiento contemporáneo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/heidegger-el-fracaso-del-ser.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/heidegger-el-fracaso-del-ser.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766373181337-484f856b67dc1",
@@ -127,13 +570,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "23",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Arendt. Estar (políticamente) en el mundo es una obra de divulgación que introduce el pensamiento de Hannah Arendt sobre la acción, la pluralidad y el sentido de la vida pública. El libro explica cómo, para Arendt, lo político no se reduce al poder o al Estado, sino que nace del estar con otros, hablar, actuar y asumir responsabilidad en un mundo compartido.\n\nCon un enfoque claro y accesible, la obra aborda ideas centrales como el espacio público, la libertad, el juicio y la banalidad del mal, mostrando su vigencia para comprender los desafíos democráticos contemporáneos. Es una lectura ideal para pensar qué significa habitar el mundo de manera consciente y políticamente responsable.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/arendt-estar-politicamente-en-el-mundo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/arendt-estar-politicamente-en-el-mundo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766373030014-199228e95884a8",
@@ -144,13 +588,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "22",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Filosofía helenística: estoicos, epicúreos, cínicos y escépticos es una obra de divulgación que presenta las principales escuelas filosóficas del mundo helenístico como respuestas prácticas a la pregunta por cómo vivir bien. El libro explica, con lenguaje claro, las propuestas del estoicismo (autodominio y virtud), el epicureísmo (placer moderado y ausencia de perturbación), el cinismo (vida conforme a la naturaleza y crítica social) y el escepticismo (suspensión del juicio para alcanzar la tranquilidad).\n\nCon un enfoque sintético y accesible, la obra muestra la vigencia de estas corrientes para afrontar la incertidumbre, el sufrimiento y la vida cotidiana. Es una lectura ideal para comprender cómo la filosofía helenística convirtió la reflexión filosófica en un arte de vivir.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/filosofia-helenistica-estoicos-epicureos-cinicos-y-escepticos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/filosofia-helenistica-estoicos-epicureos-cinicos-y-escepticos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766372856021-6cf8aedc36c18",
@@ -161,13 +606,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "21",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Wittgenstein. La conciencia del límite es una obra de divulgación que presenta el pensamiento de Ludwig Wittgenstein a partir de una idea central: los límites del lenguaje marcan los límites de lo que puede pensarse y decirse con sentido. El libro explica cómo Wittgenstein distinguió entre lo que puede expresarse con claridad y aquello que solo puede mostrarse, invitando a una filosofía más atenta al uso del lenguaje.\n\nCon un enfoque claro y accesible, la obra recorre su evolución intelectual —del Tractatus a las Investigaciones filosóficas— y muestra por qué tomar conciencia del límite no empobrece el pensamiento, sino que lo aclara y lo hace más honesto. Es una lectura ideal para comprender una de las propuestas más influyentes de la filosofía del siglo XX.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/wittgenstein-la-consciencia-del-limite.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/wittgenstein-la-consciencia-del-limite.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766372483718-358e9b01f4d828",
