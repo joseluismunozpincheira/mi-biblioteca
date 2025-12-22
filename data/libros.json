@@ -1,5 +1,373 @@
 [
   {
+    "id": "libro-1766443118980-d41aa15ca5b9d8",
+    "titulo": "Las matemáticas de la vida, modelos numéricos para la biología y la ecología",
+    "autor": "",
+    "anio": 2015,
+    "isbn": "9788447378463",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "20",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Biología"
+    ],
+    "formato": "Digital",
+    "notas": "Las matemáticas de la vida: Modelos numéricos para la biología y la ecología, de Rafael Lahoz-Beltra, es un libro de divulgación que muestra cómo las matemáticas se convierten en una herramienta esencial para comprender los sistemas vivos, desde poblaciones biológicas hasta ecosistemas complejos.\n\nLa obra introduce de forma accesible los modelos matemáticos que permiten describir y predecir fenómenos biológicos, como el crecimiento poblacional, la dinámica depredador–presa, la competencia entre especies y la evolución de ecosistemas. El autor explica cómo ecuaciones, simulaciones y modelos numéricos ayudan a transformar observaciones empíricas en conocimiento cuantitativo.\n\nCon un enfoque didáctico y claro, el libro logra tender un puente entre disciplinas, demostrando que la biología moderna y la ecología no pueden entenderse plenamente sin el apoyo del razonamiento matemático. Sin recurrir a un formalismo excesivo, se enfatiza la intuición y el sentido de los modelos, así como sus limitaciones y supuestos.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766442989377-f9e6e46345ce8",
+    "titulo": "La vida secreta de los números, temas curiosos de las matemáticas",
+    "autor": "Joaquín Navarro",
+    "anio": 2015,
+    "isbn": "9788447378494",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "19",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "La vida secreta de los números: Temas curiosos de las matemáticas, de Joaquín Navarro, es un libro de divulgación que invita a descubrir el lado oculto y sorprendente de los números, mostrando que las matemáticas están llenas de historias, curiosidades y conexiones inesperadas.\n\nLa obra recorre una selección de temas llamativos —propiedades singulares de ciertos números, paradojas, regularidades insospechadas y anécdotas históricas— presentados con un estilo cercano y ameno. El autor logra despertar la curiosidad del lector al revelar cómo conceptos aparentemente simples esconden estructuras profundas y resultados fascinantes.\n\nCon un lenguaje accesible y sin requerir conocimientos avanzados, el libro destaca por su capacidad para desmitificar las matemáticas, alejándolas de la imagen de disciplina árida y abstracta. Cada capítulo funciona como una pequeña ventana a un fenómeno particular, invitando a la reflexión y al asombro intelectual.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-secreta-de-los-numeros-temas-curiosos-de-las-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766440589859-10c0322638534",
+    "titulo": "La Poesía de los números, el rol de la belleza en matemáticas",
+    "autor": "Antonio José Durán",
+    "anio": 2010,
+    "isbn": "9788447369782",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "18",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "La poesía de los números: El rol de la belleza en matemáticas, de Antonio J. Durán, es un libro de divulgación que aborda uno de los aspectos más profundos y menos visibles de la disciplina: la belleza matemática y su papel en la creación, comprensión y valoración del conocimiento matemático.\n\nLa obra reflexiona sobre qué significa que una idea, una demostración o una fórmula sea “bella”, explorando criterios como la simplicidad, la elegancia, la simetría y la profundidad conceptual. A través de ejemplos históricos y comentarios accesibles, el autor muestra que la búsqueda de belleza no es un adorno estético, sino un principio guía en el desarrollo de las matemáticas.\n\nCon un estilo ensayístico y claro, el libro conecta la matemática con el arte, la filosofía y la creatividad humana, cuestionando la visión utilitaria de la disciplina y reivindicando su dimensión cultural. El texto invita al lector a apreciar las matemáticas no solo por lo que permiten calcular, sino por la experiencia intelectual y emocional que ofrecen.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-poesia-de-los-numeros-el-rol-de-la-belleza-en-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766440471904-1991c6f5a65f",
+    "titulo": "La Música de las esferas, astronomía y matemáticas",
+    "autor": "Rosa Maria Ros",
+    "anio": 2011,
+    "isbn": "9788447369799",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "17",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Astronomía"
+    ],
+    "formato": "Digital",
+    "notas": "La música de las esferas: Astronomía y matemáticas, de Rosa Maria Ros, es un libro de divulgación que explora el profundo vínculo entre la astronomía y las matemáticas, recuperando la antigua idea de la “música de las esferas”: la noción de que el cosmos obedece a un orden armónico describible mediante relaciones numéricas.\n\nLa obra recorre cómo las matemáticas han sido esenciales para comprender el movimiento de los cuerpos celestes, desde los modelos clásicos del sistema solar hasta la astronomía moderna. Conceptos como órbitas, periodicidad, proporciones, escalas y modelos matemáticos del universo se presentan de manera accesible, mostrando cómo el lenguaje matemático permite interpretar la regularidad y la complejidad del cielo.\n\nCon un estilo claro y didáctico, el libro destaca el papel histórico de figuras clave y de ideas fundamentales que han permitido pasar de una visión simbólica del cosmos a una comprensión científica basada en leyes matemáticas. Al mismo tiempo, invita a reflexionar sobre la belleza intelectual que surge al descubrir que los fenómenos astronómicos responden a patrones y estructuras precisas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-musica-de-las-esferas-astronomia-y-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766440333165-2a880a63b6da18",
+    "titulo": "La Mariposa y el tornado, teoría del caos y cambio climático",
+    "autor": "Carlos M. Madrid Casado, Carlos Madrid",
+    "anio": 2011,
+    "isbn": "9788447374359",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "16",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Azar",
+      "Caos"
+    ],
+    "formato": "Digital",
+    "notas": "La mariposa y el tornado: Teoría del caos y cambio climático, de Carlos Madrid, es un libro de divulgación que introduce al lector en la teoría del caos y su relación con los sistemas complejos de la naturaleza, en particular con el clima y el cambio climático. El título alude al célebre “efecto mariposa”, metáfora de la extrema sensibilidad a las condiciones iniciales que caracteriza a muchos fenómenos dinámicos.\n\nCon un lenguaje claro y apoyado en ejemplos comprensibles, la obra explica ideas clave como no linealidad, imprevisibilidad, atractores caóticos y límites de la predicción, mostrando por qué pequeños cambios pueden generar consecuencias enormes en sistemas atmosféricos. El autor logra transmitir que el caos no implica desorden absoluto, sino un orden complejo regido por leyes matemáticas precisas.\n\nEl libro destaca por conectar la teoría matemática con problemas contemporáneos, ayudando a entender por qué la predicción meteorológica tiene horizontes limitados y cómo los modelos climáticos enfrentan incertidumbres estructurales. De este modo, ofrece herramientas conceptuales para interpretar mejor los debates actuales sobre variabilidad climática y cambio global.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-mariposa-y-el-tornado-teoria-del-caos-y-cambio-climatico.jpg"
+  },
+  {
+    "id": "libro-1766440189530-b681fc6972177",
+    "titulo": "La Creatividad en matemáticas, cómo funciona una mente maravillosa",
+    "autor": "Miquel Albertí Palmer",
+    "anio": 2010,
+    "isbn": "9788447369676",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "15",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "La creatividad en matemáticas: Cómo funciona una mente maravillosa, de Miquel Albertí, es un libro de divulgación que se adentra en uno de los aspectos menos visibles, pero más fascinantes de la disciplina: la creatividad matemática y los procesos mentales que permiten generar ideas nuevas y soluciones originales.\n\nLa obra se aleja de la imagen de la matemática como una actividad puramente mecánica o algorítmica, y muestra cómo la intuición, la imaginación, el ensayo y error y la conexión de ideas juegan un papel central en el descubrimiento matemático. A través de ejemplos históricos y reflexiones conceptuales, el autor explica cómo piensan los matemáticos cuando crean, no solo cuando demuestran.\n\nCon un lenguaje cercano y reflexivo, el libro aborda temas como la resolución de problemas, los bloqueos creativos, la inspiración y el aprendizaje, conectando la práctica matemática con aspectos de la psicología cognitiva y la educación. Esto lo convierte en una lectura especialmente valiosa para docentes y estudiantes interesados en mejorar su forma de pensar y enseñar matemáticas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-creatividad-en-matematicas-como-funciona-una-mente-maravillosa.jpg"
+  },
+  {
+    "id": "libro-1766440063991-24ecd282b4d0c",
+    "titulo": "La Conquista del azar, la teoría de probabilidades",
+    "autor": "Fernando Corbalán, Gerardo Sanz, Sanz Sáiz Sanz",
+    "anio": 2010,
+    "isbn": "9788447369744",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "14",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Probabilidades"
+    ],
+    "formato": "Digital",
+    "notas": "La conquista del azar: La teoría de probabilidades, de Fernando Corbalán y Gerardo Sanz, es un libro de divulgación que introduce al lector en el pensamiento probabilístico, mostrando cómo las matemáticas permiten comprender, modelar y cuantificar el azar.\n\nLa obra recorre de forma accesible conceptos fundamentales como probabilidad, aleatoriedad, riesgo, esperanza matemática y toma de decisiones bajo incertidumbre, apoyándose en ejemplos cotidianos, juegos de azar y situaciones reales. Los autores destacan que el azar no es sinónimo de caos absoluto, sino un fenómeno que puede ser analizado y descrito con herramientas matemáticas rigurosas.\n\nUno de los grandes aciertos del libro es su enfoque intuitivo y pedagógico, que ayuda a desmontar ideas erróneas frecuentes sobre la probabilidad y a desarrollar una mirada más crítica frente a la casualidad, las predicciones y la suerte. El texto conecta además la teoría de probabilidades con aplicaciones en la ciencia, la economía y la vida diaria.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-conquista-del-azar-la-teoria-de-probabilidades.jpg"
+  },
+  {
+    "id": "libro-1766439936299-1de9d80b0f5638",
+    "titulo": "La burla de los sentidos, El arte visto con ojos matemáticos",
+    "autor": "Francisco Martín Casalderrey",
+    "anio": 2010,
+    "isbn": "9788447369652",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "13",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Arte"
+    ],
+    "formato": "Digital",
+    "notas": "La burla de los sentidos: El arte visto con ojos matemáticos, de Francisco Martín Casalderrey, es un libro de divulgación que invita a mirar el arte desde la perspectiva de las matemáticas, revelando cómo la percepción visual puede ser engañada, organizada o intensificada mediante estructuras geométricas y relaciones numéricas.\n\nLa obra explora fenómenos como las ilusiones ópticas, las simetrías, las teselaciones, la perspectiva y los patrones geométricos, mostrando cómo artistas de distintas épocas han utilizado principios matemáticos para provocar efectos visuales sorprendentes. El autor demuestra que lo que el ojo percibe no siempre coincide con la realidad geométrica, y que en esa “burla” se encuentra gran parte del atractivo estético.\n\nCon un lenguaje claro y abundantes referencias visuales, el libro logra un equilibrio entre rigor conceptual y accesibilidad, permitiendo al lector comprender cómo las matemáticas explican —y a veces cuestionan— nuestra forma de ver. El texto fomenta una mirada crítica y curiosa, en la que ciencia y arte dialogan de manera natural.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-burla-de-los-sentidos-el-arte-visto-con-ojos-matematicos.jpg"
+  },
+  {
+    "id": "libro-1766439688392-fc2913185ec038",
+    "titulo": "La Armonía es numérica, música y matemáticas",
+    "autor": "Javier Arbonés, Pablo Milrud",
+    "anio": 2010,
+    "isbn": "9788447369614",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "12",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Música"
+    ],
+    "formato": "Digital",
+    "notas": "La armonía es numérica: Música y matemáticas, de Javier Arbonés y Pablo Milrud, es un libro de divulgación que explora la profunda y antigua relación entre la música y las matemáticas, mostrando cómo el orden numérico subyace a la armonía, el ritmo y la percepción sonora.\n\nLa obra recorre ideas clave como las proporciones, las escalas musicales, los intervalos, la afinación y las series armónicas, explicando cómo conceptos matemáticos simples han modelado históricamente la teoría musical, desde la tradición pitagórica hasta enfoques más modernos. A través de ejemplos claros y apoyos visuales, el libro logra traducir nociones abstractas en experiencias auditivas comprensibles.\n\nUno de sus mayores aciertos es presentar la música no solo como una expresión artística, sino también como una estructura formal donde números y relaciones matemáticas organizan el sonido. Sin exigir conocimientos técnicos avanzados ni en música ni en matemáticas, el texto invita al lector a descubrir patrones, regularidades y simetrías que suelen pasar desapercibidas al escuchar.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-armonia-es-numerica-musica-y-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766439451153-9bc84aa9bd4e8",
+    "titulo": "Ideas fugaces, teoremas eternos, Grandes problemas de las matemáticas",
+    "autor": "JOAQUÍN NAVARRO QUIJADA",
+    "anio": 2011,
+    "isbn": "9788490060827",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "11",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "¿Qué constituye un problema relevante en matemáticas? Este libro intenta dar una respuesta a esta pregunta explorando decenas de problemas de la tipología más variada: fundamentales y accesorios, resueltos e irresolutos, sencillos pero que en su día parecieron difíciles y difíciles que parecieron, en primera instancia, sencillos. El trayecto alumbra una apasionante historia de la disciplina a trav…",
+    "comentarios": "Ideas fugaces, teoremas eternos: Grandes problemas de las matemáticas, de Joaquín Navarro, es un libro de divulgación que recorre algunos de los problemas más profundos, influyentes y desafiantes de la historia de las matemáticas, mostrando cómo intuiciones aparentemente simples pueden dar lugar a teoremas de validez permanente.\n\nLa obra presenta grandes preguntas matemáticas —resueltas o aún abiertas— como motores del avance científico, destacando el papel de la creatividad, la persistencia y el error en la construcción del conocimiento. A través de ejemplos históricos y conceptuales, el autor explica cómo surgen las conjeturas, por qué algunas resisten durante siglos y qué implica finalmente demostrar un teorema.\n\nCon un lenguaje claro y un enfoque narrativo, el libro logra transmitir la dimensión humana de la matemática, alejándose de la imagen de un saber frío y cerrado. Se enfatiza que las matemáticas progresan gracias a ideas fugaces, intuiciones parciales y aproximaciones sucesivas, que solo con el tiempo se transforman en estructuras sólidas y duraderas.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ideas-fugaces-teoremas-eternos-grandes-problemas-de-las-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766439374388-8f1f347f6efb58",
+    "titulo": "Hipotecas y ecuaciones, Las matemáticas de la economía",
+    "autor": "LLUIS ARTAL, Josep Sales",
+    "anio": 2011,
+    "isbn": "9788498679946",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "10",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Economía"
+    ],
+    "formato": "Digital",
+    "notas": "Buena parte de nuestro quehacer matemático diario está relacionado de un modo u otro con la economía: comparamos precios, calculamos la vuelta de la compra, interpretamos las noticias sobre la inflación o el paro... De hecho, es muy posible que contratar un préstamo o una hipoteca sea la decisión matemáticamente más compleja que tome un individuo cualquiera a lo largo de su vida. En este volumen s…",
+    "comentarios": "Hipotecas y ecuaciones: Las matemáticas de la economía, de Lluís Artal y Josep Sales, es un libro de divulgación que revela cómo las matemáticas estructuran las decisiones económicas cotidianas, en particular aquellas relacionadas con préstamos, hipotecas, intereses y crecimiento financiero.\n\nCon un enfoque claro y cercano, la obra explica conceptos clave como interés simple y compuesto, amortización, tasas, plazos y valor del dinero en el tiempo, mostrando que detrás de contratos y decisiones aparentemente administrativas existe un andamiaje matemático preciso. Los autores traducen fórmulas y ecuaciones en ideas comprensibles, ayudando al lector a interpretar mejor los riesgos y consecuencias de las decisiones financieras.\n\nEl texto destaca por su vocación práctica y formativa: no busca convertir al lector en especialista, sino dotarlo de herramientas conceptuales para comprender y evaluar críticamente productos financieros habituales. En este sentido, el libro cumple también una función de educación económica, al mostrar cómo un mal entendimiento de las matemáticas puede derivar en decisiones costosas.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hipotecas-y-ecuaciones-las-matematicas-de-la-economia.jpg"
+  },
+  {
+    "id": "libro-1766439167572-b385b68eae6df8",
+    "titulo": "Hasta que el álgebra os separe, la teoría de grupos y sus aplicaciones",
+    "autor": "Javier Fresán",
+    "anio": 2011,
+    "isbn": "9788447374380",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "9",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Hasta que el álgebra os separe: La teoría de grupos y sus aplicaciones, de Javier Fresán, es un libro de divulgación que acerca al lector a la teoría de grupos, uno de los lenguajes fundamentales del álgebra moderna, responsable de describir con precisión la simetría y la estructura en matemáticas y en numerosas ciencias aplicadas.\n\nCon un título ingenioso y un tono cercano, la obra explica cómo los grupos permiten formalizar operaciones aparentemente simples —rotaciones, permutaciones, combinaciones— y cómo estas ideas se extienden a campos tan diversos como la física, la criptografía, la química, la informática y la teoría de códigos. El autor consigue mostrar que la abstracción algebraica no es un fin en sí mismo, sino una poderosa herramienta para unificar fenómenos distintos bajo un mismo marco conceptual.\n\nEl texto está construido de forma progresiva, privilegiando la intuición y el significado por sobre el formalismo técnico. A través de ejemplos claros y metáforas bien escogidas, Fresán logra que el lector comprenda qué es un grupo, por qué es una noción tan central y cómo sus aplicaciones van mucho más allá del aula universitaria.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hasta-que-el-algebra-os-separe-la-teoria-de-grupos-y-sus-aplicaciones.jpg"
+  },
+  {
+    "id": "libro-1766439038585-dbbcd3ff6c2458",
+    "titulo": "Formas que se deforman, la topología",
+    "autor": "Vicente Muñoz",
+    "anio": 2011,
+    "isbn": "9788447374397",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "8",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Formas que se deforman: La topología, de Vicente Muñoz, es un libro de divulgación que introduce al lector en la topología, una rama de las matemáticas que estudia las propiedades de las formas que permanecen invariantes bajo deformaciones continuas como estirar, doblar o contraer, sin cortar ni pegar.\n\nCon un enfoque intuitivo y visual, la obra explica cómo, desde el punto de vista topológico, objetos aparentemente distintos pueden ser equivalentes, mientras que otros muy similares esconden diferencias profundas. A través de ejemplos cotidianos —superficies, nudos, objetos flexibles— el autor muestra que la topología se ocupa más de la estructura esencial que de la medida exacta, desafiando la intuición geométrica clásica.\n\nEl libro logra transmitir ideas clave como conectividad, continuidad, invariantes topológicos y equivalencia, sin recurrir a formalismos técnicos, lo que lo hace accesible a lectores sin formación matemática avanzada. Al mismo tiempo, permite apreciar la relevancia de la topología en áreas modernas como la física, la informática y la ciencia de datos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/formas-que-se-deforman-la-topologia.jpg"
+  },
+  {
+    "id": "libro-1766438880647-256d702699552",
+    "titulo": "El Sueño del mapa perfecto, cartografía y matemáticas",
+    "autor": "Ibáñez Torres Ibáñez, Raúl Ibáñez",
+    "anio": 2010,
+    "isbn": "9788447369751",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "7",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "El sueño del mapa perfecto: Cartografía y matemáticas, de Raúl Ibáñez, es una obra de divulgación que explora la estrecha relación entre matemáticas y cartografía, abordando uno de los problemas clásicos del conocimiento: cómo representar fielmente la superficie curva de la Tierra en un plano.\n\nEl libro guía al lector por los desafíos geométricos y matemáticos que surgen al construir mapas, mostrando que toda proyección implica compromisos inevitables entre área, forma, distancia y dirección. A través de ejemplos históricos y conceptuales, el autor explica por qué no existe el “mapa perfecto” y cómo distintas proyecciones responden a distintos propósitos, desde la navegación hasta la educación y la política.\n\nCon un lenguaje claro y apoyado en intuiciones visuales, la obra introduce nociones como geometría esférica, proyecciones cartográficas y deformaciones, sin exigir conocimientos técnicos avanzados. Al mismo tiempo, invita a una reflexión más amplia sobre la representación de la realidad, mostrando que los mapas son construcciones matemáticas cargadas de decisiones y supuestos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-sueno-del-mapa-perfecto-cartografia-y-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766431195015-56ae51a7b30fd",
+    "titulo": "El Sueño de la razón, la lógica matemática y sus paradojas",
+    "autor": "Javier Fresán",
+    "anio": 2010,
+    "isbn": "9788447369720",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "6",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "El sueño de la razón: La lógica matemática y sus paradojas, de Javier Fresán, es un libro de divulgación que invita a explorar los límites del razonamiento lógico a través de algunas de las paradojas más célebres de la matemática y la filosofía. La obra muestra cómo la lógica, concebida como el instrumento supremo de la razón, puede conducir a tensiones, contradicciones aparentes y preguntas profundas sobre la verdad y la demostración.\n\nCon un estilo claro y reflexivo, el autor introduce al lector en temas como la autorreferencia, la incompletitud, las paradojas clásicas y los fundamentos de la lógica matemática, conectándolos con hitos intelectuales del siglo XX. Sin recurrir a tecnicismos excesivos, el texto logra transmitir la riqueza conceptual del área y su impacto en disciplinas como la matemática, la informática y la filosofía del lenguaje.\n\nUno de los principales aciertos del libro es su enfoque crítico y cultural: más que ofrecer soluciones cerradas, plantea preguntas y muestra por qué las paradojas no son errores, sino motores del avance del conocimiento. El “sueño de la razón” alude así tanto a la aspiración de un sistema lógico perfecto como a las sombras que emergen cuando esa aspiración se examina con rigor.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-sueno-de-la-razon-la-logica-matematica-y-sus-paradojas.jpg"
+  },
+  {
+    "id": "libro-1766431014546-6553c20c127ad8",
+    "titulo": "El club de los matemáticos, los congresos internacionales",
+    "autor": "Curbera, Guillermo P.",
+    "anio": 2015,
+    "isbn": "9788447378579",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "5",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "El club de los matemáticos: Los congresos internacionales, de Guillermo Curbelo, es un libro de divulgación que abre una ventana al mundo social y humano de la matemática, poniendo el foco en los congresos internacionales como espacios clave de encuentro, debate y construcción colectiva del conocimiento.\n\nLejos de centrarse en contenidos técnicos, la obra explora cómo los matemáticos intercambian ideas, presentan avances, establecen colaboraciones y construyen comunidades científicas. A través de anécdotas, contextos históricos y descripciones accesibles, el autor muestra que la matemática no se desarrolla en aislamiento, sino en una red viva de personas, instituciones y tradiciones.\n\nEl libro resulta especialmente valioso para desmitificar la imagen del matemático solitario, destacando el rol de los congresos como verdaderos “clubes” donde se comparten lenguajes, problemas y visiones del mundo. También permite comprender la dinámica interna de la investigación científica, desde la circulación de ideas hasta el reconocimiento académico.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-club-de-los-matematicos-los-congresos-internacionales.jpg"
+  },
+  {
+    "id": "libro-1766430847064-b8e8e07717e8c",
+    "titulo": "El Arte de contar, combinatoria y enumeración",
+    "autor": "Juan José Rué",
+    "anio": 2011,
+    "isbn": "9788447374373",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "4",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "El arte de contar: Combinatoria y enumeración, de Juanjo Rué, es un libro de divulgación que introduce al lector en el pensamiento combinatorio, una de las áreas más fundamentales y a la vez más intuitivas de las matemáticas. A través de problemas clásicos y situaciones cotidianas, la obra muestra cómo contar no es solo una operación elemental, sino un arte intelectual que exige estrategia, orden y creatividad.\n\nEl autor aborda conceptos como permutaciones, combinaciones, principios de conteo y enumeración sistemática, presentándolos de forma progresiva y con un enfoque claramente pedagógico. Los ejemplos —muchos de ellos inspirados en juegos, acertijos y configuraciones simples— permiten al lector desarrollar la intuición necesaria para enfrentar problemas más complejos sin recurrir a un exceso de formalismo.\n\nUno de los principales méritos del libro es su capacidad para revelar la presencia de la combinatoria en múltiples ámbitos, desde la informática y la probabilidad hasta la toma de decisiones y el análisis de posibilidades en la vida cotidiana. El texto invita a pensar antes de calcular, destacando la importancia de estructurar el razonamiento y evitar errores comunes en el conteo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-arte-de-contar-combinatoria-y-enumeracion.jpg"
+  },
+  {
+    "id": "libro-1766430747347-ec6ebd6e1b812",
+    "titulo": "Del ábaco a la revolución digital, algoritmos y computación",
+    "autor": "Vicenç Torra i Reventós",
+    "anio": 2012,
+    "isbn": "9788447377671",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "3",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Del ábaco a la revolución digital: Algoritmos y computación, de Vicenç Torra, es una obra de divulgación que traza un recorrido histórico y conceptual por la evolución del cálculo y la computación, desde los instrumentos más antiguos hasta los sistemas digitales contemporáneos. El libro pone el foco en los algoritmos como el verdadero hilo conductor del progreso tecnológico, mostrando que la computación no comienza con los computadores modernos, sino con ideas fundamentales sobre cómo resolver problemas de forma sistemática.\n\nCon un lenguaje claro y ejemplos bien escogidos, el autor explica cómo surgieron y se transformaron conceptos como procedimiento, eficiencia, automatización y abstracción, conectándolos con hitos históricos —el ábaco, las máquinas mecánicas, los primeros computadores— y con aplicaciones actuales como el software, Internet y la inteligencia artificial. Sin recurrir a formalismos técnicos, el texto logra transmitir la lógica interna del pensamiento algorítmico.\n\nLa obra destaca por su valor formativo y cultural, ya que permite comprender la computación no solo como una disciplina técnica, sino como una construcción intelectual que ha moldeado la sociedad moderna. Es especialmente recomendable para estudiantes, docentes y lectores curiosos que desean entender qué hay detrás de la tecnología digital que usamos a diario.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/del-abaco-a-la-revolucion-digital-algoritmos-y-computacion.jpg"
+  },
+  {
+    "id": "libro-1766430539539-6064289bf7f48",
+    "titulo": "Curvas peligrosas, elipses, hipérbolas y otras maravillas geométricas",
+    "autor": "Josep Sales, Francesc Banyuls",
+    "anio": 2010,
+    "isbn": "9788447369775",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "2",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Curvas peligrosas: Elipses, hipérbolas y otras maravillas geométricas es una obra de divulgación matemática publicada por National Geographic dentro de la colección El mundo es matemático. El libro propone un recorrido claro y visual por algunas de las curvas más importantes de la geometría, mostrando cómo conceptos aparentemente abstractos tienen aplicaciones concretas en la ciencia, la ingeniería y la vida cotidiana.\n\nA través de ejemplos gráficos y explicaciones accesibles, el texto introduce curvas clásicas como la elipse, la parábola y la hipérbola, explicando su origen matemático y su presencia en fenómenos reales: órbitas planetarias, trayectorias de proyectiles, sistemas de navegación, óptica y arquitectura. El título alude de forma metafórica a aquellas curvas que “desvían” el pensamiento intuitivo, obligando al lector a mirar la geometría desde nuevas perspectivas.\n\nEl libro destaca por su enfoque didáctico, apoyado en ilustraciones claras y analogías sencillas, lo que lo convierte en una lectura ideal para estudiantes, docentes y lectores no especializados interesados en comprender cómo la matemática describe el mundo físico. Sin recurrir a formalismos excesivos, logra transmitir la belleza y utilidad de la geometría, reforzando la idea de que las curvas no son solo objetos teóricos, sino herramientas fundamentales del conocimiento científico.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/curvas-peligrosas-elipses-hiperbolas-y-otras-maravillas-geometricas.jpg"
+  },
+  {
+    "id": "libro-1766430299805-47f7413e3bb0c",
+    "titulo": "Al otro lado del espejo, la simetría en matemáticas",
+    "autor": "Joaquín Navarro",
+    "anio": 2010,
+    "isbn": "9788447369669",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "1",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Al otro lado del espejo: La simetría en matemáticas, de Joaquín Navarro, es un libro de divulgación que invita al lector a descubrir la simetría como una idea central que atraviesa las matemáticas y dialoga con el arte, la naturaleza y la percepción humana. A partir de ejemplos cotidianos —reflejos, patrones geométricos, juegos visuales— el autor muestra cómo las simetrías no solo embellecen, sino que organizan y explican fenómenos matemáticos profundos.\n\nCon un lenguaje claro y accesible, la obra introduce conceptos como transformaciones, invariancia y grupos de simetría, sin exigir formación avanzada, pero sin perder rigor. La metáfora del “espejo” funciona como hilo conductor para explorar la dualidad, la repetición y el equilibrio, conectando la intuición visual con ideas abstractas. Es un texto ideal para estudiantes, docentes y lectores curiosos que buscan comprender cómo una noción aparentemente simple estructura gran parte del pensamiento matemático moderno.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/al-otro-lado-del-espejo-la-simetria-en-matematicas.jpg"
+  },
+  {
     "id": "libro-1766379519603-052a1e56abbdd8",
     "titulo": "El Libro de la Arquitectura",
     "autor": "DK",
@@ -8,14 +376,15 @@
     "editorial": "DK",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Arquitectura"
     ],
-    "formato": "Digital",
     "notas": "Descubra los conceptos arquitectónicos clave que hay detrás de los edificios y estructuras más increíbles del mundo. 'El libro de la arquitectura' va más allá de otros libros de arquitectura para analizar no solo los edificios en sí mismos, sino también las ideas y principios que hacen que cada una de estas estructuras sea tan importante para la historia y la evolución de nuestro entorno. Desde la…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=ljOlzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=ljOlzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766379454781-411f3b1fee828",
@@ -26,14 +395,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Arte"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro del arte desbroza la jerga de la historia y la teoría del arte y ofrece imágenes de las mayores obras de arte del mundo, además de ingeniosos diagramas que explican las ideas subyacentes. De las figurillas de fertilidad prehistóricas a las videoinstalaciones, este es el manual perfecto para iniciarse en el conocimiento del arte…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=B5SPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=B5SPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766379417247-6f60ec8905ad38",
@@ -44,15 +414,16 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Ciencia",
       "Astronomía"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro de la astronomía proporciona breves y sencillas explicaciones que aclaran la jerga científica, esquemas que desbrozan complejas teorías, ilustraciones que juegan con nuestro conocimiento de los astros e ingeniosas citas que condensan los descubrimientos astronómicos. ¿Cómo medimos el universo? ¿Dónde se halla el horizonte de su…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=eJSPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=eJSPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766379271532-3e0cdf78635338",
@@ -63,14 +434,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Biologia"
     ],
-    "formato": "Digital",
     "notas": "Escrito en un lenguaje sencillo, este libro de biología está repleto de explicaciones breves y concisas sobre algunas de las ideas más trascendentales de la ciencia, desde la teoría celular hasta la evolución por selección natural y el descubrimiento del ADN. Gráficos sencillos, como líneas de tiempo y mapas mentales, complementan el texto y facilitan la comprensión de la explicación.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-biologia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-biologia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766378981063-fd6641752b6b38",
@@ -81,14 +453,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Historia"
     ],
-    "formato": "Digital",
     "notas": "Libro EL LIBRO DE LAS CULTURAS NEGRAS - DK. Descubra la rica y compleja historia de los pueblos de África y las luchas y triunfos de las culturas y comunidades negras de todo el mundo.\n\n\n\n\nCon perfiles de personas, movimientos y eventos clave, The Black History Book reúne relatos de las ideas y los hitos más significativos en la historia y la cultura afroamericana. Este libro vital y estimulante presenta una visión general audaz y accesible de la historia del continente africano y sus pueblos, desde las primeras migraciones humanas hasta las comunidades negras modernas y la diáspora africana.\n\nImágenes potentes e infografías innovadoras dan vida a las historias de los primeros reinos del Antiguo Egipto, Nubia y Cartago; los poderosos imperios de las eras medieval y moderna temprana; y la lucha contra los colonizadores europeos. También se explora en detalle la historia y la cultura negra más allá del continente africano, incluido el comercio de esclavos en el Atlántico; los quilombos (campos de resistencia de esclavos) de Brasil; el Renacimiento de Harlem y la Era del Jazz; la migración “Windrush”; movimientos de derechos civiles y feministas negras; y Black Lives Matter.\n\nUtilizando la combinación de marca registrada de la serie \"Grandes ideas\" de texto autorizado y accesible y gráficos audaces, The Black History Book examina los logros y las luchas de las comunidades negras en todo el mundo hasta la actualidad, así como la influencia de las culturas negras en el arte. , la literatura y la música en todo el mundo.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=PNSOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=PNSOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766379067244-7f5b7690c317e",
@@ -99,14 +472,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Cine"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, carteles de época, fotogramas de filmes emblemáticos y originales infografías, El libro del cine explora los personajes, las tramas y los temas de más de cien películas que han dejado huella más allá de la gran pantalla. ¿Cambió Chinatown las reglas del género negro? ¿Qué significó para el cine la estructura episódica de Pulp Fiction? ¿…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=H5SPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=H5SPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766378861883-6ebb3ff448fef8",
@@ -117,14 +491,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Ecología"
     ],
-    "formato": "Digital",
     "notas": "Este libro revela todos los detalles sobre la ecología y su constanteevolución. Hay unos cuatro millones de especies animales y vegetales enel mundo. Esto se traduce en cuatro millones de soluciones diferentes alos problemas de mantenerse con vida.Un libro para conocer los detalles de la historia de la ecología, losprocesos que existen, aprender a distinguir entre los distintosecosistemas y cómo el factor humano impacta sobre el planeta Tierra.Tanto el neófito en la materia como el ávido estudiante de ciencias,hallarán en este libro de ecología en español abundante material parasatisfacer su curiosidad.Descubre el impacto de la ecología en el mundo actual y futuro.Indaga sobre cómo está la ecología relacionada con otras ciencias comola zoología, la botánica, la geología, la geomorfología, laclimatología, la química, la física, la genética, la sociologi´a y otrasmaterias. La ecología moderna ha recorrido un largo camino desde sureconocimiento como ciencia, y en la actualidad se nutre de muchas otrasdisciplinas.Además, este libro relaciona de forma didáctica cómo la ecologi´ainfluye en las decisiones de gobiernos locales y nacionales sobreurbanismo, transporte, industria y crecimiento econo´mico.Descubre cuán importante es y será la ecología en el marco actual yvenidero. Los desafi´os del cambio clima´tico, el medioambiente, lasubida del nivel del mar, la destruccio´n de ha´bitats, la extincio´n deespecies, el pla´stico y otras formas de contaminacio´n, asi´ como laamenaza de una crisis del agua. Son amenazas graves para lacivilizacio´n humana y exigen respuestas poli´ticas radicales basadas enuna ciencia cabal. Este libro del medioambiente y la ecologíaproporcionara´ las respuestas. Prepárate para adentrarte en uno de lostemas más apasionantes y de más impacto en nuestro planeta en laactualidad.Explora cada uno de estos capítulos sobre la ciencia de la ecología: • Historia de la evolución • Procesos ecológicos • Ordenando el mundo natural • La diversidad de la vida • Ecosistemas • Organismos en un entorno cambiante • La Tierra viva • El factor humano • Ecologismo y conservaciónEl libro de la ecología pertenece a la galardonada serie Grandes Ideasexplica temas complejos de un modo fácil de entender medianteexplicaciones claras y alejándose del academicismo tradicional. Su creativo diseño y los gráficos innovadores que acompañan al texto hacende esta serie una introducción perfecta a una gran diversidad dematerias para toda la familia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-ecologia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-ecologia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766378734368-dbdf2dac324508",
@@ -135,14 +510,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Economía"
     ],
-    "formato": "Digital",
     "notas": "Con un lenguaje claro, El libro de la economía ofrece concisas explicaciones que desbrozan la jerga académica, esquemas que hacen sencillas las teorías más complejas, citas clásicas y una serie de ingeniosas ilustraciones que juegan con nuestra comprensión de la economía. ¿Por qué pagamos impuestos? ¿Qué sucede en una recesión? ¿Cómo funciona el mercado? La economía afecta a todos los aspectos de nuestras vidas, desde cómo nos desplazamos hasta qué compramos, y las ideas económicas siguen configurando el mundo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-economia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-economia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766378570886-fc5199aefb31b8",
@@ -153,14 +529,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Feminismo"
     ],
-    "formato": "Digital",
     "notas": "Esta obra ofrece una introducción accesible y visualmente atractiva al movimiento y a las ideas que lo han moldeado. En El libro del feminismo se combinan textos claros e ilustraciones gráficas que facilitan una lectura didáctica, detallando cada idea y acontecimiento dentro de su contexto social y cultural.\n\nEl recorrido histórico abarca desde los orígenes del movimiento y el sufragismo del siglo XIX hasta las manifestaciones más recientes, incluyendo el Everyday Sexism Project y el movimiento «#YoTambien» («#MeToo»). Cada capítulo sitúa los debates en marcos temporales y geográficos precisos para facilitar la comprensión de su evolución y sus efectos contemporáneos.\n\nPensado tanto para lectores que se acercan por primera vez al tema como para quienes buscan ordenar conocimientos ya adquiridos, aporta herramientas conceptuales y ejemplos ilustrativos que favorecen el análisis crítico y el diálogo informado en ámbitos educativos, comunitarios y profesionales.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-del-feminismo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-del-feminismo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766378377481-0a608088ff2d48",
@@ -171,14 +548,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Física"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Con una prosa sencilla, El libro de la física presenta explicaciones claras y concisas que desbrozan la jerga especializada, diagramas que plasman complejas teorías, citas memorables e ingeniosas ilustraciones que juegan con nuestros conocimientos de la física. ¿Cómo generan electricidad los imanes? ¿Qué es la antimateria? ¿Es posible viajar en el tiempo? A p…",
     "comentarios": "INTRODUCCIÓN\n\nMEDIDA Y MOVIMIENTO\n\nLA FÍSICA Y EL MUNDO COTIDIANO\n\nENERGÍA Y MATERIA\n\nMATERIALES Y CALOR\n\nELECTRICIDAD Y MAGNETISMO\n\nDOS FUERZAS SE UNEN\n\nSONIDO Y LUZ\n\nLAS PROPIEDADES DE LAS ONDAS\n\nEL MUNDO CUÁNTICO\n\nNUESTRO INCIERTO UNIVERSO\n\nFÍSICA NUCLEAR Y DE PARTÍCULAS\n\nDENTRO DEL ÁTOMO\n\nLA RELATIVIDAD Y EL UNIVERSO\n\nNUESTRO LUGAR EN EL COSMOS\n\nBIOGRAFÍAS\n\nGLOSARIO\n\nÍNDICE\n\nCITAS\n\nAGRADECIMIENTOS",
-    "portada": "https://books.google.com/books/content?id=G82OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=G82OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766378240914-214c946e2285f",
@@ -189,14 +567,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Historia"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro de la historia ofrece breves y sencillas explicaciones de las ideas que subyacen a los acontecimientos que han configurado nuestro mundo, esquemas que simplifican conceptos complejos e ingeniosas ilustraciones que juegan con nuestras ideas sobre el pasado. ¿Qué permitió el nacimiento de la democracia en la Antigua Grecia? ¿Qué …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=dpSPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=dpSPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766378119082-eec280e48720a8",
@@ -207,14 +586,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Leyes"
     ],
-    "formato": "Digital",
     "notas": "Adéntrese en las profundidades del conocimiento y la sabiduría con El libro de la ley, una obra fundamental que ha marcado un hito en el pensamiento y la filosofía. Este texto esencial invita a la reflexión profunda sobre los principios que rigen la existencia, la moralidad y la estructura de la sociedad. A través de sus páginas, el lector será guiado por conceptos trascendentales que desafían las percepciones convencionales y abren nuevas vías de entendimiento. La riqueza de su contenido lo convierte en una lectura obligatoria para aquellos interesados en la filosofía, la espiritualidad, la jurisprudencia o cualquier disciplina que explore los cimientos de la civilización y el comportamiento humano. Cada capítulo de El libro de la ley está diseñado para estimular el intelecto y fomentar un análisis crítico de las normas y creencias establecidas. Es una herramienta invaluable para el estudio personal, la meditación y el debate, ofreciendo perspectivas que han influido en innumerables pensadores a lo largo de la historia. Descubra la profundidad de sus enseñanzas y permita que sus ideas transformen su visión del mundo y su lugar en él. Una obra maestra que perdura en el tiempo por su relevancia y su capacidad de inspirar la búsqueda de la verdad.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-ley-pd.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-ley-pd.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766377944361-5ed8f79ab9965",
@@ -225,14 +605,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Historia"
     ],
-    "formato": "Digital",
     "notas": "El libro de la historia LGBTQ+ celebra las victorias y los triunfos de las personas LGBTQ+ a lo largo de la historia, como los disturbios de Stonewall y las primeras cirugías transgénero, además de commemorar acontecimientos trágicos y persecuciones, desde la policía nocturna del renacimiento italiano hasta las políticas No preguntes, no digas del siglo XX. También recoge elementos culturales clave  el lenguaje secreto de la cultura polari, la cultura de salas de baile negra y latinx y las muchas banderas de la comunidad  y resigue la historia de los espacios LGBTQ+, desde las casas Molly del siglo XVIII hasta los barrios gay modernos. Con la combinación de de textos autorizados y accesibles y gráficos impactantes típica de la serie Grandes ideas, El libro de la historia LGBTQ+ celebra la larga, orgullosa y a menudo oculta historia de las personas, culturas y lugares LGBTQ+ de todo el mundo.\nOpiniones del libro",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-historia-lgbtq.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-historia-lgbtq.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766377859468-6c47b79d8e635",
@@ -243,14 +624,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Literatura"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, sencillos esquemas e ingeniosas ilustraciones, El libro de la literatura es el manual perfecto para introducirse en la historia de la literatura universal, desde las epopeyas antiguas como la Ilíada o el Mahabharata hasta la obra de autores contemporáneos como Gabriel García Márquez o Margaret Atwood. ¿Qué simboliza la gran ballena blan…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=GJWPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=GJWPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766377810646-ffc3c2f7a4c17",
@@ -261,14 +643,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Matemáticas"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Escrito en un lenguaje accesible, El libro de las matemáticas presenta explicaciones claras y concisas que desbrozan la jerga especializada, diagramas que plasman complejas teorías, citas memorables e ingeniosas ilustraciones que juegan con nuestras ideas acerca de los números. ¿Qué es un número imaginario? ¿Cómo pueden servir las matemáticas para predecir el…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=J82OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=J82OEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766377722673-5d4315bcde48f8",
@@ -279,14 +662,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Música"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas El libro de la música clásica analiza con un lenguaje claro más de noventa obras de distintos compositores, unos legendarios y otros menos conocidos, e incluye diagramas e infografías que explican los conceptos fundamentales y las grandes ideas que subyacen a la creación y la apreciación de la música clásica. Parte vital de la cultura humana, la música ha si…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=vJaPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=vJaPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766377656547-d952f5eed4ea2",
@@ -297,14 +681,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Política"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro de la política ofrece concisas explicaciones que desbrozan la jerga académica, esquemas que hacen sencillas las teorías más complejas e ingeniosas ilustraciones que juegan con nuestra comprensión de la política. ¿Debe ser derrocado un gobernante injusto? ¿Es la democracia la mejor forma de gobierno? ¿Puede ser justa una guerra?…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=J5OPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=J5OPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766377487594-e281e7c56aa458",
@@ -315,14 +700,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Química"
     ],
-    "formato": "Digital",
     "notas": "Una guía visual y accesible para comprender la química en todas sus facetas. En El libro de la Química se presenta una exposición clara y directa que facilita el acceso a conceptos científicos complejos; la obra, elaborada por DK, combina rigor y sencillez para lectores con distintos niveles de conocimiento.\n\nEl contenido recorre la historia de la disciplina en orden cronológico, desde el nacimiento de la teoría atómica hasta desarrollos contemporáneos como el polietileno y las nuevas tecnologías de vacunas aplicadas en la lucha contra el COVID-19. Incluye aportes y el pensamiento de químicos célebres como John Dalton, Marie Curie, Dmitri Mendeleev, Kathleen Lonsdale y Stephanie Kwolek, y aborda temas clave de las ciencias físicas y naturales, como la geoquímica y los elementos de la tabla periódica, todo explicado mediante textos concisos y diagramas claros que refuerzan la comprensión.\n\nLa presentación visual y los gráficos innovadores caracterizan esta edición, que forma parte de una línea editorial orientada a explicar ideas complejas de forma comprensible y apartada del academicismo estricto. Pensado para estudiantes, profesionales y público general interesado en mantenerse informado, «Grandes Ideas» aporta un formato didáctico en español y un diseño que facilita el aprendizaje a lo largo de la lectura.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-quimica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-quimica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766377343191-27fa81f372f318",
@@ -333,14 +719,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Religión"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas Con un lenguaje claro, El libro de las religiones ofrece concisas explicaciones que desbrozan la jerga académica, esquemas que hacen sencillas las teorías más complejas y una multitud de ingeniosas ilustraciones que juegan con nuestra comprensión de la religión. ¿Existe un solo dios? ¿Por qué sufrimos? ¿Qué ocurre tras la muerte? Miles de millones de personas…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=KZOPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=KZOPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766377198904-3da6aa417a50a8",
@@ -351,14 +738,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Historia"
     ],
-    "formato": "Digital",
     "notas": "Descubre las batallas clave, las tácticas, las tecnologías y los puntos de inflexión de la Segunda Guerra Mundial, el conflicto que dio forma al mundo moderno.  Combinando textos claros y gráficos explicativos e innovadores, el libro explora las causas, los eventos importantes y las consecuencias de la Segunda Guerra Mundial.  Utilizando un enfoque original se perfilan más de 90 de las ideas y eventos importantes antes, durante y después del conflicto, desde el surgimiento de Hitler y el fascismo en la década de 1930 hasta Pearl Harbor, los aterrizajes del día D, y el bombardeo de Hiroshima a la fundación del Estado de Israel en 1948.  Ofreciendo una narrativa convincente, accesible e inmediata de la guerra, el libro de la Segunda Guerra Mundial muestra cómo las batallas clave, las fuerzas políticas y económicas, los líderes individuales y los avances tecnológicos influyeron en el curso del conflicto.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-segunda-guerra-mundial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-segunda-guerra-mundial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766376911483-d2ac940a9bf9d",
@@ -369,16 +757,17 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Novela",
       "Drama",
       "Teatro"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas El libro de Shakespeare trae las obras de William Shakespeare a la vida con fotografías a todo color, imágenes, nubes de ideas, cronologías y citas que ayudarán al lector a comprender el contexto de las piezas y poemas de Shakespeare. Desde las obras más famosas de Shakespeare, como Romeo y Julieta, Hamlet, Julio César, hasta piezas menos representadas, como …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=WObkjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=WObkjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766376753681-c1296e7118816",
@@ -389,15 +778,16 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Novela",
       "Novela Policial"
     ],
-    "formato": "Digital",
     "notas": "Descubre las ideas clave, los temas y las tramas detrás de cada caso investigado por Sherlock Holmes y el Dr. Watson en las famosas y celebradas historias de Sir Arthur Conan Doyle.Utilizando la combinación característica de la serie \"Grandes Ideas\" repleto de ingeniosas ilustraciones, esquemas claros y citas memorables, constituye la perfecta guía holmesiana. Cubriendo todo el canon desde Estudio en escarlata hasta la célebre \"La aventura de Shoscombe Old Place\" y situando las historias en un contexto más amplio.Tanto si esta es una primera introducción a las habilidades de Holmes como si uno ya está familiarizado con su extraordinaria capacidad de deducción, este libro interesará y cautivará al lector.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-sherlock-holmes.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-sherlock-holmes.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766376517714-9143f24dccc1f",
@@ -408,14 +798,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Ciencias sociales"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas El libro de la sociología aborda las preguntas más importantes que ha formulado la humanidad, como: ¿Qué es la sociedad? ¿Qué nos motiva a que funcione? ¿Por qué actuamos de cierta manera con amigos, compañeros de trabajo y rivales? El libro de la sociología presenta a los sociólogos más reconocidos del mundo y más de cientos de sus ideas que más impacto han …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=WpiPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=WpiPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766376202874-68e6a07849dda",
@@ -426,14 +817,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Sicología"
     ],
-    "formato": "Digital",
     "notas": "¿Somos individuos autónomos, o nos dejamos llevar por el conformismo? ¿Qué nos hace recordar y por qué olvidamos? ¿Cómo medir la inteligencia? Preguntas como estas subyacen en la obra de los grandes teóricos e investigadores del fascinante mundo de la psicología. Con un lenguaje claro, El libro de la psicología ofrece concisas explicaciones que desbrozan la jerga académica, esquemas que hacen senc…",
     "comentarios": "INTRODUCCIÓN 1. RAÍCES FILOSÓFICAS. GÉNESIS DE LA PSICOLOGÍA 2. CONDUCTISMO. LA RESPUESTA AL MEDIO 3. PSICOTERAPIA. EL INCONSCIENTE DETERMINA LA CONDUCTA 4. PSICOLOGÍA COGNITIVA. EL CEREBRO PROCESADOR 5. PSICOLOGÍA SOCIAL. VIVIR EN UN MUNDO COMPARTIDO 6. PSICOLOGÍA DEL DESARROLLO. DEL BEBÉ AL ADULTO 7. PSICOLOGÍA DIFERENCIAL. PERSONALIDAD E INTELIGENCIA\n\nBIOGRAFÍAS GLOSARIO ÍNDICE AGRADECIMIENTOS",
-    "portada": "https://books.google.com/books/content?id=6I6lMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=6I6lMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766374313491-04731502c207",
