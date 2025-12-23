@@ -1,5 +1,760 @@
 [
   {
+    "id": "libro-1766462042489-20c59ee9fba958",
+    "titulo": "Este no es el Titulo de Este Libro",
+    "autor": "Nelo Maestre",
+    "anio": 2019,
+    "isbn": "978841361228731",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "40",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Este no es el título de este libro: Paradojas, axiomas y fundamentos de la matemática, de Nelo Alberto Maestre Blanco, es una obra de divulgación que invita a cuestionar las bases mismas del pensamiento matemático a través de un recorrido por paradojas clásicas, sistemas axiomáticos y los problemas que surgen cuando intentamos fundamentar con absoluta solidez una disciplina tan rigurosa como las matemáticas.\n\nCon un título provocador —que ya anticipa el juego metamatemático— el libro explora cómo nociones aparentemente firmes como axioma, demostración, consistencia y verdad pueden volverse problemáticas. El autor presenta paradojas célebres y dilemas conceptuales que revelan los límites del razonamiento formal, mostrando que la matemática no es un edificio cerrado, sino una construcción intelectual en permanente revisión.\n\nEl texto se caracteriza por un enfoque reflexivo y accesible, que evita el tecnicismo excesivo y privilegia la comprensión conceptual. A lo largo de la obra se evidencian conexiones con la lógica, la filosofía y la historia de la matemática, permitiendo al lector apreciar por qué los fundamentos no son un asunto meramente abstracto, sino central para entender qué significa “hacer matemáticas”.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/este-no-es-el-titulo-de-este-libro.jpg"
+  },
+  {
+    "id": "libro-1766461852280-69e648d5c72b7",
+    "titulo": "La teoría de juegos, sin riesgo no hay ganancia",
+    "autor": "Francesc Rossell Pujós",
+    "anio": 2019,
+    "isbn": "9788417811501",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "39",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Teoría de juegos: Sin riesgo no hay ganancia, de Francesc Rosell, es un libro de divulgación que introduce al lector en la teoría de juegos, una de las herramientas matemáticas más influyentes para analizar decisiones estratégicas en contextos donde intervienen múltiples actores con intereses a veces cooperativos y a veces contrapuestos.\n\nLa obra explica de forma clara conceptos fundamentales como estrategias, equilibrio, cooperación, conflicto, riesgo y recompensa, apoyándose en ejemplos cotidianos, juegos clásicos y situaciones reales provenientes de la economía, la política, los deportes y la vida social. El autor muestra que la teoría de juegos no trata solo de “jugar”, sino de razonar estratégicamente cuando el resultado depende también de las decisiones de otros.\n\nCon un lenguaje accesible y un enfoque intuitivo, el libro evita el formalismo excesivo y se centra en el significado de los modelos, ayudando al lector a comprender por qué, en muchos casos, asumir riesgos calculados es indispensable para obtener beneficios. La famosa idea de equilibrio —cuando nadie tiene incentivos para cambiar su estrategia— aparece como un eje central del análisis.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-teoria-de-juegos-sin-riesgo-no-hay-ganancia.jpg"
+  },
+  {
+    "id": "libro-1766461745724-a5bde9783e25e8",
+    "titulo": "Las Matemáticas del dinero, bitcoins, criptomonedas y mercados financieros",
+    "autor": "Valentín García Martínez, Alejandro Casa Rodríguez, Álvaro Soto Herbello, Xoel López Barata, Alfonso Martín López, Eduardo Andrés Endériz",
+    "anio": 2019,
+    "isbn": "9788417811945",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "38",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Las matemáticas del dinero: Bitcoin, criptomonedas y mercados financieros es una obra de divulgación que explora cómo las matemáticas sustentan el funcionamiento del dinero moderno, desde los mercados financieros tradicionales hasta el surgimiento de Bitcoin y las criptomonedas.\n\nEl libro introduce de manera accesible los conceptos matemáticos y cuantitativos que permiten entender fenómenos como la formación de precios, el riesgo, la volatilidad, la especulación y la toma de decisiones financieras. En particular, muestra cómo herramientas como la probabilidad, la estadística, los modelos estocásticos y la criptografía son esenciales para comprender tanto los mercados clásicos como los sistemas financieros descentralizados.\n\nUno de los aportes centrales de la obra es su capacidad para desmitificar las criptomonedas, explicando qué hay detrás de términos como blockchain, minería, consenso y seguridad criptográfica, y situándolos dentro de un marco matemático riguroso. Al mismo tiempo, el libro no evita discutir los riesgos, límites y desafíos asociados a estos nuevos instrumentos financieros.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-matematicas-del-dinero-bitcoins-criptomonedas-y-mercados-financieros.jpg"
+  },
+  {
+    "id": "libro-1766461639432-89a9fb5dab2ca8",
+    "titulo": "De Turing a Google, computación y programación",
+    "autor": "Jordi Delgado",
+    "anio": 2019,
+    "isbn": "9788417811495",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "33",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "De Turing a Google: Computación y programación, de Jesús Delgado Pardo, es un libro de divulgación que recorre la evolución conceptual de la computación, desde sus fundamentos teóricos hasta las aplicaciones tecnológicas que hoy forman parte de la vida cotidiana.\n\nLa obra toma como punto de partida las ideas de Alan Turing y el nacimiento de la computación moderna, para mostrar cómo conceptos como algoritmo, programa, lenguaje y máquina se han ido desarrollando hasta dar origen a sistemas complejos como los motores de búsqueda, el software masivo y las plataformas digitales actuales. El autor subraya que detrás de herramientas tan familiares como Google existe una sólida base matemática y lógica.\n\nCon un lenguaje claro y accesible, el libro explica principios esenciales de la programación y la ciencia de la computación sin necesidad de conocimientos técnicos avanzados, destacando el papel de la abstracción, la eficiencia y la automatización. El recorrido histórico se combina con reflexiones sobre el impacto social y cultural de la informática.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/de-turing-a-google-computacion-y-programacion.jpg"
+  },
+  {
+    "id": "libro-1766461527652-c175d75c21d148",
+    "titulo": "La Hipótesis de Riemann, el eslabón perdido entre los números primos y la mecánica cuántica",
+    "autor": "Jorge Jiménez Urroz",
+    "anio": 2019,
+    "isbn": "9788417811457",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "32",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "La hipótesis de Riemann: El eslabón perdido entre los números primos y la mecánica cuántica, de Jorge Jiménez Urrea, es un libro de divulgación que aborda uno de los problemas abiertos más famosos y profundos de las matemáticas: la Hipótesis de Riemann, situada en el corazón de la teoría de números.\n\nLa obra explica, con un enfoque accesible, por qué los números primos constituyen la “estructura básica” de la aritmética y cómo la función zeta de Riemann permite estudiar su distribución. El autor guía al lector desde las ideas fundamentales hasta las consecuencias matemáticas y científicas de la conjetura, mostrando por qué su resolución tendría un impacto enorme en áreas como la criptografía, el análisis matemático y la teoría de la información.\n\nUno de los aspectos más atractivos del libro es la exploración de los vínculos inesperados entre la Hipótesis de Riemann y la física, en particular con la mecánica cuántica y los sistemas caóticos. Esta conexión sugiere que patrones profundos del mundo matemático podrían reflejarse en leyes físicas, reforzando la idea de una unidad subyacente entre disciplinas.\n\nCon un estilo claro y bien estructurado, el texto no busca demostrar la hipótesis, sino hacer comprensible su significado, su historia y su relevancia, evitando el formalismo excesivo. En este sentido, logra transmitir tanto la dificultad del problema como su belleza intelectual.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-hipotesis-de-riemann-el-eslabon-perdido-entre-los-numeros-primos-y-la-mecanica-cuantica.jpg"
+  },
+  {
+    "id": "libro-1766461337483-741027f1f7851",
+    "titulo": "Optimización matemática, en busca de la mejor opción",
+    "autor": "Lucas Lacasa",
+    "anio": 2019,
+    "isbn": "9788417811921",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "34",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Optimización matemática: En busca de la mejor opción, de Lucas Lacasa, es un libro de divulgación que introduce de manera clara y accesible uno de los núcleos más importantes de las matemáticas aplicadas: la optimización, es decir, el arte y la ciencia de elegir la mejor alternativa entre muchas posibles.\n\nLa obra muestra cómo los problemas de optimización aparecen de forma natural en contextos muy diversos: desde la ingeniería, la economía y la logística, hasta la biología, la informática y la toma de decisiones cotidianas. A través de ejemplos intuitivos, el autor explica conceptos fundamentales como funciones objetivo, restricciones, óptimos locales y globales, evitando el exceso de formalismo y priorizando la comprensión conceptual.\n\nUno de los mayores aciertos del libro es revelar que optimizar no siempre significa encontrar una solución perfecta, sino equilibrar compromisos, gestionar recursos limitados y tomar decisiones informadas bajo condiciones reales. El texto también invita a reflexionar sobre los límites de la optimización y los riesgos de aplicar modelos matemáticos sin considerar su contexto.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/optimizacion-matematica-en-busca-de-la-mejor-opcion.jpg"
+  },
+  {
+    "id": "libro-1766461157109-905111b6435f58",
+    "titulo": "En las entrañas del big data, una aproximación a la estadística",
+    "autor": "Rafael Lahoz-Beltrá",
+    "anio": 2019,
+    "isbn": "9788417811471",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "31",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "En las entrañas del Big Data: Una aproximación a la estadística, de Rafael Lahoz-Beltra, es un libro de divulgación que ofrece una puerta de entrada rigurosa y comprensible al fenómeno del Big Data, poniendo el acento en su fundamento esencial: la estadística.\n\nLa obra explica que, más allá del volumen masivo de datos y de la potencia computacional, el Big Data se sustenta en modelos estadísticos, inferencia, probabilidad y análisis de patrones. A través de un lenguaje claro y ejemplos conceptuales, el autor muestra cómo la estadística permite extraer información, detectar regularidades y tomar decisiones informadas en contextos complejos y de alta incertidumbre.\n\nEl libro destaca por desmitificar la idea de que el Big Data es solo una cuestión tecnológica. Lahoz-Beltra subraya que sin una comprensión adecuada de conceptos como variabilidad, correlación, muestreo, sesgo y modelización, los datos pueden conducir a conclusiones erróneas o engañosas. En este sentido, la obra tiene también un fuerte componente crítico y formativo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/en-las-entranas-del-big-data-una-aproximacion-a-la-estadistica.jpg"
+  },
+  {
+    "id": "libro-1766461052953-8f6f3afb3fd858",
+    "titulo": "Sistemas dinámicos, del deteminismo cosmológico al efecto mariposa",
+    "autor": "Miquel Noguera Batlle",
+    "anio": 2019,
+    "isbn": "9788417811891",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "30",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Sistemas dinámicos: Del determinismo cosmológico al efecto mariposa, de Miquel Noguera Batlle, es un libro de divulgación que introduce al lector en el estudio de los sistemas dinámicos, uno de los marcos matemáticos más potentes para comprender la evolución temporal de fenómenos naturales y artificiales.\n\nLa obra recorre el camino que va desde la visión clásica del determinismo, heredada de la física newtoniana y la cosmología, hasta la aparición del caos determinista, simbolizado por el célebre efecto mariposa. El autor explica cómo sistemas gobernados por leyes simples pueden exhibir comportamientos complejos, impredecibles y extremadamente sensibles a las condiciones iniciales.\n\nCon un enfoque accesible y conceptual, el libro presenta ideas clave como trayectorias, estados, estabilidad, atractores y bifurcaciones, mostrando su aplicación en campos tan diversos como la física, la biología, la meteorología y la economía. Sin recurrir a un formalismo pesado, se enfatiza la intuición geométrica y el significado físico de los modelos.\n\nEn conjunto, Sistemas dinámicos es una l",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/sistemas-dinamicos-del-deteminismo-cosmologico-al-efecto-mariposa.jpg"
+  },
+  {
+    "id": "libro-1766460907503-19a72bd255ca78",
+    "titulo": "Los Fractales, ni las nubes son esferas, ni las montañas son conos",
+    "autor": "Bartolomé Luque Serrano",
+    "anio": 2019,
+    "isbn": "9788417811488",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "29",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Los fractales: Ni las nubes son esferas, ni las montañas son conos, de Bartolo Luque, es un libro de divulgación que introduce al lector en el fascinante mundo de los fractales, estructuras matemáticas capaces de describir la complejidad irregular de la naturaleza mucho mejor que las formas geométricas clásicas.\n\nLa obra parte de una idea provocadora: muchos objetos del mundo real —nubes, costas, montañas, hojas— no se ajustan a esferas, conos o líneas perfectas. A partir de ahí, el autor explica conceptos clave como la autosimilitud, la dimensión fractal y los procesos iterativos, mostrando cómo estos permiten modelar fenómenos naturales, dinámicas caóticas y patrones complejos.\n\nCon un lenguaje claro y apoyado en ejemplos visuales y naturales, el libro logra explicar ideas profundas sin recurrir a formalismos técnicos excesivos. Se destacan las conexiones de los fractales con áreas como la física, la biología, la geografía, la economía y el arte, reforzando la idea de que las matemáticas modernas amplían nuestro modo de entender la realidad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-fractales-ni-las-nubes-son-esferas-ni-las-montanas-son-conos.jpg"
+  },
+  {
+    "id": "libro-1766460803690-d7c2b33cdb7b08",
+    "titulo": "Teoría de la medida, ¿habrá más átomos que estrellas?",
+    "autor": "Hugo Ariel Navarrete Hurtado",
+    "anio": 2019,
+    "isbn": "9788417811464",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "26",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Teoría de la medida: ¿Habrá más átomos que estrellas?, de Hugo Navarrete, es un libro de divulgación que introduce al lector en uno de los pilares más profundos y menos intuitivos de las matemáticas modernas: la teoría de la medida, base conceptual del análisis matemático, la probabilidad y numerosos modelos científicos.\n\nLa obra parte de una pregunta sugerente —si hay más átomos que estrellas— para conducir al lector hacia la necesidad de medir conjuntos infinitos, comparar tamaños que escapan a la intuición cotidiana y formalizar nociones como longitud, área, volumen y probabilidad. A lo largo del texto se muestra que medir no es simplemente contar, sino construir un marco matemático riguroso para tratar con lo continuo y lo infinito.\n\nCon un enfoque claro y progresivo, el autor explica ideas clave como conjuntos medibles, medida, integral y probabilidad, evitando el formalismo excesivo y privilegiando la intuición conceptual. El libro logra así tender un puente entre preguntas aparentemente filosóficas y herramientas matemáticas fundamentales que hoy sustentan la física, la estadística y la ciencia de datos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/teoria-de-la-medida-habra-mas-atomos-que-estrellas.jpg"
+  },
+  {
+    "id": "libro-1766460692391-ef6e1a453ad82",
+    "titulo": "Lingüística cuantitativa, la estadística de las palabras",
+    "autor": "Antoni Hernández-Fernández, Ramón Ferrer i Cancho",
+    "anio": 2019,
+    "isbn": "9788417811884",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "25",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Lingüística cuantitativa: La estadística de las palabras, de Toni Hernández y Ramon Ferrer i Cancho, es un libro de divulgación que explora cómo las matemáticas y la estadística permiten analizar el lenguaje humano desde una perspectiva científica, revelando patrones ocultos en el uso de las palabras.\n\nLa obra introduce al lector en el campo de la lingüística cuantitativa, mostrando que los idiomas no son solo sistemas culturales y comunicativos, sino también sistemas complejos que obedecen regularidades estadísticas. A lo largo del libro se abordan fenómenos como la frecuencia de las palabras, la ley de Zipf, la entropía, la redundancia y la organización del vocabulario, explicados de manera accesible y con ejemplos claros.\n\nUno de los principales méritos del texto es demostrar que estas regularidades no son meras curiosidades matemáticas, sino claves para comprender cómo funciona el lenguaje, cómo se procesa la información lingüística y cómo se relacionan el lenguaje, la cognición y la comunicación. El enfoque conecta la lingüística con disciplinas como la física estadística, la informática y la teoría de la información.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/linguistica-cuantitativa-la-estadistica-de-las-palabras.jpg"
+  },
+  {
+    "id": "libro-1766460589251-fdaf1526a41948",
+    "titulo": "Más allá de Euclides, las otras geometrías",
+    "autor": "Joan Gómez i Urgellés",
+    "anio": 2019,
+    "isbn": "9788417811433",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "24",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Más allá de Euclides: Las otras geometrías, de Juan Vicente Gómez Urgellés, es un libro de divulgación que invita al lector a abandonar la geometría clásica aprendida en la escuela para adentrarse en el fascinante territorio de las geometrías no euclidianas, donde las reglas intuitivas del espacio dejan de ser universales.\n\nLa obra explica, de forma clara y progresiva, cómo durante siglos la geometría de Euclides fue considerada la única descripción posible del espacio, hasta que el cuestionamiento del famoso quinto postulado abrió la puerta a nuevas formas de pensar la geometría. El autor introduce conceptos como la geometría hiperbólica y la geometría esférica, mostrando que existen múltiples maneras coherentes de describir el espacio según los axiomas que se adopten.\n\nCon un enfoque accesible y apoyado en intuiciones geométricas, el libro destaca la enorme relevancia de estas ideas en la física moderna, especialmente en la relatividad, así como en la comprensión del espacio, la curvatura y la estructura del universo. Más que un tratado técnico, el texto pone énfasis en el cambio de paradigma intelectual que supuso aceptar que la geometría no es única ni absoluta.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mas-alla-de-euclides-las-otras-geometrias.jpg"
+  },
+  {
+    "id": "libro-1766460433488-6cec1945f3675",
+    "titulo": "Hiperespacios, el mundo en cuatro o más dimensiones",
+    "autor": "Rafael Lahoz-Beltrá",
+    "anio": 2019,
+    "isbn": "9788417811440",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "23",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Hiperespacios: El mundo en cuatro o más dimensiones, de Rafael Lahoz-Beltra, es un libro de divulgación que invita al lector a adentrarse en uno de los conceptos más desafiantes y sugerentes de las matemáticas y la física moderna: las dimensiones superiores al espacio tridimensional.\n\nLa obra explica cómo es posible pensar y trabajar matemáticamente con espacios de cuatro o más dimensiones, aun cuando nuestra experiencia cotidiana esté limitada a tres dimensiones espaciales. A través de analogías geométricas, ejemplos visuales y razonamientos progresivos, el autor muestra cómo los hiperespacios surgen de manera natural en áreas como la geometría, el álgebra, la física teórica y la ciencia de datos.\n\nCon un lenguaje claro y sin recurrir a formalismos excesivos, el libro introduce conceptos como coordenadas multidimensionales, proyecciones, espacios abstractos y modelos matemáticos, ayudando al lector a desarrollar intuición sobre realidades que no pueden visualizarse directamente. El texto subraya que estas ideas no son meras curiosidades, sino herramientas fundamentales para describir fenómenos complejos del mundo actual.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/hiperespacios-el-mundo-en-cuatro-o-mas-dimensiones.jpg"
+  },
+  {
+    "id": "libro-1766460329444-e7705e7efda6c",
+    "titulo": "La Teoría de la información, las matemáticas de la era digital",
+    "autor": "Juan M. Rodríguez Parrondo",
+    "anio": 2019,
+    "isbn": "9788417811907",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "22",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "La teoría de la información: Las matemáticas de la era digital, de Juan M. R. Parrondo, es un libro de divulgación que introduce al lector en uno de los pilares conceptuales del mundo contemporáneo: la teoría de la información, base matemática de la comunicación digital, la computación y el tratamiento moderno de datos.\n\nLa obra explica cómo conceptos como información, entropía, codificación, ruido y transmisión pueden formalizarse matemáticamente para medir, comprimir y comunicar mensajes de forma eficiente. A partir de ideas desarrolladas en el siglo XX —especialmente a partir de los trabajos de Claude Shannon— el autor muestra cómo estas herramientas permiten entender desde el funcionamiento de Internet y los teléfonos móviles hasta la compresión de imágenes y el almacenamiento de datos.\n\nCon un lenguaje claro y progresivo, el libro evita el exceso de formalismo y pone el énfasis en la intuición conceptual, ayudando al lector a comprender qué significa realmente “información” en sentido matemático y por qué no coincide necesariamente con el significado cotidiano del término. También se abordan los límites fundamentales de la comunicación y el papel de la probabilidad y la estadística.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-teoria-de-la-informacion-las-matematicas-de-la-era-digital.jpg"
+  },
+  {
+    "id": "libro-1766460228448-6acf59a7a4bb9",
+    "titulo": "La Revolución algebraica, el nacimiento de la teoría de grupos",
+    "autor": "Jorge Calero Sanz",
+    "anio": 2019,
+    "isbn": "9788417811419",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "21",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "La revolución algebraica: El nacimiento de la teoría de grupos, de Jorge Calero Sanz, es un libro de divulgación que relata uno de los cambios conceptuales más profundos en la historia de las matemáticas: el surgimiento de la teoría de grupos como lenguaje unificador del álgebra moderna.\n\nLa obra explica cómo, a partir de problemas clásicos como la resolución de ecuaciones polinómicas, los matemáticos comenzaron a centrarse no solo en los cálculos, sino en las estructuras y relaciones que subyacen a las operaciones. A lo largo del texto se presentan figuras clave —como Galois— y se muestra cómo la abstracción algebraica permitió dar un salto cualitativo en la comprensión de la simetría y las transformaciones.\n\nCon un enfoque histórico y conceptual, el autor introduce de forma accesible ideas fundamentales como operaciones, simetrías, estructuras algebraicas y grupos, sin recurrir a formalismos técnicos excesivos. El libro destaca que esta “revolución” no fue solo matemática, sino también intelectual, al cambiar la forma de pensar y hacer matemáticas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-revolucion-algebraica-el-nacimiento-de-la-teoria-de-grupos.jpg"
+  },
+  {
+    "id": "libro-1766460127012-db6eeb6b3fe478",
+    "titulo": "Topología, la geometría de la plastilina",
+    "autor": "Marta Macho Stadler",
+    "anio": 2019,
+    "isbn": "9788417811396",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "20",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Topología: La geometría de la plastilina, de Marta Macho Stadler, es un libro de divulgación que introduce de forma clara, visual y muy intuitiva los fundamentos de la topología, una rama de las matemáticas que estudia las propiedades de las formas que permanecen invariantes bajo deformaciones continuas.\n\nLa metáfora de la plastilina resulta especialmente acertada: el texto explica que, desde el punto de vista topológico, estirar, doblar o deformar un objeto no altera su esencia matemática, siempre que no se rompa ni se pegue. A partir de esta idea, la autora guía al lector por conceptos como continuidad, conectividad, agujeros, equivalencia topológica y superficies, desafiando la intuición geométrica tradicional basada en medidas y ángulos.\n\nEl libro destaca por su enfoque pedagógico y visual, apoyado en ejemplos cotidianos y analogías comprensibles, lo que permite abordar ideas profundas sin recurrir a formalismos técnicos. Además, se muestran conexiones de la topología con otras áreas de la ciencia, la informática y la física, evidenciando su relevancia en el pensamiento matemático moderno.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/topologia-la-geometria-de-la-plastilina.jpg"
+  },
+  {
+    "id": "libro-1766460011252-0701aa9924c7f8",
+    "titulo": "Midiendo el cielo y la tierra, la aventura de medir el cosmos, de Eratóstenes a la paralaje estelar",
+    "autor": "Fernando J. Ballesteros",
+    "anio": 2019,
+    "isbn": "9788417506858",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "19",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Midiendo el cielo y la Tierra: La aventura de medir el cosmos, de Eratóstenes a la paralaje estelar, de Fernando J. Ballesteros, es un libro de divulgación que narra una de las historias más fascinantes de la ciencia: cómo la humanidad ha logrado medir dimensiones aparentemente inalcanzables, desde el tamaño de la Tierra hasta las distancias estelares.\n\nLa obra parte con el célebre experimento de Eratóstenes, quien en la Antigüedad consiguió estimar con notable precisión el radio terrestre usando geometría elemental y observación astronómica. A partir de ahí, el autor guía al lector por un recorrido histórico y conceptual que incluye el desarrollo de la trigonometría, la medición de ángulos, y el uso de la paralaje como herramienta fundamental para estimar distancias en el cosmos.\n\nCon un lenguaje claro y apoyado en esquemas intuitivos, el libro muestra que el progreso científico no depende únicamente de tecnología sofisticada, sino de ideas matemáticas simples aplicadas con ingenio. Se enfatiza el papel de la geometría y el razonamiento lógico como instrumentos clave para transformar observaciones locales en conocimiento universal.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/midiendo-el-cielo-y-la-tierra-la-aventura-de-medir-el-cosmos-de-eratostenes-a-la-paralaje-estelar.jpg"
+  },
+  {
+    "id": "libro-1766459915631-fd2bdb4807e49",
+    "titulo": "De los puentes de Königsberg a las redes sociales, teoría de grafos y redes complejas",
+    "autor": "Javier Galeano, Juan Manuel Pastor Ruiz",
+    "anio": 2019,
+    "isbn": "9788417811389",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "18",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "De los puentes de Königsberg a las redes sociales: Teoría de grafos y redes complejas es una obra de divulgación que introduce al lector en la teoría de grafos y en el estudio de las redes complejas, mostrando cómo una idea matemática surgida en el siglo XVIII sigue siendo clave para comprender el mundo hiperconectado actual.\n\nEl libro toma como punto de partida el célebre problema de los puentes de Königsberg, resuelto por Euler, para explicar de manera intuitiva qué son los grafos, los nodos y las aristas. A partir de ahí, los autores guían al lector hacia aplicaciones modernas que van desde las redes sociales, Internet y sistemas de transporte, hasta la biología, la epidemiología y la economía.\n\nCon un enfoque claro y progresivo, la obra explica conceptos como conectividad, caminos, centralidad, redes aleatorias y redes de pequeño mundo, sin recurrir a formalismos excesivos. El texto destaca cómo las matemáticas permiten identificar patrones, estructuras y comportamientos colectivos que no son evidentes a simple vista.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/de-los-puentes-de-konigsberg-a-las-redes-sociales-teoria-de-grafos-y-redes-complejas.jpg"
+  },
+  {
+    "id": "libro-1766459783173-94a854a2ff6c28",
+    "titulo": "Como por arte de magia, cuando los matemáticos se convierten en magos e ilusionistas",
+    "autor": "Fernando Blasco",
+    "anio": 2019,
+    "isbn": "9788417506919",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "17",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Como por arte de magia: Cuando los matemáticos se convierten en magos e ilusionistas, de Fernando Blasco, es un libro de divulgación que explora el fascinante territorio donde matemáticas y magia se encuentran, mostrando que muchos trucos de ilusionismo descansan sobre principios matemáticos precisos y elegantes.\n\nLa obra revela cómo conceptos como combinatoria, probabilidad, aritmética modular, simetrías y estructuras algebraicas permiten construir efectos que parecen imposibles a los ojos del espectador. A través de ejemplos relacionados con cartas, números y juegos de lógica, el autor demuestra que detrás de la sorpresa y el asombro hay razonamiento riguroso y creatividad matemática.\n\nCon un estilo claro, ameno y lúdico, el libro invita al lector a comprender —y en algunos casos reproducir— los mecanismos que hacen funcionar estos “milagros” aparentes. El enfoque no busca arruinar la magia, sino enriquecerla, mostrando que conocer la matemática detrás del truco añade una nueva capa de admiración intelectual.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-por-arte-de-magia-cuando-los-matematicos-se-convierten-en-magos-e-ilusionistas.jpg"
+  },
+  {
+    "id": "libro-1766459668617-5a35ca0596f328",
+    "titulo": "Cálculo infinitesimal, la distancia entre el amor y el odio es un infinitésimo",
+    "autor": "Hugo Ariel Navarrete Hurtado",
+    "anio": 2019,
+    "isbn": "9788417506940",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "15",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Cálculo infinitesimal: La distancia entre el amor y el odio es un infinitésimo, de Hugo Ariel Navarrete Hurtado, es un libro de divulgación que introduce los conceptos fundamentales del cálculo infinitesimal —límites, derivadas e ideas de cambio continuo— mediante un enfoque conceptual, intuitivo y profundamente humano.\n\nLa obra parte de una potente metáfora: así como entre dos estados emocionales aparentemente opuestos puede existir una transición mínima, en matemáticas el infinitésimo permite comprender cómo varían las magnitudes de forma continua. A partir de esta idea, el autor explica cómo el cálculo surge de la necesidad de describir el cambio, el movimiento y la variación en la naturaleza y en los fenómenos cotidianos.\n\nCon un lenguaje accesible y apoyado en interpretaciones geométricas, el libro logra desmitificar el cálculo, alejándolo de su imagen puramente técnica y mostrando su significado profundo como herramienta para entender pendientes, velocidades, crecimientos y optimizaciones. El énfasis no está en el formalismo, sino en la comprensión conceptual que da sentido a las fórmulas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/calculo-infinitesimal-la-distancia-entre-el-amor-y-el-odio-es-un-infinitesimo.jpg"
+  },
+  {
+    "id": "libro-1766459574476-e18a2d63b81518",
+    "titulo": "Roma, ramo, amor, el arte de la combinatoria",
+    "autor": "Jose A. Cuesta",
+    "anio": 2019,
+    "isbn": "9788417506933",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "14",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Roma, ramo, amor: El arte de la combinatoria, de José A. Cuesta, es un libro de divulgación que introduce al lector en el pensamiento combinatorio, una de las ramas más creativas y fundamentales de las matemáticas, encargada de estudiar cómo ordenar, combinar y contar posibilidades.\n\nA partir de ejemplos ingeniosos —como juegos de palabras, anagramas y configuraciones discretas— la obra muestra que la combinatoria no es solo una técnica de conteo, sino un arte del razonamiento, donde la clave está en identificar estructuras, simetrías y patrones ocultos. El título resume bien el espíritu del libro: a partir de los mismos elementos pueden surgir resultados muy distintos, dependiendo de cómo se organicen.\n\nCon un estilo claro y accesible, el autor aborda ideas como permutaciones, combinaciones, arreglos, principios de conteo y estructuras discretas, sin recurrir a formalismos pesados. El énfasis está puesto en la intuición y en el placer intelectual de encontrar soluciones elegantes a problemas aparentemente simples.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/roma-ramo-amor-el-arte-de-la-combinatoria.jpg"
+  },
+  {
+    "id": "libro-1766459460817-5c79df2a2ebd1",
+    "titulo": "Logaritmos y número e, una mirada exponencial a la realidad",
+    "autor": "Diego Alonso Roa",
+    "anio": 2019,
+    "isbn": "9788417506926",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "13",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Logaritmos y número e: Una mirada exponencial a la realidad, de Diego Alonso Roa, es un libro de divulgación que introduce al lector en dos de los conceptos más influyentes y transversales de las matemáticas: los logaritmos y el número e, mostrando cómo ambos permiten comprender procesos de crecimiento, cambio y escala en el mundo real.\n\nLa obra explica de manera clara y progresiva qué significa el crecimiento exponencial y por qué aparece de forma natural en fenómenos tan diversos como el interés compuesto, la demografía, la biología, la física, la química y la informática. El autor destaca que el número e no es una constante abstracta más, sino el resultado inevitable de describir matemáticamente procesos continuos de variación.\n\nCon un enfoque intuitivo y apoyado en ejemplos cercanos, el libro logra desmitificar conceptos que suelen resultar difíciles para estudiantes, mostrando su coherencia interna y su enorme poder explicativo. Más que centrarse en técnicas de cálculo, el texto pone énfasis en el significado conceptual de los logaritmos como herramientas para “leer” la realidad cuando los cambios no son lineales.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/logaritmos-y-numero-e-una-mirada-exponencial-a-la-realidad.jpg"
+  },
+  {
+    "id": "libro-1766459329861-e7bec581d12e38",
+    "titulo": "Curvas y superficies a lo largo del tiempo, un viaje de giros inesperados",
+    "autor": "Rafael Rivera, Macarena Trujillo",
+    "anio": 2019,
+    "isbn": "9788417811365",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "12",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Curvas y superficies a lo largo del tiempo: Un viaje de giros inesperados, de Rafael Rivera y Macarena Trujillo, es un libro de divulgación que invita a recorrer la evolución histórica y conceptual de las curvas y superficies, mostrando cómo estas formas han sido centrales para entender el movimiento, el espacio y los cambios en la naturaleza y la tecnología.\n\nLa obra combina historia, intuición geométrica y aplicaciones contemporáneas para explicar cómo ideas como curvatura, superficies, trayectorias y geometría diferencial han ido transformándose desde la geometría clásica hasta enfoques modernos presentes en la física, la ingeniería y el diseño. Los autores destacan que muchas de las grandes intuiciones matemáticas surgieron al intentar describir fenómenos reales: ruedas, trayectorias, estructuras y formas en movimiento.\n\nCon un estilo claro y accesible, el libro evita el formalismo excesivo y privilegia la comprensión visual y conceptual, ayudando al lector a apreciar por qué las curvas y superficies no son solo objetos abstractos, sino herramientas fundamentales para modelar el mundo. El “viaje de giros inesperados” alude tanto a descubrimientos históricos como a cambios de perspectiva que enriquecen la comprensión matemática.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/curvas-y-superficies-a-lo-largo-del-tiempo-un-viaje-de-giros-inesperados.jpg"
+  },
+  {
+    "id": "libro-1766459219537-04cc6eed95b2b",
+    "titulo": "Todo es número, ¿es matemática la realidad?",
+    "autor": "Manuel Alfonseca",
+    "anio": 2019,
+    "isbn": "9788417506834",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "11",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Todo es número: ¿Es matemática la realidad?, de Manuel Alfaro, es un libro de divulgación que aborda una de las preguntas más profundas y antiguas del pensamiento científico y filosófico: si la realidad puede entenderse —o incluso reducirse— a estructuras matemáticas.\n\nLa obra retoma la intuición pitagórica de que “todo es número” y la confronta con desarrollos modernos de la ciencia, mostrando cómo las matemáticas describen con sorprendente precisión fenómenos tan diversos como el movimiento, el crecimiento, el azar o las leyes físicas fundamentales. A lo largo del texto, el autor explora hasta qué punto esta eficacia del lenguaje matemático es una herramienta humana o una propiedad intrínseca del universo.\n\nCon un estilo claro y reflexivo, el libro introduce ideas relacionadas con modelización, abstracción, regularidad y patrones, sin caer en tecnicismos innecesarios. Más que ofrecer una respuesta cerrada, Alfaro invita al lector a pensar críticamente sobre el alcance y los límites de las matemáticas como forma de conocimiento, dialogando implícitamente con la física, la filosofía y la epistemología.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/todo-es-numero-es-matematica-la-realidad.jpg"
+  },
+  {
+    "id": "libro-1766457678473-2593c670e66478",
+    "titulo": "Números complejos, los números imaginarios son reales",
+    "autor": "Bartolomé Luque Serrano",
+    "anio": 2019,
+    "isbn": "9788417506902",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "8",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Números complejos: Los números imaginarios son reales, de Bartolo Luque, es un libro de divulgación que desmitifica uno de los conceptos más intrigantes de las matemáticas: los números complejos, mostrando que lejos de ser una curiosidad abstracta, constituyen una herramienta fundamental para comprender y modelar el mundo real.\n\nLa obra explica de manera clara y progresiva qué son los números complejos, por qué surgieron y cómo permiten extender el concepto de número más allá de la recta real hacia el plano complejo. A través de ejemplos visuales y analogías intuitivas, el autor muestra cómo estas entidades matemáticas resultan esenciales en áreas como la física, la ingeniería, el análisis de señales, la electrónica y la dinámica de sistemas.\n\nUno de los mayores aciertos del libro es su énfasis en la interpretación geométrica de los números complejos, que ayuda al lector a superar la barrera conceptual del “número imaginario”. El texto transmite que lo imaginario no implica irreal, sino una ampliación coherente y poderosa del lenguaje matemático.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/numeros-complejos-los-numeros-imaginarios-son-reales.jpg"
+  },
+  {
+    "id": "libro-1766457573973-b41bf2a6bb477",
+    "titulo": "La matemática en el arte, geometría, armonía y proporción en el taller del artista",
+    "autor": "Pedro Miguel González Urbaneja",
+    "anio": 2019,
+    "isbn": "9788417506896",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "7",
+    "categorias": [
+      "Matemáticas",
+      "Arte"
+    ],
+    "formato": "Físico",
+    "notas": "La matemática en el arte: Geometría, armonía y proporción en el taller del artista, de Pedro Miguel González Urbaneja, es un libro de divulgación que explora la profunda y fecunda relación entre matemáticas y creación artística, mostrando cómo conceptos matemáticos han guiado históricamente la búsqueda de belleza, equilibrio y armonía en el arte.\n\nLa obra analiza el papel de la geometría, la proporción, la simetría y las relaciones numéricas en disciplinas como la arquitectura, la pintura y la escultura. A través de ejemplos históricos y visuales, el autor explica cómo artistas de distintas épocas han utilizado principios matemáticos —como la proporción áurea, las construcciones geométricas y las relaciones espaciales— no como simples herramientas técnicas, sino como lenguajes estructurales del arte.\n\nCon un enfoque claro y didáctico, el libro logra tender un puente entre el razonamiento matemático y el proceso creativo del artista. Sin exigir conocimientos avanzados, invita al lector a comprender el “taller del artista” como un espacio donde intuición y cálculo conviven, revelando que la matemática no limita la creatividad, sino que la potencia y la ordena.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-matematica-en-el-arte-geometria-armonia-y-proporcion-en-el-taller-del-artista.jpg"
+  },
+  {
+    "id": "libro-1766457469465-59e4f71a03fb08",
+    "titulo": "Series y sucesiones, los límites del infinito",
+    "autor": "Ángel M. Núñez",
+    "anio": 2019,
+    "isbn": "9788417506872",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "6",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Series y sucesiones: Los límites del infinito, de Ángel M. Núñez, es un libro de divulgación que introduce al lector en uno de los núcleos conceptuales del análisis matemático: las sucesiones, las series y la noción de límite, elementos fundamentales para comprender cómo las matemáticas abordan el infinito de manera rigurosa.\n\nLa obra explica de forma clara y progresiva qué significa que una sucesión converja, por qué algunas series infinitas tienen un valor finito y cómo el concepto de límite permite formalizar procesos infinitos sin caer en contradicciones. A través de ejemplos visuales y analogías intuitivas, el autor muestra que el infinito no es solo una idea abstracta, sino una herramienta operativa central en el cálculo, la física y la ingeniería.\n\nUno de los aciertos del libro es su equilibrio entre intuición y rigor: sin recurrir a demostraciones técnicas complejas, logra transmitir el sentido profundo de resultados clásicos y de paradojas aparentes asociadas al infinito. El lector comprende así por qué las series y sucesiones son claves para describir fenómenos continuos y aproximaciones sucesivas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/series-y-sucesiones-los-limites-del-infinito.jpg"
+  },
+  {
+    "id": "libro-1766457362477-841111244ecc08",
+    "titulo": "Un Paseo por los espacios n-dimensionales, descubrir el álgebra lineal",
+    "autor": "Esteban Ferrer Vaccarezza, Soledad Le Clainche Martínez",
+    "anio": 2019,
+    "isbn": "9788417506865",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "5",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Un paseo por los espacios N-dimensionales: Descubrir el álgebra lineal, de Esteban Ferrer Vaccaro y Soledad Le Clanche Martínez, es un libro de divulgación matemática que propone una introducción intuitiva y conceptual al álgebra lineal, una de las herramientas fundamentales de las matemáticas modernas y de múltiples disciplinas científicas y tecnológicas.\n\nLa obra invita al lector a ampliar su intuición geométrica más allá del espacio tridimensional, explorando ideas como vectores, bases, combinaciones lineales, espacios vectoriales y dimensiones superiores, siempre desde una perspectiva visual y comprensible. A través de metáforas —como el movimiento, la navegación o el vuelo— los autores logran hacer accesibles conceptos que suelen percibirse como abstractos o difíciles.\n\nUno de los principales méritos del libro es su enfoque pedagógico y gradual: no se centra en el formalismo algebraico, sino en el significado de las operaciones y estructuras, ayudando al lector a “imaginar” qué ocurre en espacios de muchas dimensiones. Esto lo convierte en una excelente puerta de entrada al álgebra lineal para estudiantes y lectores curiosos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-paseo-por-los-espacios-n-dimensionales-descubrir-el-algebra-lineal.jpg"
+  },
+  {
+    "id": "libro-1766457243330-4d420d6528b5c",
+    "titulo": "En el principio fue el número, la humanidad aprende a contar",
+    "autor": "Francisco Javier Mateos",
+    "anio": 2019,
+    "isbn": "9788417506803",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "4",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "En el principio fue el número: La humanidad aprende a contar, de Fernando Corbalán, es una obra de divulgación que recorre la historia cultural del número y del acto de contar como uno de los hitos fundamentales de la civilización humana. El libro muestra cómo, mucho antes de la matemática formal, surgieron necesidades prácticas —comercio, agricultura, organización social— que impulsaron la creación de sistemas de conteo cada vez más sofisticados.\n\nCon un enfoque narrativo y accesible, el autor describe el paso desde marcas rudimentarias y objetos de conteo hasta la aparición de sistemas numéricos estructurados, explicando cómo distintas culturas resolvieron el mismo problema de maneras diversas. A lo largo del texto se evidencia que contar no es solo una técnica, sino una construcción intelectual que transforma la forma en que comprendemos y ordenamos el mundo.\n\nEl libro destaca por integrar historia, antropología y matemáticas sin tecnicismos, lo que permite apreciar el número como una invención humana cargada de significado, más que como una abstracción fría. Esta perspectiva ayuda a entender por qué las matemáticas están profundamente ligadas a la evolución del pensamiento.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/en-el-principio-fue-el-numero-la-humanidad-aprende-a-contar.jpg"
+  },
+  {
+    "id": "libro-1766457119302-95d3764cf75d58",
+    "titulo": "El Infinito, ¿un viaje o un destino?",
+    "autor": "Francesc Rossell i Pujós",
+    "anio": 2019,
+    "isbn": "9788417506810",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "3",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "El infinito: ¿Es un viaje o un destino?, de Francesc Roig, es un libro de divulgación que invita a reflexionar sobre uno de los conceptos más profundos y provocadores de las matemáticas: el infinito. Lejos de tratarlo solo como una noción abstracta, la obra lo presenta como una experiencia intelectual en movimiento, una pregunta abierta que atraviesa la historia del pensamiento.\n\nEl autor recorre las distintas formas en que el infinito ha sido concebido —desde las paradojas clásicas y las intuiciones filosóficas hasta los desarrollos matemáticos modernos— mostrando cómo este concepto desafía constantemente nuestra intuición. Se abordan ideas como límites, infinitud potencial y actual, sucesiones interminables y continuidad, siempre con un lenguaje claro y accesible.\n\nUno de los aciertos del libro es su enfoque metafórico y reflexivo, sugerido ya en el subtítulo: el infinito no se presenta como un punto de llegada definitivo, sino como un camino de exploración permanente. Esta perspectiva ayuda al lector a comprender por qué el infinito sigue siendo una fuente de asombro, debate y creatividad en matemáticas, filosofía y ciencia.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-infinito-un-viaje-o-un-destino.jpg"
+  },
+  {
+    "id": "libro-1766456955180-6b949d2811cb8",
+    "titulo": "Números irracionales, un escándalo en el corazón de las matemáticas",
+    "autor": "Jorge Calero, Bartolomé Luque Serrano",
+    "anio": 2019,
+    "isbn": "9788417506827",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "2",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Números irracionales: Un escándalo en el corazón de las matemáticas, de Jorge Calero, Bartolomé Luque Serrano, es un libro de divulgación que aborda uno de los descubrimientos más perturbadores y fecundos de la historia matemática: la existencia de los números irracionales, aquellos que no pueden expresarse como fracción de enteros.\n\nLa obra sitúa al lector en el contexto histórico e intelectual en el que surgieron estos números, mostrando por qué su aparición supuso un verdadero escándalo conceptual para la matemática griega, basada en la armonía y la proporción. A partir de ejemplos emblemáticos como √2, π y otros irracionales famosos, los autores explican cómo estos números desafiaron las intuiciones más profundas sobre magnitud, medida y número.\n\nCon un estilo claro y narrativo, el libro combina historia, ideas matemáticas y reflexión filosófica, mostrando que los irracionales no son una anomalía marginal, sino pilares fundamentales del análisis matemático moderno. Sin recurrir a tecnicismos innecesarios, logra transmitir la importancia de estos números en la geometría, el cálculo y la comprensión continua de la recta real.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/numeros-irracionales-un-escandalo-en-el-corazon-de-las-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766456778403-cf9228901d666",
+    "titulo": "Más allá de la razón áurea, las constantes matemáticas",
+    "autor": "Fernando Blasco",
+    "anio": 2019,
+    "isbn": "9788417506889",
+    "editorial": "EMSE",
+    "coleccion": "Grandes ideas de las matematicas",
+    "vol": "1",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Más allá de la razón áurea: Las constantes matemáticas, de Fernando Blasco, es un libro de divulgación que explora el fascinante universo de las constantes matemáticas, mostrando que la célebre razón áurea es solo una entre muchas cifras fundamentales que estructuran las matemáticas y la ciencia.\n\nLa obra recorre constantes emblemáticas como π, e, la propia razón áurea, y otras menos conocidas pero igualmente relevantes, explicando su origen, significado y aparición en distintos contextos matemáticos, físicos y naturales. El autor pone énfasis en cómo estas constantes emergen de problemas muy diversos y actúan como hitos universales que conectan áreas aparentemente desconectadas del conocimiento.\n\nCon un lenguaje claro y apoyado en intuiciones geométricas y numéricas, el libro logra transmitir ideas profundas sin recurrir a un formalismo excesivo. Además, invita a reflexionar sobre el carácter casi “misterioso” de estas constantes, que aparecen una y otra vez en ecuaciones, modelos y patrones del mundo real.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mas-alla-de-la-razon-aurea-las-constantes-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766455855945-66178a8f99a7c8",
+    "titulo": "De animales a dioses, breve historia de la humanidad",
+    "autor": "Yuval N. Harari",
+    "anio": 2019,
+    "isbn": "9789569583933",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ensayo",
+      "Ciencias Sociales",
+      "Historia"
+    ],
+    "formato": "Físico",
+    "notas": "De animales a dioses: Breve historia de la humanidad, de Yuval Noah Harari, es una obra de divulgación histórica que propone una mirada amplia y provocadora sobre la evolución de la humanidad, desde la aparición del Homo sapiens hasta los desafíos científicos y tecnológicos del presente.\n\nEl libro se estructura en torno a tres grandes revoluciones: la revolución cognitiva, que permitió el surgimiento del lenguaje simbólico y los mitos compartidos; la revolución agrícola, que transformó radicalmente la organización social y económica; y la revolución científica, que dio origen al mundo moderno. Harari sostiene que muchas de las instituciones que consideramos “naturales” —como el dinero, las naciones o los derechos humanos— son en realidad construcciones culturales basadas en creencias colectivas.\n\nCon un estilo claro y narrativo, el autor combina historia, biología, antropología y filosofía para cuestionar ideas arraigadas sobre el progreso, la felicidad y el futuro de la especie humana. El texto invita a reflexionar críticamente sobre el impacto del desarrollo tecnológico y sobre el rumbo que podría tomar la humanidad en un contexto de inteligencia artificial, biotecnología y cambio climático.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/de-animales-a-dioses-breve-historia-de-la-humanidad.jpg"
+  },
+  {
+    "id": "libro-1766455590251-a1c9d8f68f831",
+    "titulo": "21 lecciones para el siglo XXI",
+    "autor": "Yuval N. Harari",
+    "anio": 2018,
+    "isbn": "9789569545825",
+    "editorial": "Debate",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ensayo",
+      "Ciencias Sociales"
+    ],
+    "formato": "Físico",
+    "notas": "21 lecciones para el siglo XXI, de Yuval Noah Harari, es un ensayo de reflexión crítica sobre los desafíos más urgentes del mundo actual, en una época marcada por la aceleración tecnológica, la incertidumbre política y los cambios culturales profundos.\n\nEl libro se estructura en 21 capítulos breves, organizados en torno a grandes ejes como tecnología, política, verdad, educación, libertad y sentido de la vida. Harari analiza temas como la inteligencia artificial, el big data, la automatización del trabajo, el auge del nacionalismo, la crisis de las democracias liberales y la desinformación, planteando preguntas más que respuestas definitivas.\n\nUno de los principales aportes de la obra es su invitación a desarrollar el pensamiento crítico y la alfabetización cognitiva: aprender a distinguir información relevante de ruido, a convivir con la incertidumbre y a adaptarse a un futuro donde el cambio será constante. Harari subraya que, más allá de los avances técnicos, los grandes dilemas del siglo XXI son éticos, políticos y humanos.\n\nCon un estilo claro, directo y provocador, el libro logra conectar debates filosóficos con problemas cotidianos, haciendo accesibles cuestiones complejas sin caer en el simplismo. No es un texto predictivo, sino una guía para pensar el presente con mayor lucidez y responsabilidad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/21-lecciones-para-el-siglo-xxi.jpg"
+  },
+  {
+    "id": "libro-1766455449092-e709f2e40d47b",
+    "titulo": "Filosofía : Un Viaje Por El Conocimiento Y La Realidad",
+    "autor": "Michael Picard",
+    "anio": 2022,
+    "isbn": "9789463598101",
+    "editorial": "Librero",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "La verdad es plural, la ambigüedad semántica es objetiva. El significado no está en la cabeza, sino que es compartido y múltiple. Esta teoría se pone a prueba implícita y pasa en multicolor de alto vuelo en estos guiones filosóficos, escritos por el filósofo superventas Michael Picard para mostrar las paradojas, juegos de palabras y paralogismos que resultan de las suposiciones opuestas. Refutando los pensamientos que interpreta con simpatía, Picard es conocido como un divulgador que rompe las cosas, buscando revelar a las masas inocentes las locuras y riquezas tradicionales de su amada y a menudo despreciada Filosofía.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/filosofia-un-viaje-por-el-conocimiento-y-la-realidad.jpg"
+  },
+  {
+    "id": "libro-1766454066211-b5cffe052b94f8",
+    "titulo": "Filosofia clásica",
+    "autor": "Pablo Huneeus",
+    "anio": 2001,
+    "isbn": "9789562260343",
+    "editorial": "Nueva Generación",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [],
+    "formato": "Físico",
+    "notas": "Filosofía clásica, de Pablo Huneeus, es una obra de divulgación que ofrece una introducción clara, reflexiva y culturalmente situada a los grandes temas y pensadores de la filosofía antigua, poniendo especial énfasis en su vigencia para comprender el mundo contemporáneo.\n\nEl libro recorre las ideas fundamentales de la filosofía griega y romana, abordando a figuras como Sócrates, Platón, Aristóteles y las principales escuelas helenísticas. Más que presentar un resumen académico, Huneeus propone una lectura viva de la filosofía clásica, entendida como un modo de pensar y de vivir, donde las preguntas sobre la verdad, la justicia, la virtud y la felicidad siguen siendo centrales.\n\nCon un estilo ensayístico, cercano y crítico, el autor conecta los problemas clásicos con la experiencia cotidiana y con dilemas actuales, mostrando que la filosofía no es un saber encerrado en el pasado, sino una herramienta para interpretar la realidad y cuestionar las certezas. El texto privilegia la reflexión y el diálogo por sobre el tecnicismo, lo que lo hace especialmente accesible.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/filosofia-clasica.jpg"
+  },
+  {
+    "id": "libro-1766453856387-b8d0b89e5b2278",
+    "titulo": "Breve historia de la filosofía",
+    "autor": "Humberto Giannini",
+    "anio": 2006,
+    "isbn": "9789568303235",
+    "editorial": "Catalonia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Filosofía"
+    ],
+    "formato": "Físico",
+    "notas": "an pasado casi tres décadas desde que decidí publicar unos apuntes de historia de la filosofía, fruto de una reflexión personal sobre grandes temas del pensamiento humano, que quise transmitir en un lenguaje lo más llano y directo posible al lector que se iniciaba en esta disciplina. Esta vigésima edición de Breve Historia de la filosofía incluye la filosofía del sigloXX, Husserl y Wittgenstein, especialmente, Derrida, el filósofo de la desconstrucción, y Ricoeur, el noble y diáfano inspirador de la reflexión hermenéutica\". (HUMBERTO GIANNINI) Editor: Catalonia",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=Cg40AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766453721023-a03deff272cbb8",
+    "titulo": "Buffettología, las técnicas jamás comentadas que han hecho de Warren Buffett el inversor más famoso del mundo",
+    "autor": "Mary Buffett, DAVID AUTOR CLARK",
+    "anio": 2000,
+    "isbn": "9788423423859",
+    "editorial": "Deusto",
+    "coleccion": "Líderes del management",
+    "vol": "",
+    "categorias": [
+      "Finanzas",
+      "Inversiones"
+    ],
+    "formato": "Físico",
+    "notas": "Buffettología, de Mary Buffett y David Clark, es un libro de divulgación financiera que desentraña los principios de inversión utilizados por Warren Buffett, presentándolos de forma sistemática y accesible para el lector no especializado.\n\nLa obra se centra en la filosofía del value investing, explicando cómo Buffett analiza empresas a largo plazo, evalúa su ventaja competitiva, su gestión, su solidez financiera y su capacidad para generar valor sostenido. Los autores traducen este enfoque en criterios prácticos, como el análisis de estados financieros, márgenes, rentabilidad sobre el capital y niveles de deuda, mostrando que el éxito del inversor no depende de especulación, sino de disciplina y comprensión profunda del negocio.\n\nUno de los aportes más relevantes del libro es su carácter didáctico y estructurado: más que una biografía, funciona como una guía de pensamiento para aprender a “pensar como Buffett”. Sin prometer fórmulas mágicas, insiste en la paciencia, el sentido común y la coherencia como pilares de una estrategia de inversión sólida.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/buffettologia-las-teccnicas-jamas-comentadas-que-han-hecho-de-warren-buffett-el-inversor-mas-famoso-del-mundo.jpg"
+  },
+  {
+    "id": "libro-1766453573237-203092c9989e58",
+    "titulo": "Historia de la economía",
+    "autor": "John Kenneth Galbraith",
+    "anio": 1989,
+    "isbn": "9788434413474",
+    "editorial": "Ariel",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Economía"
+    ],
+    "formato": "Físico",
+    "notas": "La última gran crisis económica ha puesto de manifiesto hasta qué punto dependemos de una ciencia menos fiable de lo que aparenta. Demasiado a menudo focaliza todos sus esfuerzos en el aumento de ganancias, mientras supuestos expertos hacen pronósticos que raramente llegan a cumplirse. Ante esta realidad, Galbraith propone su mirada de viejo profesor, capaz de ver en la economía una rica amalgama …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=ELiXpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766453480456-685d07c32f832",
+    "titulo": "Desigualdad, una historia genética",
+    "autor": "Carles Lalueza Fox",
+    "anio": 2023,
+    "isbn": "9788491994756",
+    "editorial": "Crítica",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Genética",
+      "Sociología"
+    ],
+    "formato": "Físico",
+    "notas": "Desigualdad: Una historia genética, de Carles Lalueza-Fox, es una obra de divulgación científica que examina la desigualdad humana desde la perspectiva de la genética y la evolución, desmontando mitos profundamente arraigados sobre raza, superioridad biológica y determinismo genético.\n\nEl libro recorre la historia de la humanidad a partir de los avances recientes en genética poblacional y paleogenómica, mostrando que las diferencias genéticas entre los seres humanos son mínimas y que no existen bases biológicas sólidas para justificar jerarquías raciales o sociales. Lalueza-Fox explica cómo muchas desigualdades que hoy se perciben como “naturales” tienen en realidad orígenes históricos, culturales, económicos y políticos, no genéticos.\n\nCon un lenguaje claro y pedagógico, el autor aborda temas sensibles como el racismo científico, la eugenesia, la diversidad humana y la herencia biológica, apoyándose en evidencia empírica y en descubrimientos recientes del ADN antiguo. El texto logra un equilibrio entre rigor científico y compromiso ético, invitando al lector a reflexionar críticamente sobre el uso —y abuso— de la genética en el debate público.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/desigualdad-una-historia-genetica.jpg"
+  },
+  {
+    "id": "libro-1766451823425-60b4be4514859",
+    "titulo": "Contabilidad de costos, Un enfoque en dirección",
+    "autor": "Juan García Colin",
+    "anio": 2019,
+    "isbn": "9781456272517",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Costos",
+      "Finanzas",
+      "Contabilidad"
+    ],
+    "formato": "Físico",
+    "notas": "Nuestro país, al igual que el resto del mundo, experimenta día a día cambios sorprendentes en los ámbitos financiero, económico, político, social y ecológico, entre otros, que afectan en gran medida a los individuos y, en consecuencia, a las empresas. Para enfrentar estos cambios, los directores de empresas deben considerar como uno de los factores clave del éxito el desarrollo de sistemas de información confiables, oportunos y relevantes. La contabilidad de costos es un sistema de información que sirve de apoyo a la dirección, principalmente en las funciones de planeación y control de sus operaciones. En un mercado competitivo, los costos son la única variable que la empresa tiene bajo su control, si se toma en cuenta que la variable precio no puede ser controlada y que esta es la que afecta de manera directa al volumen. Cuanto más alto sea el precio de un producto o servicio ofrecido, menor será la cantidad adquirida y, por el contrario, cuanto más bajo sea el precio, mayor será la cantidad que los consumidores estarán dispuestos a comprar. Por lo tanto, las empresas que dirijan sus esfuerzos hacia la variable costos y obtengan información confiable, oportuna y relevante sobre éstos, estarán en posibilidad de competir y enfrentar los cambios actuales",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/contabilidad-de-costos-un-enfoque-en-direccion.jpg"
+  },
+  {
+    "id": "libro-1766451640260-7485a3c731d4c",
+    "titulo": "Mis clases de Economía… y algo más, Microeconomía - Macroeconomía",
+    "autor": "Carlos Massad A.",
+    "anio": 2013,
+    "isbn": "9789561124011",
+    "editorial": "Editorial Universitaria de Chile",
+    "coleccion": "-Macroeconomía",
+    "vol": "",
+    "categorias": [
+      "Economía"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro es para todo aquel interesado en Economía. Cubre los temas tratados en forma directa y comprensible, con énfasis en los efectos de diversas medidas de política económica sobre la economía real. Comienza con el tratamiento de la microeconomía. Se señala que solo un conocimiento apropiado de esta puede sustentar el avance de los estudios macroeconómicos.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=elxZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766451540344-168f229192bed",
+    "titulo": "Matemáticas financieras",
+    "autor": "Robert Cissell, Hellen Cissell, David C. Flaspohler",
+    "anio": 1987,
+    "isbn": "9789682607523",
+    "editorial": "CECSA",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Finanzas",
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Matemáticas financieras, de Robert Cissell, Helen Cissell y David Flaspohler, es un texto clásico de formación en el área de las finanzas, ampliamente utilizado en carreras de economía, administración, contabilidad e ingeniería comercial.\n\nEl libro presenta de manera sistemática los fundamentos matemáticos que sustentan las decisiones financieras, abordando temas como interés simple y compuesto, anualidades, amortización de préstamos, valor presente y valor futuro, tasas equivalentes y análisis de inversiones. Su enfoque es claramente aplicado: cada concepto se introduce mediante ejemplos numéricos y ejercicios resueltos que facilitan la comprensión operativa.\n\nUno de los principales méritos de la obra es su claridad pedagógica. Los procedimientos se explican paso a paso, lo que permite al estudiante desarrollar habilidades prácticas para resolver problemas reales asociados a créditos, hipotecas, ahorro e inversiones. La estructura progresiva del texto lo hace adecuado tanto para cursos introductorios como para asignaturas de nivel intermedio.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/matematicas-financieras.jpg"
+  },
+  {
+    "id": "libro-1766451359294-3230a2561d881",
+    "titulo": "Economía",
+    "autor": "Paul Anthony Samuelson, William D. Nordhaus",
+    "anio": 1993,
+    "isbn": "9788448101374",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Economía"
+    ],
+    "formato": "Físico",
+    "notas": "Economía, de Paul A. Samuelson y William D. Nordhaus, es uno de los manuales de economía más influyentes y utilizados a nivel mundial, considerado un texto clásico en la formación de economistas, ingenieros comerciales y profesionales de las ciencias sociales.\n\nEl libro ofrece una exposición sistemática y rigurosa de los fundamentos de la economía, abarcando tanto la microeconomía como la macroeconomía. A lo largo de sus capítulos se desarrollan conceptos esenciales como oferta y demanda, comportamiento del consumidor, teoría de la empresa, mercados y fallas de mercado, junto con temas macroeconómicos como crecimiento, inflación, desempleo, política fiscal y monetaria, y comercio internacional.\n\nUno de los grandes méritos de esta obra es su equilibrio entre formalismo y claridad pedagógica. Sin perder rigor analítico, los autores logran explicar modelos económicos complejos mediante gráficos, ejemplos empíricos y aplicaciones a problemas reales, lo que facilita la comprensión progresiva de la disciplina. Además, el texto se actualiza constantemente para incorporar debates contemporáneos y evidencia empírica relevante.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/economia.jpg"
+  },
+  {
     "id": "libro-1766450807762-266d982bec5b4",
     "titulo": "Chomsky: Lenguaje, conocimiento y libertad",
     "autor": "Stefano Versace",
@@ -8,13 +763,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "50",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Chomsky: Lenguaje, conocimiento y libertad, de Stefano Versace, es una obra de divulgación que presenta el pensamiento de Noam Chomsky desde una perspectiva amplia, integrando sus aportes a la lingüística, la filosofía del conocimiento y el pensamiento político.\n\nEl libro explica de forma clara las ideas centrales de Chomsky sobre el lenguaje como capacidad cognitiva innata, destacando conceptos como la gramática generativa y la estructura profunda del lenguaje humano. A partir de estas bases, el autor muestra cómo la reflexión chomskiana se extiende hacia preguntas más generales sobre la mente, el conocimiento y los límites de la comprensión humana.\n\nJunto con el plano teórico, la obra aborda el compromiso intelectual y político de Chomsky, subrayando su defensa de la libertad, la crítica al poder y la responsabilidad del intelectual frente a la manipulación ideológica y los medios de comunicación. El libro logra articular coherentemente estas dimensiones, mostrando que en Chomsky ciencia y ética no son ámbitos separados.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chomsky-lenguaje-conocimiento-y-libertad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chomsky-lenguaje-conocimiento-y-libertad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766450663007-cca9943481fce",
@@ -25,13 +781,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "49",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Diderot: El espíritu de la Ilustración francesa, de Claudia Milani, es una obra de divulgación que presenta la figura y el pensamiento de Denis Diderot, uno de los protagonistas centrales de la Ilustración y motor intelectual de la Enciclopedia, uno de los proyectos culturales más ambiciosos del siglo XVIII.\n\nEl libro destaca a Diderot como un pensador polifacético y radicalmente moderno, comprometido con la difusión del conocimiento, la crítica a la autoridad dogmática y la confianza en la razón humana. Milani expone cómo su pensamiento abarca la filosofía, la ciencia, la ética, la política y el arte, siempre desde una actitud experimental, abierta y profundamente crítica.\n\nCon un estilo claro y accesible, la obra explica los ejes fundamentales del pensamiento diderotiano: la defensa de la libertad intelectual, el cuestionamiento de las verdades absolutas, el materialismo, y la idea de que el saber debe ser público, útil y emancipador. El texto muestra además cómo Diderot encarna el espíritu ilustrado no como un sistema cerrado, sino como una práctica viva de pensamiento.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diderot-el-espiritu-de-la-ilustracion-francesa.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diderot-el-espiritu-de-la-ilustracion-francesa.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766450461468-8ec48a42a495e8",
@@ -42,13 +799,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "48",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "La primera aproximación a la figura y la obra de Max Weber (1864-1920) no puede realizarse sin antes atender al debate que siempre ha rodeado la biografía de este autor: ¿Quién es Max Weber? Se le considera un jurista, un teórico, un historiador, un economista, un filósofo, un politólogo y un sociólogo, así como un estudioso de la racionalización capitalista de la sociedad industrial alemana de principios del siglo XX. Tanto la extensión temática como la profundidad analítica de su obra lo avalan como una de las personalidades más influyentes del pensamiento contemporáneo. Este libro sigue las investigaciones y reflexiones a través de las cuales Weber fue capaz de captar los rasgos y las complejidades del mundo moderno con la ayuda de las ciencias sociales.",
     "comentarios": "Weber: Las ciencias sociales ante la modernidad, de Erica Grossi, es una obra de divulgación que presenta el pensamiento de Max Weber, uno de los fundadores de la sociología moderna y un referente imprescindible para comprender la modernidad, la racionalización y el funcionamiento de las sociedades contemporáneas.\n\nEl libro expone de forma clara los conceptos centrales de Weber, como la acción social, la racionalidad, la burocracia y la ética protestante, mostrando cómo estos permiten analizar fenómenos tan diversos como el capitalismo, el Estado moderno y las transformaciones culturales. Grossi logra traducir un pensamiento complejo en ideas accesibles, sin perder profundidad teórica.\n\nUno de los aportes del texto es situar a Weber frente a los desafíos de la modernidad: la tensión entre libertad y racionalización, el desencantamiento del mundo y el papel de las ciencias sociales en la comprensión crítica de la realidad. La obra invita a reflexionar sobre la vigencia del pensamiento weberiano para interpretar problemas actuales como la organización del poder, la tecnocracia y la vida social regulada por normas.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/weber-las-ciencias-sociales-ante-la-modernidad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/weber-las-ciencias-sociales-ante-la-modernidad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766450252883-043f7671dc3968",
@@ -59,13 +817,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "47",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Adorno: Teoría crítica y pensamiento negativo, de Mario Farina, es una obra de divulgación filosófica que presenta de manera clara y rigurosa el pensamiento de Theodor W. Adorno, una de las figuras centrales de la Teoría Crítica y de la Escuela de Frankfurt.\n\nEl libro introduce los ejes fundamentales del pensamiento adorniano, en particular la noción de pensamiento negativo, entendida como una forma de crítica radical que se resiste a aceptar la realidad social tal como se presenta. Farina explica cómo Adorno cuestiona las promesas de la razón instrumental, denunciando las formas de dominación, alienación y conformismo que atraviesan la cultura, la ciencia y la vida cotidiana en las sociedades modernas.\n\nCon un estilo accesible pero conceptualmente sólido, la obra aborda temas clave como la dialéctica negativa, la crítica a la industria cultural, la relación entre razón y barbarie, y el papel del arte como espacio de resistencia. El autor muestra que, para Adorno, pensar críticamente no significa ofrecer soluciones simples, sino mantener abierta la herida de la pregunta, negándose a reconciliarse con una realidad injusta.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/adorno-teoria-critica-y-pensamiento-negativo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/adorno-teoria-critica-y-pensamiento-negativo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766450041843-383ce80bdea3a8",
@@ -76,13 +835,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "46",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Heráclito y Parménides: El Uno y lo múltiple, de Sandro Palazzo, es una obra de divulgación filosófica que introduce uno de los debates fundacionales del pensamiento occidental: la tensión entre el cambio y la permanencia, encarnada en las figuras de Heráclito y Parménides.\n\nEl libro expone con claridad las posiciones contrapuestas de ambos pensadores: Heráclito y su visión del mundo como flujo continuo, donde todo deviene, frente a Parménides, que afirma la unidad, inmutabilidad y permanencia del ser. Lejos de presentarlos como simples antagonistas, el autor muestra cómo este diálogo filosófico configura una pregunta central que atraviesa la metafísica, la ciencia y la lógica hasta nuestros días.\n\nCon un estilo accesible y pedagógico, la obra contextualiza estas ideas en la Grecia arcaica y explica su impacto posterior en la historia de la filosofía. El texto invita a comprender que la oposición entre lo uno y lo múltiple no es solo un problema abstracto, sino una forma de pensar la realidad, el conocimiento y la experiencia humana.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/heraclito-y-parmenides-el-uno-y-lo-multiple.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/heraclito-y-parmenides-el-uno-y-lo-multiple.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766449722703-d5eb42775b0b48",
@@ -93,13 +853,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "45",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "El pensamiento de Emmanuel Levinas (1906-1995) ha tenido una enorme repercusión en la cultura contemporánea, y no solo en la filosofía, sino que se ha extendido a ámbitos tan diversos como la antropología, la teologia, la sociología y la crítica y teoría literarias. Su enfoque revolucionario puede concretarse en dos principios básicos: la dimensión ética del ser humano debe ser el punto de partida de toda la reflexión filosófica, y esta dimensión se manifiesta en el encuentro con lo otro (lo que no puede ser reducido a pensamiento, a concepto) y con el otro (el prójimo irreductible a idea).",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/levinas-la-etica-del-otro.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/levinas-la-etica-del-otro.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766449532746-335f2631627838",
@@ -110,13 +871,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "44",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Simone de Beauvoir (1908-1986) es una de las grandes voces europeas del siglo XX, una figura imprescindible para entender el desarrollo de la filosofía contemporánea en general, y del pensamiento feminista en particular. A partir de la publicación de El segundo sexo, en el que aparecía la conocida frase «no se hace mujer, sino que se llega a serlo», se habló filosóficamente de las mujeres de otra manera. En este libro la profesora Cristina Sánchez nos desvela paso a paso las claves del pensamiento de Simone de Beauvoir. Un pensamiento reivindicativo que aboga por una nueva concepción del ser mujer, pero que se inscribe también en un proyecto filosófico más amplio: el de la explicación (y denuncia) de las opresiones que actúan a través de la construcción social y cultural de la existencia. La misma construcción cultural que, aplicada sobre los cuerpos de las mujeres, desemboca en su imposibilidad de ser sujetos plenos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/simone-de-beauvoir-del-sexo-al-genero.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/simone-de-beauvoir-del-sexo-al-genero.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766449384143-2a8f87020693b",
@@ -127,13 +889,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "43",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Actor secundario y poco conocido, el neoplatónico Plotino (204-270) constituye sin embargo un hito en la historia del pensamiento, pues nos ayuda a entender la transformación espiritual de Grecia en los siglos que ponen fin al mundo antiguo. Presa de una profunda crisis existencial, el Occidente grecorromano se dejó fecundar por las corrientes religiosas orientales al tiempo que las dotaba de un rigor conceptual superior. Dotado de una clarividencia legendaria y admirado por los asistentes a su escuela gratuita de Roma, Plotino concibió su filosofía como una ambiciosa síntesis de todo el pensamiento griego llamada a superar el dualismo de Platón y Aristóteles. En el centro de su sistema, la concepción dinámica del Alma como un puente activo que permite transitar entre la cima y la base del cosmos sin perder la distinción rigurosa de los distintos niveles de realidad ni la trascendencia del Uno del que todo emana y al que todo retorna.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/plotino-la-odisea-del-alma-entre-la-eternidad-y-el-tiempo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/plotino-la-odisea-del-alma-entre-la-eternidad-y-el-tiempo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766449212862-cfe7876fb4b898",
@@ -144,14 +907,15 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "42",
+    "formato": "Físico",
     "categorias": [
       "Filosofía",
       "Economía"
     ],
-    "formato": "Físico",
     "notas": "John Stuart Mill es sin duda una de los pensadores más relevantes en un período tan fructífero como lo fue para la filosofía el siglo XIX. Máximo exponente del utilitarismo, la doctrina que afirma que la mayor felicidad del mayor número de personas debe ser nuestra guía a la hora de actuar, toda su obra es una reflexión sobre el significado y el carácter deseable de los ideales de libertad, igualdad y fraternidad. Algunos de sus ensayos, como el célebre Sobre la libertad (1859) o El utilitarismo (1863) son ya clásicos imprescindibles en la historia de la filosofía.\n\nPero su importancia no deriva de esta bien ganada preeminencia histórica, sino de que sus ideas continúan vivas, nos siguen dando que pensar y nos iluminan a la hora de intentar responder a muchos de los problemas a los que nos enfrentamos. Mill miraría con aprobación muchos de los avances de nuestras sociedades (por ejemplo, todo lo que tiene que ver con la emancipación de las mujeres), pero también consideraría que nos queda mucho que perfeccionar. Para una vida como la suya, dedicada como pocas a contribuir al progreso de la humanidad y extraordinariamente exigente a nivel intelectual, siempre habrá muchas cosas que conseguir y muchos defectos que eliminar.\n\nGerardo López Sastre, catedrático de Filosofía en la Facultad de Humanidades de Toledo, nos ofrece en este libro una amena y rigurosa introducción a la vida y obra del brillante pensador inglés.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/john-stuart-mill-el-utilitarismo-que-cambiaria-el-mundo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/john-stuart-mill-el-utilitarismo-que-cambiaria-el-mundo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766449071899-7f3bb8a022e988",
@@ -162,13 +926,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "41",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Con Sócrates (470/469 a.C.-399 a.C.) la historia de la filosofía cambia de rumbo. Personaje casi mitológico, cuya vida y pensamiento solo se han podido reconstruir a través de testimonios, Sócrates estudia la naturaleza de las cuestiones éticas, y coloca al hombre en el centro de la reflexión. La «revolución» de Sócrates no sólo afecta al contenido, pues también repiensa el método. A través del diálogo, partiendo de preguntas breves y concretas, Sócrates busca la verdad. Una verdad que no es un dogma, sino el resultado de una investigación compartida. Crítico y democrático, el pensamiento de Sócrates es una referencia fundamental en la historia de la filosofía.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/socrates-maestro-de-vida-y-filosofia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/socrates-maestro-de-vida-y-filosofia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766448899961-8bd104b66e302",
@@ -179,13 +944,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "40",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "La Postmodernidad filosófica como postmetafísica (crítica del cientifismo tecnocrático) y como posthistoria (crítica del desarrollismo y el tiempo lineal colonialista) encuentra sus máximos exponentes en Jean-François Lyotard y Gianni Vattimo, que arremeten por igual contra las vertientes más violentas del Positivismo, en la época global del nihilismo cumplido y el capitalismo de consumo. Como alternativa, ambos ahondan en los paradigmas pluralistas postestructuralistas y retórico-hermenéuticos, abriendo vías para el pensar-vivir tan rigurosas como creativas en obras como La Condición Postmoderna y Las Aventuras de la Diferencia.\nEste libro se centra, por ello, en estudiar los lenguajes y aporías; los límites y condiciones de posibilidad racional que restan para nuestro mundo actual; las alteraciones y retos que nos atraviesan y las diferencias esenciales que nos interpelan o potencian. Y lo hace de la mano de Lyotard y de Vattimo, probablemente dos de los más lúcidos ontólogos de todos los tiempos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/postmodernidad-jean-francois-lyotard-y-gianni-vattimo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/postmodernidad-jean-francois-lyotard-y-gianni-vattimo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766448714856-a085fe7b6e7018",
@@ -196,13 +962,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "39",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Erasmo: El humanismo en la encrucijada, de Jorge Ledo Brié, es una obra de divulgación que presenta la figura y el pensamiento de Erasmo de Róterdam, uno de los grandes intelectuales del Renacimiento europeo y referente del humanismo crítico.\n\nEl libro sitúa a Erasmo en un momento histórico de profundas tensiones religiosas, políticas y culturales, mostrando cómo su defensa de la tolerancia, la educación, la razón y la moderación lo colocó en una posición incómoda “en la encrucijada” entre la tradición medieval y las corrientes reformistas. El autor destaca el uso de la ironía, el diálogo y la erudición como herramientas centrales del pensamiento erasmiano.\n\nCon un estilo claro y accesible, la obra explica las ideas fundamentales de Erasmo —su crítica al dogmatismo, su apuesta por una religiosidad interior y su confianza en la formación intelectual— y subraya su vigencia en debates contemporáneos sobre fanatismo, libertad de pensamiento y convivencia plural. El retrato combina contexto histórico con reflexión filosófica, evitando el tono académico pesado.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/erasmo-el-humanismo-en-la-encrucijada.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/erasmo-el-humanismo-en-la-encrucijada.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766448483137-c59c1062b87cd",
@@ -213,13 +980,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "38",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Richard Rorty (1931-2007) fue uno de los filósofos más influyentes de las últimas décadas del siglo XX. Su pensamiento se asocia con un movimiento filosófico que resurgió en Estados Unidos desde los años ochenta, el neo-pragmatismo, pero más en general con un giro pragmático que también adoptaron algunas filosofías europeas. Rorty dialogó con distintas tradiciones filosóficas, como la hermenéutica y la analítica, y entablo debates con figuras como Rawls, Habermas y Vattimo. A lo largo de sus numerosos libros y encuentros puso en cuestión la forma tradicional de teorizar sobre problemas como el de la verdad, la naturaleza humana y la validez de los principios morales, y propuso un modo más histórico de explicar el valor de los lenguajes humanos, las luces y sombras de la democracia, las tensiones entre la responsabilidad y la libertad, la separación entre religión y política y la función de la literatura en una sociedad menos cruel.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/richard-rorty-y-el-giro-pragmatico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/richard-rorty-y-el-giro-pragmatico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766448310595-ac8acf11381c3",
@@ -230,13 +998,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "37",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Berkeley: El empirista ingenioso, de Luis Alfonso Iglesias Huelga, es una obra de divulgación filosófica que presenta de manera clara y accesible el pensamiento de George Berkeley, una de las figuras más originales del empirismo moderno.\n\nEl libro se centra en la famosa tesis berkeleyana según la cual “ser es ser percibido”, explicando cómo Berkeley cuestiona la existencia de una materia independiente de la percepción y propone una visión del mundo basada en ideas, experiencia y espíritu. El autor muestra que, lejos de ser un mero ejercicio de provocación, esta postura busca resolver problemas filosóficos profundos sobre el conocimiento, la realidad y el escepticismo.\n\nCon un estilo ágil y didáctico, la obra contextualiza el pensamiento de Berkeley en los debates del siglo XVIII y destaca su ingenio conceptual, así como su influencia posterior en la filosofía, la teoría del conocimiento y la reflexión sobre la percepción. El texto invita al lector a examinar críticamente las nociones comunes de realidad y sentido común.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/berkeley-el-empirista-ingenioso.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/berkeley-el-empirista-ingenioso.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766448159497-6ab1df2a9c4628",
@@ -247,13 +1016,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "36",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "El siglo XXI asiste a un replanteamiento político en el que la obra de Marx sigue siendo una referencia imprescindible. En esta suerte de renacimiento, Gramsci es, sin duda, el autor más citado. La crisis económica ha desencadenado también una crisis cultural e ideológica, para cuya comprensión, el concepto gramsciano de \"hegemonía\" está resultando crucial. La intervención de Althusser, por su parte, inauguró la posibilidad de \"rescatar a Marx del marxismo\", de tal modo que, actualmente, se abren nuevas posibilidades de lectura, algunas muy insospechadas. En este libro, el doctor en filosofía Carlos Fernández Liria ensambla las herencias de Althusser y Gramsci en un proyecto común: el de entender la persistencia del marxismo en la actualidad. No cabe duda de que un cierto",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gramsci-y-althusser-el-marxismo-hoy-la-herencia-de-gramsci-y-althusser.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gramsci-y-althusser-el-marxismo-hoy-la-herencia-de-gramsci-y-althusser.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766447925929-01e25e9dee875",
@@ -264,13 +1034,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "35",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Russell Conocimiento y felicidad, Bertrand Russell (1872-1970) es el más conocido de los intelectuales ingleses del siglo XX y sin duda el más influyente. Fue filósofo, matemático, teórico de la educación, ocasional escritor de historias (recibió el Premio Nobel de literatura), critico del puritanismo y la hipocresía social, activista antimilitarista y antiimperialista y, siempre, un ciudadano comprometido con su tiempo aunque ello le causase detenciones y exclusiones.\n\nSus análisis del lenguaje, el conocimiento y la moral son conquistas intemporales del pensamiento filosófico. Su historia es la de una persona que quiso entender su mundo y, en lo que le fuera posible, transformarlo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/russell-conocimiento-y-felicidad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/russell-conocimiento-y-felicidad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766447736472-5e2911f519dbf8",
@@ -281,13 +1052,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "34",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Bergson: El inaferrable fantasma de la vida, de Antonio Dopazo Gallego, es una obra de divulgación filosófica que presenta el pensamiento de Henri Bergson, uno de los pensadores más originales e influyentes de comienzos del siglo XX, conocido por su reflexión sobre el tiempo, la vida y la conciencia.\n\nEl libro expone de manera clara las ideas centrales de Bergson, como la duración, la intuición y el élan vital, conceptos con los que el filósofo cuestionó las visiones mecanicistas y rígidas de la realidad. El autor muestra cómo, para Bergson, la vida no puede ser plenamente capturada por esquemas fijos o mediciones cuantitativas, sino que exige una comprensión dinámica y cualitativa.\n\nCon un estilo accesible y reflexivo, la obra contextualiza el pensamiento bergsoniano en su época y destaca su influencia en ámbitos como la filosofía, la biología, la psicología y el arte. Al mismo tiempo, invita al lector a reconsiderar nociones habituales sobre el tiempo y el conocimiento, proponiendo una mirada más fluida y vitalista.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/bergson-el-inaferrable-fantasma-de-la-vida.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/bergson-el-inaferrable-fantasma-de-la-vida.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766447490906-480ace8e1d711",
@@ -298,13 +1070,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "33",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Rawls: El filósofo de la justicia, de Ángel Puyol González, es una obra de divulgación que introduce de manera clara y accesible el pensamiento de John Rawls, una de las figuras más influyentes de la filosofía política contemporánea.\n\nEl libro presenta los ejes centrales de la teoría rawlsiana de la justicia como equidad, explicando conceptos clave como la posición original, el velo de la ignorancia y los dos principios de justicia, que buscan fundamentar una sociedad justa basada en la igualdad de libertades y en la corrección de las desigualdades sociales más arbitrarias. El autor logra traducir estas ideas complejas a un lenguaje comprensible, sin perder profundidad conceptual.\n\nMás allá de la exposición teórica, la obra contextualiza el pensamiento de Rawls en los debates políticos y morales del siglo XX, mostrando su influencia en cuestiones como la distribución de recursos, la igualdad de oportunidades y la legitimidad de las instituciones democráticas. El texto invita a reflexionar sobre la vigencia de estas ideas en los problemas actuales de justicia social.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/rawls-el-filosofo-de-la-justicia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/rawls-el-filosofo-de-la-justicia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766447343623-049e4f6d432788",
@@ -315,13 +1088,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "32",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Una guía imprescindible para descubrir el pensamiento de Jean-Paul Sartre, uno de los principales representantes del existencialismo, y entender las claves de su reflexión sobre la condición humana y la defensa de la libertad. La filosofía de Jean-Paul Sartre atraviesa casi todo el siglo XX, y se caracteriza ante todo por constituir una reflexión sobre la condición humana y por la defensa de la li…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=OvnIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=OvnIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766447196548-2cb3be72ce29c8",
@@ -332,13 +1106,14 @@
     "editorial": "Bonalletra Alcompas",
     "coleccion": "Descubrir la filosofía",
     "vol": "31",
+    "formato": "Físico",
     "categorias": [
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Voltaire: La ironía contra el fanatismo, de Roberto R. Aramayo, es una obra de divulgación ensayística que presenta la figura y el pensamiento de Voltaire como un emblema de la razón crítica, la tolerancia y la libertad de pensamiento frente al dogmatismo.\n\nEl libro destaca el uso de la ironía y la sátira como armas intelectuales centrales en la obra de Voltaire, mostrando cómo estas herramientas permitieron desmontar prejuicios religiosos, abusos de poder y supersticiones arraigadas. A través de episodios biográficos y referencias a textos clave, Aramayo explica de qué modo el filósofo ilustrado convirtió el ingenio en una forma de intervención pública eficaz.\n\nCon un estilo claro y accesible, la obra contextualiza a Voltaire en la Ilustración europea, subrayando su defensa de la tolerancia, la justicia y los derechos civiles. El autor evita el tono académico pesado y privilegia una lectura ágil, que conecta las ideas del siglo XVIII con problemas contemporáneos relacionados con el fanatismo y la intolerancia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/voltaire-la-ironia-contra-el-fanatismo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/voltaire-la-ironia-contra-el-fanatismo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766445167351-64e4b4258a0f2",
