@@ -1,5 +1,766 @@
 [
   {
+    "id": "libro-1766610540190-ed2dd6e628e0c",
+    "titulo": "Numerical Calculation of Lubrication, Methods and Programs",
+    "autor": "Ping Huang",
+    "anio": 2013,
+    "isbn": "9781118451199",
+    "editorial": "John Wiley & Sons",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Lubricación",
+      "Numérico",
+      "Cálculo",
+      "Programas"
+    ],
+    "formato": "Físico",
+    "notas": "Focusing on basic lubrication problems this book offers specific engineering applications. The book introduces methods and programs for the most important lubrication problems and their solutions. It is divided into four parts. The first part is about the general solving methods of the Reynolds equation, including solutions of Reynolds equations with different conditions and their discrete forms, …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=UeEtAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766610447025-9611e8a5dc8818",
+    "titulo": "Oleohidráulica, conceptos básicos",
+    "autor": "Enrique Carnicer Royo, Concepción Mainar Hasta",
+    "anio": 1998,
+    "isbn": "9788428324380",
+    "editorial": "Thomson",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Oleohidráulica"
+    ],
+    "formato": "Físico",
+    "notas": "Los autores de este libro ponen en manos de los ingenieros y de los lectore en general los conceptos básicos de la oleohidráulica. Partiendo de conceptos fundamentales, se adentra en los aspectos más importantes de esta tecnología, basada en fluidos y componentes mecánicos. Este libro también incluye los diferentes componentes de las instalaciones oleohidráulicas, sin olvidar los pormenores relacionados con el cálculo, así como los esquemas y diagramas correspondientes.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=9qPuAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766610317726-9d8807ba9cf9c8",
+    "titulo": "Liquidos penetrantes, nivel II",
+    "autor": "Asociación Española de Ensayos no Destructivos",
+    "anio": 2009,
+    "isbn": "8492735037",
+    "editorial": "FC Editorial",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "END"
+    ],
+    "formato": "Físico",
+    "notas": "Los Ensayos No Destructivos son métodos que permiten ensayar materiales, piezas y componentes sin destruirlos, de forma que determinen si estos elementos son utilizables para un determinado fin o no. Los métodos de END se utilizan desde la más remota antigüedad en todo tipo de industrias y en las más variadas actividades. La Asociación Española de Ensayos No Destructivos y la Fundación Confemetal son conscientes del déficit de conocimientos que sobre Ensayos No Destructivos existe en España. La Industria requiere personal certificado para la realización de estos ensayos, personal que debe tener una formación y conocimientos adecuados para poder certificarse. Las premisas anteriores han motivado que la AEND y FC Editorial, traten de resolver el problema existente y que el tejido industrial disponga de un conjunto de manuales adecuados a dicha formación, sin que éstos sean enciclopedias de difícil manejo ni simples catálogos más informativos que formativos. Este manual es uno de los primeros de la serie que ambas entidades van a poner en el mercado y corresponde al método de Líquidos Penetrantes, de amplia utilización, por ejemplo, en las industrias metal-mecánicas, nuclear, aeronáutica y de automoción.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/liquidos-penetrantes-nivel-ii.jpg"
+  },
+  {
+    "id": "libro-1766610014721-132f36dd065998",
+    "titulo": "Oleohidráulica A-B-C-D",
+    "autor": "Jaume Rifà Molist",
+    "anio": 2009,
+    "isbn": "9788496486881",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Oleohidráulica"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Oleohidráulica A‑B‑C‑D, escrito por Jaume Rifà i Molist, es una obra de iniciación clara, visual y progresiva dirigida a estudiantes, técnicos e ingenieros que buscan comprender el funcionamiento de los sistemas oleohidráulicos desde cero. Su estructura —basada en un desarrollo paso a paso, de los fundamentos (A) hasta aplicaciones y circuitos más avanzados (D)— lo convierte en una herramienta didáctica y accesible.\n\nA diferencia de manuales técnicos densos, este libro destaca por su lenguaje sencillo y su enfoque práctico: utiliza numerosos diagramas, circuitos funcionales, esquemas y ejemplos aplicados que permiten entender rápidamente cómo un fluido transmite energía para generar fuerza y movimiento en actuadores, cilindros y motores hidráulicos. Se abordan componentes esenciales (bombas, válvulas direccionales, presostáticas y reguladoras, depósitos, filtros), simbología y lectura de planos hidráulicos, así como conceptos de presión, caudal, pérdidas y eficiencia.\n\nAunque suficiente para una formación sólida de base, el libro no se limita a teoría: incluye consejos de instalación, criterios de selección de elementos y ejemplos orientados a la industria, por lo que resulta útil en cursos técnicos y en capacitación interna de empresas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/oleohidraulica-a-b-c-d.jpg"
+  },
+  {
+    "id": "libro-1766609874734-71422d4e59b0d",
+    "titulo": "Applied Tribology: Lubrication",
+    "autor": "Bernice Wyong",
+    "anio": 2020,
+    "isbn": "9781632409294",
+    "editorial": "Clanrye",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Lubricación",
+      "Tribología"
+    ],
+    "formato": "Físico",
+    "notas": "The field that deals with interacting surfaces in relative motion is known as tribology. It is a multidisciplinary subject that applies principles of various academic fields such as physics, chemistry, biology, mathematics, engineering and materials science. The study and application of the fundamentals of friction, wear and lubrication are fundamental to this field. Lubrication is the technique o…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=FX6-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766609783442-46b0dab1e4ec08",
+    "titulo": "Principios y aplicaciones de la mecánica de contacto en tribología, fricción y adherencia",
+    "autor": "Valentin Popov",
+    "anio": 2020,
+    "isbn": "9788497177023",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [],
+    "formato": "Físico",
+    "notas": "Este libro actualizado hasta 2019 sobre la mecánica del contacto es multidisplicinar y constituye una herramienta muy útil para los ingenieros, los físicos, geólogos y los investigadores en el campo de los materiales y los adhesivos. La existencia de una obra en castellano sobre esta temática constituye una novedad que abre el campo de trabajo de los hispano-hablantes a una disciplina raramente tr…",
+    "comentarios": "El libro Principios y aplicaciones de la mecánica de contacto en tribología, fricción y adherencia, escrito por Valentin L. Popov, es una obra de alto nivel técnico y científico que se adentra en los fundamentos y aplicaciones de la tribología, disciplina que estudia la interacción entre superficies en contacto, el desgaste, la fricción y la lubricación —elementos decisivos para la confiabilidad de máquinas, vehículos y sistemas industriales.\n\nLa propuesta de Popov destaca por su rigurosidad y por conectar teoría física con aplicaciones reales. El texto desarrolla modelos matemáticos de contacto elástico y plástico, leyes de fricción, transferencia de calor en interfaces, resistencia de adherencia y fenómenos microscópicos que determinan el comportamiento macroscópico de los materiales. Además, presenta estudios y análisis aplicados a frenos, embragues, rodamientos, elementos de transmisión y sistemas donde el contacto mecánico determina rendimiento y desgaste.\n\nEste libro no solo es relevante desde el punto de vista académico; su utilidad es alta para ingenieros dedicados a diseño mecánico, mantenimiento, confiabilidad y materiales, ya que permite comprender las causas raíz del deterioro de componentes y orientar estrategias para reducir pérdidas energéticas, mejorar lubricación o extender la vida útil de activos.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/principios-y-aplicaciones-de-la-mecanica-de-contacto-en-tribologia-friccion-y-adherencia.jpg"
+  },
+  {
+    "id": "libro-1766609623360-dac0af5eb3c71",
+    "titulo": "Fluid Film Lubrication, Theory and Design",
+    "autor": "Andras Z. Szeri",
+    "anio": 1998,
+    "isbn": "9780521481007",
+    "editorial": "Cambridge University Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Lubricación",
+      "Tribología",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "Fluid film bearings are among the best devices for overcoming friction and eliminating wear. They are machine elements and, together with shafts, gears, and cams, constitute the building blocks engineers use in the design and construction of mechanical devices. This book offers a systematic treatment of the fundamentals of fluid film lubrication and fluid film bearings. The introduction places flu…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=bOwXuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766609552042-c4820cfdf5da98",
+    "titulo": "Friction and Lubrication in Mechanical Design",
+    "autor": "Shirley Seireg",
+    "anio": 1998,
+    "isbn": "9780824799748",
+    "editorial": "CRC Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Lubricación",
+      "Tribología",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "This book demonstrates how to control mechanisms of contact mechanics, heat generation and transfer, friction, noise generation, lubrication, and surface damage due to mechanical and thermal variables. Friction and Lubrication in Mechanical Design reviews various classical and new tribology problems beginning with history and ending with numerical optimization and examples, simplifies access to in…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=UH7QnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766609449994-b11b7ad5aaf458",
+    "titulo": "Lubrication Degradation, Getting Into the Root Causes",
+    "autor": "SANYA. MATHURA, Robert J Latino",
+    "anio": 2021,
+    "isbn": "9781032171579",
+    "editorial": "CRC Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Lubricación",
+      "Tribología",
+      "RCA"
+    ],
+    "formato": "Físico",
+    "notas": "Lubrication Degradation: Getting into the Root Causes strives to break down the complex topic of Lubrication Degradation into its six most common failure mechanisms.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=U4mQzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766607092596-640780be603f8",
+    "titulo": "Manual de oleohidraulica industrial",
+    "autor": "Pedro Rivas",
+    "anio": 1979,
+    "isbn": "",
+    "editorial": "Huachipato",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Oleohidráulica",
+      "Siderúrgica",
+      "Industria"
+    ],
+    "formato": "Físico",
+    "notas": "El Manual de Oleohidráulica Industrial (Huachipato) es un documento técnico elaborado en el contexto industrial chileno, específicamente como material formativo de Capacitación y Desarrollo de la Siderúrgica Huachipato, destinado a técnicos, operadores y personal de mantenimiento que interactúan con sistemas oleohidráulicos dentro de una planta productiva.\n\nEste manual se distingue por su enfoque práctico: está pensado como una guía de campo, clara y directa, orientada a enseñar cómo funcionan los sistemas hidráulicos, cómo interpretarlos en diagramas y cómo operarlos con seguridad en el ambiente industrial real. A lo largo del documento se describen los principios básicos de la oleohidráulica —presión, caudal, energía y trabajo— y se presentan los principales componentes: bombas de engranaje, cilindros, válvulas direccionales y de control, filtros, tanques y líneas de retorno. La explicación suele estar acompañada por esquemas funcionales sencillos, dirigidos a facilitar la lectura de planos hidráulicos y la comprensión del flujo energético.\n\nDado su propósito de capacitación, el manual también incorpora recomendaciones operativas, pautas de inspección, precauciones para evitar contaminación del fluido, seguridad en altas presiones y nociones para detectar fallas comunes, elementos clave para la continuidad operacional en una industria como la siderúrgica.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manual-de-oleohidraulica-industrial.jpg"
+  },
+  {
+    "id": "libro-1766606880488-107417d6adaec",
+    "titulo": "Advances in Bearing Lubrication and Thermal Sciences",
+    "autor": "Ke Yan",
+    "anio": 2022,
+    "isbn": "9783036553429",
+    "editorial": "Mdpi AG",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Tecnología",
+      "Lubricación",
+      "Tribología",
+      "Rodamientos"
+    ],
+    "formato": "Físico",
+    "notas": "This reprint focuses on the hot issue of bearing lubrication and thermal analysis, and brings together many cutting-edge studies, such as bearing multi-body dynamics, bearing tribology, new lubrication and heat dissipation structures, bearing self-lubricating materials, thermal analysis of bearing assembly process, bearing service state prediction, etc. The purpose of this reprint is to explore re…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=Ds2BzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766606696647-7604ddb4a5f298",
+    "titulo": "Automoción, lubricación, lubricar y lubricantes y todos sus complementos",
+    "autor": "Ángel Pons, Josep Maria Torras",
+    "anio": 2021,
+    "isbn": "9788413984025",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Lubricación",
+      "Automoción"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Automoción: Lubricación, Lubricar y Lubricantes y Todos sus Complementos, escrito por Ángel Pons y Josep Maria Torras  (ingeniero químico), es una obra especializada que aborda el mundo de la lubricación desde la perspectiva de la automoción, es decir, enfocada en motores, transmisiones y componentes vehiculares donde la lubricación es indispensable para garantizar eficiencia, rendimiento y vida útil.\n\nA diferencia de textos industriales centrados en maquinaria pesada o equipos estacionarios, este libro se concentra en el entorno automotriz e introduce de forma ordenada:\n\nPrincipios físico-químicos de la lubricación en motores de combustión interna.\n\nTipos de lubricantes (minerales, sintéticos, semisintéticos) y sus aditivos.\n\nSelección de aceites según viscosidad, normas SAE, API y especificaciones de fabricantes.\n\nLubricación de cajas de cambio, diferenciales, rodamientos y sistemas auxiliares.\n\nComportamiento del aceite bajo temperatura, presión, carga y contaminación.\n\nComplementos como grasas, refrigerantes, filtros y fluidos especiales.\n\nEl libro destaca además por ser accesible y visual, con un lenguaje pensado tanto para estudiantes técnicos como para mecánicos y profesionales del mantenimiento vehicular. Incluye explicaciones claras, esquemas y recomendaciones aplicadas al uso cotidiano, lo que facilita trasladar el conocimiento a talleres, flotas y gestión de vehículos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/automocion-lubricacion-lubricar-y-lubricantes-y-todos-sus-complementos.jpg"
+  },
+  {
+    "id": "libro-1766606461359-cfeffe5eeca08",
+    "titulo": "Introducción a la potencia fluida, neumática e hidráulica para ingenieros",
+    "autor": "Gerardo Aragón González, Aurelio Canales Palma, Alejandro León Galicia",
+    "anio": 2014,
+    "isbn": "9786072802063",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Neumática",
+      "Hidráulica",
+      "Eneergía"
+    ],
+    "formato": "Físico",
+    "notas": "Este texto ha sido diseñado para formar ingenieros capacitados en las aplicaciones contemporáneas de la potencia fluida, con las aptitudes para concebir la neumática e hidráulica como partes de un campo tecnológico unificado.\nLas máquinas que funcionan con base a la transmisión de energía por medio de un vehículo fluido, se han aplicado industrialmente durante más de 200 años. En el siglo XXI la importancia tecnológica de las máquinas hidroneumáticas es irrefutable. Con este libro se pretende contribuir a la formación de nuevos ingenieros, que al incorporarse a la actividad profesional ya posean las habilidades para accionar dispositivos basados en aire y aceite presurizados. La obra también está dirigida a los profesionales que deben tratar con alguno de los muchos procesos de manufactura, en los que las máquinas automáticas ejecutan ciclos de trabajo repetitivos, precisos, veloces y fiables. Ahí es donde la potencia fluida establece la mejor interrelación con el control electrónico.\n\nDESTACADOS:\n\nEjemplos resueltos y numerosos ejercicios propuestos.\n\nMinuciosidad en las explicaciones y cálculos numéricos.\n\nRecuadros sobre detalles históricos, conexiones con otros campos tecnológicos y demostraciones minuciosas para aclarar la aplicación de los conceptos tratados.\n\nUso sistemático y ordenado de las unidades que corresponden a cada magnitud física. Se destaca el uso del SI, pero además se emplean las del llamado “sistema inglés”, y otras de uso común que todavía siguen utilizando los fabricantes de equipos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-potencia-fluida-neumatica-e-hidraulica-para-ingenieros.jpg"
+  },
+  {
+    "id": "libro-1766606279205-01afb563c106c8",
+    "titulo": "CORRIENTES INDUCIDAS NIVEL II",
+    "autor": "AEND",
+    "anio": 2009,
+    "isbn": "9788492735051",
+    "editorial": "FC Editorial",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Education"
+    ],
+    "formato": "Físico",
+    "notas": "Los Ensayos No Destructivos son métodos que permiten ensayar materiales, piezas y componentes sin destruirlos, de forma que determinen si estos elementos son utilizables para un determinado fin o no. Los métodos de END se utilizan desde la más remota antigüedad en todo tipo de industrias y en las más variadas actividades. La Asociación Española de Ensayos No Destructivos y la Fundación Confemetal son conscientes del déficit de conocimientos que sobre Ensayos No Destructivos existe en España. La Industria requiere personal certificado para la realización de estos ensayos, personal que debe tener una formación y conocimientos adecuados para poder certificarse. Las premisas anteriores han motivado que la AEND y FC Editorial, traten de resolver el problema existente y que el tejido industrial disponga de un conjunto de manuales adecuados a dicha formación, sin que éstos sean enciclopedias de difícil manejo ni simples catálogos más informativos que formativos. Este manual corresponde a la serie que ambas entidades han puesto en el mercado y se refiere al método de Corrientes Inducidas, de amplia utilización, por ejemplo, en las industrias metal - mecánicas, nuclear, aeronáutica y de automoción. CONTENIDO: 1. Electricidad. Unidades eléctricas. Corriente y voltaje alterno. Generalidades. 2. Magnetismo. Campo magnético. Reluctancia. 3. Electromagnetismo, Inductancia e Inducción por Corriente Alterna. Campo magnético producido por una corriente. Ley de Lenz. 4. Reactancia Inductiva. Características de la reactancia inductiva del solenoide. Circuitos inductivos. 5. Las Corrientes Inducidas. Impedancia. Factores que afectan a la componente resistiva de las señales de inspección. 6. Características del Solenoide: Solenoides y Palpadores (Disposición y Construcción). Efecto del diámetro de la bobina sobre la reactancia. Palpadores especiales. Uso específico. 7. Características de la Muestra: Permeabilidad, Conductividad Eléctrica y Grietas. Conductores y aislantes. Efectos de la temperatura y de la dispersión térmica en materiales no magnéticos. 8. Características de la Corriente: Profundidad de Penetración. Frecuencia. Variación de la fase con la profundidad. Influencia de la frecuencia sobre la impedancia del solenoide. 9. Efectos del Acoplamiento Magnético con los Materiales. Factor de llenado. Efecto del factor de llenado sobre la reactancia inductiva. 10. Equipos y Probetas. Compensación por lift-off. Patrones de medición de espesores. 11. Defectología. Defectología de materiales metálicos. Defectos en funcionamiento o servicio. 12. Apéndices.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/corrientes-inducidas-nivel-ii.jpg"
+  },
+  {
+    "id": "libro-1766606109556-b620b508183fe8",
+    "titulo": "Emisión acústica, niveles I y II, END",
+    "autor": "Gallego Molina, Antonio",
+    "anio": 2015,
+    "isbn": "9788415781431",
+    "editorial": "FC Editorial",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Emisión Acústica",
+      "END",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Emisión Acústica – Niveles I y II (END), escrito por Antolino Gallego Molina y Eva Martínez González, es un texto especializado que forma parte de la literatura técnica orientada a la certificación y capacitación en Ensayos No Destructivos (END), específicamente en la técnica de emisión acústica.\n\nSu principal fortaleza radica en que combina teoría, normativa y práctica operacional, permitiendo al lector adquirir los conocimientos necesarios para desempeñarse en niveles I y II según estándares internacionales (como UNE-EN, ISO o ASNT). El contenido abarca:\n\nConceptos físicos de la emisión acústica y propagación de ondas.\n\nEquipos, sensores y configuración de sistemas.\n\nParámetros medidos y criterios de evaluación.\n\nPreparación de superficies, instalación de sensores y calibración.\n\nDetección de fallas como grietas, corrosión, delaminación o fatiga.\n\nProcedimientos de inspección, seguridad y certificación del personal.\n\nEl libro resulta especialmente pertinente en sectores donde el monitoreo de integridad estructural es crítico —industria petroquímica, minería, calderería, recipientes a presión, pipelines, infraestructura— y en programas de confiabilidad y mantenimiento predictivo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/emision-acustica-niveles-i-y-ii-end.jpg"
+  },
+  {
+    "id": "libro-1766605970521-fdb3128df79e",
+    "titulo": "Mantenimiento de sistemas de refrigeración y lubricación de los motores térmicos",
+    "autor": "GONZÁLEZ CALLEJA, DAVID",
+    "anio": 2015,
+    "isbn": "9788428336444",
+    "editorial": "Ediciones Paraninfo, S.A.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "refrigeración",
+      "Mantenimiento",
+      "Lubricación",
+      "Motor"
+    ],
+    "formato": "Físico",
+    "notas": "Mantenimiento de sistemas de refrigeración y lubricación de los motores térmicos explica la estructura y el funcionamiento de estos dos sistemas, tan importantes para optimizar el rendimiento del motor y maximizar su duración. Por otro lado, se desarrollan las operaciones más destacables de mantenimiento y reparación, de acuerdo con las indicaciones de los fabricantes y teniendo en cuenta el trata…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=eLv-CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766605872568-122d3ab4aeed28",
+    "titulo": "Teoria y practica de medición de niveles",
+    "autor": "Wim van de Kamp",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "Endress+Hauser",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Medición",
+      "Niveles",
+      "Industria",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Teoría y práctica de medición de niveles, escrito por Wim van de Kamp y publicado por Endress+Hauser, constituye una de las referencias más completas y didácticas disponibles sobre la medición industrial de niveles, disciplina clave en la automatización, control de procesos y operación segura de plantas industriales.\n\nEl texto destaca tanto por su claridad como por su enfoque integral. Comienza explicando los fundamentos físicos que permiten medir niveles en líquidos, sólidos y materiales granulares —presión hidrostática, capacitancia, ultrasonido, radar, vibración, radiación, entre otros— para luego profundizar en el funcionamiento de cada tipo de instrumento y su selección adecuada según la aplicación. Asimismo, aborda temas aplicados como: instalación correcta en campo, compensación de condiciones ambientales, calibración, mantenimiento preventivo, resolución de fallas y criterios económicos de selección.\n\nUn valor agregado notable del libro es su orientación práctica: incluye ilustraciones, fotografías reales de equipos, diagramas de montaje y ejemplos de aplicaciones en industrias como minería, química, petróleo & gas, tratamiento de agua, alimentos y energía. Esto lo convierte en una guía especialmente útil tanto para ingenieros de automatización y control como para técnicos de instrumentación y estudiantes de ingeniería industrial o mecánica.\n\nEn síntesis, Teoría y Práctica de M",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/teoria-y-practica-de-medicion-de-niveles.jpg"
+  },
+  {
+    "id": "libro-1766605668367-6929163e7c1f08",
+    "titulo": "Manual SKF de Mantenimiento de Rodamientos",
+    "autor": "SKF",
+    "anio": 2009,
+    "isbn": "",
+    "editorial": "SKF",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Rodamientos",
+      "Máquinas",
+      "Técnico",
+      "Mantenimiento",
+      "Manual"
+    ],
+    "formato": "Físico",
+    "notas": "El Manual SKF de mantenimiento de rodamientos es un texto técnico altamente reconocido en el ámbito de la confiabilidad y mantenimiento industrial. Editado por SKF —empresa líder mundial en tecnología de rodamientos— este manual constituye una guía práctica y rigurosa para garantizar una correcta instalación, operación, lubricación y vida útil de los rodamientos, componentes críticos en máquinas rotatorias.\n\nA diferencia de un catálogo, esta obra está orientada específicamente al mantenimiento, por lo que incluye procedimientos detallados, recomendaciones de buenas prácticas, técnicas de diagnóstico y criterios de intervención. Entre sus contenidos destacan:\n\nSelección correcta del rodamiento según carga, velocidad, temperatura y entorno.\n\nTécnicas de montaje y desmontaje (mecánicas, térmicas e hidráulicas).\n\nLubricación, sellado y control de contaminación.\n\nCausas raíz de fallas típicas (fatiga, corrosión, desgaste, desalineación, falta de lubricación).\n\nInspección, monitoreo y uso de herramientas de medición.\n\nEstrategias para aumentar confiabilidad y reducir costos del ciclo de vida.\n\nSu orientación al “cómo hacerlo bien” lo convierte en un instrumento indispensable para ingenieros de mantenimiento, técnicos de planta, especialistas en confiabilidad y estudiantes de mecánica industrial, especialmente en industrias donde la operación continua es crítica, como minería, energía, manufactura y transporte.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manual-skf-de-mantenimiento-de-rodamientos.jpg"
+  },
+  {
+    "id": "libro-1766605512917-d0a4633ce1e398",
+    "titulo": "Introducción a las vibraciones",
+    "autor": "Pablo García-Fogeda Núñez, Ángel Sanz Andrés",
+    "anio": 2014,
+    "isbn": "9788415452829",
+    "editorial": "Gaceta",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Vibraciones"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Introducción a las Vibraciones, escrito por Pablo García-Fogeda Núñez y Ángel Sanz Andrés, es un texto especializado dirigido a quienes desean comprender los principios fundamentales del análisis vibratorio, un campo crítico dentro de la ingeniería mecánica, aeroespacial y del mantenimiento predictivo.\n\nLa obra presenta una estructura pedagógica que facilita el aprendizaje progresivo: inicia con nociones básicas de sistemas de un grado de libertad, ecuaciones de movimiento, amortiguamiento y respuesta a excitaciones, para luego avanzar hacia sistemas de múltiples grados de libertad, modos de vibración y comportamiento dinámico complejo. Se apoya en ejemplos matemáticos, diagramas claros y ejercicios, lo cual la hace útil tanto para autoestudio como para uso docente.\n\nAunque su énfasis principal está en la teoría clásica de vibraciones, el libro resulta relevante para profesionales del mantenimiento y confiabilidad, ya que sienta las bases necesarias para interpretar fenómenos que afectan directamente la salud de activos industriales (desbalance, desalineación, resonancias, fatiga, ruido estructural). Para quienes luego deseen avanzar hacia técnicas modernas de monitoreo (análisis espectral, FFT, sensores, CMMS, AI-predictivo), este texto aporta el fundamento matemático imprescindible.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=OG9-oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766605397458-a6b341b892b9b",
+    "titulo": "Análisis de Vibraciones en Máquinas, 15 Casos de Estudio",
+    "autor": "David Bukowitz",
+    "anio": 2011,
+    "isbn": "9781463568382",
+    "editorial": "Createspace Independent Publishing Platform",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Vibraciones",
+      "Máquinas"
+    ],
+    "formato": "Físico",
+    "notas": "Dentro de las técnicas del mantenimiento basado en condición, el análisis de vibraciones ha demostrado ser una de las mas efectivas para detectar y diagnosticar fallas en máquinas. A lo largo de los últimos años se han publicado diversos textos donde se fundamentan sus principios desde el punto de vista teórico, para complementar los cursos de formación y adiestramiento profesional. Es por esta ra…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=baeGZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766605304229-ac76932d313c38",
+    "titulo": "Vibraciones y Ondas",
+    "autor": "Michel Picquart",
+    "anio": 2013,
+    "isbn": "9786071730138",
+    "editorial": "Trillas",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Vibraciones",
+      "Ondas",
+      "Mecánica",
+      "Física"
+    ],
+    "formato": "Físico",
+    "notas": "En casi todos los sistemas físicos puede presentarse un movimiento oscilatorio es decir, un movimiento alternante de una posición de equilibrio estable, y cuando varios sistemas están acoplados, el movimiento oscilatorio se trasmite de un sistema al otro en la forma de una onda. Son muchos los fenómenos naturales que involucran ondas: perturbaciones en la superficie del agua, el sonido, la luz, la radio, las ondas sísmicas, los ultrasonidos... La presente obra incluye los temas de la asignatura Vibraciones y ondas, la cual se imparte en la licenciatura en Física dela Universidad Autónoma Metropolitana, Unidad Iztapalapa, y que se contempla en los planes de estudio de diferentes instituciones de educación superior. Además de los contenidos de orden curricular se abordan temas como las ondas sonoras, la propagación de ondas a través de un cable coaxial y las ondas de calor. En cada uno de los diez capítulos se ofrece a estudiantes y profesores un desarrollo teórico claro y conciso, aunado a numerosos ejemplos, ejercicios y problemas de aplicación.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/vibraciones-y-ondas.jpg"
+  },
+  {
+    "id": "libro-1766604596787-932fc187a0d41",
+    "titulo": "Marks, Manual del ingeniero mecánico",
+    "autor": "Theodore Baumeister, Eugene A. Avallone",
+    "anio": 1984,
+    "isbn": "9789684516403",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Mecánica",
+      "Ingeniería",
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Marks' Standard Handbook for Mechanical Engineers (Manual del Ingeniero Mecánico), conocido simplemente como Marks, es posiblemente la obra de referencia más emblemática y completa de la ingeniería mecánica a nivel mundial. Compilado por Theodore Baumeister, Eugene A. Avallone y Theodore Baumeister III, y con múltiples ediciones en inglés y español, este manual constituye un compendio enciclopédico que reúne teoría, fórmulas, datos de diseño y aplicaciones prácticas utilizadas por ingenieros en ejercicio, docentes, estudiantes y diseñadores industriales.\n\nSu valor radica en que cubre prácticamente todas las áreas esenciales de la ingeniería mecánica: propiedades de materiales, termodinámica, transferencia de calor, mecánica de fluidos, máquinas térmicas, sistemas eléctricos básicos, diseño de elementos mecánicos, vibraciones, manufactura, energía, controles, hidráulica, neumática, confiabilidad y tablas indispensables para cálculos rápidos. Es un libro pensado para resolver problemas concretos, por lo que su lenguaje es directo, con ecuaciones, diagramas, tablas y parámetros listos para usar.\n\nAunque hoy existen softwares y recursos digitales que automatizan muchos cálculos, el Marks sigue siendo una referencia irremplazable por su carácter sintético y confiable: permite comprender el fundamento detrás de los resultados y ofrece datos verificados que sirven de base para decisiones de diseño. En el ámbito académico y profesional se reconoce como un “libro de cabecera” para el ingeniero mecánico.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/marks-manual-del-ingeniero-mecanico.jpg"
+  },
+  {
+    "id": "libro-1766604365931-afb5a0d4f2f49",
+    "titulo": "Redes industriales de tubería, bombas para agua, ventiladores y compresores : diseño y construcción",
+    "autor": "Antoni Luszczewski i Kudra, Antoni Luszczewski",
+    "anio": 1999,
+    "isbn": "9789686708417",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Bombas",
+      "Diseño",
+      "Fluído",
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro cubre, de forma clara y didáctica, las bases teóricas para el diseño de tuberías industriales para líquidos y compresores. Acompañan al texto numerosas aplicaciones prácticas basadas en experiencias reales, de tal manera que se puedan aplicar los conocimientos expuestos. El presente libro puede servir tanto a estudiantes de ingeniería como a ingenieros en planta.\n\nRedes industriales de tuberías Luszczewski, Kudra Antoni Nº edición, 1 ISBN: 9788429120547 312 págs. 21.0x27.0 cm. rústica",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=1k3qRVvyFRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766604230760-9478fb2a563298",
+    "titulo": "Programación de proyectos con incertidumbres, el margen de duración : cálculo y análisis",
+    "autor": "Javier Reátegui Villanueva",
+    "anio": 2015,
+    "isbn": "9786123043087",
+    "editorial": "Macro",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Proyectos",
+      "PERT"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Programación de Proyectos con Incertidumbres: El Margen de Duración – Cálculo y Análisis, escrito por el Ing. Javier Resteigue Villanueva y publicado por Editorial Macro, aborda una temática crítica pero muchas veces subestimada en la gestión de proyectos: la incorporación formal de la incertidumbre en la planificación y control del tiempo.\n\nEl texto se centra en el concepto de margen de duración, entendido como la holgura realista que deberían considerar los cronogramas para absorber variaciones inevitables en la ejecución. A diferencia de los manuales clásicos orientados a técnicas deterministas como CPM o PERT en su forma más básica, esta obra se distingue por ofrecer un enfoque analítico y matemático robusto para modelar variabilidad, calcular márgenes y realizar análisis de sensibilidad y riesgo.\n\nEntre sus contenidos se destacan:\n\nAnálisis de incertidumbre en actividades y rutas críticas.\n\nModelación del tiempo mediante distribuciones y escenarios probabilísticos.\n\nAlgoritmos de cálculo del margen óptimo.\n\nControl del proyecto bajo distintas condiciones de variabilidad.\n\nEjemplos numéricos aplicados a cronogramas reales.\n\nEste enfoque técnico vuelve al libro especialmente útil para profesionales que gestionan proyectos en sectores donde la incertidumbre es alta (minería, construcción, ingeniería industrial, energía y operaciones complejas), así como para estudiantes avanzados de gestión de proyectos o ingeniería que buscan profundizar más allá de herramientas tradicionales.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/programacion-de-proyectos-con-incertidumbres-el-margen-de-duracion-calculo-y-analisis.jpg"
+  },
+  {
+    "id": "libro-1766603994616-16eea409a5dbe8",
+    "titulo": "Engranajes, diseño, lubricación, análisis de fallas y mantenimiento",
+    "autor": "Luis Benitez Hernández",
+    "anio": 2011,
+    "isbn": "9789587611014",
+    "editorial": "Universidad Nacional Colombia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Engranajes",
+      "Lubricación",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Engranajes: Diseño, Lubricación, Análisis de Fallas y Mantenimiento, escrito por el Ing. Luis Eduardo Benítez Hernández, es una obra altamente especializada que integra de manera excepcional los aspectos fundamentales y aplicados relacionados con engranajes, uno de los elementos mecánicos más críticos en la transmisión de potencia industrial.\n\nA diferencia de textos que se enfocan únicamente en el diseño geométrico o en el cálculo de esfuerzos, este libro ofrece una visión holística que abarca:\n\nPrincipios de diseño y selección de engranajes, considerando cargas, materiales, perfiles, tratamientos térmicos y la interacción diente-diente.\n\nLubricación y tribología aplicada, donde se explican los tipos de lubricantes, condiciones de película lubricante, temperaturas y contaminación, elementos claves para la confiabilidad.\n\nAnálisis de fallas reales, describiendo modos de daño como micropitting, scuffing, desgaste abrasivo, fatiga superficial, fractura y alineación deficiente, con enfoque en causas raíz.\n\nMantenimiento y recomendaciones para operación industrial, orientadas a extender la vida útil de los equipos mediante inspección, monitoreo y buenas prácticas.\n\nEste enfoque integrador convierte al texto en una guía práctica para ingenieros de mantenimiento, especialistas en confiabilidad, mecánicos de planta y docentes del área mecánica, especialmente en industrias intensivas como minería, siderurgia y energía. Su utilidad radica en que conecta el diseño teórico con los desafíos reales de operación continua, donde el costo de falla de un engranaje puede ser crítico.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/engranajes-diseno-lubricacion-analisis-de-fallas-y-mantenimiento.jpg"
+  },
+  {
+    "id": "libro-1766603808215-a9852c7013965",
+    "titulo": "Diseño de elementos de máquinas",
+    "autor": "Virgil Moring Faires",
+    "anio": 1990,
+    "isbn": "9789684380400",
+    "editorial": "Uteha",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Elementos de Máquinas",
+      "Diseño",
+      "Mecánica",
+      "Ingeniería"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Diseño de Elementos de Máquinas, escrito por V. M. Faires, es un texto clásico e histórico dentro de la ingeniería mecánica, ampliamente utilizado por generaciones de estudiantes para introducirse en el diseño mecánico y la resistencia de elementos de máquinas. Su aporte principal radica en presentar los fundamentos teóricos y metodológicos necesarios para comprender cómo diseñar componentes mecánicos seguros, confiables y funcionales bajo condiciones reales de operación.\n\nLa obra aborda temas esenciales como esfuerzos y deformaciones, análisis de fatiga, selección de materiales, diseño de ejes, engranajes, cojinetes, resortes, uniones atornilladas, soldaduras y transmisión de potencia. Aunque su enfoque se basa en métodos tradicionales y cálculos manuales, permite desarrollar criterio ingenieril y comprensión profunda de los principios físicos y mecánicos detrás del diseño, lo cual sigue siendo indispensable incluso en la era del CAD y los softwares de simulación.\n\nA pesar de que textos más actuales incorporan temas como análisis computacional, normativas modernas o diseño para manufactura automatizada, el libro de Faires conserva gran valor formativo: es una referencia sólida para adquirir la base conceptual sobre la que luego se construyen competencias avanzadas. Por ello, resulta especialmente recomendable para estudiantes de ingeniería mecánica, industriales y técnicos de diseño, así como para docentes que buscan un texto estructurado y pedagógico para cursos introductorios.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diseno-de-elementos-de-maquinas.jpg"
+  },
+  {
+    "id": "libro-1766603564076-f443fce4d1a048",
+    "titulo": "Planeacion Y Control De La Produccion",
+    "autor": "Bock, Holstein",
+    "anio": 1966,
+    "isbn": "",
+    "editorial": "Limusa",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Planificación",
+      "Producción",
+      "Industrial"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Planeación y Control de la Producción, escrito por Robert H. Bock y William K. Holstein, es un texto clásico dentro del ámbito de la gestión de operaciones, particularmente útil para comprender los fundamentos del planeamiento, programación y control de los procesos productivos en organizaciones industriales.\n\nLa obra desarrolla de manera estructurada los elementos que conforman un sistema de producción eficiente: pronósticos de demanda, planeación agregada, programación maestra, control de inventarios, control de piso y seguimiento del desempeño. Su enfoque metodológico y conceptual permite al lector comprender la lógica de coordinación entre recursos, tiempos y capacidades, mostrando cómo las decisiones estratégicas y tácticas se conectan con la operación diaria.\n\nSi bien refleja una visión tradicional previa a los modelos contemporáneos de manufactura esbelta, automatización avanzada o Industria 4.0, el texto sigue siendo valioso por la solidez de sus fundamentos y por su utilidad para quienes requieren una base conceptual en operaciones antes de abordar metodologías más modernas. En particular, resulta recomendable para estudiantes de ingeniería industrial, administración de operaciones y logística, así como para profesionales que buscan reforzar los pilares de la gestión productiva.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/planeacion-y-control-de-la-produccion.jpg"
+  },
+  {
+    "id": "libro-1766603384410-051ac99af97198",
+    "titulo": "Reliability Analysis with Minitab",
+    "autor": "KISHORE KUMAR. GUPTA POCHAMPALLY (SURENDRA M.), Surendra M Gupta",
+    "anio": 2021,
+    "isbn": "9780367783105",
+    "editorial": "CRC Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Minitab",
+      "Sistemas"
+    ],
+    "formato": "Físico",
+    "notas": "Statistical Analysis for the Reliability Engineering Professional Effectively conduct reliability analysis using the world's leading statistical software. Reliability Analysis with Minitab(R) outlines statistical concepts and applications, explains the theory of probability, reliability analysis, and quality improvement, and provides step-by-step instruction on the use of Minitab. Minitab introduc…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=aXEezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766603325300-8331a64c580288",
+    "titulo": "Análisis de fatiga en máquinas",
+    "autor": "AVILES GONZALEZ, RAFAEL",
+    "anio": 2005,
+    "isbn": "9788497323444",
+    "editorial": "Ediciones Paraninfo, S.A.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Fatiga",
+      "Mecánica",
+      "RCA",
+      "Máquinas"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro está estructurado de forma que pueda servir como texto para estudiantes de ingeniería y como referencia de consulta para profesionales. Se presentan los principales procedimientos utilizados en la industria para el cálculo resistente de piezas y componentes de máquinas, con especial énfasis en los de análisis de fatiga producida por tensiones variables con el tiempo.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=bwMoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766603194721-f9224c72937978",
+    "titulo": "Lubricacion Tecnica de Maquinaria",
+    "autor": "Saul Soto Molina",
+    "anio": 2005,
+    "isbn": "9682470979",
+    "editorial": "Trillas",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Transportes",
+      "Lubricación",
+      "Tribología",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Lubricación Técnica de Maquinaria, escrito por Saúl Soto Molina y publicado por Editorial Trillas, es un texto técnico de amplia difusión en el ámbito del mantenimiento industrial. Su principal aporte radica en ofrecer una formación integral sobre los fundamentos, prácticas y criterios técnicos necesarios para garantizar una lubricación adecuada de equipos mecánicos, condición indispensable para la confiabilidad, disponibilidad y vida útil de los activos.\n\nLa obra aborda tanto los principios físico-químicos de la lubricación —viscosidad, fricción, película lubricante, cargas y temperaturas— como la clasificación de lubricantes (aceites minerales, sintéticos, grasas, aditivos), su selección en función del tipo de maquinaria, material, condiciones de operación y entorno industrial. Además, incluye capítulos orientados a la gestión práctica: planes de lubricación, rutinas de inspección, control de contaminación, intervalos de cambio, almacenamiento y análisis de aceite, elementos esenciales para una estrategia de mantenimiento moderna.\n\nUn aspecto especialmente relevante del libro es su enfoque formativo para técnicos y estudiantes, con ejemplos claros, ilustraciones y lenguaje directo, lo que facilita su uso como material de apoyo en cursos de mantenimiento, mecánica industrial y gestión de activos. En síntesis, se trata de una referencia útil y accesible que contribuye a fortalecer competencias clave para la operación confiable de maquinaria en minería, manufactura, energía y otros sectores donde la lubricación afecta directamente la eficiencia y los costos del ciclo de vida.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lubricacion-tecnica-de-maquinaria.jpg"
+  },
+  {
+    "id": "libro-1766600169962-3b9d9c688f08f8",
+    "titulo": "Introducción al proceso de alto horno",
+    "autor": "Maarten Geerdes",
+    "anio": 2005,
+    "isbn": "9789874391759",
+    "editorial": "GmbHPO",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Siderúrgica",
+      "Alto Horno",
+      "Metalurgia",
+      "Acero"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Introducción al Proceso del Alto Horno, de M. Geerdes, O. Lingiardi, H. Toxopeus y C. van der Vliet, es una obra técnica especializada que aborda de manera sistemática y rigurosa el funcionamiento del alto horno, proceso central en la producción de arrabio y en la industria siderúrgica tradicional. El texto está concebido como una introducción sólida, pero con profundidad suficiente para comprender tanto los fundamentos físicos y químicos como los aspectos operacionales del proceso.\n\nA lo largo del libro se explican con claridad las reacciones químicas principales, la termodinámica del proceso, el comportamiento de los materiales (mineral de hierro, coque y fundentes), la dinámica de gases y sólidos, y las distintas zonas del alto horno. Asimismo, se analizan variables operacionales clave —temperatura, composición del gas, carga, permeabilidad y consumo energético— que influyen directamente en la eficiencia, estabilidad y productividad del proceso.\n\nUno de los principales aportes de la obra es su enfoque integrador entre teoría y práctica industrial, lo que la convierte en un texto de referencia tanto para estudiantes de ingeniería metalúrgica y mecánica como para profesionales vinculados a la operación, mantenimiento y optimización de plantas siderúrgicas. En este sentido, el libro facilita la comprensión de un proceso complejo y altamente acoplado, fundamental para el análisis de eficiencia energética, confiabilidad operativa y control de procesos en la industria del acero.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-al-proceso-de-alto-horno.jpg"
+  },
+  {
+    "id": "libro-1766600729962-f21ed959134bd8",
+    "titulo": "Vibraciones en sistemas fisicos",
+    "autor": "Tadeus Majewski Szymiec",
+    "anio": 2016,
+    "isbn": "9786077075981",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mecánica",
+      "Ingeniería",
+      "Física",
+      "Vibraciones"
+    ],
+    "formato": "Físico",
+    "notas": "Esta obra está dirigida a los estudiantes de ingeniería mecánica, mecatrónica, automática y civil, así como a los ingenieros en estas especialidades.\nPartiendo de diferentes sistemas vibratorios primero se establece el modelo matemático a partir del cual se hace el análisis teórico de las vibraciones, se estudian sistemas con uno y con varios grados de libertad, se plantean y resuelven las ecuaciones diferenciales correspondientes, se estudian las vibraciones de sistemas con parámetros distribuidos, las fuerzas inerciales presentes en los sistemas vibratorios y finalmente se presentan algunos problemas en los que se requiere el uso de elementos no lineales.\nAprenda:\na identificar y resolver problemas de vibraciones que se presentan en el comportamiento dinámico de las máquinas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/vibraciones-en-sistemas-fisicos.jpg"
+  },
+  {
+    "id": "libro-1766600578095-4a2a488c41e1f8",
+    "titulo": "Guía Para la Gestión y Administración de Contratos",
+    "autor": "Pérez Cantor Yajaira",
+    "anio": 2019,
+    "isbn": "9788418161704",
+    "editorial": "PuntoRojo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Contratos",
+      "Administración"
+    ],
+    "formato": "Físico",
+    "notas": "Todo negocio tiene su base en un contrato, y la garantía del éxito de ese negocio depende en su mayor parte de como se Gestiona y Administra el Contrato. La Gestión y Administración de Contratos es la disciplina que garantiza el éxito de todo contrato y por ende del negocio, a través del manejo adecuado de los recursos del contrato, con el fin de minimizar riesgos y garantizar ganancias, obteniendo así el éxito del negocio. En esta Guía encontraras paso a paso como gestionar y administrar un contrato, con el fin de lograr lo esperado del negocio, es decir, que sea rentable y sin riesgos. No se debe empezar a ejecutar un Contrato, si no se tiene establecida una buena Gestión y Administración de Contratos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-para-la-gestion-y-administracion-de-contratos.jpg"
+  },
+  {
+    "id": "libro-1766600346300-b99c976ed3534",
+    "titulo": "El gen, Una historia personal",
+    "autor": "Siddhartha Mukherjee",
+    "anio": 2017,
+    "isbn": "9788499926520",
+    "editorial": "Debate",
+    "coleccion": "Una historia personal",
+    "vol": "",
+    "categorias": [
+      "Genética",
+      "Medicina",
+      "Biología"
+    ],
+    "formato": "Físico",
+    "notas": "Magnífico, necesario y absorbente, Siddhartha Mukherjee, ganador del Premio Pulitzer por El emperador de todos los males, ha escrito una extraordinaria «biografía» del gen y una respuesta a una de las cuestiones más relevantes del futuro: ¿Qué significa ser humano cuando se es capaz de manipular la información genética? La historia de cómo hemos descifrado el código fuente que nos hace humanos abarca todo el planeta y varios siglos -y probablemente defina el futuro que nos espera. Entrelazando ciencia, historia y vivencias personales, Mukherjee hace un recorrido por el nacimiento, el crecimiento, la influencia y el futuro de una de las ideas más poderosas y peligrosas de la historia de la ciencia: el gen, la unidad fundamental de la herencia, y la unidad básica de toda la información biológica. Desde Aristóteles y Pitágoras, pasando por los descubrimientos relegados de Mendel, la revolución de Darwin, Watson y Franklin, hasta los avances más innovadores llevados a cabo en nuestro siglo, este libro nos recuerda cómo la genética nos afecta a todos cada día. Reseñas:«Esta quizá sea la mejor historia de suspense jamás contada, una búsqueda de milenios dirigida por mil exploradores, de Aristóteles a Mendel a Francis Collins, tras el enigma en el centro de cada célula. Como El emperador de todos los males, El gen es prodigiosa, torrencial y finalmente transcendente. Si te interesa en qué consiste ser humano hoy y en todos los mañanas que vengan, tienes que leer este libro.»Anthony Doerr, autor de La luz que no puedes ver «El gen es una magnífica síntesis de la ciencia de la vida, y nos obliga a enfrentarnos con el núcleo de esa ciencia, así como con los retos éticos y filosóficos a nuestra idea de en qué consiste ser humano.»Paul Berg, Premio Nobel de Química «Magnífico... La historia del gen se ha contado por trozos de distintas maneras, pero nunca con la perspectiva y la grandeza que Mukherjee aporta a su historia.»",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=PHeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766599935331-e5cb6a83867ca",
+    "titulo": "Catalogo Rodamientos SKF",
+    "autor": "SKF",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Rodamientos",
+      "Máquinas",
+      "Técnico",
+      "Manual"
+    ],
+    "formato": "Físico",
+    "notas": "El Catálogo General SKF es una obra técnica de referencia fundamental para ingenieros, técnicos y profesionales del mantenimiento industrial. Más que un simple listado de productos, este catálogo constituye una herramienta de consulta integral para la selección, aplicación y mantenimiento de rodamientos y soluciones asociadas, respaldada por décadas de experiencia tecnológica de SKF a nivel mundial.\n\nEl catálogo presenta de forma estructurada una amplia gama de rodamientos (rígidos de bolas, de rodillos, axiales, de contacto angular, entre otros), junto con información técnica clave como dimensiones normalizadas, capacidades de carga, velocidades límite, tolerancias, lubricación, sellos y vida útil nominal. Asimismo, incorpora criterios de selección y recomendaciones prácticas que permiten adaptar los componentes a condiciones reales de operación, como cargas variables, contaminación, vibraciones y temperatura.\n\nUno de sus mayores aportes es el enfoque aplicado a la ingeniería de confiabilidad y mantenimiento, ya que conecta el diseño mecánico con la operación segura y eficiente de los equipos. En este sentido, el catálogo resulta especialmente valioso en contextos industriales exigentes —minería, energía, manufactura y transporte— donde la correcta selección de rodamientos tiene un impacto directo en la disponibilidad, seguridad y costos del ciclo de vida de los activos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/catalogo-rodamientos-skf.jpg"
+  },
+  {
+    "id": "libro-1766599685556-0d1e30c1e159f8",
+    "titulo": "Análisis de Vibraciones de Un Rodamiento en Fase Dinámic",
+    "autor": "Alfonso Vilches Serrano",
+    "anio": 2011,
+    "isbn": "9783846561782",
+    "editorial": "Eae",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mecánica",
+      "Rodamientos",
+      "Vibraciones"
+    ],
+    "formato": "Físico",
+    "notas": "Se describen brevemente algunas definiciones usadas; tales como los rodamientos y sus tipos, las vibraciones, el mantenimiento, y los elementos finitos (como calculo mecanico estructural). Como contenido principal, se crea un modelo computacional en elementos finitos de un rodamiento con y sin defectos. Con este modelo se desarrolla un sistema capaza de simular el estado real en funcionamiento, pe…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=Cpa2pwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766599499506-a9163617d1c1c",
+    "titulo": "Production and Operations Analysis",
+    "autor": "Steven Nahmias",
+    "anio": 1997,
+    "isbn": "0256195080",
+    "editorial": "McGraw-Hill Companies",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Producción",
+      "Operación",
+      "Investigación Operaciones",
+      "Business & Economics"
+    ],
+    "formato": "Físico",
+    "notas": "This text provides a survey of the analytical methods used to support the functions of production and operations management. This latest edition continues to bring the most thorough coverage of cutting-edge quantitative models used in operations, while presenting it in a clean, easy to understand fashion. There are many new problems both solved and unsolved for students to comprehend the quantitat…",
+    "comentarios": "Estrategia y competencia 1\n2 Pronósticos 51\n3 Planeación agregada 108\nSuplemento 1 Programación lineal 154\n4 Control de inventarios sujeto al conocimiento de la demanda 183\n5 Control de inventarios sujetos a demanda\nincierta 232\n6 Administración de la cadena de\nabastecimiento 294\n7 Sistemas de producción de empuje y\ntracción: MRP y JIT 346\n8 Programación de operaciones 401\nSuplemento 2 Teoría de colas 457\n9 Programación de proyectos 484\n10 Distribución y ubicación de\ninstalaciones 535\n11 Aseguramiento de la calidad 610\n12 Confiabilidad y facilidad de mantenimiento\n687",
+    "portada": "https://books.google.com/books/content?id=8iEfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766599342008-c4f89cf4820a9",
+    "titulo": "Air-cooled Heat Exchangers and Cooling Towers",
+    "autor": "Detlev G. Kröger",
+    "anio": 2004,
+    "isbn": "9781593700195",
+    "editorial": "PennWell Books",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Termodinámica",
+      "Trasnferencia",
+      "Calor",
+      "Torre",
+      "Enfriamiento"
+    ],
+    "formato": "Físico",
+    "notas": "This new text represents the most detailed and comprehensive book presenting modern practice and theory relevant to the thermal-flow performance evaluation, design, and optimization of air-cooled heat exchangers and cooling towers. Kroger provides modern analytical and empirical tools used to evaluate the thermal-flow performance and design of air-cooled heat exchangers and cooling towers. He also…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=uHhqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766599279495-66061b4f07968",
+    "titulo": "Comportamiento humano en el trabajo",
+    "autor": "John W. Newstrom",
+    "anio": 2007,
+    "isbn": "9789701060568",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Industria",
+      "Sociología"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro reúne los mejores y más recientes conocimientos y ofrece una visión muy reveladora de las personas en el trabajo en todos los tipos y situaciones del comportamiento organizacional. El libro tiene el propósito de fomentar y promover el desarrollo de cuatro procesos de pensamiento diferentes, pero complementarios: elementos de juicio, análisis causal, pensamiento crítico y reflexión.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=amjKMAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766599111413-2c5f4dfa11333",
+    "titulo": "Lean Six Sigma en la era de la inteligencia artificial",
+    "autor": "Michael L. George",
+    "anio": 2021,
+    "isbn": "9786071514530",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mejora Continua",
+      "Producción",
+      "Lean",
+      "Six Sigma"
+    ],
+    "formato": "Físico",
+    "notas": "Lean Six Sigma fue el paradigma que estableció nuevas reglas del juego cuando se popularizó por vez primera hace dos décadas. Ahora, ha llegado otro innovador: la inteligencia artificial. Sin embargo, a diferencia de otras tecnologías disruptivas, la inteligencia artificial no desplaza a los sistemas existentes como Lean Six Sigma. Los complementa. La razón es que la inteligencia artificial es una poderosa herramienta de diagnóstico que descubre y elimina patrones de desperdicio ocultos para LSS. Al combinar la inteligencia artificial y LSS, usted mejorará en forma drástica sus operaciones, sus utilidades y tiempos de los ciclos. Y eso es exactamente lo que esta obra revolucionaria le ayuda a lograr.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-six-sigma-en-la-era-de-la-inteligencia-artificial.jpg"
+  },
+  {
     "id": "libro-1766523458663-a153035d79e1",
     "titulo": "Gestión de la productividad y el desempeño, cómo gestionar personas en distintos tipos de procesos y puestos",
     "autor": "Andrés Pucheu",
@@ -8,13 +769,14 @@
     "editorial": "Ediciones UC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Productividad"
     ],
-    "formato": "Físico",
     "notas": "En las últimas décadas se ha ido conformando una economía global, donde la demanda por innovación y desarrollo de servicios han impulsado la tecnología y cambios estructurales en el funcionamiento del Estado y las empresas. Al mismo tiempo, los cambios culturales aumentan la exigencia y el estrés en las relaciones con clientes, reguladores, proveedores e incluso al interior de cada equipo. En este contexto, la gestión del desempeño debe considerar algunos cambios esenciales. El primero es la integración de clientes y usuarios, de manera que puedan aprender y persistir hasta lograr los beneficios que requieren. Lo segundo es considerar que la adecuación de servicios e innovaciones aumenta la complejidad, de modo que se deben optimizar las capacidades y la flexibilidad de la estructura, dejando la estrategia de estandarización para aquellos procesos que son efectivamente automatizables. Finalmente, y dado lo anterior, es necesario gestionar el incremento del nivel de análisis de la gestión del desempeño individual, integrando también la gestión de equipos y los sistemas de información organizacional. Este libro revisa los modelos y herramientas asociados a la gestión del desempeño contemporánea, explicando también su evaluación y los elementos prácticos de su implementación. \" En este texto seguiremos el proceso de optimización de la productividad y el desempeño, desde los elementos más generales hasta el proceso de retroalimentación y generación de planes de mejora individual. Autor: Juan Andrés Pucheu Editorial: Ediciones Uc Año: 2021 Idioma: Español N° páginas: 402 Encuadernación: Tapa blanda Isbn: 9789561428027",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gestion-de-la-productividad-y-el-desempeno-como-gestionar-personas-en-distintos-tipos-de-procesos-y-puestos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gestion-de-la-productividad-y-el-desempeno-como-gestionar-personas-en-distintos-tipos-de-procesos-y-puestos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766523284998-99ffdf82c6257",
@@ -25,13 +787,14 @@
     "editorial": "Ediciones UC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Productividad"
     ],
-    "formato": "Físico",
     "notas": "\"La actividad minera ha sido un motor de desarrollo histórico para Chile y, por lo mismo, el crecimiento económico del país es altamente dependiente del grado de eficiencia en el uso de los recursos asociados a este sector. Este libro elabora un diagnóstico actualizado y detallado de la evolución de la productividad minera de Chile en los últimos 20 años y la compara con la de otros países mineros…",
     "comentarios": "El libro Productividad Minera en Chile: Diagnóstico y Propuestas ofrece un análisis riguroso y contextualizado de uno de los principales desafíos estructurales de la minería chilena: la desaceleración de la productividad. A partir de evidencia empírica y revisión comparada, la obra identifica factores técnicos, organizacionales y sistémicos que han incidido en el desempeño del sector, tales como la complejidad geológica, el envejecimiento de yacimientos, la gestión del capital humano, la adopción tecnológica y los marcos regulatorios.\n\nEl texto destaca por su enfoque integral, combinando diagnóstico cuantitativo con propuestas concretas orientadas a la mejora operacional y estratégica. Se abordan líneas de acción vinculadas a innovación, mantenimiento y confiabilidad, gestión de activos, estandarización de procesos, seguridad y sostenibilidad, así como a la coordinación entre empresas, proveedores, academia y Estado. La mirada de largo plazo es un eje central: elevar la productividad requiere cambios en capacidades, gobernanza y cultura organizacional, más allá de iniciativas aisladas.\n\nPor su claridad analítica y orientación a políticas y decisiones empresariales, el libro resulta especialmente valioso para profesionales de la industria minera, gestores públicos, académicos y estudiantes de ingeniería y economía. En síntesis, constituye un aporte relevante para comprender las causas de la brecha de productividad y delinear rutas factibles para fortalecer la competitividad y sostenibilidad de la minería en Chile.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/productividad-minera-en-chile-diagnostico-y-propuestas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/productividad-minera-en-chile-diagnostico-y-propuestas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766523161946-f82dbbd80be608",
@@ -42,13 +805,14 @@
     "editorial": "Editorial Academica Espanola",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Productividad"
     ],
-    "formato": "Físico",
     "notas": "El objetivo del presente trabajo se enmarcó en determinar los factores determinantes de la productividad operacional en los laboratorios de ingeniería mecánica de las instituciones universitarias públicas del estado Zulia. Teóricamente la investigación se sustentó por los aportes teóricos de Druker (2002), Díaz (2000), Chiavenato (2002), Bittel y Ramsey (2000) entre otros. La metodología se contex…",
     "comentarios": "Un análisis en los laboratorios de ingeniería mecánica de las instituciones universitarias públicas del estado Zulia",
-    "portada": "https://books.google.com/books/content?id=3umyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=3umyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766522903420-70fed36b6c3cb",
@@ -59,14 +823,15 @@
     "editorial": "Ediciones Diaz de Santos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Lean",
       "Empresa"
     ],
-    "formato": "Físico",
     "notas": "Este manual pretende mostrar la manera de \"hacer más y más con menos y menos… de forma diferente\". El objetivo en una organización no es la reducción de los costes, sino la disminucióndel despilfarro y en el mejor de los casos sueliminación, es decir toda aquella actividad que no aporte valor añadido, lo que implica de forma directa la reducción de los costes y la mejora de la cuenta de resultados. El pensamiento lean manufacturing integra una serie de herramientas para llevar a cabo este propósito. Las empresas necesitan incorporar la excelencia en la función de producción para ser más competitivas en un mundo globalizado. La necesaria formación en esta área de conocimiento permitirá avanzar en esta dirección de vital importancia, y las herramientas lean pueden ejercer una notable contribución en este objetivo. En este libro se exponen dichas herramientas de una manera amena y cohesionada de principio a fin. En la elaboración de los contenidos se ha tenido en cuenta que, lo importante es pasar de la teoría a la práctica. Para satisfacer este requerimiento se han inc",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-herramientas-para-producir-mejor.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-herramientas-para-producir-mejor.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766522667737-d692309d0decb",
@@ -77,15 +842,16 @@
     "editorial": "Alfaomega",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mejora Continua",
       "Producción",
       "Lean"
     ],
-    "formato": "Físico",
     "notas": "Este es un libro práctico, ameno y didáctico para quienes se inician en la cultura Lean. El lenguaje utilizado en las técnicas y herramientas permite comprender el sistema de gestión Lean Six Sigma con facilidad y, además, establece una metodología adaptable a cualquier proceso de mejora. Desde el conocimiento detallado de los procesos, Lean Manufacturing incentiva la innovación, la disciplina y la búsqueda continua de la excelencia, mediante herramientas que mejoran la efectividad de los equipos, los tiempos de entrega y, en conjunto, la capacidad y competitividad de las empresas. Paso a paso, es libro permite descubrir y aplicar técnicas de control de materiales y de producción que incrementan la calidad, mejoran la comunicación y el acceso a la información y aportan reducciones significativas de energía.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-paso-a-paso.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-paso-a-paso.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766521795624-919b96e85c0a1",
@@ -96,14 +862,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Calidad",
       "Producción"
     ],
-    "formato": "Físico",
     "notas": "Esta segunda edición del Manual de control de la calidad correspondiente a la tercera edición original se ha distinguido siempre como un trabajo de referencia para directores, supervisores e ingenieros en la industria. Aunque el uso primario del Manual ha sido como un trabajo de referencia o comparación ha tenido un sustancial uso adicional como texto de adiestramiento.",
     "comentarios": "24. Muestreo por atributos, J. M. Wiesen\n25. M u es treo por variables, Edward G. Schilling, Ph.D.\n25A. Muestreo de materiales a granel, Acheson J. Duncan, Ph.D.\n26. Análisis de regresión, John S. Ramberg. Ph.D.\n27. Planificación y análisis de experimentos, Mary G. Natrella\n27 A. Operación evolutiva, E. Harvey Barnett\n28. Metodología de la superficie de respuesta, William G. Hunter y Truman L. Koehler\n29. Industrias de procesos químicos, C. A. Bicking, John D. Hinchen y R. S. Bingham, Jr.\n30. Industrias del papel, A. H. Jaehn y R. S. Bingham. Jr.\n31. Industrias alimentarias y afines, Dr. H. L. Stier\n32. Industrias farmacéutica y afines, H. Lathan Breunig, Ph.D. \n33. Industria metalúrgica, Dr. C. H. Wa/den\n34. El control de la calidad en la fundición, K. F. Packer y W. C. Truckenmiller\n35. Trabajo de los metales, Shiro Matsuzaki\n36A. Moldeo de plásticos, John C. Louer\n368. Calidad de las películas de plástico, T. R. Jones\n37. Componentes mecánicos, l wao lwasaki\n38. Componentes electrónicos, Edwin S. Shecter\n39. Productos textiles, John H. Reynolds\n40. Industria de las artes gráficas, La wrence J. Schewe\n41. Control de calidad en el montaje, A. J. Hitze/berger\n42. Industria del automóvil, Soichiro To voda\n43. Electrodomésticos, Lennart Sandholm\n44. Sistemas complejos, Dr. Leslie W. Ball,\n45. La calidad en un taller de trabajos variados, Leonard A. Seder\n46. Operaciones auxiliares, Dr. Sigmund P. Zobel\n47. Empresas de servicios, J. M. Juran y R. S. Bingham, fr.\n48. Control de la calidad y cultura nacional, J. M. Juran\n48A. El control de la calidad en los países socialistas, Priíjesor F. Egermayer, RN Dr. , Dr., Se.",
-    "portada": "https://books.google.com/books/content?id=a0-buufpTEAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=a0-buufpTEAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766521762966-098f1c03fd61c8",
@@ -114,14 +881,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Calidad",
       "Producción"
     ],
-    "formato": "Físico",
     "notas": "Esta segunda edición del Manual de control de la calidad correspondiente a la tercera edición original se ha distinguido siempre como un trabajo de referencia para directores, supervisores e ingenieros en la industria. Aunque el uso primario del Manual ha sido como un trabajo de referencia o comparación ha tenido un sustancial uso adicional como texto de adiestramiento.",
     "comentarios": "l. Cómo emplear este Manual, J. M. Juran\n2. Conceptos básicos, J. M. Juran\n3. Políticas y objetivos de la calidad,J. M. Juran\n4 .Calidad e ingresos, J. M . Juran\n5. Costes de la calidad, Daniel M. Lundvall y J. M. Juran\n6. Planificación de la calidad, Richard J. Pierce\n7. Organización, J. M. Juran\n8. Calidad de un nuevo producto, H. D. Voeg tlen\n9. Planificación de la fabricación, Dona/d N. Ek va/1 y J. M. Juran\n10. Relaciones con los proveedores, Robert G. Fitzgihbons y J. M . Juran\n1 l. Producción de calidad, J. M. Juran\n12. Inspección y ensayo, J. M. Juran y Hardy M. Cook , Jr. \n13. Medición, J. M. Juran\n14. Marketing de la calidad, J. M. Juran\n15. Operaciones post-venta, J. M. Juran y Robert W. Peach\n16. Mejora de la calidad, J. M. Juran\n17. Personal, J. M. Juran\n18. Motivación, J. M. Juran\n19. Documentación: gestión de la configuración, Robert K. Ruzicka, Sr.\n20. Los ordenadores en el control de la calidad, J. E. Blum y R. S. Binhgam, Jr.\n2 l. La alta dirección y la calidad, J. M. Juran\n22. Métodos estadísticos básicos, Frank M. Gryna, Jr.\n23. Control de procesos por métodos estadísticos, C. A. Bicking y Frank M. Gryna, Jr.",
-    "portada": "https://books.google.com/books/content?id=a0-buufpTEAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=a0-buufpTEAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766521693368-74635f031c86e",
@@ -132,15 +900,16 @@
     "editorial": "Alfaomega",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Manufactura",
       "Producción",
       "Calidad"
     ],
-    "formato": "Físico",
     "notas": "El libro Lean Manufacturing en español, de Miguel Fernández Gómez, es una introducción clara y aplicada a los principios del Lean Manufacturing, especialmente pensada para el público hispanohablante. Su principal fortaleza radica en traducir conceptos que muchas veces se presentan de forma abstracta —como la eliminación de desperdicios (muda), la mejora continua (kaizen) y el enfoque en el valor para el cliente— en explicaciones prácticas y comprensibles.\n\nLa obra recorre los fundamentos del Sistema de Producción Toyota, mostrando cómo identificar ineficiencias en los procesos productivos y administrativos, y cómo abordarlas mediante herramientas concretas como el VSM (Value Stream Mapping), las 5S, el Just in Time y la estandarización del trabajo. El autor enfatiza que Lean no es solo un conjunto de técnicas, sino una filosofía de gestión que requiere cambio cultural, liderazgo y participación activa de las personas.\n\nEn términos de utilidad, el libro resulta especialmente valioso para estudiantes, profesionales de ingeniería, gestión de operaciones y jefaturas intermedias que buscan una guía práctica para iniciar o fortalecer la implementación de Lean en organizaciones industriales o de servicios. Su lenguaje sencillo, ejemplos directos y enfoque pedagógico lo convierten en un texto accesible y orientado a la acción, ideal como material de apoyo en cursos de gestión, mejora continua y excelencia operacional.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manufactura-de-clase-mundial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manufactura-de-clase-mundial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766521545582-db30c9fb77e698",
@@ -151,16 +920,17 @@
     "editorial": "Pearson Educación",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Calidad",
       "Economía",
       "Producción",
       "Negocios"
     ],
-    "formato": "Físico",
     "notas": "En este libro se tratan ocho áreas cruciales en relación con una organización eficiente: clientes, liderazgo, planificación estratégica, desarrollo y administracón de recursos humanos, medición, análisis y administración del conocimiento, administración de procesos, administración de proyectos y resultados del negocio.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=xBgQ9R2io5oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=xBgQ9R2io5oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766521481280-ceb1a3b429c82",
@@ -171,15 +941,16 @@
     "editorial": "Marcombo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Producción",
       "Economía",
       "Negocios"
     ],
-    "formato": "Físico",
     "notas": "Sin control de la productividad ningún tiempo o mejora se podrá implantar con toda la rentabilidad que podría devolver. Con este libro aprenderá: Cómo diseñar un sistema de control de la productividad y de retribución de incentivos. A interpretar los datos que devuelve dicho sistema. Cómo implantar la herramienta con todos los matices legales que conlleva. A gestionar la mejora continua a partir de los resultados. La presente obra está enriquecida con ejemplos prácticos, relatos y formatos para que se les pueda dar uso y asimilar los conceptos adquiridos. Se aportan extractos de los convenios laborales que afectan al control de la productividad para sus consideraciones legales.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/productividad-e-incentivos-como-hacer-que-los-tiempos-de-fabricacion-se-cumplan.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/productividad-e-incentivos-como-hacer-que-los-tiempos-de-fabricacion-se-cumplan.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766521358476-28c0efa1181d",
@@ -190,14 +961,15 @@
     "editorial": "Imagen",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mejora Continua",
       "Producción"
     ],
-    "formato": "Físico",
     "notas": "El libro Lean Manufacturing en español, de Miguel Fernández Gómez, es una introducción clara y aplicada a los principios del Lean Manufacturing, especialmente pensada para el público hispanohablante. Su principal fortaleza radica en traducir conceptos que muchas veces se presentan de forma abstracta —como la eliminación de desperdicios (muda), la mejora continua (kaizen) y el enfoque en el valor para el cliente— en explicaciones prácticas y comprensibles.\n\nLa obra recorre los fundamentos del Sistema de Producción Toyota, mostrando cómo identificar ineficiencias en los procesos productivos y administrativos, y cómo abordarlas mediante herramientas concretas como el VSM (Value Stream Mapping), las 5S, el Just in Time y la estandarización del trabajo. El autor enfatiza que Lean no es solo un conjunto de técnicas, sino una filosofía de gestión que requiere cambio cultural, liderazgo y participación activa de las personas.\n\nEn términos de utilidad, el libro resulta especialmente valioso para estudiantes, profesionales de ingeniería, gestión de operaciones y jefaturas intermedias que buscan una guía práctica para iniciar o fortalecer la implementación de Lean en organizaciones industriales o de servicios. Su lenguaje sencillo, ejemplos directos y enfoque pedagógico lo convierten en un texto accesible y orientado a la acción, ideal como material de apoyo en cursos de gestión, mejora continua y excelencia operacional.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-en-espanol-como-eliminar-desperdicios-e-incrementar-ganancias.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-en-espanol-como-eliminar-desperdicios-e-incrementar-ganancias.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766521144013-027682760a9e28",
@@ -208,14 +980,15 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Productividad"
     ],
-    "formato": "Físico",
     "notas": "En 1987 el premio Nobel Robert Solow bromeó, “Puedes ver el envejecimiento de una computadora en todos lados menos en las estadísticas de productividad”. Esta condición de costo pronto se dio a conocer como la “paradoja de la productividad”.\n\n\n¿Por qué persiste hoy en día? ¿Por qué los trabajadores del conocimiento pasan una tercera parte de su día en tareas de corrección innecesaria, trabajo evitable, y exceso de servicio a pesar de la tecnología empresarial que podría ayudar —e incluso automatizar— sus acciones? Y ¿por qué nadie lo nota?\n\n\nLa respuesta —y soluciones— a estas preguntas está en este libro. The Knowledge Work Factory devela la bienintencionada pérdida que se esconde virtualmente a simple vista de toda organización. Revela el arraigo al sesgo perceptual que engaña a nuestro cerebro a aceptar el estatus quo y la pérdida de oportunidades de progreso. Esto genera enormes paralelas en la producción industrial, la cual rompió este mismo código hace 100 años. Aunque lo más importante es que te da una guía de un solo paso fácil de llevar para impulsar la productividad, eficiencia y moral dentro del mismo conocimiento e los trabajadores que luchan contra la carga que imputa la paradoja de productividad.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-paradoja-de-la-productividad-en-la-era-del-conocimiento.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-paradoja-de-la-productividad-en-la-era-del-conocimiento.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766468180656-df6cdf459e794",
