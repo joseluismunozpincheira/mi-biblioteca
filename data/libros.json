@@ -1,5 +1,223 @@
 [
   {
+    "id": "libro-1766523458663-a153035d79e1",
+    "titulo": "Gestión de la productividad y el desempeño, cómo gestionar personas en distintos tipos de procesos y puestos",
+    "autor": "Andrés Pucheu",
+    "anio": 2021,
+    "isbn": "9789561428027",
+    "editorial": "Ediciones UC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Productividad"
+    ],
+    "formato": "Físico",
+    "notas": "En las últimas décadas se ha ido conformando una economía global, donde la demanda por innovación y desarrollo de servicios han impulsado la tecnología y cambios estructurales en el funcionamiento del Estado y las empresas. Al mismo tiempo, los cambios culturales aumentan la exigencia y el estrés en las relaciones con clientes, reguladores, proveedores e incluso al interior de cada equipo. En este contexto, la gestión del desempeño debe considerar algunos cambios esenciales. El primero es la integración de clientes y usuarios, de manera que puedan aprender y persistir hasta lograr los beneficios que requieren. Lo segundo es considerar que la adecuación de servicios e innovaciones aumenta la complejidad, de modo que se deben optimizar las capacidades y la flexibilidad de la estructura, dejando la estrategia de estandarización para aquellos procesos que son efectivamente automatizables. Finalmente, y dado lo anterior, es necesario gestionar el incremento del nivel de análisis de la gestión del desempeño individual, integrando también la gestión de equipos y los sistemas de información organizacional. Este libro revisa los modelos y herramientas asociados a la gestión del desempeño contemporánea, explicando también su evaluación y los elementos prácticos de su implementación. \" En este texto seguiremos el proceso de optimización de la productividad y el desempeño, desde los elementos más generales hasta el proceso de retroalimentación y generación de planes de mejora individual. Autor: Juan Andrés Pucheu Editorial: Ediciones Uc Año: 2021 Idioma: Español N° páginas: 402 Encuadernación: Tapa blanda Isbn: 9789561428027",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gestion-de-la-productividad-y-el-desempeno-como-gestionar-personas-en-distintos-tipos-de-procesos-y-puestos.jpg"
+  },
+  {
+    "id": "libro-1766523284998-99ffdf82c6257",
+    "titulo": "Productividad minera en Chile, diagnóstico y propuestas",
+    "autor": "Hernán de Solminihac T., Joaquín Dagá K.",
+    "anio": 2018,
+    "isbn": "9789561422834",
+    "editorial": "Ediciones UC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Productividad"
+    ],
+    "formato": "Físico",
+    "notas": "\"La actividad minera ha sido un motor de desarrollo histórico para Chile y, por lo mismo, el crecimiento económico del país es altamente dependiente del grado de eficiencia en el uso de los recursos asociados a este sector. Este libro elabora un diagnóstico actualizado y detallado de la evolución de la productividad minera de Chile en los últimos 20 años y la compara con la de otros países mineros…",
+    "comentarios": "El libro Productividad Minera en Chile: Diagnóstico y Propuestas ofrece un análisis riguroso y contextualizado de uno de los principales desafíos estructurales de la minería chilena: la desaceleración de la productividad. A partir de evidencia empírica y revisión comparada, la obra identifica factores técnicos, organizacionales y sistémicos que han incidido en el desempeño del sector, tales como la complejidad geológica, el envejecimiento de yacimientos, la gestión del capital humano, la adopción tecnológica y los marcos regulatorios.\n\nEl texto destaca por su enfoque integral, combinando diagnóstico cuantitativo con propuestas concretas orientadas a la mejora operacional y estratégica. Se abordan líneas de acción vinculadas a innovación, mantenimiento y confiabilidad, gestión de activos, estandarización de procesos, seguridad y sostenibilidad, así como a la coordinación entre empresas, proveedores, academia y Estado. La mirada de largo plazo es un eje central: elevar la productividad requiere cambios en capacidades, gobernanza y cultura organizacional, más allá de iniciativas aisladas.\n\nPor su claridad analítica y orientación a políticas y decisiones empresariales, el libro resulta especialmente valioso para profesionales de la industria minera, gestores públicos, académicos y estudiantes de ingeniería y economía. En síntesis, constituye un aporte relevante para comprender las causas de la brecha de productividad y delinear rutas factibles para fortalecer la competitividad y sostenibilidad de la minería en Chile.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/productividad-minera-en-chile-diagnostico-y-propuestas.jpg"
+  },
+  {
+    "id": "libro-1766523161946-f82dbbd80be608",
+    "titulo": "Productividad operacional: factores determinantes",
+    "autor": "Jorge Antunez, Yajaira Alvarado, Xavier Pirela",
+    "anio": 2013,
+    "isbn": "9783659066535",
+    "editorial": "Editorial Academica Espanola",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Productividad"
+    ],
+    "formato": "Físico",
+    "notas": "El objetivo del presente trabajo se enmarcó en determinar los factores determinantes de la productividad operacional en los laboratorios de ingeniería mecánica de las instituciones universitarias públicas del estado Zulia. Teóricamente la investigación se sustentó por los aportes teóricos de Druker (2002), Díaz (2000), Chiavenato (2002), Bittel y Ramsey (2000) entre otros. La metodología se contex…",
+    "comentarios": "Un análisis en los laboratorios de ingeniería mecánica de las instituciones universitarias públicas del estado Zulia",
+    "portada": "https://books.google.com/books/content?id=3umyzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766522903420-70fed36b6c3cb",
+    "titulo": "Lean manufacturing, herramientas para producir mejor",
+    "autor": "Manel Rajadell Carreras",
+    "anio": 2021,
+    "isbn": "9788490523476",
+    "editorial": "Ediciones Diaz de Santos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Lean",
+      "Empresa"
+    ],
+    "formato": "Físico",
+    "notas": "Este manual pretende mostrar la manera de \"hacer más y más con menos y menos… de forma diferente\". El objetivo en una organización no es la reducción de los costes, sino la disminucióndel despilfarro y en el mejor de los casos sueliminación, es decir toda aquella actividad que no aporte valor añadido, lo que implica de forma directa la reducción de los costes y la mejora de la cuenta de resultados. El pensamiento lean manufacturing integra una serie de herramientas para llevar a cabo este propósito. Las empresas necesitan incorporar la excelencia en la función de producción para ser más competitivas en un mundo globalizado. La necesaria formación en esta área de conocimiento permitirá avanzar en esta dirección de vital importancia, y las herramientas lean pueden ejercer una notable contribución en este objetivo. En este libro se exponen dichas herramientas de una manera amena y cohesionada de principio a fin. En la elaboración de los contenidos se ha tenido en cuenta que, lo importante es pasar de la teoría a la práctica. Para satisfacer este requerimiento se han inc",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-herramientas-para-producir-mejor.jpg"
+  },
+  {
+    "id": "libro-1766522667737-d692309d0decb",
+    "titulo": "Lean Manufacturing Paso a Paso",
+    "autor": "Luis Socconini",
+    "anio": 2019,
+    "isbn": "9789587785746",
+    "editorial": "Alfaomega",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mejora Continua",
+      "Producción",
+      "Lean"
+    ],
+    "formato": "Físico",
+    "notas": "Este es un libro práctico, ameno y didáctico para quienes se inician en la cultura Lean. El lenguaje utilizado en las técnicas y herramientas permite comprender el sistema de gestión Lean Six Sigma con facilidad y, además, establece una metodología adaptable a cualquier proceso de mejora. Desde el conocimiento detallado de los procesos, Lean Manufacturing incentiva la innovación, la disciplina y la búsqueda continua de la excelencia, mediante herramientas que mejoran la efectividad de los equipos, los tiempos de entrega y, en conjunto, la capacidad y competitividad de las empresas. Paso a paso, es libro permite descubrir y aplicar técnicas de control de materiales y de producción que incrementan la calidad, mejoran la comunicación y el acceso a la información y aportan reducciones significativas de energía.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-paso-a-paso.jpg"
+  },
+  {
+    "id": "libro-1766521795624-919b96e85c0a1",
+    "titulo": "Manual de control de la calidad",
+    "autor": "Joseph M. Juran, Frank M. Gryna, R. S. Bingham",
+    "anio": 1983,
+    "isbn": "9788429126525",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Calidad",
+      "Producción"
+    ],
+    "formato": "Físico",
+    "notas": "Esta segunda edición del Manual de control de la calidad correspondiente a la tercera edición original se ha distinguido siempre como un trabajo de referencia para directores, supervisores e ingenieros en la industria. Aunque el uso primario del Manual ha sido como un trabajo de referencia o comparación ha tenido un sustancial uso adicional como texto de adiestramiento.",
+    "comentarios": "24. Muestreo por atributos, J. M. Wiesen\n25. M u es treo por variables, Edward G. Schilling, Ph.D.\n25A. Muestreo de materiales a granel, Acheson J. Duncan, Ph.D.\n26. Análisis de regresión, John S. Ramberg. Ph.D.\n27. Planificación y análisis de experimentos, Mary G. Natrella\n27 A. Operación evolutiva, E. Harvey Barnett\n28. Metodología de la superficie de respuesta, William G. Hunter y Truman L. Koehler\n29. Industrias de procesos químicos, C. A. Bicking, John D. Hinchen y R. S. Bingham, Jr.\n30. Industrias del papel, A. H. Jaehn y R. S. Bingham. Jr.\n31. Industrias alimentarias y afines, Dr. H. L. Stier\n32. Industrias farmacéutica y afines, H. Lathan Breunig, Ph.D. \n33. Industria metalúrgica, Dr. C. H. Wa/den\n34. El control de la calidad en la fundición, K. F. Packer y W. C. Truckenmiller\n35. Trabajo de los metales, Shiro Matsuzaki\n36A. Moldeo de plásticos, John C. Louer\n368. Calidad de las películas de plástico, T. R. Jones\n37. Componentes mecánicos, l wao lwasaki\n38. Componentes electrónicos, Edwin S. Shecter\n39. Productos textiles, John H. Reynolds\n40. Industria de las artes gráficas, La wrence J. Schewe\n41. Control de calidad en el montaje, A. J. Hitze/berger\n42. Industria del automóvil, Soichiro To voda\n43. Electrodomésticos, Lennart Sandholm\n44. Sistemas complejos, Dr. Leslie W. Ball,\n45. La calidad en un taller de trabajos variados, Leonard A. Seder\n46. Operaciones auxiliares, Dr. Sigmund P. Zobel\n47. Empresas de servicios, J. M. Juran y R. S. Bingham, fr.\n48. Control de la calidad y cultura nacional, J. M. Juran\n48A. El control de la calidad en los países socialistas, Priíjesor F. Egermayer, RN Dr. , Dr., Se.",
+    "portada": "https://books.google.com/books/content?id=a0-buufpTEAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766521762966-098f1c03fd61c8",
+    "titulo": "Manual de control de la calidad",
+    "autor": "Joseph M. Juran, Frank M. Gryna, R. S. Bingham",
+    "anio": 1983,
+    "isbn": "9788429126525",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Calidad",
+      "Producción"
+    ],
+    "formato": "Físico",
+    "notas": "Esta segunda edición del Manual de control de la calidad correspondiente a la tercera edición original se ha distinguido siempre como un trabajo de referencia para directores, supervisores e ingenieros en la industria. Aunque el uso primario del Manual ha sido como un trabajo de referencia o comparación ha tenido un sustancial uso adicional como texto de adiestramiento.",
+    "comentarios": "l. Cómo emplear este Manual, J. M. Juran\n2. Conceptos básicos, J. M. Juran\n3. Políticas y objetivos de la calidad,J. M. Juran\n4 .Calidad e ingresos, J. M . Juran\n5. Costes de la calidad, Daniel M. Lundvall y J. M. Juran\n6. Planificación de la calidad, Richard J. Pierce\n7. Organización, J. M. Juran\n8. Calidad de un nuevo producto, H. D. Voeg tlen\n9. Planificación de la fabricación, Dona/d N. Ek va/1 y J. M. Juran\n10. Relaciones con los proveedores, Robert G. Fitzgihbons y J. M . Juran\n1 l. Producción de calidad, J. M. Juran\n12. Inspección y ensayo, J. M. Juran y Hardy M. Cook , Jr. \n13. Medición, J. M. Juran\n14. Marketing de la calidad, J. M. Juran\n15. Operaciones post-venta, J. M. Juran y Robert W. Peach\n16. Mejora de la calidad, J. M. Juran\n17. Personal, J. M. Juran\n18. Motivación, J. M. Juran\n19. Documentación: gestión de la configuración, Robert K. Ruzicka, Sr.\n20. Los ordenadores en el control de la calidad, J. E. Blum y R. S. Binhgam, Jr.\n2 l. La alta dirección y la calidad, J. M. Juran\n22. Métodos estadísticos básicos, Frank M. Gryna, Jr.\n23. Control de procesos por métodos estadísticos, C. A. Bicking y Frank M. Gryna, Jr.",
+    "portada": "https://books.google.com/books/content?id=a0-buufpTEAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766521693368-74635f031c86e",
+    "titulo": "Manufactura de clase mundial",
+    "autor": "Juan Izar Landeta",
+    "anio": 2016,
+    "isbn": "9786076227039",
+    "editorial": "Alfaomega",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Manufactura",
+      "Producción",
+      "Calidad"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Lean Manufacturing en español, de Miguel Fernández Gómez, es una introducción clara y aplicada a los principios del Lean Manufacturing, especialmente pensada para el público hispanohablante. Su principal fortaleza radica en traducir conceptos que muchas veces se presentan de forma abstracta —como la eliminación de desperdicios (muda), la mejora continua (kaizen) y el enfoque en el valor para el cliente— en explicaciones prácticas y comprensibles.\n\nLa obra recorre los fundamentos del Sistema de Producción Toyota, mostrando cómo identificar ineficiencias en los procesos productivos y administrativos, y cómo abordarlas mediante herramientas concretas como el VSM (Value Stream Mapping), las 5S, el Just in Time y la estandarización del trabajo. El autor enfatiza que Lean no es solo un conjunto de técnicas, sino una filosofía de gestión que requiere cambio cultural, liderazgo y participación activa de las personas.\n\nEn términos de utilidad, el libro resulta especialmente valioso para estudiantes, profesionales de ingeniería, gestión de operaciones y jefaturas intermedias que buscan una guía práctica para iniciar o fortalecer la implementación de Lean en organizaciones industriales o de servicios. Su lenguaje sencillo, ejemplos directos y enfoque pedagógico lo convierten en un texto accesible y orientado a la acción, ideal como material de apoyo en cursos de gestión, mejora continua y excelencia operacional.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manufactura-de-clase-mundial.jpg"
+  },
+  {
+    "id": "libro-1766521545582-db30c9fb77e698",
+    "titulo": "Administracion de La Calidad",
+    "autor": "Donna C. S. Summers",
+    "anio": 2006,
+    "isbn": "9789702608134",
+    "editorial": "Pearson Educación",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Calidad",
+      "Economía",
+      "Producción",
+      "Negocios"
+    ],
+    "formato": "Físico",
+    "notas": "En este libro se tratan ocho áreas cruciales en relación con una organización eficiente: clientes, liderazgo, planificación estratégica, desarrollo y administracón de recursos humanos, medición, análisis y administración del conocimiento, administración de procesos, administración de proyectos y resultados del negocio.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=xBgQ9R2io5oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766521481280-ceb1a3b429c82",
+    "titulo": "Productividad e incentivos : cómo hacer que los tiempos de fabricación se cumplan",
+    "autor": "José Agustín Cruelles Ruiz",
+    "anio": 2013,
+    "isbn": "9788426717917",
+    "editorial": "Marcombo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Producción",
+      "Economía",
+      "Negocios"
+    ],
+    "formato": "Físico",
+    "notas": "Sin control de la productividad ningún tiempo o mejora se podrá implantar con toda la rentabilidad que podría devolver. Con este libro aprenderá: Cómo diseñar un sistema de control de la productividad y de retribución de incentivos. A interpretar los datos que devuelve dicho sistema. Cómo implantar la herramienta con todos los matices legales que conlleva. A gestionar la mejora continua a partir de los resultados. La presente obra está enriquecida con ejemplos prácticos, relatos y formatos para que se les pueda dar uso y asimilar los conceptos adquiridos. Se aportan extractos de los convenios laborales que afectan al control de la productividad para sus consideraciones legales.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/productividad-e-incentivos-como-hacer-que-los-tiempos-de-fabricacion-se-cumplan.jpg"
+  },
+  {
+    "id": "libro-1766521358476-28c0efa1181d",
+    "titulo": "Lean Manufacturing En Español: Cómo Eliminar Desperdicios E Incrementar Ganancias",
+    "autor": "Miguel Fernandez Gomez",
+    "anio": 2014,
+    "isbn": "09781681272276",
+    "editorial": "Imagen",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mejora Continua",
+      "Producción"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Lean Manufacturing en español, de Miguel Fernández Gómez, es una introducción clara y aplicada a los principios del Lean Manufacturing, especialmente pensada para el público hispanohablante. Su principal fortaleza radica en traducir conceptos que muchas veces se presentan de forma abstracta —como la eliminación de desperdicios (muda), la mejora continua (kaizen) y el enfoque en el valor para el cliente— en explicaciones prácticas y comprensibles.\n\nLa obra recorre los fundamentos del Sistema de Producción Toyota, mostrando cómo identificar ineficiencias en los procesos productivos y administrativos, y cómo abordarlas mediante herramientas concretas como el VSM (Value Stream Mapping), las 5S, el Just in Time y la estandarización del trabajo. El autor enfatiza que Lean no es solo un conjunto de técnicas, sino una filosofía de gestión que requiere cambio cultural, liderazgo y participación activa de las personas.\n\nEn términos de utilidad, el libro resulta especialmente valioso para estudiantes, profesionales de ingeniería, gestión de operaciones y jefaturas intermedias que buscan una guía práctica para iniciar o fortalecer la implementación de Lean en organizaciones industriales o de servicios. Su lenguaje sencillo, ejemplos directos y enfoque pedagógico lo convierten en un texto accesible y orientado a la acción, ideal como material de apoyo en cursos de gestión, mejora continua y excelencia operacional.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-manufacturing-en-espanol-como-eliminar-desperdicios-e-incrementar-ganancias.jpg"
+  },
+  {
+    "id": "libro-1766521144013-027682760a9e28",
+    "titulo": "La paradoja de la productividad en la era del conocimiento",
+    "autor": "William F. Heitman",
+    "anio": 2021,
+    "isbn": "9786071514905",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Productividad"
+    ],
+    "formato": "Físico",
+    "notas": "En 1987 el premio Nobel Robert Solow bromeó, “Puedes ver el envejecimiento de una computadora en todos lados menos en las estadísticas de productividad”. Esta condición de costo pronto se dio a conocer como la “paradoja de la productividad”.\n\n\n¿Por qué persiste hoy en día? ¿Por qué los trabajadores del conocimiento pasan una tercera parte de su día en tareas de corrección innecesaria, trabajo evitable, y exceso de servicio a pesar de la tecnología empresarial que podría ayudar —e incluso automatizar— sus acciones? Y ¿por qué nadie lo nota?\n\n\nLa respuesta —y soluciones— a estas preguntas está en este libro. The Knowledge Work Factory devela la bienintencionada pérdida que se esconde virtualmente a simple vista de toda organización. Revela el arraigo al sesgo perceptual que engaña a nuestro cerebro a aceptar el estatus quo y la pérdida de oportunidades de progreso. Esto genera enormes paralelas en la producción industrial, la cual rompió este mismo código hace 100 años. Aunque lo más importante es que te da una guía de un solo paso fácil de llevar para impulsar la productividad, eficiencia y moral dentro del mismo conocimiento e los trabajadores que luchan contra la carga que imputa la paradoja de productividad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-paradoja-de-la-productividad-en-la-era-del-conocimiento.jpg"
+  },
+  {
     "id": "libro-1766468180656-df6cdf459e794",
     "titulo": "La curiosa historia de las matemáticas : las grandes ideas desde los primeros conceptos a la teoría del caos",
     "autor": "Joel Levy",
@@ -8,13 +226,14 @@
     "editorial": "Libsa",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Este libro propone un viaje fascinante por toda la evolución de las matemáticas a lo largo de los distintos periodos históricos, utilizando un lenguaje sencillo y fácil de entender. Una vez comprendida la lógica de muchas de las operaciones, teorías y sistemas matemáticos, el miedo a este campo científico se esfumará para siempre y nos permitirá comprender que vivimos rodeados de números, operacio…",
     "comentarios": "La curiosa historia de las matemáticas, de Joel Levy, es un libro de divulgación que ofrece un recorrido amplio, visual y narrativo por la historia de las matemáticas, desde los primeros sistemas de conteo hasta los desarrollos más modernos como la teoría del caos y los sistemas complejos.\n\nLa obra está organizada como un viaje cronológico por las grandes ideas matemáticas que han marcado la evolución del pensamiento humano: números y geometría en las civilizaciones antiguas, el surgimiento del álgebra, el cálculo infinitesimal, la probabilidad, la lógica y las matemáticas del siglo XX. Cada etapa se presenta de forma sintética, destacando los conceptos clave y a los protagonistas que los impulsaron.\n\nUno de los principales aciertos del libro es su enfoque visual y didáctico: ilustraciones, esquemas y ejemplos breves ayudan a comprender ideas que suelen parecer abstractas, haciendo la lectura accesible incluso para lectores sin formación matemática. El texto no busca profundidad técnica, sino comprensión conceptual y contexto histórico, mostrando cómo las matemáticas evolucionan en diálogo con la ciencia, la filosofía y la sociedad.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-curiosa-historia-de-las-matematicas-las-grandes-ideas-desde-los-primeros-conceptos-a-la-teoria-del-caos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-curiosa-historia-de-las-matematicas-las-grandes-ideas-desde-los-primeros-conceptos-a-la-teoria-del-caos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766468029570-13c3e4e87874c8",
@@ -25,14 +244,15 @@
     "editorial": "Oceano",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Física",
       "Mecánica Cuántica"
     ],
-    "formato": "Físico",
     "notas": "Viajes en el tiempo, agujeros negros, motores de antimateria, aceleración del universo? La física moderna suena a película, pero es ciencia, de la de verdad verdadera, la que nos cuenta una historia fascinante de descubrimientos y sueños cumplidos, de luchas y disputas, de pasión por comprender la naturaleza.\n\nEste divertido libro te ayudará a entender de una vez por todas lo que nos rodea, desde lo más pequeño a lo más grande, y a saber que el bosón de Higgs no te va a hacer la cama, ¡ni aunque le insistas!",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=xFGrzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=xFGrzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766467871537-0712a715710e98",
@@ -43,15 +263,16 @@
     "editorial": "Critica",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia",
       "Divulgación",
       "Física"
     ],
-    "formato": "Físico",
     "notas": "Las diez claves de la realidad, de Frank Wilczek, es una obra de divulgación que propone una síntesis profunda y accesible de la física fundamental para comprender la estructura última del mundo. A partir de diez “claves”, el autor recorre los principios que, según la ciencia contemporánea, organizan la realidad: simetría, leyes, partículas, campos, información y complejidad, entre otros.\n\nCon un estilo claro y reflexivo, Wilczek conecta la física teórica —desde el modelo estándar hasta ideas sobre la emergencia— con preguntas filosóficas clásicas acerca de qué es real y por qué. Sin caer en tecnicismos innecesarios, explica conceptos exigentes con metáforas precisas y ejemplos bien elegidos, mostrando cómo la belleza matemática y la simetría han guiado los mayores avances científicos.\n\nEl libro destaca por su ambición integradora: no se limita a exponer resultados, sino que invita a pensar la ciencia como un proyecto intelectual en curso, donde la información y los patrones adquieren un papel central. Es una lectura que estimula tanto la curiosidad como el pensamiento crítico, y que dialoga con la filosofía sin perder el rigor científico.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-diez-claves-de-la-realidad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-diez-claves-de-la-realidad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766467673255-4433cf7a9d48c",
@@ -62,14 +283,15 @@
     "editorial": "Planeta",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Novela"
     ],
-    "formato": "Físico",
     "notas": "Pitágoras en el parque Bustamante, grandes genios matemáticos pasean por Santiago, gozando de su inmortalidad junto a Gabriela Mistral y Violeta Parra. La unidad de todas las cosas es quien provoca esta inmortalidad alcanzada mediante la iluminación? Jean Pierre Gonzalo, el protagonista, buscando poner fin a su vida, contrata una asesina profesional, así comienza esta fabulosa novela en que no están ausentes, la acción, la historia, los grandes teoremas, la poesía y el amor?. Simplemente Editores ISBN: 978-956-8865-76-4 Tapa blanda",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-unidad-de-todas-las-cosas-una-novela-matematica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-unidad-de-todas-las-cosas-una-novela-matematica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766467453863-f5080cc8113ab8",
@@ -80,13 +302,14 @@
     "editorial": "Crítica",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Matemáticas: una historia de amor y odio, de Reuben Hersh y Vera John-Steiner, es una obra singular que explora las matemáticas desde una perspectiva humana, cultural y emocional, alejándose deliberadamente de la visión puramente técnica o formal de la disciplina.\n\nEl libro sostiene que las matemáticas no son una verdad abstracta flotando fuera del mundo, sino una creación humana, desarrollada en contextos sociales, históricos y personales concretos. A lo largo de sus páginas, los autores muestran por qué las matemáticas despiertan sentimientos tan contrapuestos —admiración y rechazo, fascinación y miedo— tanto en estudiantes como en la sociedad en general.\n\nMediante relatos históricos, reflexiones pedagógicas y testimonios de matemáticos, la obra aborda temas como la creatividad matemática, el aprendizaje, la enseñanza, el papel de la intuición y el impacto cultural de las matemáticas. Se critica la enseñanza excesivamente formalista y se reivindica una comprensión más rica, donde el error, la colaboración y la imaginación son elementos centrales.\n\nUno de los grandes aportes del libro es su mirada interdisciplinaria, que conecta matemáticas con psicología, educación, filosofía y sociología. Esto permite entender por qué muchas personas “odian” las matemáticas no por su dificultad intrínseca, sino por la forma en que suelen ser presentadas y evaluadas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/matematicas-una-historia-de-amor-y-odio.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/matematicas-una-historia-de-amor-y-odio.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766467387233-7044807d1ab698",
@@ -97,14 +320,15 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Fisica",
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "\"Einstein y la relatividad\" de Paul Strathern es un libro de la serie \"En 90 minutos\" que explica de forma accesible la vida de Albert Einstein y sus revolucionarias teorías de la relatividad (Especial y General), introduciendo conceptos como el espacio-tiempo, la dilatación del tiempo y la gravedad como curvatura, fundamentales para entender la física moderna y el universo",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=Ks6woAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=Ks6woAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766467280749-94fb1c5d374f68",
@@ -115,13 +339,14 @@
     "editorial": "Debolsillo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia Ficción"
     ],
-    "formato": "Físico",
     "notas": "Viaje alucinante, de Isaac Asimov, es una novela de ciencia ficción clásica que combina aventura, divulgación científica e imaginación tecnológica en una historia tan audaz como sugestiva. La obra parte de una premisa fascinante: la miniaturización de un grupo de científicos y su introducción en el cuerpo humano para salvar una vida.\n\nLa narración sigue una misión contrarreloj dentro del organismo de un paciente, donde el cuerpo humano se convierte en un universo complejo y hostil, lleno de peligros biológicos que deben ser sorteados con ingenio y conocimiento científico. Asimov aprovecha la trama para explicar, de forma accesible, procesos básicos de la fisiología humana, integrando ciencia real con especulación tecnológica.\n\nUno de los grandes méritos del libro es su capacidad para estimular la curiosidad científica sin sacrificar el ritmo narrativo. La tensión, el suspenso y los conflictos humanos se entrelazan con explicaciones claras, fieles al estilo divulgador característico de Asimov. Aunque algunas ideas reflejan el contexto científico de su época, la novela mantiene intacto su poder de asombro.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/viaje-alucinante.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/viaje-alucinante.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766466707718-45b2922d1b45b",
@@ -132,15 +357,16 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Genética",
       "Política",
       "Sociedad"
     ],
-    "formato": "Físico",
     "notas": "La humanidad del genoma: ADN, política y sociedad, de Alberto Kornblihtt, es un libro de divulgación científica que analiza el impacto social, político y cultural del conocimiento genético, alejándose deliberadamente de una visión reduccionista del ADN como simple “programa” biológico.\n\nLa obra cuestiona el determinismo genético, explicando que los genes no actúan de forma aislada ni dictan inexorablemente el destino humano. Kornblihtt introduce conceptos clave como la regulación génica, la interacción con el ambiente y la complejidad de los sistemas biológicos, mostrando que el genoma funciona de manera dinámica y contextual. De este modo, desmonta ideas simplistas sobre inteligencia, conducta, salud o desigualdad basadas exclusivamente en la genética.\n\nUno de los grandes méritos del libro es su dimensión crítica y ética. El autor reflexiona sobre el uso político y económico del discurso genético, abordando temas como la biotecnología, la medicalización, la propiedad del conocimiento científico y las implicancias sociales de la investigación en ADN. El texto conecta la biología molecular con debates contemporáneos sobre justicia social, educación y políticas públicas.\n\nEscrito con claridad, humor y compromiso intelectual, La humanidad del genoma resulta accesible tanto para lectores no especializados como para estudiantes y docentes. En conjunto, es una obra lúcida y necesaria, que reivindica una ciencia con conciencia, y muestra que comprender el genoma implica también comprender a la sociedad que produce y utiliza ese conocimiento.",
     "comentarios": "¿Qué mayor misterio que la vida misma, esa cocina donde se mezcla lo que traemos de fábrica con lo que los biólogos llaman “el ambiente”? En este libro, uno de los más importantes científicos “industria argentina” (pero que también exportamos al mundo) enseña los secretos de la biología con la misma pasión que pone en sus clases e investigaciones. ¿Existen las razas humanas? ¿Se pued...",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-humanidad-del-genoma-adn-politica-y-sociedad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-humanidad-del-genoma-adn-politica-y-sociedad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766466325244-6f85176b2a87c",
@@ -151,14 +377,15 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Biología",
       "Genética"
     ],
-    "formato": "Físico",
     "notas": "En este libro, Raúl Alzogaray nos ayuda a descubrir los secretos del ADN a través de historias reales de detectives, sacerdotes, emperadores, de hombres y mujeres. Así nos convence de que conocer el ADN, su historia, su ciencia y sus aplicaciones supone también conocernos un poco más a nosotros mismos. Nadie puede negar la importancia, real y potencial, del desciframiento del genoma humano, tanto en términos científicos y médicos como en sus aspectos económicos y políticos.",
     "comentarios": "Una tumba para los Romanov (y otras historias con ADN), de Raúl A. Alzogaray, es un libro de divulgación científica que utiliza casos reales e históricos para mostrar cómo el ADN y la genética molecular se han convertido en herramientas clave para resolver misterios del pasado.\n\nEl eje central del libro es el célebre caso de la familia Romanov, cuya identificación definitiva fue posible gracias al análisis genético. A partir de este episodio, el autor presenta otras historias igualmente fascinantes en las que la genética actúa como una forma moderna de investigación detectivesca, combinando ciencia, historia y criminalística.\n\nCon un estilo narrativo claro y cercano, la obra explica conceptos fundamentales como herencia genética, ADN mitocondrial, huellas genéticas y técnicas de identificación, sin exigir conocimientos previos. El mérito del libro está en traducir procedimientos científicos complejos en relatos comprensibles y atractivos, manteniendo el rigor sin perder fluidez.\n\nMás allá del caso histórico, el texto invita a reflexionar sobre el poder de la ciencia para reconstruir la verdad, así como sobre los límites éticos y sociales del uso del ADN. La genética aparece no solo como una disciplina de laboratorio, sino como una herramienta cultural capaz de dialogar con la historia, la justicia y la memoria colectiva.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/una-tumba-para-los-romanov-y-otras-historias-con-adn.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/una-tumba-para-los-romanov-y-otras-historias-con-adn.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766466095485-e951522ff8da6",
@@ -169,13 +396,14 @@
     "editorial": "RBA",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Genética"
     ],
-    "formato": "Físico",
     "notas": "Código genético: Descifra los secretos de tus genes, de Salvador Ferré y Mireia Ramos, es un libro de divulgación científica que acerca al lector al funcionamiento del ADN y de los genes, explicando cómo la información genética se codifica, se transmite y se expresa en los seres vivos.\n\nLa obra presenta de manera clara y accesible conceptos fundamentales como el ADN, el código genético, la herencia, las mutaciones y la relación entre genes y características biológicas, mostrando cómo estos procesos influyen en la salud, la evolución y la diversidad humana. Los autores traducen un campo altamente técnico en un lenguaje comprensible, sin sacrificar el rigor científico.\n\nUno de los aspectos más valiosos del libro es su conexión con temas actuales, como la medicina personalizada, los tests genéticos, la biotecnología y las implicancias éticas del conocimiento genómico. El texto invita al lector a reflexionar sobre hasta qué punto los genes determinan quiénes somos y cuál es el papel del ambiente y las decisiones personales.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-codigo-genetico-descifra-los-secretos-de-tus-genes.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-codigo-genetico-descifra-los-secretos-de-tus-genes.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766465957682-a534c2a48a2d2",
@@ -186,13 +414,14 @@
     "editorial": "Tecnos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "Tratado contra el método, de Paul Feyerabend, es una de las obras más provocadoras e influyentes de la filosofía de la ciencia del siglo XX. En este libro, Feyerabend cuestiona de forma radical la idea de que exista un método científico universal, racional y fijo que garantice el progreso del conocimiento.\n\nLa tesis central de la obra se resume en su célebre lema “todo vale” (anything goes): el autor sostiene que, históricamente, los grandes avances científicos no se produjeron siguiendo reglas metodológicas estrictas, sino rompiéndolas. A través de ejemplos tomados de la historia de la ciencia —como Galileo, la revolución copernicana o el desarrollo de la física moderna— Feyerabend muestra que la creatividad, la heterodoxia y hasta el error han sido motores esenciales del progreso científico.\n\nEl libro es también una crítica frontal al cientificismo, es decir, a la idea de que la ciencia posee un estatus epistemológico superior y exclusivo frente a otras formas de conocimiento. Feyerabend defiende un pluralismo epistemológico, en el que la ciencia convive con otras tradiciones culturales, filosóficas y prácticas, sin pretensiones de monopolio de la verdad.\n\nEscrito con un estilo combativo, irónico y ensayístico, Tratado contra el método no busca ofrecer un sistema alternativo cerrado, sino desestabilizar certezas, obligando al lector a repensar qué es la ciencia, cómo avanza y qué papel juega en la sociedad.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tratado-contra-el-metodo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tratado-contra-el-metodo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766465725702-6d1bf2d03c5978",
@@ -203,14 +432,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Biología",
       "Evolución"
     ],
-    "formato": "Físico",
     "notas": "La caja negra de Darwin, de Michael J. Behe, es una obra de divulgación científica polémica y provocadora que cuestiona algunos supuestos centrales del neodarwinismo desde la perspectiva de la bioquímica molecular.\n\nEl libro introduce el concepto de complejidad irreducible, con el que Behe argumenta que ciertos sistemas bioquímicos —como el flagelo bacteriano, la coagulación sanguínea o los mecanismos de la visión— están formados por múltiples componentes interdependientes, de modo que no podrían funcionar si faltara alguno. Según el autor, esta característica dificultaría explicar su origen mediante una sucesión gradual de pequeñas mutaciones seleccionadas naturalmente.\n\nCon un estilo claro y accesible, Behe presenta numerosos ejemplos tomados de la biología molecular moderna, subrayando lo que él denomina la “caja negra” del darwinismo: los detalles mecanísticos internos de la célula que, a su juicio, la teoría evolutiva clásica no explicaría de manera suficiente. El texto está cuidadosamente argumentado y escrito para un público amplio, sin requerir formación avanzada en bioquímica.\n\nSin embargo, el libro ha generado amplio debate y fuertes críticas en la comunidad científica. Muchos biólogos consideran que sus conclusiones no se sostienen a la luz de investigaciones posteriores y que la complejidad irreducible puede explicarse mediante procesos evolutivos conocidos, como la cooptación y la evolución de funciones. Por ello, la obra es tan relevante por su contenido como por la discusión que ha suscitado.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-caja-negra-de-darwin-el-reto-de-la-bioquimica-a-la-evolucion.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-caja-negra-de-darwin-el-reto-de-la-bioquimica-a-la-evolucion.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766465546917-c9211869746188",
@@ -221,13 +451,14 @@
     "editorial": "Crítica",
     "coleccion": "Drakontos",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "“Las ecuaciones, esos conjuntos de números y símbolos separados por el signo igual, son el alma de las matemáticas, la ciencia y la tecnología. Sin ellas, nuestro mundo no existiría en su forma actual: escondidas para muchos, han constituido una fuerza motriz en la civilización humana durante miles de años, abriendo nuevas perspectivas en campos tan variados como las comunicaciones, la tecnología espacial o la física nuclear. Que así es, es algo que se encarga de demostrar, con su maestría habitual, el distinguido matemático y reputado divulgador Ian Stewart. Para ello ha seleccionado 17 ecuaciones, pertenecientes a dos grupos diferentes. Uno es el de las ecuaciones que revelan regularidades matemáticas, como el teorema de Pitágoras, que nos dice cómo están relacionados los tres lados de un triángulo rectángulo, mientras que el otro es el de las ecuaciones que expresan leyes de la naturaleza, como la ley de gravitación universal de Newton, las ecuaciones del electromagnetismo de Maxwell, la ecuación de Schrödinger de la mecánica cuántica, o la ecuación desarrollada por Claude Shannon que define cuánta información contiene un mensaje.”",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/17-ecuaciones-que-cambiaron-el-mundo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/17-ecuaciones-que-cambiaron-el-mundo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766465317741-40a9a8b8f81808",
@@ -238,13 +469,14 @@
     "editorial": "LOM",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "La conspiración de Babel, de Eric Goles, es una obra de divulgación ensayística que reflexiona sobre el lenguaje, el conocimiento y la comunicación científica, tomando como metáfora central el mito bíblico de la Torre de Babel.\n\nEl libro explora cómo el crecimiento del conocimiento, la especialización extrema y la proliferación de lenguajes técnicos han generado una suerte de “nueva Babel” en la ciencia contemporánea: disciplinas que avanzan rápidamente, pero que a menudo pierden la capacidad de dialogar entre sí. Goles analiza este fenómeno desde su experiencia como científico, combinando matemáticas, computación, sistemas complejos y reflexión filosófica.\n\nCon un estilo claro, personal y profundamente reflexivo, el autor plantea preguntas sobre los límites de la especialización, el rol del lenguaje formal en la ciencia y la necesidad de reconstruir puentes entre disciplinas. Lejos de una crítica pesimista, el libro propone una mirada lúcida y constructiva, invitando a recuperar el diálogo interdisciplinario y la comprensión mutua como condiciones para el avance del conocimiento.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-conspiracion-de-babel.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-conspiracion-de-babel.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766465120877-a9d09e830fbff8",
@@ -255,14 +487,15 @@
     "editorial": "Fondo de Cultura Economica USA",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "Dos invenciones del pensamiento griego dieron a las matemáticas valor cultural perenne: el método de razonamiento deductivo y la descripción de la naturaleza. El estudio del proceso histórico de estas dos adquisiciones, además de completar el aprendizaje de la matemática, nos muestra un aspecto capitalísimo de nuestra cultura.",
     "comentarios": "La \"Historia de las Matemáticas\" de Eric Temple Bell, publicada originalmente en inglés como The Development of Mathematics (1940) y popularizada en español bajo diversos títulos (como Historia de las Matemáticas y Los Grandes Matemáticos), es una obra influyente que ofrece una perspectiva narrativa y menos tradicional de la disciplina, centrándose en los grandes pensadores y los momentos clave de su evolución, desde sus raíces empíricas en la antigüedad hasta las corrientes modernas, destacando la unión entre número y forma, y explorando el progreso intelectual y las tendencias que definen las matemáticas actuales, inspirando a generaciones de matemáticos a través de su enfoque humano y anecdótico.",
-    "portada": "https://books.google.com/books/content?id=5RRyQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=5RRyQwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766465037360-b505347c00df8",
@@ -273,14 +506,15 @@
     "editorial": "Siglo XXI Ediciones",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Lógica"
     ],
-    "formato": "Físico",
     "notas": "Si el primer libro del periodista y matematico Adrian Paenza representaba la continuacion de su tarea como divulgador de ciencia, el Episodio 2 lo consolida en su pasion por mostrar como es que pensamos matematicamente desde que estimamos distancias al cruzar la calle o calculamos las probabilidades de que un equipo favorito gane el campeonato mundial hasta cuando jugamos un Sudoku. Con entusiasmo y dedicacion, y un estilo propio calido y directo, el autor cuenta aqui a cada lector una serie de historias sobre numeros, acertijos y curiosidades matematicas que lo hara mirar el mundo de otra manera y descubrir el placer de tener en la cabeza un problema sin resolver. Este Episodio 2 explora aspectos insospechados de la materia mas temida como son las probabilidades o las intuiciones matematicas, mediante preguntas como cuantas carretillas llenas de monedas se necesitan para hacer una pila del tamano de un edificio de 100 pisos? o en que orden conviene jugar a la ruleta rusa?, y se zambulle asi en la teoria de juegos como un aporte a la educacion de la mente creativa, entre mas temas. Publicado en la Argentina en septiembre de 2005, el primer Matematicaestas ahi? lleva vendidos 120.000 ejemplares en 11 ediciones y se ubica desde hace mas de 50 semanas primero entre los libros de no ficcion mas vendidos, con lo que constituye un fenomeno editorial sin precedentes en las ultimas decadas. La obra ha sido publicada en Espana y proximamente sera editada en Brasil y Mexico.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=zoZbAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=zoZbAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766464898845-84abced69bb828",
@@ -291,13 +525,14 @@
     "editorial": "Inah",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "En su redonda belleza, el círculo aloja uno de los conceptos más célebres de las matemáticas. Aquí, el lector recorrerá más de cuatro milenios de la vida de pi, el número irracional más famoso de la historia, deteniéndose en varios momentos, conceptos y personajes: los avances en Babilonia, Egipto, China y América; la matemática griega, sobre todo Euclides y Arquímedes; el letargo de la edad media; los esfuerzos de los cazadores de dígitos; Isaac Newton y el nacimiento del cálculo; Leonhard Euler y su prolífico talento; la naturaleza de pi como número trascendente y la era de la computadoras. Esta obra conoció su primera edición en 1971. Si bien de entonces a la fecha la matemática ha dado enormes pasos, el valor de este libro no estriba en estar al día sino en su chispa discursiva y sus enunciados categóricos, en la gracia con que se exponen las ideas y los métodos, el progreso y los fracasos de los matemáticos de carne y hueso. Por ello sigue siendo vigente esta historia, capaz de despertar en el lector sorpresa y aun fascinación por el número que expresa la razón entre la circunferencia y el diámetro.",
     "comentarios": "Historia de π, de Petr Beckmann, es una obra clásica de divulgación que recorre de manera rigurosa y a la vez entretenida la historia del número π, desde la antigüedad hasta la matemática moderna. El libro muestra cómo este número, surgido del estudio geométrico del círculo, se convirtió en uno de los símbolos más profundos y omnipresentes de las matemáticas.\n\nBeckmann combina historia, matemática y cultura para relatar los esfuerzos de civilizaciones antiguas —babilonios, egipcios, griegos— y de matemáticos posteriores por comprender y calcular π con mayor precisión. A lo largo del texto aparecen figuras clave como Arquímedes, Newton, Euler y otros protagonistas del desarrollo del análisis matemático, siempre explicados con un tono accesible y narrativo.\n\nUno de los rasgos distintivos del libro es su estilo irónico y crítico, que no solo presenta avances matemáticos, sino también los contextos sociales, filosóficos e incluso políticos en los que estos se produjeron. El autor muestra que la historia de π es también la historia de la evolución del pensamiento matemático, desde métodos geométricos hasta series infinitas y computación.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-pi.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-pi.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766464576732-83d05505e3a55",
@@ -308,13 +543,14 @@
     "editorial": "Libraria",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Eli Maor muestra en esta obra cómo e despertó la curiosidad de las mentes más prespicaces, al plantearles retos como el de la cuadratura de ciertas superficies, y cómo se ganó un lugar de privilegio en el cálculo diferencial e integral, entre otras cosas por el hecho de que la exponencial es la única función cuya derivada es igual a la función original. Esto llevará al lector a conocer, con rigor pero con sencillez, conceptos nada triviales como el límite y la derivada, los números complejos, las funciones hiperbólicas y los números algebraicos y trascendentes.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=dSfaaVccJ_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=dSfaaVccJ_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766464352981-6c36301556e998",
@@ -325,14 +561,15 @@
     "editorial": "Shirlee Evans",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Biografía"
     ],
-    "formato": "Físico",
     "notas": "\"El Cuaderno Secreto de Descartes\" se refiere principalmente al libro de Amir D. Aczel que explora la vida oculta de Descartes, sugiriendo conexiones con sociedades secretas (Rosacruces) y revelando una interpretación mística de las matemáticas y el cosmos, escondida en notas que él creía peligrosas para la época y cuya copia descubierta por Leibniz siglos después, desvela misterios sobre su pensamiento radical.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=zYodS9PvOnYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=zYodS9PvOnYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-13",
@@ -343,13 +580,14 @@
     "editorial": "Debate",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Criptografía"
     ],
-    "formato": "Físico",
     "notas": "\"Los códigos secretos\" de Simon Singh es un fascinante recorrido por la historia de la criptografía, que abarca desde los métodos de cifrado rudimentarios de Julio César hasta los complejos sistemas de clave pública de la era de Internet, revelando cómo la comunicación secreta y su desciframiento han moldeado el curso de la historia, las guerras y la política global. Singh utiliza una narrativa magistral para tejer anécdotas de espías, matemáticos brillantes como Alan Turing y eventos cruciales como el descifrado de la máquina Enigma, haciendo que conceptos técnicos complejos sean accesibles para todos los públicos y planteando, a su vez, dilemas éticos perennes sobre la privacidad y la seguridad nacional. Es una obra indispensable que ilustra el poder oculto del ingenio humano y la eterna batalla por la información confidencial.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-codigos-secretos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-codigos-secretos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-27",
@@ -360,13 +598,14 @@
     "editorial": "Anagrama",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Cosmología"
     ],
-    "formato": "Físico",
     "notas": "\"¿Que es el tiempo? ¿Hasta que punto lo entendemos? ¿Existimos en el tiempo o el tiempo existe en nosotros? ¿Por qué recordamos el pasado y no el futuro? ¿Qué quiere decir que el tiempo \"corre\"? ¿El pasado está cerrado y el futuro abierto? ¿El tiempo es lineal? ¿Existe de verdad? ... Carlo Rovelli, físico cuyo anterior libro --Siete breves lecciones de físicia, publicado en esta colección-- se tra…",
     "comentarios": "",
-    "portada": "http://books.google.com/books/content?id=N779tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "http://books.google.com/books/content?id=N779tgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766376517714-9143f24dccc1f",
@@ -377,14 +616,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Ciencias Sociales"
     ],
-    "formato": "Digital",
     "notas": "Grandes ideas, explicaciones sencillas El libro de la sociología aborda las preguntas más importantes que ha formulado la humanidad, como: ¿Qué es la sociedad? ¿Qué nos motiva a que funcione? ¿Por qué actuamos de cierta manera con amigos, compañeros de trabajo y rivales? El libro de la sociología presenta a los sociólogos más reconocidos del mundo y más de cientos de sus ideas que más impacto han …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=WpiPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=WpiPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766379271532-3e0cdf78635338",
@@ -395,14 +635,15 @@
     "editorial": "Ediciones Akal, S.A.",
     "coleccion": "Grandes Ideas, Explicaciones Sencillas",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Biología"
     ],
-    "formato": "Digital",
     "notas": "Escrito en un lenguaje sencillo, este libro de biología está repleto de explicaciones breves y concisas sobre algunas de las ideas más trascendentales de la ciencia, desde la teoría celular hasta la evolución por selección natural y el descubrimiento del ADN. Gráficos sencillos, como líneas de tiempo y mapas mentales, complementan el texto y facilitan la comprensión de la explicación.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-biologia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-la-biologia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766451640260-7485a3c731d4c",
@@ -413,13 +654,14 @@
     "editorial": "Editorial Universitaria de Chile",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Economía"
     ],
-    "formato": "Físico",
     "notas": "Este libro es para todo aquel interesado en Economía. Cubre los temas tratados en forma directa y comprensible, con énfasis en los efectos de diversas medidas de política económica sobre la economía real. Comienza con el tratamiento de la microeconomía. Se señala que solo un conocimiento apropiado de esta puede sustentar el avance de los estudios macroeconómicos.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=elxZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=elxZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766462042489-20c59ee9fba958",
