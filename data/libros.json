@@ -1,5 +1,510 @@
 [
   {
+    "id": "libro-1766721204696-54659f152fded8",
+    "titulo": "Las Rutas Del Éxtasis",
+    "autor": "Juan Francisco Gamella Mora, Arturo Álvarez Roldán",
+    "anio": 1999,
+    "isbn": "8434411946",
+    "editorial": "Ariel",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Sociología"
+    ],
+    "formato": "Físico",
+    "notas": "Aunque el libro es una investigación, el término evoca inevitablemente la Ruta Destroy o Ruta del Bakalao, el movimiento de ocio nocturno más famoso de España centrado en la Comunidad Valenciana. \nCaracterísticas: Se basaba en un recorrido por discotecas legendarias como Barraca, Spook Factory, Chocolate y Puzzle, que ofrecían sesiones de música ininterrumpidas durante 72 horas (de viernes a lunes).\nRelación con la sustancia: El éxtasis fue la droga protagonista de este periodo, permitiendo a los jóvenes aguantar las largas jornadas de baile y música techno",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-rutas-del-extasis.jpg"
+  },
+  {
+    "id": "libro-1766720822922-85586fdc51db7",
+    "titulo": "Cita en el azul profundo",
+    "autor": "Roberto Ampuero",
+    "anio": 2010,
+    "isbn": "9789563340679",
+    "editorial": "Edisur",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Chile",
+      "Novela",
+      "Policial"
+    ],
+    "formato": "Físico",
+    "notas": "Cita en el azul profundo\" es una novela de género policíaco/negro escrita por el autor chileno Roberto Ampuero, la cual sigue las aventuras del detective privado Cayetano Brulé. \nLa trama comienza cuando el detective Cayetano Brulé es citado en un restaurante de Santiago de Chile llamado \"Azul Profundo\" para recibir un encargo. Sin embargo, antes de que su potencial cliente, Agustín Lecuona, pueda explicarle los detalles, este es asesinado a tiros frente a sus narices. \nCon la única pista de una misteriosa frase en latín, \"Delenda est Australopitecus...\" (La Australopitecus debe ser destruida), Brulé se embarca en una compleja investigación que lo lleva más allá de las fronteras chilenas, viajando por países como Suecia, Cuba y México. La pesquisa es descrita como una de las más extrañas y complejas que ha enfrentado el detective, mezclando elementos de misterio, política y la historia personal de los personajes, culminando finalmente de regreso en Santiago.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cita-en-el-azul-profundo.jpg"
+  },
+  {
+    "id": "libro-1766720984848-0f07bd4a8587c8",
+    "titulo": "Bahia de los misterios",
+    "autor": "Roberto Ampuero",
+    "anio": 2013,
+    "isbn": "9789562624060",
+    "editorial": "Sudamericana",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Chile",
+      "Novela",
+      "Policial"
+    ],
+    "formato": "Físico",
+    "notas": "Un nuevo libro de Roberto Ampuero, protagonizado por el inigualable detective Cayetano Brulé\n«La cabeza del profesor Joseph Pembroke, más conocido como Joe Pembroke en el Voltaire College de Chicago, rodó dejando una estela de sangre sobre la escalera de concreto del cerro Concepción, en el puerto de Valparaíso.»\n            Así se inicia Bahía de los misterios, la última novela policial de Roberto Ampuero, protagonizada por el ya conocido detective cubano Cayetano Brulé.\n \nEsta vez, Cayetano se enfrenta con un caso espeluznante: Joe Pembroke ha sido asesinado de una manera insólita: lo han decapitado con una espada, y han dejado marcado a fuego en el pecho de la víctima una guadaña. ¿Qué podrá significar esto? ¿Quién asesinó a Pembroke? Hay pocas pistas, sin embargo el detective viajará por México, Estados Unidos, Escocia, para poder solucionar este caso que cada vez resulta más asombroso.",
+    "comentarios": "Roberto Ampuero Espinoza (Valparaíso, 1953) es un destacado escritor, periodista y político chileno, reconocido principalmente por su saga de novelas policiales protagonizadas por el detective Cayetano Brulé, que ha dejado una marca importante en la literatura negra latinoamericana. Su vida estuvo marcada por el exilio tras el golpe de Estado de 1973, experiencia que plasmó en obras como Nuestros años verde olivo, muy valorada por críticos y escritores. Además de su labor literaria, Ampuero ha ocupado cargos públicos relevantes, como ministro de Cultura, ministro de Relaciones Exteriores y embajador en España, aportando desde la política una perspectiva cosmopolita y comprometida. Entre sus obras más conocidas están ¿Quién mató a Cristián Kustermann?, Los amantes de Estocolmo y Pasiones griegas, que exploran temas como el exilio, la identidad y los cambios sociales.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/bahia-de-los-misterios.jpg"
+  },
+  {
+    "id": "libro-1766713412325-93a9e2acf4d078",
+    "titulo": "Aldous Huxley, Antologia/ Anthology",
+    "autor": "Aldous Huxley",
+    "anio": 2008,
+    "isbn": "9789706667694",
+    "editorial": "TOMO",
+    "coleccion": "AUTORES SELECTOS",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Literatura"
+    ],
+    "formato": "Físico",
+    "notas": "seleccion: 1) los escandalos de crome; 2) el sombrero mexicano; 3) el pequeño arquimedes; 4) un mundo feliz; 5) nueva visita a un mundo Feliz, 6) El genio y la diosa. Aldous leonard huxley, novelista, ensayista, crítico y poeta inglés, nace el 26 de julio de 1894 en godalming, condado de surrey, cerca de londres, en el seno de una familia inglesa de gran tradición intelectual.\n\naldous huxley tenía un saber enciclopédico fruto de una gran curiosidad intelectual. era un hombre de ingenio incisivo y pensamiento abierto, que además de interesarse profundamente por el misticismo, también lo hizo por el mundo cotidiano y sus exigencias: la paz, la ciencia, la conservación de los recursos naturales, etcetera.\n\nhuxley siempre se caracterizó por encontrar una vuelta extra de tuerca luego de haber incursionado por espesos laberintos de ideas. esa torsión limite lo orientaba a una simplificación de las cuestiones y a la inauguración de un nuevo sentido; a veces desde la ironía, como cuando señalo: `la investigación de las enfermedades ha avanzado tanto que cada vez es mas difícil hallar a alguien totalmente sano`.",
+    "comentarios": "Aldous Huxley (Godalming, Inglaterra, 26 de julio de 1894 – Los Ángeles, 22 de noviembre de 1963) fue un novelista, ensayista y pensador británico, reconocido internacionalmente por su obra “Un mundo feliz”, que lo posicionó como una de las voces más incisivas de la literatura distópica y la crítica social del siglo XX. Nacido en una familia de intelectuales y científicos, Huxley estudió en Eton College y la Universidad de Oxford, desarrollando una aguda sensibilidad ante los desafíos éticos y tecnológicos de su tiempo, a pesar de las graves dificultades visuales que lo acompañaron desde la juventud.\n\nAdemás de su célebre novela, el legado de Huxley incluye títulos como “Las puertas de la percepción”, “Contrapunto” y “La isla”, así como numerosos ensayos donde exploró desde la filosofía hasta la espiritualidad y la ciencia. Sus obras, traducidas a varios idiomas y debatidas en círculos académicos de todo el mundo, se caracterizan por su mirada crítica, su análisis del progreso científico y su preocupación por la libertad individual frente a los riesgos de la manipulación social y tecnológica.\n\nA lo largo de su carrera, Huxley fue propuesto en varias ocasiones al Premio Nobel de Literatura, aunque nunca lo obtuvo. Su trabajo ha sido elogiado por anticipar los dilemas éticos esenciales del mundo moderno y conectar con lectores de distintas generaciones. Residió en Estados Unidos durante sus últimos años, donde continuó impartiendo conferencias y escribiendo hasta su fallecimiento, que coincidió con el asesinato de John F. Kennedy. Aldous Huxley dejó una obra perdurable, considerada fundamental para comprender el impacto de la tecnología y la cultura en la sociedad contemporánea.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aldous-huxley-antologia-anthology.jpg"
+  },
+  {
+    "id": "libro-1766713076194-5e3851975b8b58",
+    "titulo": "Mujeres, la sexualidad secreta",
+    "autor": "Patricia Politzer, Eugenia Weinstein",
+    "anio": 1999,
+    "isbn": "9562620875",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Familia",
+      "Relaciones"
+    ],
+    "formato": "Físico",
+    "notas": "bajo este sugerente título, las autoras debaten un tema controvertido y considerado todavía tabú en nuestra sociedad: la sexualidad femenina. pero, contrariamente a lo que puede parecer, no es en absoluto un libro para mujeres. en realidad quizá los hombres sean quienes más provecho pueden sacar de él. se trata de una obra fruto de una combinación perfecta: la experiencia de una experta terapeuta y la calidad narrativa de una brillante periodista.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mujeres-la-sexualidad-secreta.jpg"
+  },
+  {
+    "id": "libro-1766712975418-abf3e5c3b8ab6",
+    "titulo": "Nada Es Casual",
+    "autor": "Margarida Rebelo Pinto",
+    "anio": 2003,
+    "isbn": "9788466612715",
+    "editorial": "Ediciones B",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Ficción"
+    ],
+    "formato": "Físico",
+    "notas": "Vera tiene 35 años y vive en Lisboa, donde trabaja de publicista. Además, reparte su amor entre varios hombres: Tiago, con quien vive; Luis, un amante maduro con quien pasa buenos momentos; Joao el amor de su vida y Manel, a quien acaba de conocer. A través del día a día de Vera, y teniendo como escenarios las ciudades de Lisboa y Oporto, Margarida Rebelo retrata con dinamismo, frescura y sentido del humor la vida de una mujer actual en busca del amor.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=aKXBPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766712788016-3e663b1a254598",
+    "titulo": "Los negocios en la era digital",
+    "autor": "Bill Gates",
+    "anio": 1999,
+    "isbn": "9789500715539",
+    "editorial": "Ed Sudamericana",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Negocios"
+    ],
+    "formato": "Físico",
+    "notas": "Bill Gates es un reconocido experto en tecnología, empresario visionario y filántropo global. En 1975 fundó Microsoft junto a su amigo de la infancia, Paul Allen, transformando la industria tecnológica y revolucionando la informática personal. Actualmente, copreside la Fundación Bill & Melinda Gates, una de las organizaciones filantrópicas más influyentes del mundo, centrada en mejorar la salud global, reducir la pobreza y expandir las oportunidades educativas.\n\nAdemás, Gates es fundador de Breakthrough Energy, una iniciativa que impulsa el desarrollo y la comercialización de tecnologías para combatir el cambio climático mediante energías limpias. Es autor de varios libros influyentes, como \"Camino al futuro\" (1995), \"Cómo evitar un desastre climático\" (2021) y \"Source Code (Código Fuente)\" (2025), en los que aborda temas clave sobre tecnología, sostenibilidad y el futuro de la humanidad. Reside en Medina, Washington, junto a su familia.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=qC8GAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766712595143-5c77510a7a9a28",
+    "titulo": "Camino al futuro",
+    "autor": "Bill Gates, Nathan colab Myhrvold, Francisco tr Ortíz Chaparro, Peter Rinearson",
+    "anio": 1995,
+    "isbn": "9788448102661",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Biografía"
+    ],
+    "formato": "Físico",
+    "notas": "En esta obra optimista y realista, Gates mira al futuro para mostrar cómo las nacientes tecnologías de la era digital transformarán nuestras vidas. Según él, estamos a las puertas de una nueva revolución y cruzando el umbral tecnológico que cambiará para siempre nuestra manera de comprar, trabajar, aprender y comunicarnos.",
+    "comentarios": "Bill Gates es un reconocido experto en tecnología, empresario visionario y filántropo global. En 1975 fundó Microsoft junto a su amigo de la infancia, Paul Allen, transformando la industria tecnológica y revolucionando la informática personal. Actualmente, copreside la Fundación Bill & Melinda Gates, una de las organizaciones filantrópicas más influyentes del mundo, centrada en mejorar la salud global, reducir la pobreza y expandir las oportunidades educativas.\n\nAdemás, Gates es fundador de Breakthrough Energy, una iniciativa que impulsa el desarrollo y la comercialización de tecnologías para combatir el cambio climático mediante energías limpias. Es autor de varios libros influyentes, como \"Camino al futuro\" (1995), \"Cómo evitar un desastre climático\" (2021) y \"Source Code (Código Fuente)\" (2025), en los que aborda temas clave sobre tecnología, sostenibilidad y el futuro de la humanidad. Reside en Medina, Washington, junto a su familia.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/camino-al-futuro.jpg"
+  },
+  {
+    "id": "libro-1766712187606-7704e4af2a265",
+    "titulo": "Las columnas de Hércules, un viaje en torno al Mediterráneo",
+    "autor": "Paul Theroux",
+    "anio": 2001,
+    "isbn": "9788440699435",
+    "editorial": "EDICIONES B",
+    "coleccion": "GRANDES VIAJEROS",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Viajes"
+    ],
+    "formato": "Físico",
+    "notas": "Las Columnas de Hércules: un viaje en torno al Mediterráneo\" es una crónica de viaje del autor Paul Theroux, donde narra su periplo por las costas mediterráneas, explorando la historia y el espíritu del mar, utilizando el mito de las Columnas de Hércules (el Estrecho de Gibraltar) como punto de partida para reflexionar sobre la civilización, la cultura y la geografía, conectando el pasado con el presente a través de sus travesías y encuentros, a menudo enfrentando dificultades logísticas para cruzar entre continentes, un viaje que es tanto físico como intelectual por las tierras que lo rodean, desde la mitología hasta la realidad contemporánea",
+    "comentarios": "Paul Theroux (Medford, Massachusetts, 1941) es uno de los escritores más reconocidos del mundo. El gran bazar del ferrocarril (Alfaguara, 2018) lo catapultó a la fama en 1976 y constituye un clásico de la literatura de viajes. En su prolífica obra destacan títulos como Tren fantasma a la Estrella de Oriente (Alfaguara, 2010), El Tao del viajero (Alfaguara, 2012) y El último tren a la zona verde (Alfaguara, 2015), o novelas como La costa de los mosquitos (por la que Theroux recibió en 1981 el James Tait Black Memorial Prize, y que además fue adaptada al cine por Peter Weir y en 2021 a la pequeña pantalla), La calle de la media luna, Hotel Honolulu, Elefanta Suite (Alfaguara, 2008), Un crimen en Calcuta (Alfaguara, 2011), En Lower River (Alfaguara, 2014), Tierra madre (Alfaguara, 2018, escrita tras la muerte de su madre y en la que estuvo años trabajando) y, ahora, El geólogo (Alfaguara, 2023).",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-columnas-de-hercules-un-viaje-en-torno-al-mediterraneo.jpg"
+  },
+  {
+    "id": "libro-1766711938543-a972c5e075cb5",
+    "titulo": "Guía Van Gogh Museum",
+    "autor": "Van Gogh Museum (Amsterdam)",
+    "anio": 1996,
+    "isbn": "9789040098918",
+    "editorial": "Van Gogh Museum",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Guía",
+      "Turismo",
+      "Museo"
+    ],
+    "formato": "Físico",
+    "notas": "La guía del Museo Van Gogh en Ámsterdam, disponible en español (libros y audioguías), es esencial para navegar su vasta colección cronológica de obras maestras como \"Los Girasoles\" y \"La Habitación\", revelando la vida y evolución del artista a través de pinturas, dibujos y sus cartas a Theo, ofreciendo una visión profunda de sus temas de esperanza, sufrimiento y naturaleza, con consejos de expertos sugiriendo empezar por el tercer piso (obras tardías) para evitar multitudes y disfrutar la experiencia completa",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-van-gogh-museum.jpg"
+  },
+  {
+    "id": "libro-1766711745298-fcfc97cb672968",
+    "titulo": "Todo legal, los grandes zarpazos de la elite financiera chilena (1973-2021)",
+    "autor": "Carlos Tromben, Ignacio Schiappacasse",
+    "anio": 2022,
+    "isbn": "9789564080925",
+    "editorial": "Planeta",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencias Sociales",
+      "Política"
+    ],
+    "formato": "Físico",
+    "notas": "Todo legal narra los inicios de la elite financiera en Chile, desde el año 1973 hasta la actualidad.\n\nAl abarcar casi cincuenta años de la historia del país, sus personajes son tan variados como los lugares y acontecimientos que han ocurrido: ejecutivos bancarios, gerentes de empresas, ministros, parlamentarios y presidentes de la República.\n\nEstos hechos que conectan el golpe de Estado,...",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/todo-legal-los-grandes-zarpazos-de-la-elite-financiera-chilena-1973-2021.jpg"
+  },
+  {
+    "id": "libro-1766711526738-6e65296f0b7a1",
+    "titulo": "Maya/Jostein Gaarder ; traducción de Kristi Baggethun y Asunción Lorenzo",
+    "autor": "Jostein Gaarder",
+    "anio": 2000,
+    "isbn": "9788478444984",
+    "editorial": "Siruela",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Spanish fiction"
+    ],
+    "formato": "Físico",
+    "notas": "\"Unos mil millones de anos se tarda en crear un ser humano. Y unos segundos se tarda en morir.\" Esta gran definicion de Jostein Gaarder define esta esperada novela para adultos.Tomando como punto de partida el comienzo del nuevo milenio, Jostein Gaarder traza en su ultima novela, Maya, un largo y entretenidisimo itinerario novelesco que ira ensamblando hechos historicos y de ficcion hasta retornar…EL autor de El mundo de Sofía, seduce con una novela de suspense donde mezcla ciencia, filosofía, historia y amor.«¿Qué podemos hacer tú y yo para aceptar que la vida sea tan breve?»Desde distintos escenarios, como el último reducto ecológico de las islas Fiyi o una España de arte y flamenco, los personajes de ese libro disertan sobre la teoría de la evolución del hombre a partir del Big Bang, se sumergen en hipótesis sobre la relatividad del Tiempo y la finalidad del Universo y nos descubren el concepto hindú de Maya para explicar la visión que tiene el hombre de la realidad.La crítica ha dicho...«El escritor noruego levanta su particular homenaje a España, a una geografía y una cultura que le fascinan.»El Mundo«Apasionado y profundo, locuaz y creativo... Gaarder habla con un entusiasmo contagioso y la energía de un líder convencido. Y además predica con el ejemplo.»El País (Sobre El misterio del solitario)«Una historia dirigida a todos, tanto ancianos como adolescentes, que invita al lector a dejarse arrastrar por el carpe diem, a aprovechar el momento.»El Mundo (Sobre La joven de las naranjas)",
+    "comentarios": "Jostein Gaarder (Oslo, 1952) fue profesor de Filosofía y de Historia de las Ideas en un instituto de Bergen durante diez años. En 1986 empezó a publicar libros, y en 1990 recibió el Premio de la Crítica y el Premio literario del Ministerio de Cultura noruegos por su novela El misterio del solitario. Pero fue El mundo de Sofía la obra que se convirtió en un auténtico bestseller mundial y que ha sido galardonada en España con los premios Arzobispo Juan de San Clemente y Conde de Barcelona.\n\nGaarder creó la Fundación Sofía, cuyo premio anual dotaba económicamente a la mejor labor innovadora a favor del medioambiente y el desarrollo. Entre su extensa obra cabe destacar, además de las novelas ya mencionadas, El diagnóstico, El misterio de Navidad, El enigma del espejo, Vita brevis, Maya, El vendedor de cuentos, La joven de las naranjas y El hombre de las marionetas.",
+    "portada": "https://books.google.com/books/content?id=1XdfPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766711402062-772a26ad8ea668",
+    "titulo": "Del Flore a Montparnasse, El sentido de la vida en el socialismo",
+    "autor": "Jorge Asís",
+    "anio": 2000,
+    "isbn": "9500719029",
+    "editorial": "Sudamericana",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Ficción"
+    ],
+    "formato": "Físico",
+    "notas": "Luego del exito de Lesca, el fascista irreductible, Asis nos deslumbra esta vez con un libro de narraciones lleno de sorpresas. Implacable como siempre, con esa combinacion de talento, oficio y viveza criolla que lo caracterizan, Asis cuenta las historias que los prejuicios, la benevolencia y el conformismo nos impiden -nos prohiben- conocer.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=3uxeAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766711326546-aecade278b661",
+    "titulo": "Julio Cortázar, la biografía",
+    "autor": "Gerardo Mario Goloboff",
+    "anio": 1998,
+    "isbn": "9507312056",
+    "editorial": "Editorial Seix Barral",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Biografía"
+    ],
+    "formato": "Físico",
+    "notas": "Esta es la primera biografia de Cortazar, que revela en profundidad como era el nino debil, inteligente y triste; el adolescente inquieto, amante del jazz y del boxeo; el exquisito lector; el solitario fantaseador urbano. Y como el hombre misterioso y magnetico que enamoraba a todas las mujeres pasa, a partir de su fuga a Paris, a ser defensor y propagandista de revoluciones, intelectual compromet…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=tIhjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766711269620-8f27bb60d2bad8",
+    "titulo": "Salvador Allende, biografía sentimental",
+    "autor": "Eduardo Labarca Goddard",
+    "anio": 2007,
+    "isbn": "9789568303686",
+    "editorial": "Catalonia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Biografía",
+      "Historia"
+    ],
+    "formato": "Físico",
+    "notas": "¿Quién era Salvador Allende, el Presidente chileno muerto en el palacio de La Moneda el 11 de septiembre de 1973? ¿Qué pulsiones agitaban el alma de este grande del siglo XX? El escritor Eduardo Labarca, que frecuentó a Allende en la intimidad y viajó con él en Chile y en el extranjero, rescata del olvido a un Salvador Allende desconocido.\nLabarca ha buceado en su propia memoria y ha dialogado, a menudo en forma confidencial, con más de un centenar de personas que estuvieron relacionadas estrechamente con Allende. Gracias a la confianza depositada en él, ha accedido a documentos privados y cartas íntimas de Salvador Allende, inéditas hasta la aparición de este libro. Su labor ha incluido la revisión exhaustiva de fuentes abiertas –libros, revistas, diarios, películas– y una reflexión lúcida y profunda.\nMás allá del Salvador Allende político que todos conocen, Labarca hace emerger al hombre completo: el Allende sanguíneo y visceral que desde la infancia de Tacna hasta su muerte en La Moneda estuvo movido por la pasión de seducir y ser seducido, conquistar a su pueblo y hacerle justicia, y amar y ser amado por algunas de las mujeres más bellas y brillantes de su tiempo. Ese Allende, espléndido y generoso, es el que transita en las páginas de este libro.\nSalvador Allende: biografía sentimental es una de esas obras que arrojan nueva y definitiva luz sobre un personaje de la Historia. Escrito con elegancia y dramatismo, y no desprovisto de humor, este libro enriquece las formas más modernas de la biografía, la historia y el ensayo.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=qJYTAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766711065420-3bc0e9226a7418",
+    "titulo": "Pequeña Enciclopedia de Aperturas de Ajedrez",
+    "autor": "Y.B. Estrin.",
+    "anio": 1985,
+    "isbn": "",
+    "editorial": "Cultura Física y Deporte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ajedrez",
+      "Chess",
+      "Enciclopedia"
+    ],
+    "formato": "Físico",
+    "notas": "El libro es una obra de referencia completa que resume los sistemas y variantes más importantes en la teoría de las aperturas de ajedrez, diseñada para jugadores de todos los niveles. Es considerada una guía valiosa y una herramienta de consulta constante para los ajedrecistas",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pequena-enciclopedia-de-aperturas-de-ajedrez.jpg"
+  },
+  {
+    "id": "libro-1766709759191-cf16e0fea769d8",
+    "titulo": "Las peliculas de mi vida",
+    "autor": "Alberto Fuguet",
+    "anio": 2003,
+    "isbn": "9562392791",
+    "editorial": "Alfaguara",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela"
+    ],
+    "formato": "Físico",
+    "notas": "Beltrán Soler es de Chile, una tierra que se mueve. Es, además, un sismólogo que sabe más sobre las placas tectónicas que de la vida. Camino a Tokio, hace escala en Los Angeles, donde pierde el avión y se enfrenta a un temblor que lo remece. De pronto, las cincuenta películas más importantes de su vida, aquellos filmes que vio durante su infancia y adolescencia en los 60 y los 70, lo acosan.\n\nDesde Willy Wonka y la Fábrica de Chocolates a Encuentros Cercanos del Tercer Tipo, pasando por las ruidosas cintas de catástrofe como Earthquake! y los filmes futuristas de los setenta como Soylent Green, Beltrán se conecta con su pasado y su excéntrica y disfuncional familia. De recuerdo en recuerdo, de película en película, Beltrán descubre la dimensión casi épica de la historia de los Soler. Ambientada en los dos mundos extrañamente paralelos de la suburbana California de Nixon, y el frío Santiago de Chile de Pinochet, esta ágil y contemporánea novela es sobre dos idiomas, dos mundos y dos familias que ven las mismas películas.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=oGplAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766709564978-65e3669a0a3338",
+    "titulo": "Loops. Una historia de la música electrónica",
+    "autor": "JAVIER/MORERA BLANQUEZ, OMAR",
+    "anio": 2002,
+    "isbn": "9788439709015",
+    "editorial": "MONDADORI",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Musica"
+    ],
+    "formato": "Físico",
+    "notas": "\"Loops\" es una obra pionera, por ser el primer estudio que pone sobre la mesa todos los fenómenos relacionados con el uso de instrumentos, aparatos y técnicas asociados a la música electrónica. Arranca en 1910 y llega hasta febrero del 2002, tratando con idéntica pasión las expresiones electrónicas más difíciles y las relacionadas con el fenómeno de la música de baile; además traza conexiones con el universo del pop, el rock, el cine y la literatura.\n\nAunque se presenta con el epígrafe de historia, \"Loops\" es, sin embargo, fruto de un intenso y apasionado trabajo periodístico. Reputados periodistas son quienes han contribuido a su redacción, y tanto el proceso como la forma (un documento que recoge más de cien entrevistas) corresponden al canon periodístico: la intención del \"Loops\" no es imponer \"la verdad\" sino explicar qué pasó, hacia dónde se dirige esta músiica, qué áreas de reflexión quedan por cubrir y dónde estamos.\n\n\"Loops\" pretende ser un libro de múltiples lecturas; una guía o introducción básica para el no iniciado, un volumen que ayude a buscar pistas, a seleccionar escuchas en función de gustos, y a la vez un trabajo que pueda ampliar datos y conocimientos al ya iniciado o incluso al experto.\n\nLa música electrónica necesitaba su historia y, por fin, tiene una.",
+    "comentarios": "CONTENIDO\n\n-Introducción: No future\n-Prefacio (Simon Reynolds)\n1. Oigo un mundo nuevo: los pioneros de la música electrónica, 1910-1968 (Oriol Rossell)\n2. Rock around the click: la electrónica de los setenta, de \"Hallogallo\" al ambient en la era del Moog, 1968-1982 (Quim Casas)\n3. Una historia jamaicana de fantasmas: el dub, de Kingston a Bristol, 1964-1996 (Dani Relats)\n4. Música para las masas: Kraftwert, el sonido del concepto, 1970-2002 (Half Nelson)\n5. Poderosamente real: la música disco, de The Loft al Paradise Garage, 1970-1985 (Raül G. Pratginestós)\n6. Hemorragias de placer: la segunda revolución industrial, 1975-1085 (Oriol Rossell)\n7. Miedo a un planeta negro: la vieja escuela del hip hop, 1973-1989 (Dani Relats)\n8. Fundido en gris: el pop vampirizado por la electrónica en los ochenta, 1977-1989 (Half Nelson)\n9. La casa de jack: ritmo y deseo. El primer imperio del house, 1985-1995 (Luis Lles)\n10. El shock del futuro: techno, Detroit y más allá, 1982-1993 (Raül G. Pratginestós)\n11. Déjame ser tu fantasía: el Verano del Amor y la expansión de las raves, 1986-1992 (Javier Blánquez)\n12. Aventuras en el ultramundo: Ambient, IDM y electrónica post-rave, 1989-2002 (Javier Blánquez)\n13. Medianoche en un mundo perfecto: abstracción hip hop y ciencia del beat a cámara lenta, 1987-2002 (Juan Manuel Freire)\n14. Equipo en expansión: la nueva escuela del hip hop, 1989-2002 (David Broc)\n15. Progresión lógica: jungle, drum 'n' brass y 2step, 1990-2002 (Javier Blánquez)\n16. Amor digital: música experimental en la década de los noventa, 1990-2002 (Anna Ramos y Roc Jiménez)\n17. Como una autopista: encuentros de electrónica y música popular, 1989-2002 (Juan Manuel Freire)\n18. Reacción en cadena: techno y house en la segunda mitad de los noventa, 1992-2002 (Javier Blánquez)\n-Discografía seleccionada\n-Bibliografía y otras fuentes\n-Índice onomástico",
+    "portada": "https://books.google.com/books/content?id=Gq3SPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766709453690-41f7ab613dc4b",
+    "titulo": "Víctor Jara, reventando los silencios",
+    "autor": "Jordi Sierra i Fabra",
+    "anio": 1999,
+    "isbn": "9788434865648",
+    "editorial": "Ediciones Sm",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Biografía"
+    ],
+    "formato": "Físico",
+    "notas": "Victor Jara es un cantante famoso en Chile. Pero sus ideas molestan a los nuevos dirigentes que han llegado al poder a través del golpe de estado de 1973. A Víctor, le espera una muerte muy violenta. Pero un cuarto de siglo después, el aliento de Víctor, sus canciones y su vida, permanecen en la memoria.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/victor-jara-reventando-los-silencios.jpg"
+  },
+  {
+    "id": "libro-1766709303292-bf238aa47ded9",
+    "titulo": "La fortaleza digital",
+    "autor": "Dan Brown",
+    "anio": 2006,
+    "isbn": "9788489367012",
+    "editorial": "Umbriel",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Ficción"
+    ],
+    "formato": "Físico",
+    "notas": "&¿Puede existir un c&ódigo indescifrable? En un mundo en el que la informaci&ón es el poder, una simple palabra se convierte en el arma m&ás devastadora que pueda imaginarse. Susan Fletcher no puede dar cr&édito a sus o&ídos cuando su jefe, el subdirector de la Agencia de Seguridad Nacional, le informa de que han encontrado un c&ódigo que ni siquiera la mayor supercomputadora conocida puede descif…",
+    "comentarios": "La fortaleza digital (Digital Fortress) es la primera novela del escritor estadounidense y superventas internacional, Dan Brown, publicada en 1998.\n\nArgumento\n\nAgencia de Seguridad Nacional.\nSusan Fletcher, la criptógrafa estrella de la ultrasecreta NSA (Agencia de Seguridad Nacional) no puede dar crédito a sus oídos cuando su jefe, el director de la agencia, le informa de que han interceptado un código que ni siquiera el mayor superordenador jamás construido puede descifrar. La única pista para romper el letal código parece estar oculta en el cadáver de un hombre que ha fallecido en España, donde ha sido enviado David Becker, el prometido de Susan. Mientras este intenta hallar la clave y sobrevivir a la persecución de un metódico e implacable asesino a sueldo en las calles de Sevilla, Susan se enfrentará a su propio drama en las instalaciones de máxima seguridad de la NSA, durante una larga noche en la que la mentira y el asesinato acechan tras cada puerta.\n\nLa fortaleza digital es un ejemplo de una obra de suspenso que transmite a sus lectores una sensación de misterio, angustia e incluso temor.",
+    "portada": "https://books.google.com/books/content?id=ob2gAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766611271255-d457a5de273cc",
+    "titulo": "Chess Informant 136",
+    "autor": "Chess Informant",
+    "anio": 2018,
+    "isbn": "9788672970944",
+    "editorial": "Sahovski informator",
+    "coleccion": "",
+    "vol": "136",
+    "categorias": [
+      "Ajedrez",
+      "Chess",
+      "Informador"
+    ],
+    "formato": "Físico",
+    "notas": "CONTENTS:\n\nTHE FIDE WOMEN'S WORLD CHESS CHAMPIONSHIP MATCH 2018 GM Danilo Milanović\n\nTHE 4TH MUSKETEER RISES GM Danilo Milanović\n\nEUROPEAN INDIVIDUAL CHESS CHAMPIONSHIP 2018 GM Ivan Šarić\n\nATTACKING WITH SIMPLE MOVES GM Mihail Marin\n\nTRICKY AND AMBITIOUS WAY OF TACKLING THE CARO-KANN GM Ferenc Berkes\n\nHOW TO AVOID THE PETROFF IN STYLE GM Markus Ragger\n\nTHE SEMI-SLAV DEFENCE GM Aleksander Delchev\n\nNEW IDEAS IN THE REALMS OF ANTI-MARSHALL GM Shyam Sundar Mohanraj\n\nTHE SICILIAN OFFROAD II GM Miloš Perunović\n\nTHE BEST OF CHESS INFORMANT – Anish Giri",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chess-informant-136.jpg"
+  },
+  {
+    "id": "libro-1766709103651-de73f680bc7348",
+    "titulo": "Chess Informant 131",
+    "autor": "Chess Informant",
+    "anio": 2017,
+    "isbn": "9788672970876",
+    "editorial": "Sahovski informator",
+    "coleccion": "",
+    "vol": "131",
+    "categorias": [
+      "Ajedrez",
+      "Chess",
+      "Informador"
+    ],
+    "formato": "Físico",
+    "notas": "WILL WESLEY SO CLIMB THE SNOWY PEAK? By GM Sarunas Sulskis\n\nA PEACEFUL TOURNAMENT? By GM Farrukh Amonatov\n\nMINGLING WITH THE ELITE-MY TATA STEEL MASTERS EXPERIENCE By GM Baskaran Adhiban\n\nELEGANCE AND TENACITY IN MOSCOW-FEDOSEEV, A WORTHY WINNER By GM Emilio Cordova\n\nGET TO KNOW THE CHINESE LEAGUE By GM Bu Xiangzhi\n\nPICK YOURSELF UP... AND START ALL OVER AGAIN By GM Mykhaylo Oleksiyenko\n\nTHE KING IS THE GOAL By GM Yu Yangyi\n\nIMPRESSIONS FROM GIBRALTAR By GM Michael Adams\n\nA PERFECT GIFT FROM GIBRALTAR By GM Ju Wenjun\n\nA FUNDAMENTAL STEP By GM Surya Ganguly\n\nA GREAT FIGHT FROM TATA STEEL By GM Eduardas Rozentalis\n\nA REPORT ON BAKU WOMEN'S OLYMPIAD By GM Ketevan Arakhamia-Grant\n\nOPENING APPROACHES IN DOHA By GM Aleksandar Colovic\n\nEYES ON THE STARS, FEET ON THE GROUND By GM Axel Bachmann\n\n+ Games, Combinations, Endings, Tournaments...\n\nChess Informant recommends ChessBase 14 for use with CI download products; Alternatively download free ChessBase Reader 2013 (Windows)\n\nOTHER OPERATING SYSTEMS (Mac, Linux, iOS, Android):Use PGN files inside PGN folder (no installation). Transfer PGN folder to your computer or device.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chess-informant-131.jpg"
+  },
+  {
+    "id": "libro-1766708922970-1e66034d07d76",
+    "titulo": "Chess Informant 132",
+    "autor": "Chess Informant",
+    "anio": 2017,
+    "isbn": "9788672970883",
+    "editorial": "Sahovski informator",
+    "coleccion": "",
+    "vol": "132",
+    "categorias": [
+      "Ajedrez",
+      "Chess",
+      "Informador"
+    ],
+    "formato": "Físico",
+    "notas": "Chess Informant 132\n-GM Milos Perunovic and GM Danilo Milanovic made an extensive report on the 2017 European Individual Chess Championship held in Minsk, Belarus, presenting two fully annotated and very important games played by the winner Maxim Matlakov (RUS), and thirty beatiful examples of attack, combinations, blunders and instructive endings.\n\n-Currently #1 ranked Serbian player (ELO=2672), GM Robert Markus explains what a strong GM has to do when changing his opening repertoire with black pieces, sharing a very deep research on the Alekhine Defense.\n\n-The 2017 Serbian Champion, GM Ivan Ivanisevic explored the hedgehog pawn structures and has been trying to find a way to crack them open. The basis for his research were the games from tournament practice and Ivan goes through them with a conclusion about the best setup for White.\n\n-The attention of GM Milos Perunovic was caught by the variation in the Sicilian Defence after 1.e4 c5, 2.Nf3 d6, 3.Nc3 Nf6, 4.e5!?, that was once again brought to life by Azerbaijani GM Rauf Mamedov.\n\n-The best Montenegro player, GM Nikola Djukic shares an opening review of the 3…Qd8 Scandinavian, which served him well in many games he played over the past years, where even Magnus Carlsen could not claim any advantage as White, but instead adopted it as Black vs Fabiano Caruana.\n\n-IM Goran Arsovic is an expert for the Najdorf Sicilian, as he has been playing this variation with black pieces since his youth days. His permanent work as a member of Chess Informant’s Editorial Board keeps him constantly well-informed about any novelties in his pet line. Goran presents a new trend that has recently hit even the world’s elite players, referring to 6.a3 and 6.h4 - attempts to explore new territories of this complex opening.\n\n-GM Danilo Milanovic invites readers to follow his research on the latest trend of meeting Anti-Gruenfeld with the move 3…Nh5. This fresh variation with lots of possibilities for both sides, leads to very much original positions and this is the reason that younger generations gladly choose it rather then some more explored options for Black.\n\n-National individual championships of Serbia and Croatia were enriched with fighting chess. GM Branko Tadic and IM Srdjan Sale present their overviews of these tournaments sharing the most interesting games, theoretical novelties, combinations and endings.\n\n- Best of Chess Informant highlights the creativity of the most prominent chess players. The first in focus is world’s number 2 - Wesley So.\n\n-GM Yochanan Afek brings the selection of studies from the Alexey Troitsky-150 Jubilee Tourney.\n\n-Traditional games’, combinations’ , endings’ and Tournament review sections.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chess-informant-132.jpg"
+  },
+  {
+    "id": "libro-1766708726673-9dd183e2e766f",
+    "titulo": "Antología 2016",
+    "autor": "",
+    "anio": 2017,
+    "isbn": "9789567215638",
+    "editorial": "Maval Spa",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Cuento"
+    ],
+    "formato": "Físico",
+    "notas": "El viaje del cacique Teno al Huelén / Jorge Uribe Ghigliotto -- El velorio del angelito / Carlos Toloza Díaz -- Entre vegas y tumbas / Franco Fornachiari Astudillo -- Pino / Sumara Tilleria Medel -- El ballico / Sergio Melgarejo Fuentealba -- El último día de corta / Víctor Torres Canales -- La santiguadora / Margarita Sánchez Pincheira -- El chuchito / Luis Oróstica Muñoz -- Blanco y negro / Juan Pablo Scroggie Smitmans / Muñeca de trapo / Yasna Rayenpan Trecanao -- Se le echó la yegua / Carlos Zuñiga -- El último vuelo del cóndor / Marcela Quiroz Opazo -- Pampa Alegre / Enrique Moreira Castro -- El misterio de Coipomó / Burro hambreado no siente la huasca / Camilo Monsalve -- Llegao y quedao / Mauricio Melgarejo Jorquera -- La señorita de pelo bayo huevo de pato / Rosa Gomez Miranda -- El negro / Fabián Silva Arriagada -- Por la amistad / Rubén Darío Gómez Alarcón -- El perdón / Julia Roehrs Mata -- Recordando los viejos tiempos / Rubén Darío Gómez Alarcón -- Me lo contó mi abuelito. El caballo, la noche y el niño / Sofía Arregui Contreras -- La flor del mar / Amparo Asenjo Baxa -- El ahorcado / Catherine Melo Matamala -- Los viajes de mi abuelita: comercio entre poblados indígenas [cuento quechua] / Melanie Cáceres Pachao -- El pordiosero de Sibitaya / Pablo Yante Chambe -- Wara y su vida en el pueblo [cuento aymara] / Sandra Pinto Muños -- Un regalo para tí / Bárbara Santelices Ortiz -- El despacho / Mariane Mamani García -- El cóndor y el ñandú / Edilson Castro Condori -- Las pelas de durazno / Valentina Tordecilla Bugueño -- El milagrito / Joan Solar Madrid -- Ño carnavalón / Camila Vergara Castro -- Once de historias / Anyelo Miranda Plaza -- La gallina que cruzó la cuestecilla / Nicolás Muñoz Briones --",
+    "comentarios": "Publicación Cuento Luis Oróstica",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/antologia-2016.jpg"
+  },
+  {
+    "id": "libro-1766708422508-4cafbbd1a8d0e",
+    "titulo": "Mujeres",
+    "autor": "Charles Bukowski",
+    "anio": 1994,
+    "isbn": "9788433920997",
+    "editorial": "Anagrama",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela Negra"
+    ],
+    "formato": "Físico",
+    "notas": "Este gigantesco maratn sexual es un proceso de aprendizaje, de conocimiento, en el que Bukowski no escatima sarcsticas observaciones de s mismo, y en el que el machismo de textos anteriores queda seriamente erosionado; todo ello unido a incontables borracheras.Bukowski parace sugerir que las alternativas - una carrera ms respetable, literaria o la que fuese - son an ms deshumanizadas.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=AYZzRwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766708144146-200dbd08e31558",
+    "titulo": "Ernesto Guevara, también conocido como el Che",
+    "autor": "Paco Ignacio Taibo",
+    "anio": 2006,
+    "isbn": "9789682710124",
+    "editorial": "Booket",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Biografía"
+    ],
+    "formato": "Físico",
+    "notas": "En estas páginas descubriremos la verdad que va más allá del mito, la realidad de un hombre que defendió sus ideales hasta las últimas consecuencias, la historia del heraldo de una revolución que fracasó pero que brindó la esperanza a todo un pueblo.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=LiIcPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766611420882-84763c9f72fbc",
+    "titulo": "La vuelta al Ajedrez en 90 años, Homenaje al MI René Letelier",
+    "autor": "Angelo Guiñez J.",
+    "anio": 2005,
+    "isbn": "9789568018191",
+    "editorial": "Ocho Libros Editores",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Chess",
+      "Ajedrez"
+    ],
+    "formato": "Físico",
+    "notas": "No deja de impresionar que el ajedrez tenga tantas miles de posibilidades distintas de jugarse, y que un libro de 1910 o un partido del siglo XVIII resulte tan vigente como uno actual.\nNada pasa de moda ni puede ser considerado vanguardista en el ajedrez. ¿Cuáles han sido los cambios en la evolución de este “juego”? El mismo tablero, las mismas piezas y posición… el eterno 8x8.\n\nLa publicación que acoge el lector en sus manos es un hito totalmente atemporal y un registro que pretende ser mucho más que otro libro de ajedrez. Esta es una obra gestada con el propósito de enaltecer con cariño y admiración la figura de un gran ajedrecista chileno, como una manera de reconocer la constancia, el esfuerzo, la modestia y el buen humor, y por qué no decirlo, el verdadero patriotismo, de don René Letelier Martner.\n\nEste libro es el primero dedicado exclusivamente a la figura de nuestro querido maestro y sus brillantes partidas. Cabe señalar que don René Letelier, haciendo gala de gran modestia, también colaboró activamente en muchos medios escritos, analizó partidas de grandes jugadores e incluso tradujo y analizó un libro del jugador ruso Alexis Troitky.\nTengo la certeza de que el lector se sentirá profundamente satisfecho y orgulloso de este compatriota que ha dedicado su vida a enaltecer los misterios del ajedrez y su belleza. Irradiando nobleza y genialidad, René Letelier se alza como uno de los próceres de la cultura nacional junto a Violeta Parra, Vicente Huidobro, Alejandro Jodorowsky y tantos otros que inmortalizaron su paso por este mundo que no cabe en el indescifrable 8x8.\n\nValga este testimonio y que el futuro se encargue de ponerlo a la moda.\n\nSalud, fuerza y fe a todos\nlos futuros héroes de la hermosa\ntierra del misterioso copihue.\n\nÁngelo Guiñez Jarpa.\nSeptiembre de 2005.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=u2U2WJAyGmcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766610990722-5816407377815",
+    "titulo": "Como nos gobiernan en Colombia",
+    "autor": "Rogelio Villamizar J.",
+    "anio": 1993,
+    "isbn": "9586660001",
+    "editorial": "FERIVA S.A",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ensayo político",
+      "Ciencias sociales"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Cómo nos gobiernan en Colombia, escrito por Rogelio Villamizar J., es una obra de ensayo político y social que reflexiona críticamente sobre el funcionamiento del sistema de gobierno colombiano, con énfasis en las prácticas de poder, la gestión del Estado y la relación entre la ciudadanía y sus gobernantes.\n\nEl texto combina análisis, denuncia y reflexión ética. Su estilo es directo y busca interpelar al lector sobre temas como la corrupción, la debilidad institucional, la burocracia, la inequidad y la desconexión entre las decisiones políticas y las necesidades reales de la población. De fondo, subyace una mirada crítica hacia cómo el ejercicio del poder público puede distorsionarse cuando priman intereses particulares sobre el bien común.\n\nUn elemento destacable es el enfoque ciudadano: el libro no se limita a describir problemas, sino que invita a la reflexión sobre responsabilidad cívica, participación y el rol del silencio social, idea reforzada por la cita de Gandhi en su portada: “Lo más atroz de las cosas malas de la gente mala, es el silencio de la gente buena.” Esta frase resume el espíritu del libro: generar conciencia para movilizar transformación social.",
+    "comentarios": "Que le pasa a Colombia--No queremos paz sino victoria.--Entre la economía y el sectarismo.--La resurrección de un gigante.--Tragedia de Bahía en Tumaco.--La gran despensa del Océano Pacífico.--La desprotección del pueblo colombiano.--La Mafia de las Aduana y del Contrabando.--Sistema de economía mafiosa.--Mantengamos viva la esperanza.--El rumbo de simplificación.--La ley de la entropia Colombia -- Polt̕ica econm̤ica Colombia -- Polt̕ica y gobierno Colombia -- Condiciones econm̤icas",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-nos-gobiernan-en-colombia.jpg"
+  },
+  {
     "id": "libro-1766610540190-ed2dd6e628e0c",
     "titulo": "Numerical Calculation of Lubrication, Methods and Programs",
     "autor": "Ping Huang",
@@ -8,16 +513,17 @@
     "editorial": "John Wiley & Sons",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Lubricación",
       "Numérico",
       "Cálculo",
       "Programas"
     ],
-    "formato": "Físico",
     "notas": "Focusing on basic lubrication problems this book offers specific engineering applications. The book introduces methods and programs for the most important lubrication problems and their solutions. It is divided into four parts. The first part is about the general solving methods of the Reynolds equation, including solutions of Reynolds equations with different conditions and their discrete forms, …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=UeEtAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=UeEtAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766610447025-9611e8a5dc8818",
@@ -28,13 +534,14 @@
     "editorial": "Thomson",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Oleohidráulica"
     ],
-    "formato": "Físico",
     "notas": "Los autores de este libro ponen en manos de los ingenieros y de los lectore en general los conceptos básicos de la oleohidráulica. Partiendo de conceptos fundamentales, se adentra en los aspectos más importantes de esta tecnología, basada en fluidos y componentes mecánicos. Este libro también incluye los diferentes componentes de las instalaciones oleohidráulicas, sin olvidar los pormenores relacionados con el cálculo, así como los esquemas y diagramas correspondientes.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=9qPuAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=9qPuAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766610317726-9d8807ba9cf9c8",
@@ -45,13 +552,14 @@
     "editorial": "FC Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "END"
     ],
-    "formato": "Físico",
     "notas": "Los Ensayos No Destructivos son métodos que permiten ensayar materiales, piezas y componentes sin destruirlos, de forma que determinen si estos elementos son utilizables para un determinado fin o no. Los métodos de END se utilizan desde la más remota antigüedad en todo tipo de industrias y en las más variadas actividades. La Asociación Española de Ensayos No Destructivos y la Fundación Confemetal son conscientes del déficit de conocimientos que sobre Ensayos No Destructivos existe en España. La Industria requiere personal certificado para la realización de estos ensayos, personal que debe tener una formación y conocimientos adecuados para poder certificarse. Las premisas anteriores han motivado que la AEND y FC Editorial, traten de resolver el problema existente y que el tejido industrial disponga de un conjunto de manuales adecuados a dicha formación, sin que éstos sean enciclopedias de difícil manejo ni simples catálogos más informativos que formativos. Este manual es uno de los primeros de la serie que ambas entidades van a poner en el mercado y corresponde al método de Líquidos Penetrantes, de amplia utilización, por ejemplo, en las industrias metal-mecánicas, nuclear, aeronáutica y de automoción.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/liquidos-penetrantes-nivel-ii.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/liquidos-penetrantes-nivel-ii.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766610014721-132f36dd065998",
@@ -62,13 +570,14 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Oleohidráulica"
     ],
-    "formato": "Físico",
     "notas": "El libro Oleohidráulica A‑B‑C‑D, escrito por Jaume Rifà i Molist, es una obra de iniciación clara, visual y progresiva dirigida a estudiantes, técnicos e ingenieros que buscan comprender el funcionamiento de los sistemas oleohidráulicos desde cero. Su estructura —basada en un desarrollo paso a paso, de los fundamentos (A) hasta aplicaciones y circuitos más avanzados (D)— lo convierte en una herramienta didáctica y accesible.\n\nA diferencia de manuales técnicos densos, este libro destaca por su lenguaje sencillo y su enfoque práctico: utiliza numerosos diagramas, circuitos funcionales, esquemas y ejemplos aplicados que permiten entender rápidamente cómo un fluido transmite energía para generar fuerza y movimiento en actuadores, cilindros y motores hidráulicos. Se abordan componentes esenciales (bombas, válvulas direccionales, presostáticas y reguladoras, depósitos, filtros), simbología y lectura de planos hidráulicos, así como conceptos de presión, caudal, pérdidas y eficiencia.\n\nAunque suficiente para una formación sólida de base, el libro no se limita a teoría: incluye consejos de instalación, criterios de selección de elementos y ejemplos orientados a la industria, por lo que resulta útil en cursos técnicos y en capacitación interna de empresas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/oleohidraulica-a-b-c-d.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/oleohidraulica-a-b-c-d.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766609874734-71422d4e59b0d",
@@ -79,14 +588,15 @@
     "editorial": "Clanrye",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Lubricación",
       "Tribología"
     ],
-    "formato": "Físico",
     "notas": "The field that deals with interacting surfaces in relative motion is known as tribology. It is a multidisciplinary subject that applies principles of various academic fields such as physics, chemistry, biology, mathematics, engineering and materials science. The study and application of the fundamentals of friction, wear and lubrication are fundamental to this field. Lubrication is the technique o…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=FX6-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=FX6-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766609783442-46b0dab1e4ec08",
@@ -97,11 +607,12 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
-    "categorias": [],
     "formato": "Físico",
+    "categorias": [],
     "notas": "Este libro actualizado hasta 2019 sobre la mecánica del contacto es multidisplicinar y constituye una herramienta muy útil para los ingenieros, los físicos, geólogos y los investigadores en el campo de los materiales y los adhesivos. La existencia de una obra en castellano sobre esta temática constituye una novedad que abre el campo de trabajo de los hispano-hablantes a una disciplina raramente tr…",
     "comentarios": "El libro Principios y aplicaciones de la mecánica de contacto en tribología, fricción y adherencia, escrito por Valentin L. Popov, es una obra de alto nivel técnico y científico que se adentra en los fundamentos y aplicaciones de la tribología, disciplina que estudia la interacción entre superficies en contacto, el desgaste, la fricción y la lubricación —elementos decisivos para la confiabilidad de máquinas, vehículos y sistemas industriales.\n\nLa propuesta de Popov destaca por su rigurosidad y por conectar teoría física con aplicaciones reales. El texto desarrolla modelos matemáticos de contacto elástico y plástico, leyes de fricción, transferencia de calor en interfaces, resistencia de adherencia y fenómenos microscópicos que determinan el comportamiento macroscópico de los materiales. Además, presenta estudios y análisis aplicados a frenos, embragues, rodamientos, elementos de transmisión y sistemas donde el contacto mecánico determina rendimiento y desgaste.\n\nEste libro no solo es relevante desde el punto de vista académico; su utilidad es alta para ingenieros dedicados a diseño mecánico, mantenimiento, confiabilidad y materiales, ya que permite comprender las causas raíz del deterioro de componentes y orientar estrategias para reducir pérdidas energéticas, mejorar lubricación o extender la vida útil de activos.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/principios-y-aplicaciones-de-la-mecanica-de-contacto-en-tribologia-friccion-y-adherencia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/principios-y-aplicaciones-de-la-mecanica-de-contacto-en-tribologia-friccion-y-adherencia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766609623360-dac0af5eb3c71",
@@ -112,15 +623,16 @@
     "editorial": "Cambridge University Press",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Lubricación",
       "Tribología",
       "Diseño"
     ],
-    "formato": "Físico",
     "notas": "Fluid film bearings are among the best devices for overcoming friction and eliminating wear. They are machine elements and, together with shafts, gears, and cams, constitute the building blocks engineers use in the design and construction of mechanical devices. This book offers a systematic treatment of the fundamentals of fluid film lubrication and fluid film bearings. The introduction places flu…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=bOwXuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=bOwXuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766609552042-c4820cfdf5da98",
@@ -131,15 +643,16 @@
     "editorial": "CRC Press",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Lubricación",
       "Tribología",
       "Diseño"
     ],
-    "formato": "Físico",
     "notas": "This book demonstrates how to control mechanisms of contact mechanics, heat generation and transfer, friction, noise generation, lubrication, and surface damage due to mechanical and thermal variables. Friction and Lubrication in Mechanical Design reviews various classical and new tribology problems beginning with history and ending with numerical optimization and examples, simplifies access to in…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=UH7QnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=UH7QnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766609449994-b11b7ad5aaf458",
@@ -150,15 +663,16 @@
     "editorial": "CRC Press",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Lubricación",
       "Tribología",
       "RCA"
     ],
-    "formato": "Físico",
     "notas": "Lubrication Degradation: Getting into the Root Causes strives to break down the complex topic of Lubrication Degradation into its six most common failure mechanisms.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=U4mQzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=U4mQzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766607092596-640780be603f8",
@@ -169,15 +683,16 @@
     "editorial": "Huachipato",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Oleohidráulica",
       "Siderúrgica",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "El Manual de Oleohidráulica Industrial (Huachipato) es un documento técnico elaborado en el contexto industrial chileno, específicamente como material formativo de Capacitación y Desarrollo de la Siderúrgica Huachipato, destinado a técnicos, operadores y personal de mantenimiento que interactúan con sistemas oleohidráulicos dentro de una planta productiva.\n\nEste manual se distingue por su enfoque práctico: está pensado como una guía de campo, clara y directa, orientada a enseñar cómo funcionan los sistemas hidráulicos, cómo interpretarlos en diagramas y cómo operarlos con seguridad en el ambiente industrial real. A lo largo del documento se describen los principios básicos de la oleohidráulica —presión, caudal, energía y trabajo— y se presentan los principales componentes: bombas de engranaje, cilindros, válvulas direccionales y de control, filtros, tanques y líneas de retorno. La explicación suele estar acompañada por esquemas funcionales sencillos, dirigidos a facilitar la lectura de planos hidráulicos y la comprensión del flujo energético.\n\nDado su propósito de capacitación, el manual también incorpora recomendaciones operativas, pautas de inspección, precauciones para evitar contaminación del fluido, seguridad en altas presiones y nociones para detectar fallas comunes, elementos clave para la continuidad operacional en una industria como la siderúrgica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manual-de-oleohidraulica-industrial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manual-de-oleohidraulica-industrial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766606880488-107417d6adaec",
@@ -188,16 +703,17 @@
     "editorial": "Mdpi AG",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Tecnología",
       "Lubricación",
       "Tribología",
       "Rodamientos"
     ],
-    "formato": "Físico",
     "notas": "This reprint focuses on the hot issue of bearing lubrication and thermal analysis, and brings together many cutting-edge studies, such as bearing multi-body dynamics, bearing tribology, new lubrication and heat dissipation structures, bearing self-lubricating materials, thermal analysis of bearing assembly process, bearing service state prediction, etc. The purpose of this reprint is to explore re…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=Ds2BzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=Ds2BzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766606696647-7604ddb4a5f298",
@@ -208,14 +724,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Lubricación",
       "Automoción"
     ],
-    "formato": "Físico",
     "notas": "El libro Automoción: Lubricación, Lubricar y Lubricantes y Todos sus Complementos, escrito por Ángel Pons y Josep Maria Torras  (ingeniero químico), es una obra especializada que aborda el mundo de la lubricación desde la perspectiva de la automoción, es decir, enfocada en motores, transmisiones y componentes vehiculares donde la lubricación es indispensable para garantizar eficiencia, rendimiento y vida útil.\n\nA diferencia de textos industriales centrados en maquinaria pesada o equipos estacionarios, este libro se concentra en el entorno automotriz e introduce de forma ordenada:\n\nPrincipios físico-químicos de la lubricación en motores de combustión interna.\n\nTipos de lubricantes (minerales, sintéticos, semisintéticos) y sus aditivos.\n\nSelección de aceites según viscosidad, normas SAE, API y especificaciones de fabricantes.\n\nLubricación de cajas de cambio, diferenciales, rodamientos y sistemas auxiliares.\n\nComportamiento del aceite bajo temperatura, presión, carga y contaminación.\n\nComplementos como grasas, refrigerantes, filtros y fluidos especiales.\n\nEl libro destaca además por ser accesible y visual, con un lenguaje pensado tanto para estudiantes técnicos como para mecánicos y profesionales del mantenimiento vehicular. Incluye explicaciones claras, esquemas y recomendaciones aplicadas al uso cotidiano, lo que facilita trasladar el conocimiento a talleres, flotas y gestión de vehículos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/automocion-lubricacion-lubricar-y-lubricantes-y-todos-sus-complementos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/automocion-lubricacion-lubricar-y-lubricantes-y-todos-sus-complementos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766606461359-cfeffe5eeca08",
@@ -226,15 +743,16 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Neumática",
       "Hidráulica",
       "Eneergía"
     ],
-    "formato": "Físico",
     "notas": "Este texto ha sido diseñado para formar ingenieros capacitados en las aplicaciones contemporáneas de la potencia fluida, con las aptitudes para concebir la neumática e hidráulica como partes de un campo tecnológico unificado.\nLas máquinas que funcionan con base a la transmisión de energía por medio de un vehículo fluido, se han aplicado industrialmente durante más de 200 años. En el siglo XXI la importancia tecnológica de las máquinas hidroneumáticas es irrefutable. Con este libro se pretende contribuir a la formación de nuevos ingenieros, que al incorporarse a la actividad profesional ya posean las habilidades para accionar dispositivos basados en aire y aceite presurizados. La obra también está dirigida a los profesionales que deben tratar con alguno de los muchos procesos de manufactura, en los que las máquinas automáticas ejecutan ciclos de trabajo repetitivos, precisos, veloces y fiables. Ahí es donde la potencia fluida establece la mejor interrelación con el control electrónico.\n\nDESTACADOS:\n\nEjemplos resueltos y numerosos ejercicios propuestos.\n\nMinuciosidad en las explicaciones y cálculos numéricos.\n\nRecuadros sobre detalles históricos, conexiones con otros campos tecnológicos y demostraciones minuciosas para aclarar la aplicación de los conceptos tratados.\n\nUso sistemático y ordenado de las unidades que corresponden a cada magnitud física. Se destaca el uso del SI, pero además se emplean las del llamado “sistema inglés”, y otras de uso común que todavía siguen utilizando los fabricantes de equipos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-potencia-fluida-neumatica-e-hidraulica-para-ingenieros.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-potencia-fluida-neumatica-e-hidraulica-para-ingenieros.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766606279205-01afb563c106c8",
@@ -245,13 +763,14 @@
     "editorial": "FC Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Education"
     ],
-    "formato": "Físico",
     "notas": "Los Ensayos No Destructivos son métodos que permiten ensayar materiales, piezas y componentes sin destruirlos, de forma que determinen si estos elementos son utilizables para un determinado fin o no. Los métodos de END se utilizan desde la más remota antigüedad en todo tipo de industrias y en las más variadas actividades. La Asociación Española de Ensayos No Destructivos y la Fundación Confemetal son conscientes del déficit de conocimientos que sobre Ensayos No Destructivos existe en España. La Industria requiere personal certificado para la realización de estos ensayos, personal que debe tener una formación y conocimientos adecuados para poder certificarse. Las premisas anteriores han motivado que la AEND y FC Editorial, traten de resolver el problema existente y que el tejido industrial disponga de un conjunto de manuales adecuados a dicha formación, sin que éstos sean enciclopedias de difícil manejo ni simples catálogos más informativos que formativos. Este manual corresponde a la serie que ambas entidades han puesto en el mercado y se refiere al método de Corrientes Inducidas, de amplia utilización, por ejemplo, en las industrias metal - mecánicas, nuclear, aeronáutica y de automoción. CONTENIDO: 1. Electricidad. Unidades eléctricas. Corriente y voltaje alterno. Generalidades. 2. Magnetismo. Campo magnético. Reluctancia. 3. Electromagnetismo, Inductancia e Inducción por Corriente Alterna. Campo magnético producido por una corriente. Ley de Lenz. 4. Reactancia Inductiva. Características de la reactancia inductiva del solenoide. Circuitos inductivos. 5. Las Corrientes Inducidas. Impedancia. Factores que afectan a la componente resistiva de las señales de inspección. 6. Características del Solenoide: Solenoides y Palpadores (Disposición y Construcción). Efecto del diámetro de la bobina sobre la reactancia. Palpadores especiales. Uso específico. 7. Características de la Muestra: Permeabilidad, Conductividad Eléctrica y Grietas. Conductores y aislantes. Efectos de la temperatura y de la dispersión térmica en materiales no magnéticos. 8. Características de la Corriente: Profundidad de Penetración. Frecuencia. Variación de la fase con la profundidad. Influencia de la frecuencia sobre la impedancia del solenoide. 9. Efectos del Acoplamiento Magnético con los Materiales. Factor de llenado. Efecto del factor de llenado sobre la reactancia inductiva. 10. Equipos y Probetas. Compensación por lift-off. Patrones de medición de espesores. 11. Defectología. Defectología de materiales metálicos. Defectos en funcionamiento o servicio. 12. Apéndices.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/corrientes-inducidas-nivel-ii.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/corrientes-inducidas-nivel-ii.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766606109556-b620b508183fe8",
@@ -262,15 +781,16 @@
     "editorial": "FC Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Emisión Acústica",
       "END",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "El libro Emisión Acústica – Niveles I y II (END), escrito por Antolino Gallego Molina y Eva Martínez González, es un texto especializado que forma parte de la literatura técnica orientada a la certificación y capacitación en Ensayos No Destructivos (END), específicamente en la técnica de emisión acústica.\n\nSu principal fortaleza radica en que combina teoría, normativa y práctica operacional, permitiendo al lector adquirir los conocimientos necesarios para desempeñarse en niveles I y II según estándares internacionales (como UNE-EN, ISO o ASNT). El contenido abarca:\n\nConceptos físicos de la emisión acústica y propagación de ondas.\n\nEquipos, sensores y configuración de sistemas.\n\nParámetros medidos y criterios de evaluación.\n\nPreparación de superficies, instalación de sensores y calibración.\n\nDetección de fallas como grietas, corrosión, delaminación o fatiga.\n\nProcedimientos de inspección, seguridad y certificación del personal.\n\nEl libro resulta especialmente pertinente en sectores donde el monitoreo de integridad estructural es crítico —industria petroquímica, minería, calderería, recipientes a presión, pipelines, infraestructura— y en programas de confiabilidad y mantenimiento predictivo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/emision-acustica-niveles-i-y-ii-end.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/emision-acustica-niveles-i-y-ii-end.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766605970521-fdb3128df79e",
@@ -281,16 +801,17 @@
     "editorial": "Ediciones Paraninfo, S.A.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "refrigeración",
       "Mantenimiento",
       "Lubricación",
       "Motor"
     ],
-    "formato": "Físico",
     "notas": "Mantenimiento de sistemas de refrigeración y lubricación de los motores térmicos explica la estructura y el funcionamiento de estos dos sistemas, tan importantes para optimizar el rendimiento del motor y maximizar su duración. Por otro lado, se desarrollan las operaciones más destacables de mantenimiento y reparación, de acuerdo con las indicaciones de los fabricantes y teniendo en cuenta el trata…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=eLv-CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=eLv-CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766605872568-122d3ab4aeed28",
@@ -301,16 +822,17 @@
     "editorial": "Endress+Hauser",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Medición",
       "Niveles",
       "Industria",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "El libro Teoría y práctica de medición de niveles, escrito por Wim van de Kamp y publicado por Endress+Hauser, constituye una de las referencias más completas y didácticas disponibles sobre la medición industrial de niveles, disciplina clave en la automatización, control de procesos y operación segura de plantas industriales.\n\nEl texto destaca tanto por su claridad como por su enfoque integral. Comienza explicando los fundamentos físicos que permiten medir niveles en líquidos, sólidos y materiales granulares —presión hidrostática, capacitancia, ultrasonido, radar, vibración, radiación, entre otros— para luego profundizar en el funcionamiento de cada tipo de instrumento y su selección adecuada según la aplicación. Asimismo, aborda temas aplicados como: instalación correcta en campo, compensación de condiciones ambientales, calibración, mantenimiento preventivo, resolución de fallas y criterios económicos de selección.\n\nUn valor agregado notable del libro es su orientación práctica: incluye ilustraciones, fotografías reales de equipos, diagramas de montaje y ejemplos de aplicaciones en industrias como minería, química, petróleo & gas, tratamiento de agua, alimentos y energía. Esto lo convierte en una guía especialmente útil tanto para ingenieros de automatización y control como para técnicos de instrumentación y estudiantes de ingeniería industrial o mecánica.\n\nEn síntesis, Teoría y Práctica de M",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/teoria-y-practica-de-medicion-de-niveles.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/teoria-y-practica-de-medicion-de-niveles.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766605668367-6929163e7c1f08",
@@ -321,6 +843,7 @@
     "editorial": "SKF",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Rodamientos",
       "Máquinas",
@@ -328,10 +851,10 @@
       "Mantenimiento",
       "Manual"
     ],
-    "formato": "Físico",
     "notas": "El Manual SKF de mantenimiento de rodamientos es un texto técnico altamente reconocido en el ámbito de la confiabilidad y mantenimiento industrial. Editado por SKF —empresa líder mundial en tecnología de rodamientos— este manual constituye una guía práctica y rigurosa para garantizar una correcta instalación, operación, lubricación y vida útil de los rodamientos, componentes críticos en máquinas rotatorias.\n\nA diferencia de un catálogo, esta obra está orientada específicamente al mantenimiento, por lo que incluye procedimientos detallados, recomendaciones de buenas prácticas, técnicas de diagnóstico y criterios de intervención. Entre sus contenidos destacan:\n\nSelección correcta del rodamiento según carga, velocidad, temperatura y entorno.\n\nTécnicas de montaje y desmontaje (mecánicas, térmicas e hidráulicas).\n\nLubricación, sellado y control de contaminación.\n\nCausas raíz de fallas típicas (fatiga, corrosión, desgaste, desalineación, falta de lubricación).\n\nInspección, monitoreo y uso de herramientas de medición.\n\nEstrategias para aumentar confiabilidad y reducir costos del ciclo de vida.\n\nSu orientación al “cómo hacerlo bien” lo convierte en un instrumento indispensable para ingenieros de mantenimiento, técnicos de planta, especialistas en confiabilidad y estudiantes de mecánica industrial, especialmente en industrias donde la operación continua es crítica, como minería, energía, manufactura y transporte.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manual-skf-de-mantenimiento-de-rodamientos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manual-skf-de-mantenimiento-de-rodamientos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766605512917-d0a4633ce1e398",
@@ -342,13 +865,14 @@
     "editorial": "Gaceta",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Vibraciones"
     ],
-    "formato": "Físico",
     "notas": "El libro Introducción a las Vibraciones, escrito por Pablo García-Fogeda Núñez y Ángel Sanz Andrés, es un texto especializado dirigido a quienes desean comprender los principios fundamentales del análisis vibratorio, un campo crítico dentro de la ingeniería mecánica, aeroespacial y del mantenimiento predictivo.\n\nLa obra presenta una estructura pedagógica que facilita el aprendizaje progresivo: inicia con nociones básicas de sistemas de un grado de libertad, ecuaciones de movimiento, amortiguamiento y respuesta a excitaciones, para luego avanzar hacia sistemas de múltiples grados de libertad, modos de vibración y comportamiento dinámico complejo. Se apoya en ejemplos matemáticos, diagramas claros y ejercicios, lo cual la hace útil tanto para autoestudio como para uso docente.\n\nAunque su énfasis principal está en la teoría clásica de vibraciones, el libro resulta relevante para profesionales del mantenimiento y confiabilidad, ya que sienta las bases necesarias para interpretar fenómenos que afectan directamente la salud de activos industriales (desbalance, desalineación, resonancias, fatiga, ruido estructural). Para quienes luego deseen avanzar hacia técnicas modernas de monitoreo (análisis espectral, FFT, sensores, CMMS, AI-predictivo), este texto aporta el fundamento matemático imprescindible.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=OG9-oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=OG9-oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766605397458-a6b341b892b9b",
@@ -359,14 +883,15 @@
     "editorial": "Createspace Independent Publishing Platform",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Vibraciones",
       "Máquinas"
     ],
-    "formato": "Físico",
     "notas": "Dentro de las técnicas del mantenimiento basado en condición, el análisis de vibraciones ha demostrado ser una de las mas efectivas para detectar y diagnosticar fallas en máquinas. A lo largo de los últimos años se han publicado diversos textos donde se fundamentan sus principios desde el punto de vista teórico, para complementar los cursos de formación y adiestramiento profesional. Es por esta ra…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=baeGZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=baeGZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766605304229-ac76932d313c38",
@@ -377,16 +902,17 @@
     "editorial": "Trillas",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Vibraciones",
       "Ondas",
       "Mecánica",
       "Física"
     ],
-    "formato": "Físico",
     "notas": "En casi todos los sistemas físicos puede presentarse un movimiento oscilatorio es decir, un movimiento alternante de una posición de equilibrio estable, y cuando varios sistemas están acoplados, el movimiento oscilatorio se trasmite de un sistema al otro en la forma de una onda. Son muchos los fenómenos naturales que involucran ondas: perturbaciones en la superficie del agua, el sonido, la luz, la radio, las ondas sísmicas, los ultrasonidos... La presente obra incluye los temas de la asignatura Vibraciones y ondas, la cual se imparte en la licenciatura en Física dela Universidad Autónoma Metropolitana, Unidad Iztapalapa, y que se contempla en los planes de estudio de diferentes instituciones de educación superior. Además de los contenidos de orden curricular se abordan temas como las ondas sonoras, la propagación de ondas a través de un cable coaxial y las ondas de calor. En cada uno de los diez capítulos se ofrece a estudiantes y profesores un desarrollo teórico claro y conciso, aunado a numerosos ejemplos, ejercicios y problemas de aplicación.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/vibraciones-y-ondas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/vibraciones-y-ondas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766604596787-932fc187a0d41",
@@ -397,15 +923,16 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Mecánica",
       "Ingeniería",
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "El libro Marks' Standard Handbook for Mechanical Engineers (Manual del Ingeniero Mecánico), conocido simplemente como Marks, es posiblemente la obra de referencia más emblemática y completa de la ingeniería mecánica a nivel mundial. Compilado por Theodore Baumeister, Eugene A. Avallone y Theodore Baumeister III, y con múltiples ediciones en inglés y español, este manual constituye un compendio enciclopédico que reúne teoría, fórmulas, datos de diseño y aplicaciones prácticas utilizadas por ingenieros en ejercicio, docentes, estudiantes y diseñadores industriales.\n\nSu valor radica en que cubre prácticamente todas las áreas esenciales de la ingeniería mecánica: propiedades de materiales, termodinámica, transferencia de calor, mecánica de fluidos, máquinas térmicas, sistemas eléctricos básicos, diseño de elementos mecánicos, vibraciones, manufactura, energía, controles, hidráulica, neumática, confiabilidad y tablas indispensables para cálculos rápidos. Es un libro pensado para resolver problemas concretos, por lo que su lenguaje es directo, con ecuaciones, diagramas, tablas y parámetros listos para usar.\n\nAunque hoy existen softwares y recursos digitales que automatizan muchos cálculos, el Marks sigue siendo una referencia irremplazable por su carácter sintético y confiable: permite comprender el fundamento detrás de los resultados y ofrece datos verificados que sirven de base para decisiones de diseño. En el ámbito académico y profesional se reconoce como un “libro de cabecera” para el ingeniero mecánico.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/marks-manual-del-ingeniero-mecanico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/marks-manual-del-ingeniero-mecanico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766604365931-afb5a0d4f2f49",
@@ -416,16 +943,17 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Bombas",
       "Diseño",
       "Fluído",
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "Este libro cubre, de forma clara y didáctica, las bases teóricas para el diseño de tuberías industriales para líquidos y compresores. Acompañan al texto numerosas aplicaciones prácticas basadas en experiencias reales, de tal manera que se puedan aplicar los conocimientos expuestos. El presente libro puede servir tanto a estudiantes de ingeniería como a ingenieros en planta.\n\nRedes industriales de tuberías Luszczewski, Kudra Antoni Nº edición, 1 ISBN: 9788429120547 312 págs. 21.0x27.0 cm. rústica",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1k3qRVvyFRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=1k3qRVvyFRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766604230760-9478fb2a563298",
@@ -436,15 +964,16 @@
     "editorial": "Macro",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Programación",
       "Proyectos",
       "PERT"
     ],
-    "formato": "Físico",
     "notas": "El libro Programación de Proyectos con Incertidumbres: El Margen de Duración – Cálculo y Análisis, escrito por el Ing. Javier Resteigue Villanueva y publicado por Editorial Macro, aborda una temática crítica pero muchas veces subestimada en la gestión de proyectos: la incorporación formal de la incertidumbre en la planificación y control del tiempo.\n\nEl texto se centra en el concepto de margen de duración, entendido como la holgura realista que deberían considerar los cronogramas para absorber variaciones inevitables en la ejecución. A diferencia de los manuales clásicos orientados a técnicas deterministas como CPM o PERT en su forma más básica, esta obra se distingue por ofrecer un enfoque analítico y matemático robusto para modelar variabilidad, calcular márgenes y realizar análisis de sensibilidad y riesgo.\n\nEntre sus contenidos se destacan:\n\nAnálisis de incertidumbre en actividades y rutas críticas.\n\nModelación del tiempo mediante distribuciones y escenarios probabilísticos.\n\nAlgoritmos de cálculo del margen óptimo.\n\nControl del proyecto bajo distintas condiciones de variabilidad.\n\nEjemplos numéricos aplicados a cronogramas reales.\n\nEste enfoque técnico vuelve al libro especialmente útil para profesionales que gestionan proyectos en sectores donde la incertidumbre es alta (minería, construcción, ingeniería industrial, energía y operaciones complejas), así como para estudiantes avanzados de gestión de proyectos o ingeniería que buscan profundizar más allá de herramientas tradicionales.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/programacion-de-proyectos-con-incertidumbres-el-margen-de-duracion-calculo-y-analisis.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/programacion-de-proyectos-con-incertidumbres-el-margen-de-duracion-calculo-y-analisis.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766603994616-16eea409a5dbe8",
@@ -455,15 +984,16 @@
     "editorial": "Universidad Nacional Colombia",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Engranajes",
       "Lubricación",
       "Diseño"
     ],
-    "formato": "Físico",
     "notas": "El libro Engranajes: Diseño, Lubricación, Análisis de Fallas y Mantenimiento, escrito por el Ing. Luis Eduardo Benítez Hernández, es una obra altamente especializada que integra de manera excepcional los aspectos fundamentales y aplicados relacionados con engranajes, uno de los elementos mecánicos más críticos en la transmisión de potencia industrial.\n\nA diferencia de textos que se enfocan únicamente en el diseño geométrico o en el cálculo de esfuerzos, este libro ofrece una visión holística que abarca:\n\nPrincipios de diseño y selección de engranajes, considerando cargas, materiales, perfiles, tratamientos térmicos y la interacción diente-diente.\n\nLubricación y tribología aplicada, donde se explican los tipos de lubricantes, condiciones de película lubricante, temperaturas y contaminación, elementos claves para la confiabilidad.\n\nAnálisis de fallas reales, describiendo modos de daño como micropitting, scuffing, desgaste abrasivo, fatiga superficial, fractura y alineación deficiente, con enfoque en causas raíz.\n\nMantenimiento y recomendaciones para operación industrial, orientadas a extender la vida útil de los equipos mediante inspección, monitoreo y buenas prácticas.\n\nEste enfoque integrador convierte al texto en una guía práctica para ingenieros de mantenimiento, especialistas en confiabilidad, mecánicos de planta y docentes del área mecánica, especialmente en industrias intensivas como minería, siderurgia y energía. Su utilidad radica en que conecta el diseño teórico con los desafíos reales de operación continua, donde el costo de falla de un engranaje puede ser crítico.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/engranajes-diseno-lubricacion-analisis-de-fallas-y-mantenimiento.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/engranajes-diseno-lubricacion-analisis-de-fallas-y-mantenimiento.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766603808215-a9852c7013965",
@@ -474,16 +1004,17 @@
     "editorial": "Uteha",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Elementos de Máquinas",
       "Diseño",
       "Mecánica",
       "Ingeniería"
     ],
-    "formato": "Físico",
     "notas": "El libro Diseño de Elementos de Máquinas, escrito por V. M. Faires, es un texto clásico e histórico dentro de la ingeniería mecánica, ampliamente utilizado por generaciones de estudiantes para introducirse en el diseño mecánico y la resistencia de elementos de máquinas. Su aporte principal radica en presentar los fundamentos teóricos y metodológicos necesarios para comprender cómo diseñar componentes mecánicos seguros, confiables y funcionales bajo condiciones reales de operación.\n\nLa obra aborda temas esenciales como esfuerzos y deformaciones, análisis de fatiga, selección de materiales, diseño de ejes, engranajes, cojinetes, resortes, uniones atornilladas, soldaduras y transmisión de potencia. Aunque su enfoque se basa en métodos tradicionales y cálculos manuales, permite desarrollar criterio ingenieril y comprensión profunda de los principios físicos y mecánicos detrás del diseño, lo cual sigue siendo indispensable incluso en la era del CAD y los softwares de simulación.\n\nA pesar de que textos más actuales incorporan temas como análisis computacional, normativas modernas o diseño para manufactura automatizada, el libro de Faires conserva gran valor formativo: es una referencia sólida para adquirir la base conceptual sobre la que luego se construyen competencias avanzadas. Por ello, resulta especialmente recomendable para estudiantes de ingeniería mecánica, industriales y técnicos de diseño, así como para docentes que buscan un texto estructurado y pedagógico para cursos introductorios.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diseno-de-elementos-de-maquinas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diseno-de-elementos-de-maquinas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766603564076-f443fce4d1a048",
@@ -494,15 +1025,16 @@
     "editorial": "Limusa",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Planificación",
       "Producción",
       "Industrial"
     ],
-    "formato": "Físico",
     "notas": "El libro Planeación y Control de la Producción, escrito por Robert H. Bock y William K. Holstein, es un texto clásico dentro del ámbito de la gestión de operaciones, particularmente útil para comprender los fundamentos del planeamiento, programación y control de los procesos productivos en organizaciones industriales.\n\nLa obra desarrolla de manera estructurada los elementos que conforman un sistema de producción eficiente: pronósticos de demanda, planeación agregada, programación maestra, control de inventarios, control de piso y seguimiento del desempeño. Su enfoque metodológico y conceptual permite al lector comprender la lógica de coordinación entre recursos, tiempos y capacidades, mostrando cómo las decisiones estratégicas y tácticas se conectan con la operación diaria.\n\nSi bien refleja una visión tradicional previa a los modelos contemporáneos de manufactura esbelta, automatización avanzada o Industria 4.0, el texto sigue siendo valioso por la solidez de sus fundamentos y por su utilidad para quienes requieren una base conceptual en operaciones antes de abordar metodologías más modernas. En particular, resulta recomendable para estudiantes de ingeniería industrial, administración de operaciones y logística, así como para profesionales que buscan reforzar los pilares de la gestión productiva.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/planeacion-y-control-de-la-produccion.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/planeacion-y-control-de-la-produccion.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766603384410-051ac99af97198",
@@ -513,15 +1045,16 @@
     "editorial": "CRC Press",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Confiabilidad",
       "Minitab",
       "Sistemas"
     ],
-    "formato": "Físico",
     "notas": "Statistical Analysis for the Reliability Engineering Professional Effectively conduct reliability analysis using the world's leading statistical software. Reliability Analysis with Minitab(R) outlines statistical concepts and applications, explains the theory of probability, reliability analysis, and quality improvement, and provides step-by-step instruction on the use of Minitab. Minitab introduc…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=aXEezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=aXEezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766603325300-8331a64c580288",
@@ -532,6 +1065,7 @@
     "editorial": "Ediciones Paraninfo, S.A.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Fatiga",
@@ -539,10 +1073,10 @@
       "RCA",
       "Máquinas"
     ],
-    "formato": "Físico",
     "notas": "Este libro está estructurado de forma que pueda servir como texto para estudiantes de ingeniería y como referencia de consulta para profesionales. Se presentan los principales procedimientos utilizados en la industria para el cálculo resistente de piezas y componentes de máquinas, con especial énfasis en los de análisis de fatiga producida por tensiones variables con el tiempo.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=bwMoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=bwMoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766603194721-f9224c72937978",
@@ -553,6 +1087,7 @@
     "editorial": "Trillas",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Transportes",
@@ -560,10 +1095,10 @@
       "Tribología",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "El libro Lubricación Técnica de Maquinaria, escrito por Saúl Soto Molina y publicado por Editorial Trillas, es un texto técnico de amplia difusión en el ámbito del mantenimiento industrial. Su principal aporte radica en ofrecer una formación integral sobre los fundamentos, prácticas y criterios técnicos necesarios para garantizar una lubricación adecuada de equipos mecánicos, condición indispensable para la confiabilidad, disponibilidad y vida útil de los activos.\n\nLa obra aborda tanto los principios físico-químicos de la lubricación —viscosidad, fricción, película lubricante, cargas y temperaturas— como la clasificación de lubricantes (aceites minerales, sintéticos, grasas, aditivos), su selección en función del tipo de maquinaria, material, condiciones de operación y entorno industrial. Además, incluye capítulos orientados a la gestión práctica: planes de lubricación, rutinas de inspección, control de contaminación, intervalos de cambio, almacenamiento y análisis de aceite, elementos esenciales para una estrategia de mantenimiento moderna.\n\nUn aspecto especialmente relevante del libro es su enfoque formativo para técnicos y estudiantes, con ejemplos claros, ilustraciones y lenguaje directo, lo que facilita su uso como material de apoyo en cursos de mantenimiento, mecánica industrial y gestión de activos. En síntesis, se trata de una referencia útil y accesible que contribuye a fortalecer competencias clave para la operación confiable de maquinaria en minería, manufactura, energía y otros sectores donde la lubricación afecta directamente la eficiencia y los costos del ciclo de vida.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lubricacion-tecnica-de-maquinaria.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lubricacion-tecnica-de-maquinaria.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766600169962-3b9d9c688f08f8",
@@ -574,16 +1109,17 @@
     "editorial": "GmbHPO",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Siderúrgica",
       "Alto Horno",
       "Metalurgia",
       "Acero"
     ],
-    "formato": "Físico",
     "notas": "El libro Introducción al Proceso del Alto Horno, de M. Geerdes, O. Lingiardi, H. Toxopeus y C. van der Vliet, es una obra técnica especializada que aborda de manera sistemática y rigurosa el funcionamiento del alto horno, proceso central en la producción de arrabio y en la industria siderúrgica tradicional. El texto está concebido como una introducción sólida, pero con profundidad suficiente para comprender tanto los fundamentos físicos y químicos como los aspectos operacionales del proceso.\n\nA lo largo del libro se explican con claridad las reacciones químicas principales, la termodinámica del proceso, el comportamiento de los materiales (mineral de hierro, coque y fundentes), la dinámica de gases y sólidos, y las distintas zonas del alto horno. Asimismo, se analizan variables operacionales clave —temperatura, composición del gas, carga, permeabilidad y consumo energético— que influyen directamente en la eficiencia, estabilidad y productividad del proceso.\n\nUno de los principales aportes de la obra es su enfoque integrador entre teoría y práctica industrial, lo que la convierte en un texto de referencia tanto para estudiantes de ingeniería metalúrgica y mecánica como para profesionales vinculados a la operación, mantenimiento y optimización de plantas siderúrgicas. En este sentido, el libro facilita la comprensión de un proceso complejo y altamente acoplado, fundamental para el análisis de eficiencia energética, confiabilidad operativa y control de procesos en la industria del acero.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-al-proceso-de-alto-horno.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-al-proceso-de-alto-horno.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766600729962-f21ed959134bd8",
@@ -594,16 +1130,17 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mecánica",
       "Ingeniería",
       "Física",
       "Vibraciones"
     ],
-    "formato": "Físico",
     "notas": "Esta obra está dirigida a los estudiantes de ingeniería mecánica, mecatrónica, automática y civil, así como a los ingenieros en estas especialidades.\nPartiendo de diferentes sistemas vibratorios primero se establece el modelo matemático a partir del cual se hace el análisis teórico de las vibraciones, se estudian sistemas con uno y con varios grados de libertad, se plantean y resuelven las ecuaciones diferenciales correspondientes, se estudian las vibraciones de sistemas con parámetros distribuidos, las fuerzas inerciales presentes en los sistemas vibratorios y finalmente se presentan algunos problemas en los que se requiere el uso de elementos no lineales.\nAprenda:\na identificar y resolver problemas de vibraciones que se presentan en el comportamiento dinámico de las máquinas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/vibraciones-en-sistemas-fisicos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/vibraciones-en-sistemas-fisicos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766600578095-4a2a488c41e1f8",
@@ -614,14 +1151,15 @@
     "editorial": "PuntoRojo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Contratos",
       "Administración"
     ],
-    "formato": "Físico",
     "notas": "Todo negocio tiene su base en un contrato, y la garantía del éxito de ese negocio depende en su mayor parte de como se Gestiona y Administra el Contrato. La Gestión y Administración de Contratos es la disciplina que garantiza el éxito de todo contrato y por ende del negocio, a través del manejo adecuado de los recursos del contrato, con el fin de minimizar riesgos y garantizar ganancias, obteniendo así el éxito del negocio. En esta Guía encontraras paso a paso como gestionar y administrar un contrato, con el fin de lograr lo esperado del negocio, es decir, que sea rentable y sin riesgos. No se debe empezar a ejecutar un Contrato, si no se tiene establecida una buena Gestión y Administración de Contratos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-para-la-gestion-y-administracion-de-contratos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-para-la-gestion-y-administracion-de-contratos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766600346300-b99c976ed3534",
@@ -632,15 +1170,16 @@
     "editorial": "Debate",
     "coleccion": "Una historia personal",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Genética",
       "Medicina",
       "Biología"
     ],
-    "formato": "Físico",
     "notas": "Magnífico, necesario y absorbente, Siddhartha Mukherjee, ganador del Premio Pulitzer por El emperador de todos los males, ha escrito una extraordinaria «biografía» del gen y una respuesta a una de las cuestiones más relevantes del futuro: ¿Qué significa ser humano cuando se es capaz de manipular la información genética? La historia de cómo hemos descifrado el código fuente que nos hace humanos abarca todo el planeta y varios siglos -y probablemente defina el futuro que nos espera. Entrelazando ciencia, historia y vivencias personales, Mukherjee hace un recorrido por el nacimiento, el crecimiento, la influencia y el futuro de una de las ideas más poderosas y peligrosas de la historia de la ciencia: el gen, la unidad fundamental de la herencia, y la unidad básica de toda la información biológica. Desde Aristóteles y Pitágoras, pasando por los descubrimientos relegados de Mendel, la revolución de Darwin, Watson y Franklin, hasta los avances más innovadores llevados a cabo en nuestro siglo, este libro nos recuerda cómo la genética nos afecta a todos cada día. Reseñas:«Esta quizá sea la mejor historia de suspense jamás contada, una búsqueda de milenios dirigida por mil exploradores, de Aristóteles a Mendel a Francis Collins, tras el enigma en el centro de cada célula. Como El emperador de todos los males, El gen es prodigiosa, torrencial y finalmente transcendente. Si te interesa en qué consiste ser humano hoy y en todos los mañanas que vengan, tienes que leer este libro.»Anthony Doerr, autor de La luz que no puedes ver «El gen es una magnífica síntesis de la ciencia de la vida, y nos obliga a enfrentarnos con el núcleo de esa ciencia, así como con los retos éticos y filosóficos a nuestra idea de en qué consiste ser humano.»Paul Berg, Premio Nobel de Química «Magnífico... La historia del gen se ha contado por trozos de distintas maneras, pero nunca con la perspectiva y la grandeza que Mukherjee aporta a su historia.»",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=PHeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=PHeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766599935331-e5cb6a83867ca",
@@ -651,16 +1190,17 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Rodamientos",
       "Máquinas",
       "Técnico",
       "Manual"
     ],
-    "formato": "Físico",
     "notas": "El Catálogo General SKF es una obra técnica de referencia fundamental para ingenieros, técnicos y profesionales del mantenimiento industrial. Más que un simple listado de productos, este catálogo constituye una herramienta de consulta integral para la selección, aplicación y mantenimiento de rodamientos y soluciones asociadas, respaldada por décadas de experiencia tecnológica de SKF a nivel mundial.\n\nEl catálogo presenta de forma estructurada una amplia gama de rodamientos (rígidos de bolas, de rodillos, axiales, de contacto angular, entre otros), junto con información técnica clave como dimensiones normalizadas, capacidades de carga, velocidades límite, tolerancias, lubricación, sellos y vida útil nominal. Asimismo, incorpora criterios de selección y recomendaciones prácticas que permiten adaptar los componentes a condiciones reales de operación, como cargas variables, contaminación, vibraciones y temperatura.\n\nUno de sus mayores aportes es el enfoque aplicado a la ingeniería de confiabilidad y mantenimiento, ya que conecta el diseño mecánico con la operación segura y eficiente de los equipos. En este sentido, el catálogo resulta especialmente valioso en contextos industriales exigentes —minería, energía, manufactura y transporte— donde la correcta selección de rodamientos tiene un impacto directo en la disponibilidad, seguridad y costos del ciclo de vida de los activos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/catalogo-rodamientos-skf.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/catalogo-rodamientos-skf.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766599685556-0d1e30c1e159f8",
@@ -671,15 +1211,16 @@
     "editorial": "Eae",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mecánica",
       "Rodamientos",
       "Vibraciones"
     ],
-    "formato": "Físico",
     "notas": "Se describen brevemente algunas definiciones usadas; tales como los rodamientos y sus tipos, las vibraciones, el mantenimiento, y los elementos finitos (como calculo mecanico estructural). Como contenido principal, se crea un modelo computacional en elementos finitos de un rodamiento con y sin defectos. Con este modelo se desarrolla un sistema capaza de simular el estado real en funcionamiento, pe…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=Cpa2pwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=Cpa2pwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766599499506-a9163617d1c1c",
@@ -690,16 +1231,17 @@
     "editorial": "McGraw-Hill Companies",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Producción",
       "Operación",
       "Investigación Operaciones",
       "Business & Economics"
     ],
-    "formato": "Físico",
     "notas": "This text provides a survey of the analytical methods used to support the functions of production and operations management. This latest edition continues to bring the most thorough coverage of cutting-edge quantitative models used in operations, while presenting it in a clean, easy to understand fashion. There are many new problems both solved and unsolved for students to comprehend the quantitat…",
     "comentarios": "Estrategia y competencia 1\n2 Pronósticos 51\n3 Planeación agregada 108\nSuplemento 1 Programación lineal 154\n4 Control de inventarios sujeto al conocimiento de la demanda 183\n5 Control de inventarios sujetos a demanda\nincierta 232\n6 Administración de la cadena de\nabastecimiento 294\n7 Sistemas de producción de empuje y\ntracción: MRP y JIT 346\n8 Programación de operaciones 401\nSuplemento 2 Teoría de colas 457\n9 Programación de proyectos 484\n10 Distribución y ubicación de\ninstalaciones 535\n11 Aseguramiento de la calidad 610\n12 Confiabilidad y facilidad de mantenimiento\n687",
-    "portada": "https://books.google.com/books/content?id=8iEfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=8iEfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766599342008-c4f89cf4820a9",
@@ -710,6 +1252,7 @@
     "editorial": "PennWell Books",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica",
       "Trasnferencia",
@@ -717,10 +1260,10 @@
       "Torre",
       "Enfriamiento"
     ],
-    "formato": "Físico",
     "notas": "This new text represents the most detailed and comprehensive book presenting modern practice and theory relevant to the thermal-flow performance evaluation, design, and optimization of air-cooled heat exchangers and cooling towers. Kroger provides modern analytical and empirical tools used to evaluate the thermal-flow performance and design of air-cooled heat exchangers and cooling towers. He also…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=uHhqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=uHhqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766599279495-66061b4f07968",
@@ -731,14 +1274,15 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Industria",
       "Sociología"
     ],
-    "formato": "Físico",
     "notas": "Este libro reúne los mejores y más recientes conocimientos y ofrece una visión muy reveladora de las personas en el trabajo en todos los tipos y situaciones del comportamiento organizacional. El libro tiene el propósito de fomentar y promover el desarrollo de cuatro procesos de pensamiento diferentes, pero complementarios: elementos de juicio, análisis causal, pensamiento crítico y reflexión.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=amjKMAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=amjKMAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766599111413-2c5f4dfa11333",
@@ -749,16 +1293,17 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mejora Continua",
       "Producción",
       "Lean",
       "Six Sigma"
     ],
-    "formato": "Físico",
     "notas": "Lean Six Sigma fue el paradigma que estableció nuevas reglas del juego cuando se popularizó por vez primera hace dos décadas. Ahora, ha llegado otro innovador: la inteligencia artificial. Sin embargo, a diferencia de otras tecnologías disruptivas, la inteligencia artificial no desplaza a los sistemas existentes como Lean Six Sigma. Los complementa. La razón es que la inteligencia artificial es una poderosa herramienta de diagnóstico que descubre y elimina patrones de desperdicio ocultos para LSS. Al combinar la inteligencia artificial y LSS, usted mejorará en forma drástica sus operaciones, sus utilidades y tiempos de los ciclos. Y eso es exactamente lo que esta obra revolucionaria le ayuda a lograr.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-six-sigma-en-la-era-de-la-inteligencia-artificial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/lean-six-sigma-en-la-era-de-la-inteligencia-artificial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766523458663-a153035d79e1",
