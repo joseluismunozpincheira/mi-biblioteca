@@ -1,5 +1,529 @@
 [
   {
+    "id": "libro-1766794111037-14b569b6f0d46",
+    "titulo": "Mis finanzas personales",
+    "autor": "Juan Jaime Díaz, Manuel Silva G.",
+    "anio": 2002,
+    "isbn": "9789562392235",
+    "editorial": "Aguilar",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Finanzas"
+    ],
+    "formato": "Físico",
+    "notas": "Una guía para aprender a manejar las finanzas. ¿ Por que muchas personas no prosperan financieramente?Es común ver que muchas personas no logran avanzar financieramente, ni consolidar un patrimonio, y mucho menos construir una vida de seguridad financiera. Independientemente de todas las dificultades de tipo social y económico que resaltan en nuestros países latinoamericanos, es evidente el total analfabetismo que existe en relación con las finanzas personales y la administración del dinero.Millones de personas gastan más de lo que se ganan, viven con deudas exageradas, no saben en qué se gastan una parte de sus ingresos, ven el ahorro y la inversión sólo como una posibilidad accidental, y las palabras ?planificación financiera en finanzas personales? poco o nada tienen que ver con su vida cotidiana.El objetivo de este libro es, con un lenguaje sencillo, poner a disposición de todo tipo de personas los principios fundamentales y prácticos para construir una vida de seguridad y tranquilidad financiera.Esta es la guía de finanzas personales para los no financieros.¡Decida tomar control de su futuro financiero HOY!",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mis-finanzas-personales.jpg"
+  },
+  {
+    "id": "libro-1766793814408-851d0a57743a9",
+    "titulo": "Historia secreta de Chile",
+    "autor": "Jorge Baradit",
+    "anio": 2015,
+    "isbn": "9789562624695",
+    "editorial": "Sudamericana",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Chile",
+      "Novela",
+      "Historia"
+    ],
+    "formato": "Físico",
+    "notas": "Historia secreta de Chile\" es una popular serie de libros del escritor chileno Jorge Baradit que explora anécdotas, hechos misteriosos y perspectivas poco conocidas de la historia oficial del país. \nReseña y Temas Principales\nEl libro, que se ha convertido en un éxito de ventas, busca desafiar la historia \"oficial\" contada en las escuelas, la cual, según Baradit, ha estado llena de omisiones para construir una visión mítica y heroica de la nación. La propuesta es una historia más \"líquida\" y maleable, que se acerca a los personajes históricos desde su humanidad y anécdotas, a menudo escandalosas",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-secreta-de-chile.jpg"
+  },
+  {
+    "id": "libro-1766789175894-b77b5b2394b16",
+    "titulo": "Mi vida junto a Pablo Neruda, Memorias",
+    "autor": "Matilde Urrutia",
+    "anio": 1987,
+    "isbn": "9432245801",
+    "editorial": "Seix Barral",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Biografía",
+      "Memorias"
+    ],
+    "formato": "Físico",
+    "notas": "En las memorias de Matilde Urrutia: “Mi vida junto a Pablo Neruda”, ella habla de la estadía de ambos en la isla de Capri, en el año 1952, y cuenta que el poeta, con toda seriedad, habló con la luna para formalizar una unión que por el momento no era posible realizar de otra manera: Escribe Matilde: “Allí Pablo, muy serio, sin un asomo de broma, le pidió a la luna que nos casara. Le contó que no podíamos casarnos en la tierra, pero que ella, la musa de todos los poetas enamorados, nos casaría en ese momento, y que ese matrimonio lo respetaríamos como lo más sagrado.” Aunque se considera que hubo un matrimonio en el extranjero, se ignora fehacientemente si en los años siguientes hubo realmente, en algún país, alguna ceremonia civil que refrendara este romántico matrimonio astral. Lo concreto es que muchos años después en Chile -y más precisamente en Isla Negra Pablo y Matilde le demostraron a la luna que se habían mantenido unidos y fieles a esa lejana unión de catorce años atrás.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mi-vida-junto-a-pablo-neruda-memorias.jpg"
+  },
+  {
+    "id": "libro-1766788716423-9c5be99d0ca828",
+    "titulo": "La pasión de Brahms",
+    "autor": "Elizabeth Subercaseaux",
+    "anio": 2016,
+    "isbn": "9789562624800",
+    "editorial": "Sudamericana",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Música",
+      "Compositores"
+    ],
+    "formato": "Físico",
+    "notas": "El padre de Johannes Brahms va de taberna en taberna tocando instrumentos para mantener a su familia, y su hijo de seis años, quien lo acompaña, ya genera la admiración de quienes lo escuchan al piano. Es pleno siglo XIX, el romanticismo está en marcha, el esplendor de las cortes contrasta con la pobreza de las calles y en el ambiente sórdido de los conventillos de Hamburgo nadie hubiera dicho que el niño Johannes se convertiría en uno de los más grandes compositores de todos los tiempos.\nLa pasión de Brahms relata la historia de este genio, y lo hace al modo de una novela conmovedora que indaga en las dificultades de su infancia, en su talento inmenso, en esa suerte de inspiración divina que lo tocó, en las relaciones con los otros grandes músicos de ese siglo -como Robert Schumann, Richard Wagner o Franz Liszt- y en sus grandes amores, muchos de ellos prohibidos, que revolucionaron su existencia.\nUn libro intenso, como la genialidad de sus protagonistas",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-pasion-de-brahms.jpg"
+  },
+  {
+    "id": "libro-1766788466109-ddae1875c731e8",
+    "titulo": "Todo sobre mi madre",
+    "autor": "Pedro Almodóvar, Cecilia Roth",
+    "anio": 1999,
+    "isbn": "8477748039",
+    "editorial": "El deseo ediciones",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Película",
+      "Guión",
+      "Teatro"
+    ],
+    "formato": "Físico",
+    "notas": "Un refrán griego dice que sólo las mujeres que han lavado sus ojos con lágrimas pueden ver con claridad. El refrán no se cumple con Manuela. La noche que un coche atropelló a su hijo Esteban, Manuela lloró hasta quedar totalmente seca. Y lejos de ver con claridad, el presente y el futuro se confunden en la misma oscuridad. Prologo de Guillermo Cabrera Unfante",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=itpkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766788395123-8f738ca4fedb98",
+    "titulo": "Ultimate Python, de cero a experto: Un libro para principiantes fácil de seguir",
+    "autor": "Nicolas Schurmann",
+    "anio": 2024,
+    "isbn": "9798884444447",
+    "editorial": "Independently Published",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Progamación",
+      "Informática"
+    ],
+    "formato": "Físico",
+    "notas": "Aprender a programar es una herramienta necesaria el día de hoy, ya sea para poder construir aplicaciones web hasta crear la más avanzada inteligencia artificial. Y puede ser sumamente desafiante si no se tiene la guía correcta. Es por esta razón que decidí crear este libro de Ultimate Python, un libro donde te tomaré de la mano y te enseñaré todo lo que necesitas saber acerca del lenguaje de prog…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=GH-r0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766788333385-683e7fa378481",
+    "titulo": "La Historia de los Judios",
+    "autor": "Paul Johnson",
+    "anio": 2005,
+    "isbn": "9789501522150",
+    "editorial": "Vergara",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Historia",
+      "Judíos"
+    ],
+    "formato": "Físico",
+    "notas": "Edición especial de La historia de los judíos de Paul Johnson. Una historia de cuatro mil años -de Abraham a la consolidación del Estado de Israel- en la que se ha forjado una cultura que ha ejercido una influencia innegable en la formación del mundo moderno. «Ningún pueblo ha insistido más firmemente en que la humanidad tiene un destino y la historia un propósito.» Desde el descubrimiento del mon…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=QB1cQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766788298019-b532f054b639b8",
+    "titulo": "El código Da Vinci",
+    "autor": "Dan Brown",
+    "anio": 2003,
+    "isbn": "9788495618603",
+    "editorial": "Ediciones Urano",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Ficción"
+    ],
+    "formato": "Físico",
+    "notas": "Es un apasionante juegos de claves escondidas, sorprendentes revelaciones, acertijos ingeniosos, verdades, mentiras, realidades históricas, mitos símbolos, ritos, misterios y suposiciones en una trama llena de giros inesperados, narrado con un ritmo imparable que conduce al lector hasta el secreto más celosamente guardado del inicio de nuestra era.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=vDcEBHVcJxgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766788200454-f40566a927ecb",
+    "titulo": "Mario, cuadernos de un viajero",
+    "autor": "Carlos Enrique Freire",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Arequipa",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ilustración",
+      "Comic"
+    ],
+    "formato": "Físico",
+    "notas": "Mario es Mario Vargas Llosa. Y el viajero es ese hombre que transitó por los paisajes costeños, serranos y selváticos de nuestro esquivo Perú, que cruzó océanos y continentes hasta hacerse ciudadano del mundo. Pero el viajero es también ese hombre que tiene en las venas ese pálpito social que lo llevó por parajes tan disímiles y yuxtapuestos como la literatura y la política.",
+    "comentarios": "Ilustracíon y comic peruano",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mario-cuadernos-de-un-viajero.jpg"
+  },
+  {
+    "id": "libro-1766787925200-6f55a6ed748688",
+    "titulo": "Tejado de vidrio, cómo recuperar la confianza en Chile",
+    "autor": "Mario Waissbluth",
+    "anio": 2015,
+    "isbn": "9789569545108",
+    "editorial": "Debate",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Chile"
+    ],
+    "formato": "Físico",
+    "notas": "\"Chile se ha convertido en una larga y angosta faja de tierra con tejado de vidrio. A todo nivel, no sólo en la clase política. Parafraseando a nuestra gran Violeta: \"Al medio de Alameda de las Delicias, Chile limita al centro de la injusticia\" y la desconfianza\" Así comienza este ensayo directo, irreverente, apasionado y con una sólida fundamentación teórica que demuestra que nuestro país está en un punto inflexión que nos impide seguir creciendo y desarrollándonos si no hacemos cambios profund",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tejado-de-vidrio-como-recuperar-la-confianza-en-chile.jpg"
+  },
+  {
+    "id": "libro-1766787819532-a04b13a3754bf8",
+    "titulo": "El pequeño Larousse ilustrado 2006",
+    "autor": "Larousse (Firm)",
+    "anio": 2005,
+    "isbn": "9789702212331",
+    "editorial": "Larousse Kingfisher Chambers",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Enciclopedias",
+      "diccionarios"
+    ],
+    "formato": "Físico",
+    "notas": "This annually revised bestseller is a comprehensive Spanish-language dictionary and encyclopedia in one. With updated entries reflecting current events, the latest edition of this full-featured reference includes 90,000 entries with 200,000 definitions. More than 5,000 full-color photographs, maps, tables, and drawings enhance the written entries and make browsing a pleasure. The encyclopedia sect…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=-ydnQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766787714832-aeaafbda0a9a3",
+    "titulo": "Los amantes de Estocolmo",
+    "autor": "Roberto Ampuero",
+    "anio": 2010,
+    "isbn": "9789563340662",
+    "editorial": "Edisur",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Policial"
+    ],
+    "formato": "Físico",
+    "notas": "\"Los amantes de Estocolmo\" es una novela del escritor chileno Roberto Ampuero que explora las complejidades de las relaciones de pareja y los celos, contraponiendo dos historias de amor distintas. \nSinopsis y Argumento\nLa novela se centra en Cristóbal Pasos, un novelista chileno exiliado que reside en Estocolmo. La trama se desarrolla en torno a sus sospechas de infidelidad por parte de su esposa, lo que desencadena una narrativa de intriga y pasión. El autor utiliza la metaficción, llamando la atención sobre el proceso de escritura de la novela dentro de la misma obra, y aborda temas como la dictadura chilena de forma subrepticia. \nLa historia contrapone dos relaciones amorosas: la del protagonista en el presente en Estocolmo y otra historia pasada, explorando cómo los celos y la infidelidad pueden llevar a las personas a hacer cosas inimaginables. La narrativa es descrita como íntima y profunda, sumergiéndose en las dinámicas de poder y las vulnerabilidades dentro del matrimonio y las relaciones amorosas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-amantes-de-estocolmo.jpg"
+  },
+  {
+    "id": "libro-1766784411031-1247fbfb55e378",
+    "titulo": "Curso basico de programacion en matlab",
+    "autor": "Antonio Souto Iglesias",
+    "anio": 2014,
+    "isbn": "9788473605205",
+    "editorial": "Tebar",
+    "coleccion": "",
+    "vol": "2da Ed.",
+    "categorias": [
+      "Programación",
+      "Matlab"
+    ],
+    "formato": "Físico",
+    "notas": "El \"Curso básico de programación en MATLAB\" es un libro de referencia escrito principalmente por Antonio Souto Iglesias, junto con José Luis Bravo Trinidad, Alicia Cantón Pire y Leo Miguel González Gutiérrez. \nDetalles del Libro\nPropósito: Está diseñado como una introducción a la programación estructurada para estudiantes de titulaciones no informáticas (como ingeniería), utilizando MATLAB como lenguaje base.\nContenido: Incluye explicaciones teóricas, ejemplos prácticos y ejercicios propuestos para dominar los fundamentos del lenguaje.\nEditorial: Publicado por Editorial Tébar Flores (actualmente disponible en su 2ª edición).\nFormato: Cuenta con aproximadamente 230 páginas y está disponible tanto en formato físico como digital (Kindle).",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766784364616-51e86ceb23e628",
+    "titulo": "Software Quality Management, Reducing Defect Through Root Cause Analysis",
+    "autor": "Abusayed Mahfuz",
+    "anio": 2020,
+    "isbn": "9781708191863",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Administración",
+      "RCA",
+      "Software"
+    ],
+    "formato": "Físico",
+    "notas": "Content OverviewChapter One: Software Development Life Cycle, includes the Concept and Definition includes two major development process of Waterfall and Agile. Chapter Two: 'Software Testing Life Cycle, includes concept and definition of Testing, its life cycle and how it fits in Software Development Life Cycle. This chapter also discuss the different kind of testing. Chapter Three: 'Test Plannin…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=17dNzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766784224194-be05114f0a3d",
+    "titulo": "Visual C++.NET",
+    "autor": "Kate Gregory, José Ignacio García Sánchez",
+    "anio": 2003,
+    "isbn": "9788420536453",
+    "editorial": "Prentice Hall",
+    "coleccion": "edición especial",
+    "vol": "",
+    "categorias": [],
+    "formato": "Físico",
+    "notas": "Kate Gregory es una reconocida experta en programación, Directora Regional de Microsoft y MVP (Most Valuable Professional) de Visual C++. Sus libros han sido fundamentales para que miles de desarrolladores transicionen del C++ estándar al entorno de Microsoft:\nSpecial Edition Using Visual C++.NET: Es una de sus obras más citadas. Explica cómo utilizar las herramientas de .NET para crear aplicaciones potentes, cubriendo desde la sintaxis hasta la interoperabilidad.\nMicrosoft Visual C++.NET 2003 Kick Start: Una guía rápida diseñada para que programadores experimentados se adaptaran rápidamente a las mejoras de la versión 2003.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=1Z0KAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766784178900-9a7c9ca39e609",
+    "titulo": "Bases de datos, desde Chen hasta Codd con Oracle",
+    "autor": "Irene Luque Ruiz, Miguel Angel Gomez-Nieto, GONZALO AUTOR CERRUELA GARCIA",
+    "anio": 2002,
+    "isbn": "9789701507605",
+    "editorial": "Alfaomega Grupo Editor",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Informática",
+      "Bases de Datos"
+    ],
+    "formato": "Físico",
+    "notas": "Presenting the fundamentals of Oracle databases, this reference includes an introduction to database design and covers the rules of translation for related conceptualized plans. Provided are solutions to common pitfalls and techniques for integrating databases and the Internet, and a CD-ROM is also included. Esta obra de consulta presenta los conocimientos fundamentales de las bases de datos, haci…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=7tlPPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766784032017-71c6fd3583226",
+    "titulo": "AUDITORIA INFORMATICA : UN ENFOQUE PRACTICO",
+    "autor": "MARIO GERARO PIATTINI, VELTHUIS, EMILIO AUTOR DEL PESO NAVARRO",
+    "anio": 2001,
+    "isbn": "9789701507315",
+    "editorial": "Alfaomega",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Informática",
+      "Auditoría"
+    ],
+    "formato": "Físico",
+    "notas": "Auditoría informática: un enfoque práctico\" es generalmente una referencia a la obra de Mario Piattini, un texto fundamental para profesionales que buscan evaluar la eficiencia, seguridad y cumplimiento de los sistemas de información en una organización. \nObjetivos Principales\nEvaluar el Control Interno: Verificar si los controles implementados protegen los activos de la empresa.\nGarantizar la Integridad de Datos: Asegurar que la información sea precisa, completa y confiable.\nOptimización de Recursos: Determinar si los sistemas de TI operan de manera eficiente para alcanzar los objetivos de negocio.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/auditoria-informatica-un-enfoque-practico.jpg"
+  },
+  {
+    "id": "libro-1766783888591-0cfeef699aecf",
+    "titulo": "Evaluación de proyectos",
+    "autor": "Gabriel Baca Urbina",
+    "anio": 2022,
+    "isbn": "9786071517555",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "9 ed",
+    "categorias": [
+      "Proeyctos",
+      "Evaluación",
+      "Negocios",
+      "Administración"
+    ],
+    "formato": "Físico",
+    "notas": "El libro \"Evaluación de Proyectos\" de Gabriel Baca Urbina es un texto fundamental en la administración y economía, utilizado para enseñar la metodología de formulación y evaluación de inversiones. \n1. Definición de Proyecto\nPara Baca Urbina, un proyecto es un plan que, al recibir un capital determinado e insumos de diversos tipos, producirá un bien o servicio útil para el ser humano o la sociedad. \n2. Estructura de la Metodología\nLa metodología propuesta se divide en varios estudios secuenciales para determinar la viabilidad de una inversión: \nEstudio de Mercado: Determina si existe una demanda insatisfecha que justifique la creación del bien o servicio.\nEstudio Técnico: Define dónde, cuándo, cuánto y cómo producir lo que el mercado demanda (localización, tamaño y procesos técnicos).\nEstudio Económico: Sistematiza los costos e ingresos para determinar el monto de la inversión necesaria y los flujos financieros.\nEvaluación Económica: Aplica indicadores de rentabilidad (como el VPN y la TIR) para decidir si el proyecto es financieramente conveniente.\nAnálisis y Administración del Riesgo: Evalúa la probabilidad de que los resultados reales difieran de los proyectados. \n3. Niveles de Profundidad\nEl autor distingue tres niveles de análisis según la precisión requerida: \nPerfil: Gran visión o identificación de la idea.\nAnteproyecto (Estudio de prefactibilidad): Evaluación profunda de alternativas para la toma de decisiones. El libro se enfoca principalmente en este nivel.\nProyecto definitivo: Detalles finales para la ejecució",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/evaluacion-de-proyectos.jpg"
+  },
+  {
+    "id": "libro-1766782597281-a7fa9df2fe3848",
+    "titulo": "Problemas de mecanismos",
+    "autor": "Emilio Bautista Paz, José Luis Muñoz Sanz, Javier Echávarri Otero",
+    "anio": 2014,
+    "isbn": "9788416277124",
+    "editorial": "Dextra",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Máquinas Eléctricas",
+      "Electricidad"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro proporciona una colección de problemas resueltos sobre Transformadores y Máquinas Eléctricas Asíncronas, cuyos enunciados se consideran de utilidad para todos aquellos que se acerquen a las disciplinas de Ingeniería en Tecnologías Industriales e Ingeniería. Su objetivo principal, común, por otra parte al de cualquier libro de problemas, es mostrar que la aplicación de los conocimientos teóricos de índole físico y matemático involucrados en el funcionamiento de dichos dispositivos electro-mecánicos, permite dimensionar estos equipos así como sus instalaciones para aportar soluciones adecuadas para cubrir los requisitos que se le exigen. Con ello se aporta al lector una herramienta que facilite la comprensión del funcionamiento de estas máquinas a la vez que, al tomar en consideración su utilidad práctica, estimule su curiosidad y actúe como incentivo para profundizar en su estudio y conocimiento.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/problemas-de-mecanismos.jpg"
+  },
+  {
+    "id": "libro-1766782454016-409ad9ede5439",
+    "titulo": "Excel Avanzado",
+    "autor": "Claudio Sánchez",
+    "anio": 2000,
+    "isbn": "9789875262409",
+    "editorial": "Onweb",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programas",
+      "Software"
+    ],
+    "formato": "Físico",
+    "notas": "Si usted tiene en sus manos este libro, quiere decir que es un usuario de Excel que, seguramente, trabaja a diario con planillas y bases de datos. Ya sabrá cómo emplear algunas funciones más o menos complejas e, incluso, de qué modo graficar los resultados obtenidos. Pero es muy probable que sólo conozca una muy pequeña porción de todo lo que este poderoso programa le puede ofrecer. Con esta obra tendrá a su alcance todas las herramientas necesarias para desempeñar con eficiencia su labor cotidiana: descubrirá la manera de plantear escenarios hipotéticos de negocio, personalizar sus gráficos y analizar en profundidad la información almacenada en bases de datos. Excel es una herramienta que parece no tener límites: está en usted aprender a explotar al máximo todas sus posibilidades.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=OTYEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766782337835-3dc5731e4a6ce8",
+    "titulo": "serie HP 48G guia de iniciacion rápida",
+    "autor": "Hewlett Packard",
+    "anio": 1994,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Calculadora",
+      "Tecnología",
+      "Manual"
+    ],
+    "formato": "Físico",
+    "notas": "La guía de iniciación rápida de la serie HP 48G introduce los fundamentos operativos, como el uso de la pila y la línea de comandos, la introducción de objetos matemáticos y los conceptos básicos del sistema RPN (notación polaca inversa) o el modo algebraico. Puedes encontrar el manual completo en español en línea. \nConceptos Fundamentales\nLa HP 48G organiza todos los objetos matemáticos que utiliza (números, ecuaciones, matrices, unidades, etc.) mediante una pila. \nLa Pila: Funciona como un \"fichero\" donde los objetos entran y salen por el nivel 1. Cada objeto nuevo que se introduce empuja a los objetos anteriores hacia arriba en la pila. La pantalla principal de la calculadora es una ventana que muestra parte de esta pila.\nModo Operativo: La calculadora tiene dos modos de operación: Algebraico y Notación Polaca Inversa (RPN). El modo algebraico suele ser el predefinido, pero muchos usuarios experimentados de HP prefieren el modo RPN. En RPN, primero se introducen los argumentos (números) y luego el operador (por ejemplo, +).\nLínea de Comandos: Es donde se introducen los datos antes de pasarlos a la pila. Se pueden editar los objetos en la línea de comandos antes de pulsar ENTER",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/serie-hp-48g-guia-de-iniciacion-rapida.jpg"
+  },
+  {
+    "id": "libro-1766782140882-528c7f9accfed8",
+    "titulo": "Photoshop 6 web magic",
+    "autor": "Jeff Foster",
+    "anio": 2001,
+    "isbn": "9789879460337",
+    "editorial": "Prentice Hall",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programas",
+      "Software"
+    ],
+    "formato": "Físico",
+    "notas": "Photoshop 6 Web Magic es un libro especializado de la editorial New Riders (Pearson en español) enfocado en la creación de gráficos avanzados para la web utilizando Adobe Photoshop 6.0. \nDetalles del Libro\nAutor principal: Jeff Foster, con contribuciones de Peter Bauer y David J. Emberton.\nFecha de publicación: Lanzado originalmente el 10 de enero de 2001.\nFormato: Se distingue por su diseño en dos columnas, con instrucciones paso a paso a la izquierda y gráficos o código a la derecha para facilitar el aprendizaje visual. \nContenido y Enfoque\nEl libro está estructurado en torno a 21 tutoriales o proyectos prácticos que enseñan técnicas específicas para diseñadores web: \nGráficos base: Creación de texturas, patrones personalizados y mosaicos (tiles) sin costuras desde cero para fondos web.\nElementos de interfaz: Diseño de botones tipo \"rollover\", ventanas plásticas trasparentes y barras de menú con pestañas y degradados.\nAnimación y efectos: Técnicas para crear texto deformado (warping), anuncios emergentes (pop-ups) y efectos de iluminación animados. Optimización: Uso de Adobe ImageReady (software incluido con Photoshop en esa época) para la optimización de archivos, mapas de imágenes y la integración de código JavaScript básico.\nMaterial adicional: Incluye un CD-ROM con los archivos de los proyectos, pinceles personalizados, estilos de capa y ejemplos de código. \nAunque es un recurso de 2001, sigue siendo referenciado por sus fundamentos sólidos en el manejo de capas, estilos y flujos de trabajo de diseño web que sentaron las bases para versiones posteriores como CS6 o la actual versión en la nube.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/photoshop-6-web-magic.jpg"
+  },
+  {
+    "id": "libro-1766781873160-550e6c25b42678",
+    "titulo": "Cómo trabaja Google",
+    "autor": "Eric Schmidt",
+    "anio": 2015,
+    "isbn": "9789569582127",
+    "editorial": "Aguilar",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [],
+    "formato": "Físico",
+    "notas": "El libro Cómo trabaja Google (How Google Works), escrito por Eric Schmidt (ex-CEO) y Jonathan Rosenberg, detalla los principios de gestión y cultura que transformaron a Google de una startup a un gigante global. \nLa metodología de trabajo se basa en estos pilares clave:\n1. Los \"Creativos Inteligentes\" (Smart Creatives) \nEl éxito de Google no reside en sus planes de negocio, sino en atraer y retener a un tipo específico de empleado que combina: \nConocimiento técnico profundo: Capacidad para manejar herramientas tecnológicas avanzadas.\nSensibilidad empresarial: Comprensión de cómo su trabajo impacta el negocio.\nCuriosidad y ambición: Disposición para cuestionar el statu quo y resolver problemas complejos. 2. Cultura de Innovación\nLa Regla del 20%: Google permite que sus empleados dediquen el 20% de su tiempo a proyectos personales que beneficien a la empresa, de donde surgieron productos como Gmail y AdSense.\nPensar en grande (10X): La filosofía no es mejorar un 10%, sino intentar crear algo 10 veces mejor.\nAceptar el fracaso: Se fomenta la experimentación y el aprendizaje de los errores, entendiendo que los fallos son parte necesaria de la innovación. \n3. Estrategia y Toma de Decisiones\nJerarquía Plana: Mantienen estructuras organizativas horizontales para facilitar la comunicación directa y rápida entre equipos.\nConsenso y Disensión: Buscan el consenso en decisiones importantes, pero fomentan que los empleados expresen desacuerdos abiertamente para llegar a la mejor solución posible.\nUso de OKRs: Utilizan la metodología de Objetivos y Resultados Clave (OKRs) para alinear los esfuerzos de todos los miembros de la empresa hacia metas comunes y medibles.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-trabaja-google.jpg"
+  },
+  {
+    "id": "libro-1766781709350-0f1086d8c9351",
+    "titulo": "serie HP 48G guia de usuario",
+    "autor": "Hewlett Packard",
+    "anio": 1994,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Calculadora",
+      "Tecnología",
+      "Manual"
+    ],
+    "formato": "Físico",
+    "notas": "https://h10032.www1.hp.com/ctg/Manual/bpia5247.pdf",
+    "comentarios": "La Guía de Usuario de la serie HP 48G es el manual oficial de Hewlett-Packard para los modelos 48G, 48G+ y 48GX. Este documento explica el diseño, fundamentos operativos y la capacidad matemática avanzada de estas calculadoras gráficas. \nDocumentación Oficial y Recursos\nGuía de Usuario (Español): Puedes consultar o descargar la versión oficial en PDF directamente desde los servidores de HP: Serie HP 48G - Guía de Usuario.\nGuía de Inicio Rápido: Ideal para aprender conceptos básicos como el uso de la \"pila\" (stack) y la línea de comandos: Manual de Iniciación Rápida.\nManuales Complementarios: Existen otros recursos como la Guía de Mensajes y manuales específicos para el modelo 48GII.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/serie-hp-48g-guia-de-usuario.jpg"
+  },
+  {
+    "id": "libro-1766781424768-b4aa3ef85faea8",
+    "titulo": "Programa como un genio, diseño tus videojuegos con Scratch 3.0",
+    "autor": "Coder Kids (Estados Unidos)",
+    "anio": 2020,
+    "isbn": "9789569543357",
+    "editorial": "Vicens Vives",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación"
+    ],
+    "formato": "Físico",
+    "notas": "Programa como un genio: Diseña tus videojuegos con Scratch 3.0\" es un libro educativo escrito por Young-jun Gwak y Sang-hun Kim, diseñado para introducir a niños y jóvenes en el mundo de la programación de manera lúdica [1, 2].\nA diferencia de los manuales técnicos tradicionales, este libro utiliza un enfoque de aprendizaje por proyectos donde el lector aprende conceptos lógicos (bucles, variables, condicionales) mientras construye juegos completos [2, 3]. \nCaracterísticas principales del libro:\nProyectos Prácticos: Guía paso a paso para crear diversos tipos de juegos, como laberintos, juegos de plataformas y de disparos [4, 5].\nFundamentos de Pensamiento Computacional: Enseña a dividir problemas complejos en pasos pequeños y lógicos [2, 6].\nVisual y Amigable: Utiliza la interfaz de bloques de colores de Scratch 3.0, facilitando la comprensión sin necesidad de escribir código complejo [3, 7].\nRecursos de Apoyo: Muchos de los ejercicios incluyen materiales descargables o ejemplos en la comunidad oficial de Scratch para comparar resultados [5, 8].",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/programa-como-un-genio-diseno-tus-videojuegos-con-scratch-3-0.jpg"
+  },
+  {
+    "id": "libro-1766781377810-33a7baa3fbc188",
+    "titulo": "Visual studio.net Tutoriales",
+    "autor": "Microsoft",
+    "anio": 2002,
+    "isbn": "",
+    "editorial": "Microsoft",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Software",
+      "Visual Studio.net"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766781141595-172cf936c88118",
+    "titulo": "Macromedia Flash 5",
+    "autor": "David Karlins",
+    "anio": 2001,
+    "isbn": "9789879460351",
+    "editorial": "Pretence Hall",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Software",
+      "HTTP",
+      "Flash"
+    ],
+    "formato": "Físico",
+    "notas": "David Karlins es un reconocido autor y consultor especializado en diseño web y herramientas digitales. En relación con Macromedia Flash 5 (lanzado originalmente en el año 2000), es autor de manuales educativos diseñados para enseñar a usuarios de diversos niveles a crear contenido interactivo y animaciones. \nSus obras principales sobre esta versión del software incluyen:\nThe Complete Idiot's Guide to Macromedia Flash 5: Publicado a finales del año 2000, este libro utiliza un enfoque ameno y paso a paso para enseñar conceptos básicos como capas, símbolos, botones, interpolaciones (tweening) y una introducción al lenguaje ActionScript.\nMacromedia Flash 5: Anime sus páginas web: Esta es la edición en español de su obra, publicada por editoriales como Prentice Hall. Está orientada a diseñadores que buscan integrar elementos multimedia y streaming de audio o video en sus sitios web de manera sencilla. \nKarlins ha escrito más de 40 libros sobre diseño gráfico e interactivo, abarcando también herramientas como Adobe Illustrator, Dreamweaver y estándares modernos como HTML5 y CSS3.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/macromedia-flash-5.jpg"
+  },
+  {
+    "id": "libro-1766780907100-578a16c4a447d8",
+    "titulo": "Ingeniería de software",
+    "autor": "Ian Sommerville",
+    "anio": 2002,
+    "isbn": "9789702602064",
+    "editorial": "Addison Wesley",
+    "coleccion": "",
+    "vol": "6ed",
+    "categorias": [
+      "Software",
+      "Ingeniería"
+    ],
+    "formato": "Físico",
+    "notas": "Ian Sommerville es un académico británico y una autoridad reconocida en el campo de la ingeniería de software, conocido principalmente por ser el autor de un popular y fundamental libro de texto sobre el tema. Es profesor de ingeniería de software en la Universidad de Lancaster, Inglaterra, y ha estado involucrado en la investigación y la educación desde la década de 1970. \nSu Obra Principal: \"Ingeniería de Software\"\nSu libro de texto, titulado simplemente \"Ingeniería de Software\" (o Software Engineering en inglés), es ampliamente utilizado por estudiantes y profesionales en todo el mundo. \nEnfoque: El libro abarca los fundamentos de la ingeniería de software, incluyendo la especificación, el desarrollo, la gestión y la evolución de sistemas de software.\nContenido: Combina enfoques tradicionales basados en planes con métodos ágiles más novedosos. Las ediciones más recientes, como la décima edición, publicada alrededor de abril de 2015, incluyen material sobre ingeniería de sistemas, ingeniería de resiliencia y sistemas de sistemas para reflejar las actualizaciones tecnológicas.\nDefinición de Sommerville: Define la ingeniería de software como \"la especificación, desarrollo, gestión y evolución de sistemas software\".",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ingenieria-de-software.jpg"
+  },
+  {
+    "id": "libro-1766780806983-1a24b0b97ce128",
+    "titulo": "Guía de aprendizaje Macromedia Dreamweaver MX para Windows y Macintosh",
+    "autor": "J. Tarin Towers",
+    "anio": 2003,
+    "isbn": "9788420538389",
+    "editorial": "Pearson",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Software",
+      "Programas",
+      "Diseño",
+      "WEB"
+    ],
+    "formato": "Físico",
+    "notas": "Una guía de aprendizaje para Macromedia Dreamweaver MX (y MX 2004) para Windows y Mac es un recurso que enseña a usar esta herramienta WYSIWYG para diseñar y codificar sitios web, cubriendo desde lo básico como primeros pasos y creación de páginas hasta aspectos más avanzados, con lecciones paso a paso y herramientas visuales como guías para alineación, ideal para principiantes y profesionales. Aunque Dreamweaver es ahora de Adobe, estas guías se centran en la interfaz y funciones de esa época, enseñando HTML, CSS y JavaScript.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=OH4CAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
     "id": "libro-1766763555008-ca14f2521397b",
     "titulo": "Cerebro, Los secretos del órgano más complejo",
     "autor": "José Viosca, José Viosca Ros",
@@ -8,14 +532,15 @@
     "editorial": "RBA",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Cerebro",
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "El cerebro es el órgano más misterioso del cuerpo humano. A pesar de los avances recientes en disciplinas como la biología molecular o en las técnicas de la neuroimagen, todavía queda mucho camino por recorrer hasta desentrañar todos sus secre­tos. ¿Llegaremos algún día a descifrar los mecanismos de su estructura y funcionamiento? ¿Podremos con ello reparar sus defectos y potenciar nuestras capaci…",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cerebro-los-secretos-del-organo-mas-complejo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cerebro-los-secretos-del-organo-mas-complejo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766763316928-5c20551887d188",
@@ -26,15 +551,16 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Difusión",
       "Recreación"
     ],
-    "formato": "Físico",
     "notas": "\"Con este libro empezó todo. Decir que la matemática está en la vida cotidiana y que, si se le pierde el miedo, puede ser una disciplina fascinante ya forma parte del sentido común. Pero no era así en los primeros 2000, cuando Adrián Paenza inauguró, con este texto, una manera única de divulgar la ciencia de los números. Millones de ejemplares vendidos, secuelas y reediciones, traducciones a otras…",
     "comentarios": "Matemática...¿estás ahí? Tal vez esté oculta en un problema, pero lo que es seguro es que sí, la matemática está a la vuelta de la esquina, en nuestra vida cotidiana y esperando a que la descubramos. He aquí una inmejorable guía para lanzarnos a explorar. En este libro el matemático y periodista Adrián Paenza nos brinda una serie de historias con números, personajes, problemas y reflexiones, y una visión muy personal sobre la vida, el universo y todo lo demás.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/matematica-estas-ahi-sobre-numeros-personajes-problemas-y-curiosidades.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/matematica-estas-ahi-sobre-numeros-personajes-problemas-y-curiosidades.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766763192469-c25a5c82e4dba8",
@@ -45,13 +571,14 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadísticas"
     ],
-    "formato": "Físico",
     "notas": "Las estadísticas nos rodean. Nos acompañan a todos lados, nos persiguen, nos acosan. Estadísticas económicas, sociales, políticas, médicas, meteorológicas, alimenticias o deportivas. Permanentemente estamos estimando cantidades; seguimos los resultados de nuestro equipo de fútbol y confiamos en las encuestas antes de las elecciones. Esas mediciones están tan metidas en nuestra vida cotidiana que muchas veces no notamos cuánto influyen en nosotros. Por si fuera poco, la estadística vive de los errores. Este libro nos invita a adentrarnos en el fascinante mundo de estas pequeñas mentiras verdaderas de todos los días, como las usadas para medir el rating de la televisión, la efectividad de la policía para combatir el crimen, la evolución de la pobreza, la discriminación en el mercado laboral, dirimir delicadas cuestiones jurídicas o simplemente saber adónde tirarse para atajar un penal. Y además, pasa revista a varios de los métodos de esta disciplina, que aunque no puedan garantizar una certeza del 100% son aproximaciones útiles para acercarse a fenómenos muy complejos. Walter Sosa Escudero es el mejor guía para moverse en el mundo de las probabilidades, las estimaciones y las proyecciones. Con pasión y sin valerse de complicadas fórmulas ni gráficos nos explica los usos científicos, sociales y hasta truculentos de una de las ciencias más presentes en nuestra vida. Este libro la desenmascara y hasta logra que disfrutemos de poder comprenderla.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/que-es-y-que-no-es-la-estadistica-como-se-construyen-las-predicciones-y-los-datos-que-mas-influyen-en-nuestras-vidas-en-medio-de-la-revolucion-de-big-data.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/que-es-y-que-no-es-la-estadistica-como-se-construyen-las-predicciones-y-los-datos-que-mas-influyen-en-nuestras-vidas-en-medio-de-la-revolucion-de-big-data.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766762977349-9d35b947daf218",
@@ -62,15 +589,16 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Colegio",
       "Estudiantes"
     ],
-    "formato": "Físico",
     "notas": "La obra de Murakami, merecedora de numerosos premios, ha cautivado a millones de lectores en todo el mundo. Mientras aterriza en un aeropuerto europeo, Toru Watanabe, un ejecutivo de 37 años, escucha una vieja canción de los Beatles que le hace retroceder a su juventud, al turbulento Tokio de los años sesenta. Con una mezcla de melancolía y desasosiego, Toru recuerda entonces a la inestable y misteriosa Naoko, la novia de su mejor y único amigo de la adolescencia, Kizuki. El suicidio de éste distanció a Toru y a Naoko durante un año, hasta que se reencontraron e iniciaron una relación íntima. Sin embargo, la aparición de otra mujer en la vida de Toru le lleva a experimentar el deslumbramiento y el desengaño allí donde todo debería cobrar sentido: el sexo, el amor y la muerte.",
     "comentarios": "Haruki Murakami\n  (Autor) (Kioto, 1949) es uno de los pocos autores japoneses que han dado el salto de escritor de prestigio a autor con grandes ventas en todo el mundo. Ha recibido numerosos premios, entre ellos el Noma, el Tanizaki, el Yomiuri, el Franz Kafka, el Jerusalem Prize o el Hans Christian Andersen, y su nombre suena reiteradamente como candidato al Nobel de Literatura. En España, ha merecido el Premio Arcebispo Juan de San Clemente, la Orden de las Artes y las Letras, concedida por el Gobierno español, el Premi Internacional Catalunya 2011 y el Premio Princesa de Asturias de las Letras 2023. Además, es maratonista, triatleta, melómano, ama a los gatitos y disfruta mucho de la literatura norteamericana.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tokio-blues-norwegian-wood.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tokio-blues-norwegian-wood.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766762829322-2e7c39335f23",
@@ -81,15 +609,16 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Big Data",
       "IA",
       "Informática"
     ],
-    "formato": "Físico",
     "notas": "\"Cada vez que deslizamos nuestros dedos por una pantalla e ingresamos a una página web para hacer una compra o buscar una dirección, cada vez que hacemos un posteo, damos un like o subimos una foto a las redes sociales, cada vez que usamos la tarjeta de crédito, el GPS, cada vez que... estamos generando datos, ¡cantidades espeluznantes de datos espontáneos! (de hecho, en los últimos dos años la hu…",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/big-data-breve-manual-para-conocer-la-ciencia-de-datos-que-ya-invadio-nuestras-vidas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/big-data-breve-manual-para-conocer-la-ciencia-de-datos-que-ya-invadio-nuestras-vidas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766762629122-eeabd03c13c9b8",
@@ -100,14 +629,15 @@
     "editorial": "Edu",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "IA",
       "Programación"
     ],
-    "formato": "Físico",
     "notas": "La inteligencia artificial se centra en la creación de sistemas capaces de ejecutar tareas que requieran algún tipo de inteligencia humana. Entrar en este campo sin conocimientos previos puede parecer muy complejo, pero con esta obra estamos convencidos que cualquier lector puede lograrlo sin demasiado esfuerzo._x000D_\n_x000D_\nEl objetivo de este libro es hacer que la IA sea accesible y fácil de entender para personas con poca o ninguna experiencia en programación. De forma progresiva los lectores obtendrán el conocimiento que necesitan sobre cómo crear sistemas capaces de ejecutar tareas que requieren alguna forma de inteligencia similar a la humana, siempre acompañado de ejercicios prácticos para facilitar el aprendizaje._x000D_\n_x000D_\nA través de ejemplos se comienza introduciendo al lector en la programación con Python, así como los conceptos claves en inteligencia artificial y se avanza de forma gradual hacia temas más complejos como el aprendizaje profundo y el aprendizaje automático, acompañando siempre la parte teórica con ejemplos prácticos que facilitarán la asimilación. _x000D_\n_x000D_\nPara finalizar, se abordan conceptos básicos de inteligencia artificial, como la clasificación y la regresión para continuar con implementaciones de inteligencia artificial, lo que permitirá a los lectores generar sus propios algoritmos de inteligencia artificial para el aprendizaje por refuerzo, los chatbots, la detección de rostros y reconocimiento facial, el procesamiento del habla y el lenguaje natural y el análisis de datos._x000D_\n_x000D_\nLos contenidos están adaptados al Curso de Especialización de Ciberseguridad en Entornos de las Tecnologías de la Información._x000D_\n_x000D_\nEl libro contiene material adicional que podrá descargar accediendo a la ficha del libro en www.ra-ma.es",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/programacion-de-inteligencia-artificial-curso-practico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/programacion-de-inteligencia-artificial-curso-practico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766759735120-e2db00851e555",
@@ -118,14 +648,15 @@
     "editorial": "Springer",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Tecnología",
       "Ingeniería"
     ],
-    "formato": "Físico",
     "notas": "In the aftermath of the wave of blackouts that affected US, UK and mainland Europe utilities in 2003 and 2004, renewed attention has been focused on maintaining the highest level of reliability and security in the operation of power systems. The lack of adequate transmission infrastructure as well as real-time tools aimed at detecting and alarming system conditions have also been highlighted. In t…",
     "comentarios": "Tras la ola de apagones que afectó a las empresas de servicios públicos de EE. UU., el Reino Unido y Europa continental en 2003 y 2004, se ha renovado la atención en mantener el máximo nivel de fiabilidad y seguridad en la operación de los sistemas eléctricos. También se ha puesto de relieve la falta de una infraestructura de transmisión adecuada, así como de herramientas en tiempo real para detectar y generar alarmas sobre las condiciones del sistema.",
-    "portada": "https://books.google.com/books/content?id=LNh-cgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=LNh-cgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766759421643-1106061542bd8",
@@ -136,14 +667,15 @@
     "editorial": "Debate",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Astronomía",
       "Física"
     ],
-    "formato": "Físico",
     "notas": "«¿Cómo es posible que, en mucho menos de un segundo, una explosión haya dado el puntapié inicial y fijado las leyes que regirían todo lo que vendría?» Esta, una de las preguntas más inquietantes elaboradas por la comunidad científica durante el siglo XX, es la que el prestigioso académico y divulgador científico Mario Hamuy intenta responder en este notable ensayo. Los astrónomos, de forma increíble, han logrado remontarse catorce mil millones de años al pasado y adentrarse en ese dramático segundo en el que se forjaron las condiciones iniciales de nuestro universo, nos asegura el autor de El sol negro. Desde allí, a partir de las propias leyes universales que el Big Bang se dio, se ha podido reconstruir su biografía y, de paso, la nuestra. Es así como hoy tenemos el privilegio de ser testigos de este momento clave de la humanidad, en el cual, por primera vez luego de muchos milenios contemplando e interrogando al cielo, nuestra especie puede comenzar a responder científicamente la pregunta ¿de dónde venimos los humanos?",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/viaje-al-big-bang.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/viaje-al-big-bang.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766759162016-c816ca991c0d88",
@@ -154,15 +686,16 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Programación",
       "Sicología"
     ],
-    "formato": "Físico",
     "notas": "En este libro se abordan algunas de las problemáticas a las que se ven enfrentados los líderes de las áreas de mantenimiento en las empresas mineras•¿Por qué las personas actúan irracionalmente? Se muestran como aspectos psicológicos asociados a sesgos cognitivos afectan las decisiones económicas y técnicas en mantenimiento•¿Cómo influir en las personas para guiar sus comportamientos? Se muestran de forma resumida, ejemplos aplicados en variados ámbitos y contextos industriales que te pueden permitir idear tus propios impulsos de comportamiento en minería•¿Cómo realizar predicciones de cualquier tipo ambientes y circunstancias? ¿Cómo calcular los parámetros de confiabilidad? Se presentan esquemas básicos y simplificados de cómo realizar ambos procesos",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-del-mantenedor.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-del-mantenedor.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766759012278-c5cedc23ee0e5",
@@ -173,14 +706,15 @@
     "editorial": "Dextra",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "producción",
       "Automatización"
     ],
-    "formato": "Físico",
     "notas": "Si se hace referencia únicamente a los sistemas industriales de fabricación se habla de Automatización de la fabricación. Bajo este concepto pueden englobarse tanto la automatización de procesos de fabricación continua como la automatización de procesos de fabricación de piezas (discontinuos, por lotes o de eventos discretos). Tradicionalmente se utiliza el término Automática o Regulación Automática para el tratamiento del control de procesos continuos y el de Automatización para los procesos discontinuos.\nEl libro se centra en el estudio y modelado de los eventos discretos y los equipos de control más adecuados para los mismos: los autómatas programables. Incorpora además, numerosos ejercicios con sus soluciones.\n\nAcceso a más de 1 millón de títulos por un precio mensual conveniente.\n\nEstudia de forma más eficiente usando nuestras herramientas de estudio.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/sistemas-de-produccion-automatizados.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/sistemas-de-produccion-automatizados.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766758830548-f1f7aa99fddcf8",
@@ -191,14 +725,15 @@
     "editorial": "Acribia",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Seguridad",
       "Alimentos"
     ],
-    "formato": "Físico",
     "notas": "Esta tercera edición de HACCP: Enfoque práctico constituye un excelente recurso para enseñar y reforzar prácticas de seguridad alimentaria eficaces. Las autoras son profesoras, investigadoras y profesionales con mucha experiencia en la materia. Ha aumentado considerablemente el contenido sobre programas de requisitos previos. En ellos se incluyen las Buenas Prácticas Agrícolas (BPA), Buenas Prácticas de Fabricación (BPF) y una nueva propuesta de PRP –las Buenas Prácticas del Consumidor– (BPC). Especialmente, las BPA y BPC resaltan el hecho de la que seguridad alimentaria es un esfuerzo de «la granja a la mesa» y que todo el mundo tiene un papel en la seguridad alimentaria. Ésas son unas consideraciones especialmente importantes, en el caso de los alimentos que normalmente se distribuyen y consumen crudos o poco hechos.\n\nPara aquellos que han leído y disfrutado con la primera y segunda ediciones, con esta edición, no sólo actualizarán sus conocimientos, sino que alimentarán y estimularán sus ideas sobre el HACCP, como parte importante del control alimentario. En el caso de los que sean nuevos en el HACCP y en estos libros, confiamos en que les ayudará a encontrar su propio camino para desarrollar un sistema HACCP exitoso.\n\nEste libro es una herramienta excelente para ayudar a mantener la seguridad alimentaria.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/haccp-enfoque-practico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/haccp-enfoque-practico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-34",
@@ -209,13 +744,14 @@
     "editorial": "Courier Dover Publications",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "One of the most widely used texts in its field, this volume introduces the differential geometry of curves and surfaces in both local and global aspects. The presentation departs from the traditional approach with its more extensive use of elementary linear algebra and its emphasis on basic geometrical facts rather than machinery or random details. Many examples and exercises enhance the clear, we…",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/differential-geometry-of-curves-and-surfaces.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/differential-geometry-of-curves-and-surfaces.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-33",
@@ -226,13 +762,14 @@
     "editorial": "RBA",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "IA"
     ],
-    "formato": "Físico",
     "notas": "El auge sin precedentes de la inteligencia artificial nos está llevando al diseño de máquinas con capacidades equiparables a las del ser humano. Organizadas como redes de neuronas artificiales, serán capaces de registrar y analizar, mediante algoritmos cada vez más complejos, los terabytes de información de los que disponemos actualmente, hasta llegar a tomar decisiones cada vez más complejas y ac…",
     "comentarios": "El cerebro es el órgano más misterioso del cuerpo humano. A pesar de los avances más recientes en disciplinas como la biología molecular o las tecnologías de neuroimagen, todavía queda mucho camino por recorrer hasta desentrañar todos sus secretos.\n¿Llegaremos algún día a descifrar los mecanismos de su estructura y funcionamiento? ¿Nos permitirá eso reparar sus defectos y potenciar nuestras capacidades? José Viosca, bioquímico y doctor en neurociencias, aborda el reto de cartografiar el cerebro y nos acerca un poco más a conocer nuestro órgano más complejo.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inteligencia-artificial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inteligencia-artificial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766758207867-ee83fdaf645e2",
@@ -243,15 +780,16 @@
     "editorial": "ICB Editores",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Bombas",
       "Hidraulica",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "Todo sobre Bombas Hidráulicas. Incluye Solucionarios Glosario y Bibliografía.MÓDULO 1: Bombas Hidráulicas. Conocimientos Teóricos sobre Presión TEMA 1. Hidráulica TEMA 2. Hidrostática TEMA 3. Hidrodinámica MÓDULO 2: Canal Velocidad y Prácticas sobre Funcionamiento de las Bombas Tomas de Agua y Fuerza TEMA 4. Bombas Hidráulicas TEMA 5. Bombas Contra Incendios MÓDULO 3: Prevención de Riesgos Laborales TEMA 6. Introducción a la Prevención de Riesgos Laborales TEMA 7. Marco Normativo Básico en Prevención de Riesgos Laborales TEMA 8. Riesgos Relacionados con las Condiciones de Seguridad Solucionarios Test Glosario Bibliografía",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1xOpcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=1xOpcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766758044509-fd7ee4053daba",
@@ -262,11 +800,12 @@
     "editorial": "Lectorum",
     "coleccion": "",
     "vol": "",
-    "categorias": [],
     "formato": "Físico",
+    "categorias": [],
     "notas": "Son cada vez más populares las creencias relacionadas con el New Age, que entre religión, filosofía y ciencia, promueven un estilo de vida alternativo. En esta entrega, el investigador Luis Javier Plata Rosas se encarga de poner en evidencia, con humor y amenidad, estos mitos cotidianos y su falta de rigor científico. Lo invitamos a confrontar estas creencias que están de moda en Mitos del siglo XXI: charlatanes, gurus y pseudociencia.",
     "comentarios": "Libro regalo Alejandro San Martín",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mitos-del-siglo-xxi-charlatanes-gurus-y-pseudociencia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mitos-del-siglo-xxi-charlatanes-gurus-y-pseudociencia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766757823238-7efcd6912a1e38",
@@ -277,14 +816,15 @@
     "editorial": "ediciones de la u",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "a nivel mundial, día a día se otorga mayor atención a las actividades de estímulo a la economía y el crecimiento organizacional de los países en desarrollo. sin embargo, el progreso industrial no se reduce sólo a la inversión en nuevas instalaciones de producción y a la transferencia de tecnologías extranjeras, sino que es indispensable utilizar efectivamente las instalaciones existentes, donde uno de los requisitos primordiales es establecer un servicio sistémico y técnico de mantenimiento eficiente, eficaz, seguro y económico de los activos industriales.\n\nel texto se presenta como un documento actualizado sobre la gran diversidad de aplicaciones industriales, derivadas de\nla gerencia moderna, la gestión de los activos, el proceso de mejoramiento continuo japonés (kaizen) y la gestión de la calidad total. a lo largo del libro se incluyen los elementos necesarios para establecer un programa de optimización integral\ndel mantenimiento industrial enmarcada dentro de la filosofía moderna y las recomendaciones para desarrollar un proyecto de mantenimiento de clase mundial.\n\nel documento está dividido en siete capítulos que presentan desde los principios, las generalidades y los postulados del\nmantenimiento, con sus políticas gerenciales y el proceso de optimización para alcanzar el mantenimiento excelente, en el primer capítulo, hasta el desarrollo de sistemas expertos para el mantenimiento, en el último capítulo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gestion-moderna-del-mantenimiento-industrial-principios-fundamentales.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gestion-moderna-del-mantenimiento-industrial-principios-fundamentales.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766723956947-5dd0e0f56cfb2",
