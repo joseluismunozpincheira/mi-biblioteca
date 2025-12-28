@@ -1,95 +1,567 @@
 [
   {
-    "id": "libro-1766877470584-6f3d9b19e5f1c",
-    "titulo": "Tensor Algebra and Tensor Analysis for Engineers, With Applications to Continuum Mechanics",
-    "autor": "Mikhail Itskov",
-    "anio": 2019,
-    "isbn": "9783030075361",
-    "editorial": "Springer",
+    "id": "libro-1766902122268-4b070e9e1b034",
+    "titulo": "Mantenimiento de instalaciones eléctricas",
+    "autor": "José Roldán",
+    "anio": 2009,
+    "isbn": "9788496300781",
+    "editorial": "Creaciones Copyright",
     "coleccion": "",
     "vol": "",
     "categorias": [
-      "Matemáticas",
-      "Física"
+      "Mantenimiento",
+      "Electricidad"
     ],
     "formato": "Físico",
-    "notas": "Esta es la sexta edición revisada de un libro de texto con gran aceptación que busca unir el álgebra tensorial en ingeniería, por un lado, y el álgebra lineal clásica en matemáticas, por otro. Siguiendo la forma contemporánea de publicación científica, se prefiere una notación tensorial absoluta moderna. El libro ofrece una exposición comprensible de los conceptos matemáticos fundamentales del cálculo tensorial y enriquece el material presentado con numerosos ejemplos ilustrativos. En particular, el libro aborda temas multifísicos de la mecánica de sólidos como la electroelasticidad y la magnetoelasticidad. Además, incluye capítulos avanzados que abordan los desarrollos recientes en la teoría de las funciones tensoriales isótropas y anisótropas y sus aplicaciones a la mecánica del medio continuo. Esta nueva edición también se centra en los aspectos numéricos del cálculo tensorial y muestra cómo se pueden aplicar los métodos modernos de aprendizaje automático al cálculo de funciones tensoriales. Por lo tanto, este libro de texto se dirige tanto a estudiantes de posgrado como a científicos que trabajan en este campo, en particular aquellos que abordan problemas interdisciplinarios. Cada capítulo incluye numerosos ejercicios que permiten el autoaprendizaje y la práctica intensiva. También se proporcionan las soluciones de los ejercicios.",
+    "notas": "El mantenimiento de instalaciones es una de las principales tareas o funciones que realiza el electricista en un campo tan amplio como es el de las aplicaciones de la electricidad. El mantenimiento puede hacerse de formas y procedimientos muy diversos, atendiendo al tipo de máquina, instalación o proceso. Los métodos de mantenimiento más utilizados son: Mantenimiento correctivo. Mantenimiento preventivo. Mantenimiento predictivo. Mantenimiento selectivo. Mantenimiento productivo total (TPM). Otras formas de mantener la instalación en situación de servicio. La obra no se limita a estudiar el mantenimiento, sino que proporciona las bases sobre las que debe apoyarse un buen técnico de mantenimiento.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=EuBLwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-instalaciones-electricas.jpg"
   },
   {
-    "id": "libro-1766877120657-f18545628bbe9",
-    "titulo": "Wind Energy Handbook",
-    "autor": "Tony L. Burton, Nick Jenkins, Ervin Bossanyi, David Sharpe, Michael Graham",
-    "anio": 2021,
-    "isbn": "9781119451099",
-    "editorial": "John Wiley & Sons",
-    "coleccion": "",
-    "vol": "3era ed.",
-    "categorias": [
-      "Energía",
-      "Eólico",
-      "Viento"
-    ],
-    "formato": "Físico",
-    "notas": "Referencia totalmente actualizada y autorizada a la tecnología de energía eólica escrita por destacados profesionales académicos y de la industria. La recientemente revisada Tercera Edición del Manual de Energía Eólica ofrece un tratamiento totalmente actualizado de los desarrollos clave en tecnología eólica desde la publicación de la Segunda Edición del libro en 2011. La criticidad de las estelas dentro de los parques eólicos se aborda mediante la adición de un capítulo completamente nuevo sobre los efectos de la estela, incluyendo modelos de estela de \"ingeniería\" y control de la estela. En alta mar, la atención se centra por primera vez en el diseño de estructuras de soporte flotantes, y se introduce el nuevo método \"PISA\" para el diseño geotécnico de monopilotes. La cobertura del diseño de palas se ha reescrito por completo, con una descripción ampliada de las propiedades de fatiga laminada y nuevas secciones sobre métodos de fabricación, pruebas de palas, erosión del borde de ataque y acoplamiento de flexión-torsión. Estos se complementan con nuevas secciones sobre complementos de palas y ruido en los capítulos de aerodinámica, que ahora también incluyen una descripción del modelo de pérdida dinámica de Leishman-Beddoes y una introducción ampliada al análisis de dinámica de fluidos computacional. La importancia del impacto ambiental de los parques eólicos, tanto terrestres como marinos, se reconoce mediante una cobertura ampliada, y se describen los requisitos de los Códigos de Red para garantizar que la energía eólica desempeñe plenamente su papel en el sistema eléctrico. El capítulo sobre diseño conceptual se ha ampliado para incluir diversos conceptos novedosos, como rotores de baja inducción, estructuras multirotor, generadores superconductores y cajas de engranajes magnéticos. Se incluyen referencias y recursos de lectura adicionales a lo largo del libro, que se han actualizado para incluir la bibliografía más reciente. Al igual que en ediciones anteriores, se cubren los temas fundamentales que constituyen la base esencial para el diseño de aerogeneradores y parques eólicos. Estos incluyen: La naturaleza del recurso eólico, incluyendo la variación geográfica, variaciones sinópticas y diurnas, y características de turbulencia La aerodinámica de las turbinas eólicas de eje horizontal, incluyendo el concepto de disco actuador, teoría del disco rotor, el modelo de cilindro vórtice del disco actuador y la teoría Pala-Elemento/Momento Cargas de diseño para turbinas eólicas de eje horizontal, incluyendo las prescripciones de estándares internacionales Arquitecturas de máquinas alternativas El diseño de componentes clave Diseño de controlador de turbina eólica para máquinas de velocidad fija y variable La integración de parques eólicos en el sistema de energía eléctrica Diseño de parques eólicos, restricciones de ubicación y evaluación del impacto ambiental Perfecto para ingenieros y científicos que aprenden sobre tecnología de turbinas eólicas, el Manual de energía eólica también se ganará un lugar en las bibliotecas de estudiantes de posgrado que toman cursos sobre turbinas eólicas y energía eólica, así como profesionales de la industria cuyo trabajo requiere una comprensión profunda de la tecnología de energía eólica.",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=ieklEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "libro-1766877286511-d7431dade5d34",
-    "titulo": "Generación de energía eléctrica con fuentes renovables",
-    "autor": "Luis Vargas",
-    "anio": 2020,
-    "isbn": "9789561126251",
-    "editorial": "Universitaria",
+    "id": "libro-1766901841519-ebeabd9a4cefe8",
+    "titulo": "Mantenimiento Industrial, Manual De Operacion Y Administracion",
+    "autor": "Rodolfo R. Gatica Ángeles",
+    "anio": 2009,
+    "isbn": "9786071703088",
+    "editorial": "Trillas",
     "coleccion": "",
     "vol": "",
     "categorias": [
-      "Energía"
+      "Mantenimiento",
+      "Industria"
     ],
     "formato": "Físico",
-    "notas": "Estamos en una época de importantes avances en la escena de la generación de energías renovables, tanto en madurez tecnológica y económica como también en el convencimiento ciudadano y la correspondiente voluntad política para abrir caminos hacia su despliegue y consolidación. Así, en apenas una década ocurren cambios notables en todo el planeta, tales como la denominada revolución energética de Alemania, la descarbonización de la matriz eléctrica de Uruguay y la extensa concepción de agendas políticas con ambiciosas metas de generación limpia, como en México, Colombia y Perú. Además, por primera vez en la historia, la generación renovable europea supera a su competencia nuclear y se posiciona como un fundamento básico de la independencia energética del viejo continente. Por su parte, Chile se ha puesto como meta conseguir un 70% de la generación eléctrica a partir de fuentes renovables al año 2050, donde se estima, a partir de estudios derivados del proceso participativo Energía 2050, que un gran porcentaje provendrá de fuentes renovables no convencionales, en particular eólica y solar fotovoltaica.\nEl objetivo de esta publicación es acercar los fundamentos físicos y principios básicos de las tecnologías de generación eléctrica a partir de fuentes renovables a jóvenes científicos, profesionales y público en general interesados en tecnologías limpias para la generación de electricidad a pequeña, mediana y gran escala. Es de interés de los autores que el libro sea un aporte al mundo hispano-hablante, contribuyendo al entendimiento interdisciplinario y holístico de las energías renovables en América Latina.",
+    "notas": "Toda empresa, cualquiera que sea su ramo o magnitud, necesita contar con un equipo de mantenimiento profesional, el cual debe contar con especialistas en las áreas administrativa técnica, laboral y humana, personas leales con compromisos éticos y morales, que asuman retos y compromisos en forma entusiasta. El propósito de este libro es concientizar a los altos directivos en administración e ingeniería de mantenimiento para que coordinen sus esfuerzos de manera congruente con las necesidades de cada departamento, con miras a lograr el objetivo general del mantenimiento, que es mantener la funcionalidad, seguridad y apariencia de los equipos e instalaciones de una empresa, a costos razonables. Los administradores, técnicos y profesionales que se relacionan con las áreas de ingeniería, mantenimiento y afines, tienen aquí una guía completa que describe los aspectos principales del mantenimiento industrial, cuyos temas también son de interés para los estudiantes técnicos que planean dedicarse a esta actividad.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/generacion-de-energia-electrica-con-fuentes-renovables.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-industrial-manual-de-operacion-y-administracion.jpg"
   },
   {
-    "id": "libro-1766876884673-f034b18866bbb",
-    "titulo": "Reingeniería De Procesos De Manufactura Industrial, Colaboración Entre Cuerpos Académicos Tlaxcala Y Puebla (Enero 2021)",
-    "autor": "José Víctor Galaviz Rodríguez, Jonny Carmona Reyes, Noemí González León",
-    "anio": 2020,
-    "isbn": "9781506535470",
-    "editorial": "Palibrio",
+    "id": "libro-1766901647758-d6e15595aad6c8",
+    "titulo": "Gestin del mantenimiento preventivo - correctivo",
+    "autor": "Miguel D'Addario",
+    "anio": 2015,
+    "isbn": "9781518843969",
+    "editorial": "CreateSpace",
     "coleccion": "",
     "vol": "",
     "categorias": [
-      "Manufactura",
-      "Producción",
-      "Calidad"
+      "Mantenimiento",
+      "Industria"
     ],
     "formato": "Físico",
-    "notas": "La participación activa colaborativa en cuerpos académicos, se refieren a varias acciones y productos que se generan conjuntamente con los miembros, colaboradores y con la participación de alumnos contribuyendo a la consolidación de programas educativos en los que participan. La mayoría de las acciones que se desarrollan al interior de los siguientes Cuerpos Académicos en el tema principal de Rein…",
+    "notas": "El \"Mantener\" máquinas o sistemas de equipos einstalaciones es de vital importancia para, no solo, el buen funcionamiento de éstos, sino para la disminución de gastos en presupuestos empresariales; el cálculo previsible en gastos e inversiones de repuestos y accesorios; la producción constante y eficaz de unaempresa; y en muchos casos, evitar la contaminación del medio ambiente y la de los operado…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=eE0czgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=z6rsjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "libro-1766876736767-54111482fda27",
-    "titulo": "El mantenimiento industrial desde la experiencia",
-    "autor": "Miguel Ángel Albertos Carrera",
-    "anio": 2021,
-    "isbn": "9788413201467",
-    "editorial": "Universidad de Valladolid",
+    "id": "libro-1766901590016-f02d8ca8875b38",
+    "titulo": "Mantenimiento Centrado en la Confiabilidad Aplicado a la Siderúrgic",
+    "autor": "José G. Salazar R., Zoilo Fuentes",
+    "anio": 2011,
+    "isbn": "9783845498379",
+    "editorial": "Eae Editorial Academia Espanola",
     "coleccion": "",
     "vol": "",
     "categorias": [
       "Mantenimiento",
       "Industria",
+      "RCM",
       "Confiabilidad"
     ],
     "formato": "Físico",
-    "notas": "Con el creciente desarrollo industrial y tecnológico, las gentes de mantenimiento han tenido que superar de manera continua, en las tres últimas décadas, su formación y su nivel de polivalencia para dar respuesta a las necesidades de las empresas dotadas de procesos automatizados con múltiples y concurrentes tecnologías (autómatas programables, Pcs, control numérico, gas natural), al uso de nuevas herramientas de mantenimiento informatizadas (control de vibraciones, termografía), a medios de ayuda al diagnóstico de averías y de gestión (programas de ayuda al mantenimiento, G.M.A.O., Telerrequisición), sin olvidar la gestión energética y la conservación del medio ambiente.Cada día más, las Organizaciones de Mantenimiento se enfrentan al reto de reducir los costes, teniendo que mejorar a la vez la Disponibilidad de las instalaciones y la Calidad. Se han convertido en un servicio determinante para que las empresas consigan sus mejores resultados de productividad y competitividad.Este libro, fundamentado en la experiencia práctica del mantenimiento industrial, está ilustrado con documentos e imágenes reales y orientado hacia la mejora continua. Sus temas, comprenden desde las funciones hasta los recursos humanos y la seguridad en mantenimiento, pasando por el condicional como tendencia del preventivo en los últimos años, la fiabilidad y la O.M.P., entre otros, para finalizar con una guía de ayuda para el desarrollo de un proyecto de mantenimiento.Su contenido, eminentemente práctico, va destinado a las personas que tengan relación con el mantenimiento, con el objetivo de que les sirva de ayuda para mejorar los resultados de la actividad.",
+    "notas": "El Mantenimiento Industrial actual se presenta como un conjunto de Tecnicas y Organizacion para hacer que los \"equipos\" cumplan con la funciones para los cuales fueron disenados. La aplicacion de estas tecnicas y metodologias actuales como la del Mantenimiento Centrado en la Confiabilidad (MCC), traen como consecuencia la disminucion de las \"interrupciones (paradas inesperadas por fallas)\" que a s…",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-mantenimiento-industrial-desde-la-experiencia.jpg"
+    "portada": "https://books.google.com/books/content?id=cc13MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766901457413-c6af98bf39706",
+    "titulo": "Mantenimiento, planeación, ejecución y control",
+    "autor": "Luis Alberto Mora, Luis Alberto Mora Gutiérrez",
+    "anio": 2009,
+    "isbn": "9789586827690",
+    "editorial": "Alfaomega",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Confiabilidad",
+      "Ejecución"
+    ],
+    "formato": "Físico",
+    "notas": "Compendia los cuatro niveles: estratégico, táctico instrumental y operacional del mantenimiento, con un enfoque sistémico que permite planear, ejecutar, coordinar y controlar de una manera muy efectiva todas las actividades, tareas y acciones propias de mantenimiento para el mejoramiento de la producción. VENTAJAS COMPETITIVAS: Incluye herramientas interactivas en la Web, ejemplos empresariales y conceptos pertinentes para el manejo integral, específico y eficaz. Incluye descargas de Software especializado desde su página Web CONOZCA La evolución del mantenimiento, los enfoques recientes de mantenimiento y de producción. Los criterios y parámetros que se deben tener en cuenta a la hora de implementar la gestión y la operación del mantenimiento en el ámbito empresarial. APRENDA Las diferentes metodologías, las explicaciones, los fundamentos, cálculos y criterios necesarios para realizar el CMD. A caracterizar y monitorear el comportamiento para establecer estrategias, tácticas y tareas óptimas del mantenimiento y de producción. A manejar la metodología aplicada del PMO (Planned Maintenance Optimization). REALICE Aplicaciones reales e integrales de una predicción de Confiabilidad, mantenibilidad, y disponibilidad (CMD), bajo la metodología puntual, de distribuciones y con series temporales. La integración de todas las áreas sistémicas de mantenimiento. La elaboración de una estrategia con sus respectivas actividades para realizar una gestión y operación efectivas del mantenimiento, mediante la utilización de las mejores prácticas internacionales, adaptándolas a las propias. El logro de alta confiabilidad en los sistemas productivos con altos índices de eficacia, eficiencia y efectividad en el mantenimiento, asegurando la disponibilidad de los equipos al más bajo nivel de inversión, con la máxima rentabilidad. La eliminación de tareas inapropiadas en el mantenimiento, predicción y control de las fallas, optimizando los recursos humanos y físicos de la empresa. AREA Ingeniería- industrial NIVEL Recomendado para el nivel intermedio y avanzado.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-planeacion-ejecucion-y-control.jpg"
+  },
+  {
+    "id": "libro-1766901291763-69437751c96898",
+    "titulo": "Manual del mantenimiento integral en la empresa",
+    "autor": "Francisco Rey Sacristán",
+    "anio": 2001,
+    "isbn": "9788495428189",
+    "editorial": "FC Editorial",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Industria"
+    ],
+    "formato": "Físico",
+    "notas": "Hoy día está claro que el Mantenimiento es ante todo una \"estrategia\" en la empresa. Esta estrategia se ha de integrar en la \"nueva cultura de la empresa\" y pasa por el diseño - construcción - implantación - puesta en servicio y explotación de los sistemas productivos y tiene como fin llegar al objetivo deseado en cualquier industria avanzada: disponer de los equipos productivos siempre que se necesiten, implantando en la empresa los grupos de mejora y fiabilidad. El Mantenimiento Industrial moderno se presenta así como un conjunto de Técnicas y Organización para \"cuidar la tecnología\" de los sistemas de producción a lo largo de su ciclo de vida, llegando a utilizarlos con la máxima disponibilidad y al menor coste, garantizando, además, una asistencia técnica eficaz a través de una buena formación y gestión de competencias en el uso y mantenimiento de dichos sistemas. En este libro se propone una metodología de trabajo y una búsqueda de un nuevo \"comportamiento\" en las organizaciones para desarrollar la \"cultura de prevención\" y optimizarla de manera permanente dentro de una estrategia de mejora continua en los costes y actividades del Mantenimiento y de los Técnicos de las diferentes funciones implicadas con el Sistema de Producción. Se va a ver así al Mantenimiento como una herramienta de reducción de costes para dar satisfacción al cliente directo, encontrando estrategias de competitividad y buscando vías de mejora de la productividad y calidad, evitando todo tipo de disfuncionamiento en la empresa y reduciendo todo tipo de coste que no aporte valor añadido al cliente. Así mismo, las organizaciones han ido evolucionando en los últimos años, integrando en la fabricación ciertos niveles de intervención en las tareas de Mantenimiento, por lo que hemos de identificar éstas dentro de los planes de Mantenimiento Preventivo, sensibilizando y preparando a la organización para asumir la tarea de la prevención con rigor.PREÁMBULO.INTRODUCCIÓN.CAPÍTULO I: Conceptos Generales.CAPÍTULO II: Nuevas Organizaciones del Mantenimiento y la Producción.CAPÍTULO III: Planificación del Mantenimiento correctivo por averías.CAPÍTULO IV: Planificación del Mantenimiento Preventivo.Anexo I: Ejemplo de Plan de Mantenimiento Preventivo sobre una máquina especial de mecanizado de bloques de motor.Anexo II: Ejemplo de Aplicación del Correcto Automantenimiento sobre una máquina talladora.CAPÍTULO V: Ingeniería del Mantenimiento (Primera Parte).CAPÍTULO VI: Ingeniería del Mantenimiento (Segunda Parte).CAPÍTULO VII: Mantenimiento de la Calidad por gran Reparación o Reconversión de un equipo de producción.CAPÍTULO VIII: El Mantenimiento y la Informática.CAPÍTULO IX: Gestión de Piezas de Recambio y Documentación Técnica.CAPÍTULO X: Los Costes de Mantenimiento y su Control.CAPÍTULO XI: El TPM (Mantenimiento Productivo Total) como Herramienta Práctica en un Proyecto de Mantenimiento Industrial Hacia la Excelencia.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=zyYz3HkcdXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766901145132-8ec0eff37b64f",
+    "titulo": "Mantenimiento preventivo de sistemas de automatización industrial UF2237",
+    "autor": "Fernando Jiménez Raya",
+    "anio": 2016,
+    "isbn": "9788416629244",
+    "editorial": "Ic Editorial",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Automatización"
+    ],
+    "formato": "Físico",
+    "notas": "OBJETIVOS\n\n- Analizar los sistemas de automatización industrial, identificando las partes que las componen y las características más relevantes del mantenimiento, a partir de la documentación técnica.\n- Aplicar técnicas de mantenimiento predictivo y preventivo en los sistemas de automatización industrial actuando bajo normas de seguridad personal y de los materiales utilizados.\n- Generar planos, esquemas y documentación para facilitar las labores de mantenimiento de los sistemas de control.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-preventivo-de-sistemas-de-automatizacion-industrial-uf2237.jpg"
+  },
+  {
+    "id": "libro-1766900954564-65722c4bebc87",
+    "titulo": "Mantenimiento de instalaciones solares fotovoltaicas. ENAE0108 - Montaje y mantenimiento de instalaciones solares fotovoltaicas",
+    "autor": "María Elvira de las Heras León",
+    "anio": 2017,
+    "isbn": "9788417086428",
+    "editorial": "Ic Editorial",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Energía",
+      "Fotovoltaicas",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "Objetivos - Analizar el funcionamiento general de las instalaciones solares fotovoltaicas para desarrollar el plan de mantenimiento. - Analizar las medidas de prevención, seguridad y protección ambiental respecto al mantenimiento de instalaciones solares fotovoltaicas contenidas en los planes de seguridad de las empresas del sector. - Realizar operaciones de mantenimiento preventivo de instalaciones solares fotovoltaicas siguiendo los procedimientos y especificaciones del plan de mantenimiento de la instalación. - Realizar operaciones de mantenimiento correctivo de las instalaciones solares fotovoltaicas según los procedimientos establecidos para devolverlas a su estado de funcionamiento dentro de los parámetros establecidos. Contenidos Prevención de riesgos profesionales y seguridad en el mantenimiento de instalaciones solares fotovoltaicas Introducción. Planes de seguridad en el mantenimiento de instalaciones fotovoltaicas. Prevención de riesgos profesionales en el ámbito del mantenimiento de instalaciones térmicas. Medios y equipos de seguridad. Prevención y protección medioambiental. Emergencias. Señalización de seguridad. Normativa de aplicación. Resumen. Mantenimiento preventivo de instalaciones solares fotovoltaicas Introducción. Consideraciones previas. Ventajas e inconvenientes del mantenimiento preventivo. Métodos y técnicas usadas en la localización de averías en instalaciones aisladas y conectadas a red. Procedimientos y operaciones para la toma de medidas. Comprobación y ajuste de los parámetros a los valores de consigna (radiaciones, temperaturas, parámetros de magnitudes eléctricas, etc.). Programas de mantenimiento de instalaciones fotovoltaicas. Averías críticas más comunes. Normativa de aplicación en el mantenimiento de instalaciones fotovoltaicas. Programa de mantenimiento preventivo. Programa de gestión energética. Evaluación de rendimientos. Operaciones mecánicas en el mantenimiento de instalaciones. Operaciones eléctricas de mantenimiento de circuitos eléctricos. Equipos y herramientas usuales. Procedimientos de limpieza de captadores, acumuladores y demás elementos de las instalaciones. Resumen. Mantenimiento correctivo de instalaciones solares fotovoltaicas Introducción. Consideraciones previas. Ventajas e inconvenientes del mantenimiento correctivo. Diagnóstico de averías. Métodos y técnicas usadas en la localización de averías en instalaciones aisladas y conectadas a red. Métodos para la reparación de los distintos componentes de las instalaciones. Desmontaje y reparación o reposición de elementos mecánicos, eléctricos y electrónicos. Resumen. Calidad en el mantenimiento de instalaciones solares fotovoltaicas Introducción. Calidad en el mantenimiento. Herramientas de calidad aplicadas a la mejora de las operaciones de mantenimiento. Documentación técnica de la calidad. Manual de mantenimiento. Resumen. Glosario Bibliografía",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-instalaciones-solares-fotovoltaicas-enae0108-montaje-y-mantenimiento-de-instalaciones-solares-fotovoltaicas.jpg"
+  },
+  {
+    "id": "libro-1766900781714-708f5c884e9b08",
+    "titulo": "The Weibull Distribution, A Handbook",
+    "autor": "Horst Rinne",
+    "anio": 2020,
+    "isbn": "9780367577469",
+    "editorial": "CRC Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Weibull distribution"
+    ],
+    "formato": "Físico",
+    "notas": "Compiling findings from many scientific journals and research papers, this handbook focuses on the origin, statistical properties, and related distributions of the Weibull distribution. It also presents various approaches to estimate the parameters of this distribution under all possible situations of sampling data as well as approaches to param",
+    "comentarios": "Este manual, que recopila hallazgos de numerosas revistas científicas y artículos de investigación, se centra en el origen, las propiedades estadísticas y las distribuciones relacionadas de la distribución de Weibull. También presenta diversos enfoques para estimar los parámetros de esta distribución en todas las situaciones posibles de muestreo de datos, así como enfoques para la estimación de parámetros.",
+    "portada": "https://books.google.com/books/content?id=vxaTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766603384410-051ac99af97198",
+    "titulo": "Reliability Analysis with Minitab",
+    "autor": "KISHORE KUMAR. GUPTA POCHAMPALLY (SURENDRA M.), Surendra M Gupta",
+    "anio": 2021,
+    "isbn": "9780367783105",
+    "editorial": "CRC Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Minitab",
+      "Sistemas"
+    ],
+    "formato": "Físico",
+    "notas": "Statistical Analysis for the Reliability Engineering Professional Effectively conduct reliability analysis using the world's leading statistical software. Reliability Analysis with Minitab(R) outlines statistical concepts and applications, explains the theory of probability, reliability analysis, and quality improvement, and provides step-by-step instruction on the use of Minitab. Minitab introduc…",
+    "comentarios": "Análisis estadístico para el profesional de ingeniería de confiabilidad. Realice análisis de confiabilidad de forma eficaz con el software estadístico líder a nivel mundial. Análisis de confiabilidad con Minitab® describe conceptos y aplicaciones estadísticas, explica la teoría de la probabilidad, el análisis de confiabilidad y la mejora de la calidad, y proporciona instrucciones paso a paso sobre el uso de Minitab. Introducción a Minitab…",
+    "portada": "https://books.google.com/books/content?id=aXEezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766900566762-c33f552010d7d8",
+    "titulo": "Mejoramiento de la confiabilidad, una ruta hacia la excelencia en el mantenimiento industrial",
+    "autor": "Andrey Castañeda Cortés",
+    "anio": 2019,
+    "isbn": "9789587717655",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Confiabilidad"
+    ],
+    "formato": "Físico",
+    "notas": "El Mantenimiento Preventivo surgió (del principio que existía) una relación directa entre la edad de un elemento y su función de densidad de fallas, cambiar una pieza de manera sistemática fue una técnica que se aplicó hasta la década de los 60, cuando la industria aeronáutica americana demostró que solo un pequeño porcentaje de los elementos en un equipo presentaban esta relación. La orientación …",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mejoramiento-de-la-confiabilidad-una-ruta-hacia-la-excelencia-en-el-mantenimiento-industrial.jpg"
+  },
+  {
+    "id": "libro-1766900457413-c1d0c0fdea4df",
+    "titulo": "Organización y gestión integral de mantenimiento",
+    "autor": "Santiago García Garrido",
+    "anio": 2003,
+    "isbn": "9788479785482",
+    "editorial": "Ediciones Díaz de Santos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Industria"
+    ],
+    "formato": "Físico",
+    "notas": "Es posible que usted piense que su departamento de mantenimiento necesita un cambio, pero que su empresa es tan especial que no hay forma de cambiar. Si es así, pensará que el mantenimiento preventivo, el predictivo, el TPM, el RCM, etc., están muy bien como teoría, tal vez interesante para otras empresas, pero que en la suya es imposible aplicarlo. Este libro trata de explicar como aplicar divers…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=p7ggAxkc6TgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766900379417-92e7d79a6bcc2",
+    "titulo": "La contratación del mantenimiento industrial, Procesos de externalización, contratos y empresas de mantenimiento.",
+    "autor": "Santiago García Garrido",
+    "anio": 2010,
+    "isbn": "9788479789626",
+    "editorial": "Ediciones Díaz de Santos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Contratos"
+    ],
+    "formato": "Físico",
+    "notas": "El mantenimiento contratado supone entre el 40 y el 50 por ciento de la actividad de mantenimiento en países industrializados. Este libro repasa las razones que llevan a las empresas a poner un aspecto tan estratégico como el mantenimiento de sus máquinas e instalaciones en manos de empresas ajenas, con sus ventajas e inconvenientes. Estudia también cada uno de los servicios que pueden ofrecer las…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=WrLszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766899921893-c137db79b39548",
+    "titulo": "Control automático, tiempo continuo y tiempo discreto",
+    "autor": "Julián J. Salt Llobregat",
+    "anio": 2017,
+    "isbn": "9788490484814",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Control Automático"
+    ],
+    "formato": "Físico",
+    "notas": "Este texto es el resultado de la extensa experiencia docente de sus autores. El libro, sin abandonar la formalidad de descripción y desarrollo de los diferentes temas, intenta dar respuestas a las dificultades que se encuentran quienes se enfrentan al aprendizaje de la materia. Los contenidos del texto se presentan en la secuencia habitual de este tipo de libros: estudio de los sistemas en tiempo continuo y estudio de los sistemas en tiempo discreto. De igual modo, en el desarrollo de los temas,",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/control-automatico-tiempo-continuo-y-tiempo-discreto.jpg"
+  },
+  {
+    "id": "libro-1766899828985-b05b9c04bfb36",
+    "titulo": "Ingeniería de la energía eólica",
+    "autor": "Miguel Villarrubia López",
+    "anio": 2011,
+    "isbn": "9788426715807",
+    "editorial": "Marcombo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Energía",
+      "Eólica"
+    ],
+    "formato": "Físico",
+    "notas": "La energía eólica ha experimentado importantes progresos técnicos y económicos. Se han mejorado significativamente aspectos tales como la gestión y el mantenimiento, la integración de la energía eléctrica en la red, la adaptación del diseño de aerogeneradores a las características de los emplazamientos, la regulación y control, la predicción de producción a corto plazo y la economía de escala con …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=F_e_qh4XOpEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766899763259-cdb5b300f6ae8",
+    "titulo": "Bombas de calor y energías renovables en edificios",
+    "autor": "REY MARTINEZ, FRANCISCO JAVIER, VELASCO GOMEZ, ELOY",
+    "anio": 2005,
+    "isbn": "9788497323956",
+    "editorial": "Ediciones Paraninfo, S.A.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Termodinámica",
+      "Energía"
+    ],
+    "formato": "Físico",
+    "notas": "El objetivo de este libro es la presentacion de diferentes posibilidades existentes en la integracion de las tecnologias basadas en la bomba de calor con las energias renovables (solar termica y geotermica) aplicadas a los edificios.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=HqIwQqzDKsIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766899459302-7fb1af8778aa4",
+    "titulo": "Inteligencia artificial avanzada",
+    "autor": "Raúl Benítez Iglesias",
+    "anio": 2013,
+    "isbn": "9788490298879",
+    "editorial": "UOC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "IA",
+      "Informática"
+    ],
+    "formato": "Físico",
+    "notas": "En este libro se introducen los conceptos fundamentales de la Inteligencia Artificial, desde una visión muy orientada al reconocimiento de patrones. El lector podrá encontrar una revisión completa de las técnicas avanzadas más usadas en el campo del aprendizaje automático. El texto se ha enfocado desde un punto de vista eminentemente práctico. Las explicaciones teóricas de las diferentes técnicas se basan en la resolución de problemas concretos. Los algoritmos están acompañados de ejemplos, escritos en Python, con aplicaciones directas en ámbitos como el procesado de imágenes o el análisis de textos. Los diferentes capítulos comprenden las técnicas de aprendizaje no supervisado, los métodos de reducción de la dimensionalidad y extracción de características (PCA, NMF, ICA, LDA, MDS), los principales algoritmos de clasificación de patrones (probabilísticos, kNN, SVM y Boosting) y diferentes métodos de optimización.",
+    "comentarios": "Scientific Researcher at CREB UPC - Research Centre for Biomedical Engineering",
+    "portada": "https://books.google.com/books/content?id=j93lnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766899140090-c660068b18e39",
+    "titulo": "Midiendo el cielo y la tierra, la aventura de medir el cosmos, de Eratóstenes a la paralaje estelar",
+    "autor": "Fernando J. Ballesteros",
+    "anio": 2019,
+    "isbn": "9788417506858",
+    "editorial": "Shackleton Books",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Física"
+    ],
+    "formato": "Físico",
+    "notas": "Desde Eratóstenes hasta nuestro días, el largo e ingenioso viaje de la humanidad en el intento de medir el universo. Los científicos de la Antigüedad lograron prodigiosas hazañas al obtener algunas estimaciones preliminares del tamaño de nuestro planeta y la distancia de los astros más importantes. Su trabajo estimuló a las generaciones que los siguieron, dotadas de mejores herramientas matemáticas e instrumentos más precisos, quienes no obstante se enfrentaron a un difícil puzle lógico: hay una curiosa simetría en la medición del cielo y la de la Tierra. Para determinar la posición geográfica, la distancia entre dos localizaciones o incluso el tamaño de la propia Tierra era imprescindible realizar mediciones de los astros, como hallar la altura de una estrella. Pero esa relación era recíproca, y estimar la posición y la distancia a los astros solo era posible mediante mediciones que tuvieran a la propia Tierra como patrón de medida o conociendo con detalle la distancia entre dos lugares de observación. No era posible la geografía de precisión sin la astronomía, ni viceversa. En este fascinante libro veremos cómo las distancias en cualquiera de los dos sistemas se pudieron obtener con cierta sencillez en valores relativos. Sin embargo, costó mucho esfuerzo pasar a un sistema de magnitudes absolutas que nos permitiera acceder a las complejas mediciones actuales. Editorial: Shackleton Books ISBN: 9788413611372 Idioma: Castellano Número de páginas: 176 Encuadernación: Tapa blanda Año de edición: 2022",
+    "comentarios": "Fernando J. Ballesteros es astrobiólogo y doctor en Física por la Universidad de Valencia. En 2014 fue nombrado jefe de Instrumentación del Observatorio ...",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/midiendo-el-cielo-y-la-tierra-la-aventura-de-medir-el-cosmos-de-eratostenes-a-la-paralaje-estelar.jpg"
+  },
+  {
+    "id": "libro-1766898636505-f97fea36313e2",
+    "titulo": "Introducción a la relatividad general, un curso para estudiantes de física",
+    "autor": "Cosimo Bambi",
+    "anio": 2021,
+    "isbn": "9788429144376",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Física"
+    ],
+    "formato": "Físico",
+    "notas": "Siguiendo el enfoque clásico de Lev Landau y Evgenii Lifshitz, este libro introduce la teoría de la relatividad especial y general desde el formalismo lagrangiano y el principio de mínima acción. Este método, bastante utilizado en la física teórica moderna, permite construir completamente la teoría a partir de un pequeño número de supuestos. El libro comienza revisando la mecánica newtoniana, para luego pasar a la relatividad especial y general. La mayoría de los cálculos se presentan con bastante detalle y paso a paso, como se haría en una pizarra durante una clase magistral. Además, cada capítulo contiene varios ejemplos y problemas. El libro finaliza discutiendo algunos de los avances recientes en la astronomía de ondas gravitacional es y las líneas actuales de investigación en gravedad.",
+    "comentarios": "Cosimo Bambi es un relativista y cosmólogo italiano, actualmente profesor de física en la Universidad de Fudan en Shanghái, China. Recibió el Premio de la Amistad del Partido Comunista Chino por su labor como \"experto extranjero\" en apoyo a los comunistas en 2025.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-relatividad-general-un-curso-para-estudiantes-de-fisica.jpg"
+  },
+  {
+    "id": "libro-1766897399850-5e03bb45e057e",
+    "titulo": "Turbomáquinas, análisis, diseño y simulación numérica",
+    "autor": "Juan Manuel Tizón Pulido",
+    "anio": 2019,
+    "isbn": "9788416898954",
+    "editorial": "Dextra",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Termodinámica",
+      "Fluídos",
+      "Energía",
+      "Simulación"
+    ],
+    "formato": "Físico",
+    "notas": "Las turbomáquinas son mecanismos que intercambian energía con un fluido mediante la acción combinada de elementos fijos y giratorios. Se utilizan en todos los ámbitos industriales y en, gran medida, son responsables directos en la eficiencia global de l\n.Juan Manuel Tizón Pulido\nProfesor del Departamento de Mecánica de Fluidos y Propulsión Aeroespacial de la Universidad Politécnica de Madrid. Su actividad docente se desarrolla en torno a las asignaturas sobre Aerorreactores, Motor Cohete y Turbomáquinas que forman parte de los planes de estudio de titulaciones habilitantes de Grado en Ingeniería Aeroespacial y Master Universitario en Ingeniería Aeronáutica",
+    "comentarios": "Nomenclatura\nPrólogo\n1. Introducción a las Turbomáquinas\n2. Conceptos básicos sobre turbomáquinas\n3. Actuaciones de turbomáquinas\n4. Ecuaciones y principios fundamentales\n5. Cascadas de álabes\n6. Análisis Q 3D y tridimensionalidad del movimiento en turbomáquinas\n7. Simulación numérica en turbomáquinas\n8. Turbulencia en Turbomáquinas y su simulación numérica\n9. Compresores axiales I: Análisis y funcionamiento\n10. Compresores axiales II: Diseño, actuaciones y simulación numérica\n11. Turbinas axiales I: Análisis y funcionamiento\n12. Turbinas axiales II: Diseño, actuaciones y simulación numérica\n13. Compresores centrífugos\n14. Turbinas radiales\nBibliografía",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/turbomaquinas-analisis-diseno-y-simulacion-numerica.jpg"
+  },
+  {
+    "id": "libro-1766897049463-389097711066e8",
+    "titulo": "Historia de los números",
+    "autor": "Enrique Gracián",
+    "anio": 2023,
+    "isbn": "9788418741654",
+    "editorial": "Arpa",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Números"
+    ],
+    "formato": "Físico",
+    "notas": "Todo lo que te perdiste el día que abandonaste las matemáticas, y que estás a tiempo de recuperar.\nA menudo no somos conscientes de hasta qué punto nuestras vidas se articulan en torno a los números. Podemos haber olvidado las reglas gramaticales, las fórmulas químicas, las leyes físicas, las narraciones históricas o los conceptos filosóficos aprendidos en el colegio, pero lo que nunca olvidaremos son los números. Nos pasamos el día contando, midiendo y pesando. Utilizamos los números para ordenar el mundo, y aún más, para construirlo.\nEste libro nos muestra, de forma amena y concisa, cómo nacieron y crecieron los números para llegar a formar parte de nuestra vida cotidiana, y cómo para ello se tuvieron que resolver grandes problemas y superar muchas dificultades, no solo las de naturaleza puramente matemática, sino también aquellas que se generaron en diferentes ámbitos, como el religioso o el filosófico. Enrique Gracián pone en juego su dilatada experiencia como docente y divulgador científico para mostrarnos los más de 3.000 años de historia que rodean a los números.\nUn estimulante viaje que comienza con la aparición de los números primos ?objeto de profundas y sorprendentes investigaciones matemáticas a lo largo de los siglos? y nos lleva hasta los límites del infinito, el número más grande de todos y el único que consigue que las matemáticas y la filosofía encuentren un lugar común.",
+    "comentarios": "Enrique Gracián es licenciado en Matemáticas por la Universidad de Barcelona. Con una larga trayectoria como docente y divulgador científico, ha colaborado en los suplementos de ciencia de La Vanguardia y El País y fue subdirector del célebre programa de televisión Redes. Entre sus publicaciones destacan diversos libros de no ficción como Construir el mundo, Historia de los números, Un descubrimiento sin fin. El infinito matemático y Los números primos, traducida a catorce idiomas y con más de 400.000 ejemplares vendidos.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-los-numeros.jpg"
+  },
+  {
+    "id": "libro-1766896827063-295c344222ba3",
+    "titulo": "Descrifrando Enigma, Alan Turing : un genio de su tiempo",
+    "autor": "Jim Ottaviani",
+    "anio": 2019,
+    "isbn": "9788441541115",
+    "editorial": "Obreron",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Comics"
+    ],
+    "formato": "Físico",
+    "notas": "Alan Turing, el brillante matemático que descifró el código alemán Enigma, permitió que un grupo de decodificadores británicos acortara varios años la duración de la Segunda Guerra Mundial. Solo eso sería suficiente para asegurarle un lugar en la historia, pero su genio no se detuvo ahí. Turing impulsó la informática moderna con la creación de su máquina universal, también conocida como máquina de Turing, y el juego de imitación, una prueba de inteligencia artificial que aún se usa en la actualidad. Jim Ottaviani y Leland Purvis nos presentan a Turing como un genio excéntrico, corredor de clase olímpica y teórico revolucionario cuyo trabajo juega un papel fundamental en la ciencia y los sistemas de telecomunicaciones de nuestro mundo moderno.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/descrifrando-enigma-alan-turing-un-genio-de-su-tiempo.jpg"
+  },
+  {
+    "id": "libro-1766896703292-5636452d0dd158",
+    "titulo": "Neumática e hidráulica",
+    "autor": "Antonio Creus Solé",
+    "anio": 2010,
+    "isbn": "9788426716774",
+    "editorial": "Marcombo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Hidráulica",
+      "Neumática",
+      "Técnico"
+    ],
+    "formato": "Físico",
+    "notas": "La evolución continua de la industria en la obtención de nuevas materias, su mecanización y la obtención de un producto final elaborado obliga a conocer y entender el funcionamiento de los dispositivos neumáticos e hidráulicos, su control, sus limitaciones y la forma de realizar un correcto diseño de las instalaciones. La obra estudia los actuadores y motores neumáticos, hidráulicos, elÚctricos y …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=CXtRrbhr9bYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766896519483-5e7b2844cbd758",
+    "titulo": "La Inmensidad del Mundo",
+    "autor": "Ed Yong",
+    "anio": 2023,
+    "isbn": "9788492917099",
+    "editorial": "Ediciones Urano",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencias",
+      "Ciencias Naturales"
+    ],
+    "formato": "Físico",
+    "notas": "La Tierra está repleta de imágenes y texturas, sonidos y vibraciones, olores y sabores, campos eléctricos y magnéticos. Pero cada individuo está encerrado dentro de su burbuja sensorial, propia y única, y solo percibe una pequeña porción de la inmensidad de nuestro planeta. Este libro nos abre las puertas a dimensiones hasta ahora insondables: el mundo tal como lo perciben otros animales. Encontraremos escarabajos que se sienten atraídos por el fuego; tortugas que pueden rastrear los campos magnéticos de la Tierra; peces que llenan los ríos con mensajes eléctricos; humanos que tienen sonares al igual que los murciélagos; y plantas que vibran con las canciones inaudibles de cortejo de los insectos. Aprenderemos qué ven las abejas en las flores, qué escuchan los pájaros en sus melodías y qué huelen los perros en la calle. Leeremos las historias de los descubrimientos fundamentales del área y anticiparemos qué misterios quedan aún sin resolver. En La inmensidad del mundo, el aclamado periodista científico Ed Yong nos lleva más allá de los confines de nuestros sentidos, dándonos la posibilidad de percibir los olores, las ondas electromagnéticas y los pulsos de presión que nos rodean. Porque para entender nuestro mundo no necesitamos viajar a otros lugares, sino ver a través de otros ojos.",
+    "comentarios": "Ed Yong es un periodista científico ganador del premio Pulitzer, cuyas fascinantes presentaciones sobre los animales y el mundo natural están impregnadas de humor, alegría, asombro y entusiasmo contagioso.",
+    "portada": "https://books.google.com/books/content?id=UXirzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766896240529-654fd106854668",
+    "titulo": "Racionalidad. Qué es, por qué Escasea y Cómo Promoverla",
+    "autor": "Steven Pinker",
+    "anio": 2021,
+    "isbn": "9786075691619",
+    "editorial": "Paidos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencias Sociales"
+    ],
+    "formato": "Físico",
+    "notas": "En el siglo XXI la humanidad está alcanzando nuevas cotas en la comprensión científica y, al mismo tiempo, parece estar enloqueciendo. ¿Cómo puede una especie que ha desarrollado vacunas para la Covid-19 en menos de un año producir tantas noticias falsas, remedios de curanderos y teorías de la conspiración?\nPinker rechaza el cínico lugar común de que somos una especie irracional: cavernícolas extemporáneos cargados de sesgos, falacias e ilusiones. Después de todo, hemos descubierto las leyes de la naturaleza, hemos prolongado y enriquecido nuestras vidas, y hemos fijado los puntos de referencia de la racionalidad misma. En lugar de ello, explica que pensamos de formas sensatas en los contextos de baja tecnología en los que transcurre la mayor parte de nuestras vidas, pero no sacamos partido de las potentes herramientas del razonamiento que hemos construido a lo largo de los milenios: la lógica, el pensamiento crítico, la probabilidad, la correlación y la causalidad, y la toma de decisiones. Estas herramientas no son un componente estándar de nuestros currículos educativos y, hasta la fecha, nunca se habían presentado de un modo claro y ameno.\nRacionalidad explora asimismo su contraria: cómo la búsqueda racional del interés propio, la solidaridad sectaria y la mitología edificante de los individuos puede desembocar en la irracionalidad paralizante en una sociedad. La racionalidad colectiva depende de normas explícitamente diseñadas para promover la objetividad y la verdad.\nLa racionalidad es importante. Nos permite tomar mejores decisiones en nuestra vida y en la esfera pública, y es el principal motor de la justicia social y del progreso moral. Rebosante de perspicacia y de humor, Racionalidad nos iluminará, nos inspirará y nos empoderará.",
+    "comentarios": "Steven Pinker (Montreal, Canadá, 18 de septiembre de 1954) es uno de los psicólogos, lingüistas y divulgadores científicos más influyentes a nivel internacional. Doctorado por Harvard y actualmente profesor en esa universidad, su trabajo ha revolucionado la comprensión del lenguaje, la mente y la naturaleza humana, defendiendo teorías sobre los instintos lingüísticos, la evolución del pensamiento y el poder de la razón. Entre sus libros más célebres destacan El instinto del lenguaje (1994), Cómo funciona la mente (1997, finalista del Pulitzer), La tabla rasa (2002), Los ángeles que llevamos dentro (2011), En defensa de la Ilustración (2018) y Racionalidad (2021), obras esenciales que abordan desde la reducción de la violencia hasta el rol del humanismo y la ciencia en el progreso social.\n\nReconocido por su rigor y claridad expositiva, Pinker ha sido incluido entre los pensadores más influyentes del mundo por Time, Foreign Policy y Prospect. Ha obtenido distinciones como el William James Book Prize (tres veces), el Los Angeles Times Science Book Prize, el George Miller Prize, el Humanist of the Year y el Frontiers of Knowledge Award de la Fundación BBVA (2022). Fue finalista del Pulitzer en dos ocasiones y ha recibido doctorados honoris causa en diversos países. Su labor como divulgador y su defensa del pensamiento crítico y la evidencia empírica lo han consolidado como voz esencial para entender la mente y el progreso humano en el siglo XXI.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/racionalidad-que-es-por-que-escasea-y-como-promoverla.jpg"
+  },
+  {
+    "id": "libro-1766896008233-305b2be5e059",
+    "titulo": "Gravedad",
+    "autor": "Marcus Chown",
+    "anio": 2023,
+    "isbn": "9788419654717",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Física",
+      "Ciencia"
+    ],
+    "formato": "Físico",
+    "notas": "Alguien dijo que la gravedad «es un acertijo envuelto en un misterio». Es una fuerza tan débil que, si extiendes la mano, la gravedad de todo el planeta no es capaz de imponerse a la fuerza de tus músculos. * Y aun así es tan irresistible a gran escala que controla la evolución y el destino de todo el universo. De no haberse «activado» tras el Big Bang, el tiempo no tendría dirección.Solo cuando la comprendamos estaremos en condiciones de responder a la mayor de las preguntas: ¿De dónde salió el universo?",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gravedad.jpg"
+  },
+  {
+    "id": "libro-1766895640031-b971c1310c7ba",
+    "titulo": "La quinta revolución industrial, cómo la comercialización del espacio se convertirá en la mayor expansión industrial del siglo XXI",
+    "autor": "Inma Martínez",
+    "anio": 2019,
+    "isbn": "9788423430932",
+    "editorial": "Deusto",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Industria",
+      "Espacio",
+      "Comercio"
+    ],
+    "formato": "Físico",
+    "notas": "Cuanto más ampliamos nuestras perspectivas, más rica es nuestra experiencia. Hace ya tiempo que los seres humanos superamos la idea de que sólo podemos vivir en la Tierra, y la voluntad emprendedora de muchos innovadores del siglo xxi ha empezado a desarrollar estrategias y tecnologías asombrosas que hacen del cosmos una nueva realidad vital y económica.\n\nLas actividades espaciales están aumentando, tanto aquellas que son invisibles a nuestros ojos en la Tierra como las que comienzan a aparecer de noche en el firmamento. Pronto, todas las personas, las meras espectadoras o las directamente involucradas, empezarán a ser conscientes de los trabajos y progresos ultraterrestres. En especial, cuando el cielo se pueble de nuevas construcciones de fabricación humana, algunas de ellas perceptibles sin la necesidad de telescopio. Ésta es la naturaleza del progreso. Así es como creamos las redes y las torres eléctricas, los rascacielos y los túneles que atraviesan montañas, que nos han ayudado a suministrar energía a las casas, a dar cobijo a nuestras familias, a disfrutar de servicios y transportar mercancías. La evolución industrial del cosmos transformará la vida en todos los sentidos, no sólo en el científico o el comercial.\n\nEn la actualidad, el espacio lidera un profundo cambio social que afecta a todos los desafíos a los que nos enfrentamos: la preservación de la Tierra, el progreso de la raza humana y el avance hacia una nueva civilización que ejemplifique la grandeza de nuestro espíritu.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-quinta-revolucion-industrial-como-la-comercializacion-del-espacio-se-convertira-en-la-mayor-expansion-industrial-del-siglo-xxi.jpg"
+  },
+  {
+    "id": "libro-1766895495460-c571c259f95c88",
+    "titulo": "Locos Por Los Numeros. Juegos Acompanados de Aventuras Intelectuales",
+    "autor": "Federico Peiretti",
+    "anio": 2021,
+    "isbn": "9788418525513",
+    "editorial": "Gedisa",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Juegos"
+    ],
+    "formato": "Físico",
+    "notas": "Édouard Lucas fue un excelente matemático, bien conocido por sus estudios en el campo de la teoría de números, por haberdescubierto el mayor número primo antes de la invención de los ordenadores y por haber concebido la Torre de Hanói, uno de los juegos que aún hoy figura entre los más populares, y que los estudiantes de informática utilizan como ejerciciode programación.Peiretti te explica aquí los trucos para entenderlo y recupera otros juegos sencillos e intrigantes como el dodecaedro de Hamilton, el testamento del pachá y el vuelo de las grullas.Locos por los números es una verdadera mina de oro, pues el autor te introduce la biografía y los problemas matemáticos de los máximos expertos en materia del siglo xx: Walter Rouse Ball, Henry Ernest Dudeney, Piet Hein, Martin Gardner, RichardPhillips Feynman, Roger Penrose, Solomon Wolf Golomb y John Horton Conway.Una extraordinaria antología de juegos de sorprendentes propiedades matemáticas que, junto con las historias de sus inventores, te enganchará durante mucho tiempo. Nº de páginas: 192 Editorial: Gedisa Idioma: Castellano Encuadernación: Tapa blanda ISBN: 9788418525513 Año de edición: 2021",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=uW13zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766895261721-de8c6d5deab838",
+    "titulo": "Un viaje a las ideas, 33 historias matemáticas",
+    "autor": "Andrés Navas",
+    "anio": null,
+    "isbn": "9789566293651",
+    "editorial": "Planeta",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "¿Cómo influye la geometría en nuestro día a día?, ¿cuál es el origen de la primera bandera de Chile?, ¿cuán inexactos son los mapas del mundo?, ¿quién fue el primer científico chileno?, ¿por qué no hay un Premio Nobel de Matemáticas?, ¿cómo se trabajan las exitosas películas animadas de Pixar?, ¿qué tiene que ver la flor del naranjo con el azar? o ¿qué famosos personajes de la historia universal fueron matemáticos? son algunas de las preguntas que responde el libro que tienes en tus manos.\n\nAndrés Navas, académico universitario ganador de los premios MCA (2013) y Umalca (2016), logra, a través de 33 historias, iluminar el oscuro y misterioso mundo de las matemáticas con un talento narrativo sorprendente, haciendo que la compleja mente de Ramanujan se relacione con la geometría del papel tisú, y que la forma del estadio del Bayern de Múnich coexista con el arte de Escher. Porque, para nuestro autor, la historia, la ciencia, la política, el arte y la cultura son materias que dialogan y a las que podemos entrar con la avidez con la que se ve un partido de fútbol o se escucha una canción.\n\nEn un esfuerzo único, Navas abre la puerta para que la divulgación matemática encuentre su lugar entre los lectores, escribiendo el primer texto sobre esta ciencia exacta pensado para un público amplio en Chile.\n\nNo necesitas más que ser curioso para maravillarte con este hermoso y desconocido mundo.",
+    "comentarios": "Andrés Navas participó desde niño en olimpiadas de matemáticas. En la década de los noventa obtuvo tres medallas de oro a nivel sudamericano e iberoamericano en estas competencias. Estudió Matemáticas en la Universidad de Santiago de Chile (donde hoy es profesor a tiempo completo), para luego doctorarse en la École Normale Supérieure de Lyon (Francia). Ha sido profesor invitado en instituciones como el Institut des Hautes Études Scientifiques, Caltech, la Universidad de Cambridge y la Universidad de Tokio.\n\nEs autor de casi cincuenta artículos de investigación, por los cuales fue galardonado en 2013 por el Consejo Matemático de las Américas, y en 2016 por la Unión Matemática de América Latina y el Caribe.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-viaje-a-las-ideas-33-historias-matematicas.jpg"
+  },
+  {
+    "id": "libro-1766895015906-b85f657a4c7e1",
+    "titulo": "El imperativo energético, 100% ya: Cómo hacer realidad el cambio integral hacia las energías renovables",
+    "autor": "Hermann Scheer",
+    "anio": 2011,
+    "isbn": "9788498883541",
+    "editorial": "Icaria",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Energía",
+      "Medioambiente"
+    ],
+    "formato": "Físico",
+    "notas": "sobre el objetivo parece haber consenso, pero detrás de este se esconden intereses extremadamente divergentes. hermann scheer, en esta obra cuyo título, el imperativo energético, encierra ya un doble sentido, detalla todas las tretas que está tramando el llamado sector eléctrico tradicional, adicto y encadenado a los combustibles fósiles y nucleares, contra las renovables. desmonta uno a uno los principales mitos y trampas que las grandes corporaciones ener­géticas propagan para que no alcancemos la autonomía ener­gética. por eso el autor cuestiona los proyectos de gigantescos parques eólicos e inmensas centrales solares interconectadas con redes de alta tensión inteligentes. este libro nos pone sobre aviso: para conseguir un cambio energético rápido también es inevitable un cambio de sistema. las tecnologías renovables llevan implícitas esta posibilidad de aceleración a la que anima scheer para alcanzar una sociedad sostenible.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-imperativo-energetico-100-ya-como-hacer-realidad-el-cambio-integral-hacia-las-energias-renovables.jpg"
+  },
+  {
+    "id": "libro-1766610990722-5816407377815",
+    "titulo": "Como nos gobiernan en Colombia",
+    "autor": "Rogelio Villamizar J.",
+    "anio": 1993,
+    "isbn": "9586660001",
+    "editorial": "FERIVA S.A",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ensayo político",
+      "Ciencias Sociales"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Cómo nos gobiernan en Colombia, escrito por Rogelio Villamizar J., es una obra de ensayo político y social que reflexiona críticamente sobre el funcionamiento del sistema de gobierno colombiano, con énfasis en las prácticas de poder, la gestión del Estado y la relación entre la ciudadanía y sus gobernantes.\n\nEl texto combina análisis, denuncia y reflexión ética. Su estilo es directo y busca interpelar al lector sobre temas como la corrupción, la debilidad institucional, la burocracia, la inequidad y la desconexión entre las decisiones políticas y las necesidades reales de la población. De fondo, subyace una mirada crítica hacia cómo el ejercicio del poder público puede distorsionarse cuando priman intereses particulares sobre el bien común.\n\nUn elemento destacable es el enfoque ciudadano: el libro no se limita a describir problemas, sino que invita a la reflexión sobre responsabilidad cívica, participación y el rol del silencio social, idea reforzada por la cita de Gandhi en su portada: “Lo más atroz de las cosas malas de la gente mala, es el silencio de la gente buena.” Esta frase resume el espíritu del libro: generar conciencia para movilizar transformación social.",
+    "comentarios": "Que le pasa a Colombia--No queremos paz sino victoria.--Entre la economía y el sectarismo.--La resurrección de un gigante.--Tragedia de Bahía en Tumaco.--La gran despensa del Océano Pacífico.--La desprotección del pueblo colombiano.--La Mafia de las Aduana y del Contrabando.--Sistema de economía mafiosa.--Mantengamos viva la esperanza.--El rumbo de simplificación.--La ley de la entropia Colombia -- Polt̕ica econm̤ica Colombia -- Polt̕ica y gobierno Colombia -- Condiciones econm̤icas",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-nos-gobiernan-en-colombia.jpg"
   },
   {
     "id": "libro-1766876604916-c92b518d5693",
@@ -102,13 +574,262 @@
     "vol": "",
     "categorias": [
       "Ingeniería",
-      "termodinámica",
+      "Termodinámica",
       "Normas"
     ],
     "formato": "Físico",
     "notas": "La entrada en vigor de normativas anticontaminantes cada vez más restrictivas, está conduciendo a la necesidad de incluir en el motor nuevos sistemas de post-tratamiento de los gases de escape. Este libro pretende desarrollar en detalle un modelo para la predicción del comportamiento termofluidodinámico de esos sistemas en los motores Diesel.\nDetalles del producto",
     "comentarios": "",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/calculo-termofluidodinamico-de-filtros-de-particulas-de-flujo-de-pared.jpg"
+  },
+  {
+    "id": "libro-1766788395123-8f738ca4fedb98",
+    "titulo": "Ultimate Python, de cero a experto: Un libro para principiantes fácil de seguir",
+    "autor": "Nicolas Schurmann",
+    "anio": 2024,
+    "isbn": "9798884444447",
+    "editorial": "Independently Published",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Informática"
+    ],
+    "formato": "Físico",
+    "notas": "Aprender a programar es una herramienta necesaria el día de hoy, ya sea para poder construir aplicaciones web hasta crear la más avanzada inteligencia artificial. Y puede ser sumamente desafiante si no se tiene la guía correcta. Es por esta razón que decidí crear este libro de Ultimate Python, un libro donde te tomaré de la mano y te enseñaré todo lo que necesitas saber acerca del lenguaje de prog…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=GH-r0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766758207867-ee83fdaf645e2",
+    "titulo": "Bombas hidráulicas",
+    "autor": "Jorge Moreno Castro",
+    "anio": 2010,
+    "isbn": "9788492889686",
+    "editorial": "ICB Editores",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Bombas",
+      "Hidráulica",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "Todo sobre Bombas Hidráulicas. Incluye Solucionarios Glosario y Bibliografía.MÓDULO 1: Bombas Hidráulicas. Conocimientos Teóricos sobre Presión TEMA 1. Hidráulica TEMA 2. Hidrostática TEMA 3. Hidrodinámica MÓDULO 2: Canal Velocidad y Prácticas sobre Funcionamiento de las Bombas Tomas de Agua y Fuerza TEMA 4. Bombas Hidráulicas TEMA 5. Bombas Contra Incendios MÓDULO 3: Prevención de Riesgos Laborales TEMA 6. Introducción a la Prevención de Riesgos Laborales TEMA 7. Marco Normativo Básico en Prevención de Riesgos Laborales TEMA 8. Riesgos Relacionados con las Condiciones de Seguridad Solucionarios Test Glosario Bibliografía",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=1xOpcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766606461359-cfeffe5eeca08",
+    "titulo": "Introducción a la potencia fluida, neumática e hidráulica para ingenieros",
+    "autor": "Gerardo Aragón González, Aurelio Canales Palma, Alejandro León Galicia",
+    "anio": 2014,
+    "isbn": "9786072802063",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Neumática",
+      "Hidráulica",
+      "Energía"
+    ],
+    "formato": "Físico",
+    "notas": "Este texto ha sido diseñado para formar ingenieros capacitados en las aplicaciones contemporáneas de la potencia fluida, con las aptitudes para concebir la neumática e hidráulica como partes de un campo tecnológico unificado.\nLas máquinas que funcionan con base a la transmisión de energía por medio de un vehículo fluido, se han aplicado industrialmente durante más de 200 años. En el siglo XXI la importancia tecnológica de las máquinas hidroneumáticas es irrefutable. Con este libro se pretende contribuir a la formación de nuevos ingenieros, que al incorporarse a la actividad profesional ya posean las habilidades para accionar dispositivos basados en aire y aceite presurizados. La obra también está dirigida a los profesionales que deben tratar con alguno de los muchos procesos de manufactura, en los que las máquinas automáticas ejecutan ciclos de trabajo repetitivos, precisos, veloces y fiables. Ahí es donde la potencia fluida establece la mejor interrelación con el control electrónico.\n\nDESTACADOS:\n\nEjemplos resueltos y numerosos ejercicios propuestos.\n\nMinuciosidad en las explicaciones y cálculos numéricos.\n\nRecuadros sobre detalles históricos, conexiones con otros campos tecnológicos y demostraciones minuciosas para aclarar la aplicación de los conceptos tratados.\n\nUso sistemático y ordenado de las unidades que corresponden a cada magnitud física. Se destaca el uso del SI, pero además se emplean las del llamado “sistema inglés”, y otras de uso común que todavía siguen utilizando los fabricantes de equipos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-potencia-fluida-neumatica-e-hidraulica-para-ingenieros.jpg"
+  },
+  {
+    "id": "libro-1766894361914-954dccbae0f17",
+    "titulo": "Functional Analysis and Linear Control Theory",
+    "autor": "J. R. Leigh",
+    "anio": 2007,
+    "isbn": "9780486458137",
+    "editorial": "Courier Corporation",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Control",
+      "Automatización",
+      "Optimización",
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Functional analysis provides a concise conceptual framework for linear control theory. This self-contained text, geared toward engineering students, demonstrates the subject's unity. It features a wide range of powerful theorems that illustrate inner product spaces, instability, controllability, and observability. It also discusses minimum norm and time control as well as distributed systems.The first chapter offers a brief survey of basic mathematics, followed by chapters that contain most of the mathematics needed later in the book. Subsequent chapters establish axioms for linear dynamic systems, linking the axiomatic description to the state space description. They also consider important structural properties of a given system, the formulation of optimization problems, issues of existence and uniqueness, and the characterization of optimal controls. The final chapter returns to some of the concepts and methods discussed earlier, extending the applications of finite dimensional systems to distributed parameter systems. A comprehensive set of references concludes the text.",
+    "comentarios": "El análisis funcional proporciona un marco conceptual conciso para la teoría del control lineal. Este texto autocontenido, dirigido a estudiantes de ingeniería, demuestra la unidad del tema. Presenta una amplia gama de teoremas relevantes que ilustran los espacios de producto interno, la inestabilidad, la controlabilidad y la observabilidad. También aborda la norma mínima y el control temporal, así como los sistemas distribuidos. El primer capítulo ofrece un breve resumen de las matemáticas básicas, seguido de capítulos que contienen la mayor parte de las matemáticas necesarias más adelante en el libro. Los capítulos posteriores establecen axiomas para sistemas dinámicos lineales, vinculando la descripción axiomática con la descripción del espacio de estados. También consideran importantes propiedades estructurales de un sistema dado, la formulación de problemas de optimización, cuestiones de existencia y unicidad, y la caracterización de controles óptimos. El capítulo final retoma algunos de los conceptos y métodos discutidos anteriormente, ampliando las aplicaciones de los sistemas de dimensión finita a los sistemas de parámetros distribuidos. Una completa bibliografía concluye el texto.",
+    "portada": "https://books.google.com/books/content?id=rwvmDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766894100851-92fa7c3484c6b8",
+    "titulo": "Innovación y sustentabilidad energética, implementaciones en cursos masivos e investigación educativa",
+    "autor": "María Soledad Ramírez Montoya, Alberto Mendoza-Dominguez",
+    "anio": 2018,
+    "isbn": "9788427725447",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Energía",
+      "Sustentabilidad",
+      "Innovación"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro es el segundo tomo de la colección de Innovación y sustentabilidad energética. Destacan aquí las experiencias e investigaciones educativas en el marco de: Openergy Lab para desarrollar recursos educativos abiertos de energía, sistemas de gestión del conocimiento para la visibilidad de la producción energética y cuatro cursos masivos abiertos (MOOCs) de formación en temas de energía. En el momento en que se presenta este libro, los MOOC han contado con más de 100,000 participantes, de más de 51 países (dato de la plataforma EdX, donde destacan diez países por cantidad de participantes: México, España, Perú, Colombia, Argentina, Estados Unidos, Ecuador, Chile, Venezuela y Guatemala). El soporte conceptual de la sustentabilidad energé tica, abordado en los MOOC, se vinculó con el sector productivo y con la realidad energé tica que ofrece nuevas oportunidades. El soporte de innovació n educativa se dio a travé s de la implementación de estrategias poco abordadas en los MOOC, como lo son la realidad virtual, realidad aumentada, biometría, gamifi cación y los laboratorios virtuales y remotos. El soporte de investigación se dio a través de estudios con metodologías mixtas, comparativas y de casos. Esta obra ofrece aportes de innovación educativa, formación en sustentabilidad energética, investigación educativa y desarrollos tecnológicos para potencializar la formación de capacidades en ambientes de aprendizaje modernos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/innovacion-y-sustentabilidad-energetica-implementaciones-en-cursos-masivos-e-investigacion-educativa.jpg"
+  },
+  {
+    "id": "libro-1766893857641-a6bf7d87c67558",
+    "titulo": "Innovación y Sustentabilidad Energética: Colaboración Multidisciplinar, Mooc e Investigación Educativa",
+    "autor": "María Soledad Ramírez Montoya",
+    "anio": 2018,
+    "isbn": "978842772629147",
+    "editorial": "Narcea",
+    "coleccion": "",
+    "vol": "3",
+    "categorias": [
+      "Energía",
+      "Sustentabilidad",
+      "Innovación"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro es el tercero que surge en el marco del Laboratorio Binacional para la Gestión Inteligente de la Sustentabilidad Energética y la Formación Tecnológica. Se abordan temáticas transversales del Laboratorio, tales como el trabajo en red que ha sido el motor del proyecto, así como innovaciones educativas formativas desde los laboratorios ciudadanos, competencias autopercibidas y estrategias innovadoras como los retos, biometría, gamificación y aprendizaje invertido. Multidisciplinariedad, Innovación e Investigación Educativa son ejes clave en esta obra. El libro aporta a los esfuerzos de los Objetivos de Desarrollo Sostenible de la Agenda 2030 de las Naciones Unidas, concretamente en el concerniente al objetivo siete donde se aborda: energía asequible y no contaminante. La formación en esta temática, a través de 12 MOOC, ha sido estratégica, para contar con más de 200,000 participantes, de más de 50 países (dato de las plataformas MéxicoX y EdX), donde destacan los países siguientes por cantidad de participantes: Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, España, Estados Unidos, Guatemala, Honduras, México, Países Bajos, Paraguay, Perú, República Dominicana y Venezuela. La producción de los MOOC se gestó a través de equipos multidisciplinares: especialistas de las á reas de energía, tecnología educativa e investigación educativa, que han trabajado juntos en el desarrollo de los MOOC, así como en su puesta en operación, y en investigaciones educativas en cada una de las experiencias formativas. La innovación educativa ha sido un tema transversal en el proyecto, se han integrado tecnologías en las plataformas abiertas que anteriormente no habían sido trabajadas. Con este libro, los autores pretenden evidenciar procesos de innovación educativa en ambientes formativos para potenciar capacidades de sustentabilidad energética. Queda una invitación para seguir sumando esfuerzos por el bien común de la sustentabilidad energética.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/innovacion-y-sustentabilidad-energetica-colaboracion-multidisciplinar-mooc-e-investigacion-educativa.jpg"
+  },
+  {
+    "id": "libro-1766879118935-ecebdf6faec52",
+    "titulo": "Investigación de operaciones",
+    "autor": "Edwin Rivas Trujillo, Alberto Acosta López, Octavio Salcedo Parra",
+    "anio": 2019,
+    "isbn": "9789587717617",
+    "editorial": "ECOE",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Optimización",
+      "Investigación de Operaciones"
+    ],
+    "formato": "Físico",
+    "notas": "En este texto se brindan las herramientas necesarias para la comprensión y ejecución del método analítico de resolución de problemas y toma de decisiones denominado Investigación de Operaciones (I.O), su éxito se debe a la flexibilidad para describir un gran número de situaciones reales en áreas como la militar, industrial, agrícola, de transporte, de economía, sistemas de salud e incluso en las ciencias sociales y de la conducta. Un factor importante en el amplio uso de esta técnica es la disponibilidad de programas de computadora eficaces para resolver extensos problemas de programación lineal.La obra consta de doce capítulos distribuidos de la siguiente manera: método gráfico, método simplex y simplex dual, modelo de transporte, método de la gran M, método de las dos fases, análisis de sensibilidad, programación entera, programación lineal mixta, programación dinámica, dinámica probabilística y teoría de inventarios. Todos enfocados de manera teórico-práctica, ayudando al lector a verificar, comprender, analizar y aplicar estas herramientas de programación lineal.Dirigido a estudiantes y profesionales en ingeniería industrial, ingeniería de sistemas, ingeniería electrónica e ingeniería eléctrica. Además es de gran interés para los posgrados enfocados en la gestión de proyectos para la toma de decisiones.Medidas: 24 cm x 17 cm x 0.9 cm en empaque",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/investigacion-de-operaciones.jpg"
+  },
+  {
+    "id": "libro-1766879065490-5ae7c76edbe558",
+    "titulo": "Analisis Modal De Fallos Y Efectos - AMFE, Ejecucion Paso a Paso Integrando Tecnicas De Creatividad",
+    "autor": "M. Alvarez",
+    "anio": 2014,
+    "isbn": "9781505567458",
+    "editorial": "CreateSpace",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Mantenimiento",
+      "RCA"
+    ],
+    "formato": "Físico",
+    "notas": "¿Diseñas y desarrollas un producto? ¿Quieres desarrollarlo en menos tiempo? ¿Quieres desarrollarlo de una forma más económica? ¿Quieres aumentar su calidad real, de uso y percibida por el cliente? El Análisis Modal de Fallos y Efectos (AMFE) es una potente metodología aplicada en las fases iniciales de diseño y desarrollo de un producto, que nos permite identificar, prevenir y jerarquizar potenciales fallos de un sistema, proponiendo acciones que los eliminen o minimicen sus efectos. Y todo ello antes de que aparezcan o de haber fabricado prototipos. Es decir, cuando las modificaciones aún son rápidas y baratas. Además, permite priorizar los recursos disponibles para el desarrollo del sistema, documentar el proceso de cara a futuros desarrollos y aglutinar la experiencia de la empresa generando un histórico de fallos que nos servirá como lecciones aprendidas. Como consecuencia, reduce el tiempo y coste del desarrollo de un producto, aumentando al mismo tiempo su calidad y fiabilidad. Partiendo del estándar J1739 de la Society of American Engineers (SAE), y basado en la experiencia del autor, se ha evolucionado la metodología mediante la integración de técnicas de creatividad y de comunicación visual, de cara a proporcionar una dinámica más fluida y de más efectiva aplicación.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=J8IwrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766877470584-6f3d9b19e5f1c",
+    "titulo": "Tensor Algebra and Tensor Analysis for Engineers, With Applications to Continuum Mechanics",
+    "autor": "Mikhail Itskov",
+    "anio": 2019,
+    "isbn": "9783030075361",
+    "editorial": "Springer",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Matemáticas",
+      "Física"
+    ],
+    "notas": "Esta es la sexta edición revisada de un libro de texto con gran aceptación que busca unir el álgebra tensorial en ingeniería, por un lado, y el álgebra lineal clásica en matemáticas, por otro. Siguiendo la forma contemporánea de publicación científica, se prefiere una notación tensorial absoluta moderna. El libro ofrece una exposición comprensible de los conceptos matemáticos fundamentales del cálculo tensorial y enriquece el material presentado con numerosos ejemplos ilustrativos. En particular, el libro aborda temas multifísicos de la mecánica de sólidos como la electroelasticidad y la magnetoelasticidad. Además, incluye capítulos avanzados que abordan los desarrollos recientes en la teoría de las funciones tensoriales isótropas y anisótropas y sus aplicaciones a la mecánica del medio continuo. Esta nueva edición también se centra en los aspectos numéricos del cálculo tensorial y muestra cómo se pueden aplicar los métodos modernos de aprendizaje automático al cálculo de funciones tensoriales. Por lo tanto, este libro de texto se dirige tanto a estudiantes de posgrado como a científicos que trabajan en este campo, en particular aquellos que abordan problemas interdisciplinarios. Cada capítulo incluye numerosos ejercicios que permiten el autoaprendizaje y la práctica intensiva. También se proporcionan las soluciones de los ejercicios.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=EuBLwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1766877120657-f18545628bbe9",
+    "titulo": "Wind Energy Handbook",
+    "autor": "Tony L. Burton, Nick Jenkins, Ervin Bossanyi, David Sharpe, Michael Graham",
+    "anio": 2021,
+    "isbn": "9781119451099",
+    "editorial": "John Wiley & Sons",
+    "coleccion": "",
+    "vol": "3era ed.",
+    "formato": "Físico",
+    "categorias": [
+      "Energía",
+      "Eólico",
+      "Viento"
+    ],
+    "notas": "Referencia totalmente actualizada y autorizada a la tecnología de energía eólica escrita por destacados profesionales académicos y de la industria. La recientemente revisada Tercera Edición del Manual de Energía Eólica ofrece un tratamiento totalmente actualizado de los desarrollos clave en tecnología eólica desde la publicación de la Segunda Edición del libro en 2011. La criticidad de las estelas dentro de los parques eólicos se aborda mediante la adición de un capítulo completamente nuevo sobre los efectos de la estela, incluyendo modelos de estela de \"ingeniería\" y control de la estela. En alta mar, la atención se centra por primera vez en el diseño de estructuras de soporte flotantes, y se introduce el nuevo método \"PISA\" para el diseño geotécnico de monopilotes. La cobertura del diseño de palas se ha reescrito por completo, con una descripción ampliada de las propiedades de fatiga laminada y nuevas secciones sobre métodos de fabricación, pruebas de palas, erosión del borde de ataque y acoplamiento de flexión-torsión. Estos se complementan con nuevas secciones sobre complementos de palas y ruido en los capítulos de aerodinámica, que ahora también incluyen una descripción del modelo de pérdida dinámica de Leishman-Beddoes y una introducción ampliada al análisis de dinámica de fluidos computacional. La importancia del impacto ambiental de los parques eólicos, tanto terrestres como marinos, se reconoce mediante una cobertura ampliada, y se describen los requisitos de los Códigos de Red para garantizar que la energía eólica desempeñe plenamente su papel en el sistema eléctrico. El capítulo sobre diseño conceptual se ha ampliado para incluir diversos conceptos novedosos, como rotores de baja inducción, estructuras multirotor, generadores superconductores y cajas de engranajes magnéticos. Se incluyen referencias y recursos de lectura adicionales a lo largo del libro, que se han actualizado para incluir la bibliografía más reciente. Al igual que en ediciones anteriores, se cubren los temas fundamentales que constituyen la base esencial para el diseño de aerogeneradores y parques eólicos. Estos incluyen: La naturaleza del recurso eólico, incluyendo la variación geográfica, variaciones sinópticas y diurnas, y características de turbulencia La aerodinámica de las turbinas eólicas de eje horizontal, incluyendo el concepto de disco actuador, teoría del disco rotor, el modelo de cilindro vórtice del disco actuador y la teoría Pala-Elemento/Momento Cargas de diseño para turbinas eólicas de eje horizontal, incluyendo las prescripciones de estándares internacionales Arquitecturas de máquinas alternativas El diseño de componentes clave Diseño de controlador de turbina eólica para máquinas de velocidad fija y variable La integración de parques eólicos en el sistema de energía eléctrica Diseño de parques eólicos, restricciones de ubicación y evaluación del impacto ambiental Perfecto para ingenieros y científicos que aprenden sobre tecnología de turbinas eólicas, el Manual de energía eólica también se ganará un lugar en las bibliotecas de estudiantes de posgrado que toman cursos sobre turbinas eólicas y energía eólica, así como profesionales de la industria cuyo trabajo requiere una comprensión profunda de la tecnología de energía eólica.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=ieklEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1766877286511-d7431dade5d34",
+    "titulo": "Generación de energía eléctrica con fuentes renovables",
+    "autor": "Luis Vargas",
+    "anio": 2020,
+    "isbn": "9789561126251",
+    "editorial": "Universitaria",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Energía"
+    ],
+    "notas": "Estamos en una época de importantes avances en la escena de la generación de energías renovables, tanto en madurez tecnológica y económica como también en el convencimiento ciudadano y la correspondiente voluntad política para abrir caminos hacia su despliegue y consolidación. Así, en apenas una década ocurren cambios notables en todo el planeta, tales como la denominada revolución energética de Alemania, la descarbonización de la matriz eléctrica de Uruguay y la extensa concepción de agendas políticas con ambiciosas metas de generación limpia, como en México, Colombia y Perú. Además, por primera vez en la historia, la generación renovable europea supera a su competencia nuclear y se posiciona como un fundamento básico de la independencia energética del viejo continente. Por su parte, Chile se ha puesto como meta conseguir un 70% de la generación eléctrica a partir de fuentes renovables al año 2050, donde se estima, a partir de estudios derivados del proceso participativo Energía 2050, que un gran porcentaje provendrá de fuentes renovables no convencionales, en particular eólica y solar fotovoltaica.\nEl objetivo de esta publicación es acercar los fundamentos físicos y principios básicos de las tecnologías de generación eléctrica a partir de fuentes renovables a jóvenes científicos, profesionales y público en general interesados en tecnologías limpias para la generación de electricidad a pequeña, mediana y gran escala. Es de interés de los autores que el libro sea un aporte al mundo hispano-hablante, contribuyendo al entendimiento interdisciplinario y holístico de las energías renovables en América Latina.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/generacion-de-energia-electrica-con-fuentes-renovables.jpg",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1766876884673-f034b18866bbb",
+    "titulo": "Reingeniería De Procesos De Manufactura Industrial, Colaboración Entre Cuerpos Académicos Tlaxcala Y Puebla (Enero 2021)",
+    "autor": "José Víctor Galaviz Rodríguez, Jonny Carmona Reyes, Noemí González León",
+    "anio": 2020,
+    "isbn": "9781506535470",
+    "editorial": "Palibrio",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Manufactura",
+      "Producción",
+      "Calidad"
+    ],
+    "notas": "La participación activa colaborativa en cuerpos académicos, se refieren a varias acciones y productos que se generan conjuntamente con los miembros, colaboradores y con la participación de alumnos contribuyendo a la consolidación de programas educativos en los que participan. La mayoría de las acciones que se desarrollan al interior de los siguientes Cuerpos Académicos en el tema principal de Rein…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=eE0czgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1766876736767-54111482fda27",
+    "titulo": "El mantenimiento industrial desde la experiencia",
+    "autor": "Miguel Ángel Albertos Carrera",
+    "anio": 2021,
+    "isbn": "9788413201467",
+    "editorial": "Universidad de Valladolid",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Mantenimiento",
+      "Industria",
+      "Confiabilidad"
+    ],
+    "notas": "Con el creciente desarrollo industrial y tecnológico, las gentes de mantenimiento han tenido que superar de manera continua, en las tres últimas décadas, su formación y su nivel de polivalencia para dar respuesta a las necesidades de las empresas dotadas de procesos automatizados con múltiples y concurrentes tecnologías (autómatas programables, Pcs, control numérico, gas natural), al uso de nuevas herramientas de mantenimiento informatizadas (control de vibraciones, termografía), a medios de ayuda al diagnóstico de averías y de gestión (programas de ayuda al mantenimiento, G.M.A.O., Telerrequisición), sin olvidar la gestión energética y la conservación del medio ambiente.Cada día más, las Organizaciones de Mantenimiento se enfrentan al reto de reducir los costes, teniendo que mejorar a la vez la Disponibilidad de las instalaciones y la Calidad. Se han convertido en un servicio determinante para que las empresas consigan sus mejores resultados de productividad y competitividad.Este libro, fundamentado en la experiencia práctica del mantenimiento industrial, está ilustrado con documentos e imágenes reales y orientado hacia la mejora continua. Sus temas, comprenden desde las funciones hasta los recursos humanos y la seguridad en mantenimiento, pasando por el condicional como tendencia del preventivo en los últimos años, la fiabilidad y la O.M.P., entre otros, para finalizar con una guía de ayuda para el desarrollo de un proyecto de mantenimiento.Su contenido, eminentemente práctico, va destinado a las personas que tengan relación con el mantenimiento, con el objetivo de que les sirva de ayuda para mejorar los resultados de la actividad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-mantenimiento-industrial-desde-la-experiencia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766876461545-9a1e6bbb4ce148",
@@ -119,14 +840,15 @@
     "editorial": "Edicions Upc",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Economía"
     ],
-    "formato": "Físico",
     "notas": "Las ultimas decadas han visto un inusitado progreso en la miniaturizacion de algunos dispositivos de uso comun, como los telefonos moviles, los ordenadores o los reproductores de musica, pero el limite sigue marcado por el peso y el tamano de las baterias. El futuro parece estar en las pilas de combustible, en las que se genera electricidad de manera eficiente y limpia a partir del hidrogeno y otros compuestos. Las posibilidades de las pilas de combustible parecen infinitas y abarcan campos tan dispares como la automoción o el diseño de viviendas sostenibles",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=YkWvcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=YkWvcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766875722360-399b9ba2a62bb",
@@ -137,14 +859,15 @@
     "editorial": "Crítica",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Física"
     ],
-    "formato": "Físico",
     "notas": "En la línea de A hombros de gigantes, dedicada a las grandes obras de la Física y la Astronomía, el gran científico Stephen Hawking nos presenta en este libro los 31 logros fundamentales del pensamiento matemático, desde la geometría básica hasta la teoría de los números transfinitos. El profesor Hawking ha analizado 2.500 años de historia de las matemáticas para ofrecernos: + Una biografía de los 17 mayores genios matemáticos. + Una introducción al significado de sus investigaciones. + La solución a los distintos problemas que se plantearon. \"En esta época en que vivimos estamos descubriendo las leyes fundamentales de la naturaleza...” Richard Feynman, 1964. Desde el comercio por internet hasta los vuelos espaciales, las matemáticas rigen casi todos los aspectos de nuestra vida en esta era postindustrial. Por otra parte, tanto las revoluciones intelectuales como nuestra propia percepción del mundo son hijas de revoluciones en el pensamiento matemático. Las obras de Karl Weierstrass, Georg Cantor, George Boole, Alan Turing, Kurt Gödel y otros grandes matemáticos se han construido sobre la obra de sus predecesores, desde los matemáticos babilonios, y ellas, a su vez, alimentan las nuevas teorías que desarrollan los investigadores contemporáneos. Stephen Hawking sostiene que si las maravillas del mundo antiguo fueron físicas, las maravillas de nuestro propio tiempo son las obras del intelecto.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/dios-creo-los-numeros-los-descubrimientos-matematicos-que-cambiaron-la-historia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/dios-creo-los-numeros-los-descubrimientos-matematicos-que-cambiaron-la-historia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765776444575-803e322b7471d8",
@@ -155,13 +878,14 @@
     "editorial": "Crítica",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Fisica"
     ],
-    "formato": "Físico",
     "notas": "Aunque muchos lo ignoren, una parte sustancial de los pilares que sustentan la civilización actual se nutre de la física cuántica, junto a la relatividad una de las dos grandes revoluciones científicas que cambiaron nuestra comprensión del mundo durante la primera mitad del siglo XX.Es el cuántico un mundo regido por leyes que parecen violar las leyes del sentido común, como expresó con una ironía…",
     "comentarios": "Dirigida e introducida por el difunto Stephen Hawking, el científico más célebre del pasado reciente, Los sueños de los que está hecha la materia reúne las obras esenciales de la física cuántica; textos que provocaron un cambio de paradigma que revolucionó la física para siempre, cambiando nuestra comprensión del universo a un nivel totalmente nuevo. Reunidos en esta antología están los trabajos de la élite cuántica, entre otros: Max Planck, Niels Bohr, Werner Heisenberg, Max Born, Erwin Schrödinger, Paul Dirac, J. Robert Oppenheimer y Richard Feynman.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-suenos-de-los-que-esta-hecha-la-materia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-suenos-de-los-que-esta-hecha-la-materia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766876117514-094051b9b1231",
@@ -172,14 +896,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Física",
       "Mecánica Cuántica"
     ],
-    "formato": "Físico",
     "notas": "El insigne autor y científico Stephen Hawking ha reunido en este volumen las más importantes obras de Albert Einstein. Desde el texto en el que se revelaba la «Teoría de la relatividad» -reconocida como uno de los más importantes descubrimientos científicos del siglo XX- hasta las significativas obras de teoría quántica, mecánica estadística y el efecto fotoeléctrico, encontramos aquí todos los trabajos que cambiaron la física y, posteriormente, nuestra manera de ver el mundo. Asimismo, Einstein reflexionó profundamente sobre temas políticos y religiosos, de modo que también se incluyen algunos de sus ensayos filosóficos. Hawking nos proporciona una introducción a cada texto, en la que nos brinda una perspectiva tanto científica como histórica. Desde los trabajos que cambiaron el pensamiento científico moderno hasta las últimas reflexiones de Einstein sobre sus propias conclusiones, La gran ilusión es una magnífica colección de las más importantes obras de Einstein, comentadas por el científico más grandioso de nuestro tiempo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-gran-ilusion-las-grandes-obras-de-albert-einstein.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-gran-ilusion-las-grandes-obras-de-albert-einstein.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-15",
@@ -190,14 +915,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Arte",
       "Ilustración"
     ],
-    "formato": "Físico",
     "notas": "Índice de directores de arte para ilustradores quince(o n .° 15 ) es una publicación específica, vintage y de tapa dura de alrededor de 1995, publicada por Rotovision , que presenta una colección de trabajos de ilustradores profesionales y sirve como guía de recursos para directores de arte. Actualmente, está disponible principalmente como artículo de colección en librerías en línea como AbeBooks y eBay . Forma parte de una serie de larga trayectoria diseñada para mostrar el talento a los compradores de arte comercial",
     "comentarios": "Libro ilustrado de tapa dura MUY RARO. \"Índice de Directores de Arte para Ilustradores 15\". Director de Producción: Bernard Vouillamoz, Ginebra. Primera Edición, publicada por Rotovision SA en 1995. Libro grande y pesado",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/art-directors-index-to-illustrators-fifteen.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/art-directors-index-to-illustrators-fifteen.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766875288249-369ca9693cb61",
@@ -208,14 +934,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Paisajes",
       "Turismo"
     ],
-    "formato": "Físico",
     "notas": "La posibilidad y el privilegio de desarrollar y construir sueños es una en miles. Aun mas cuando estos sueños son de una importancia vital para la conservación del bosque patagónico húmedo templado y toda su biodiversidad, declarada por la UNESCO dentro de las 25 zonas prioritarias de bosque nativo a conservar en el mundo.\n\nLos propietarios, junto a un equipo de profesionales que incluye arquitectos, ingenieros forestales y biólogos, desarrollaron el proyecto de la Reserva Huilo Huilo en un campo de 60 mil hectáreas, planteando transformar su pasado maderero en un futuro ecoturístico. Las riquezas naturales dentro de este predio, como el Salto del Huilo Huilo, el Volcán Mocho Choshuenco, el lago Pirehueico y sus ríos, aseguraban el resultado de este nuevo uso. Para su desarrollo y sustentabilidad, se han planificado y construido obras desde el año 2001 hasta la fecha.",
     "comentarios": "tienda@fundacionhuilohuilo.com",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/construyendo-un-sueno.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/construyendo-un-sueno.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766874714754-9101772518509",
@@ -226,14 +953,15 @@
     "editorial": "",
     "coleccion": "The Digital Sourcebook",
     "vol": "4",
+    "formato": "Físico",
     "categorias": [
       "Arte",
       "Fotografía"
     ],
-    "formato": "Físico",
     "notas": "Since its inception, New Media Showcase: The Digital Sourcebook has been dedicated to the explosion of creative opportunity and technological change in new media: charting, reflecting and participating in it - and helping our advertisers and our readers to the same. From the beginning, we have given creative professionals a place to exhibit their unusual talents, and to give art and creative directors, corporation communications specialists and graphic design firms a simple way to find these experts. Innovations in hardware and software have been presented at every turn, and new outlets for creative expression have been numerous. But even in this exciting, ever changing arena, the substance and volume of change that we're now experiencing is virtually unprecedented. This volume covers such exciting topics as : creative property rights affect us all; print-the final frontier; CD-ROM-the media is still the message; neo-classical new media education-preparing for tomorrow; contemplating the digial future and more. Beautiful full color photography images throughout.",
     "comentarios": "Desde sus inicios, New Media Showcase: The Digital Sourcebook se ha dedicado a la explosión de oportunidades creativas y al cambio tecnológico en los nuevos medios: cartografiándolos, reflexionándolos y participando en ellos, y ayudando a nuestros anunciantes y lectores a hacer lo mismo. Desde el principio, hemos brindado a los profesionales creativos un espacio para exhibir sus talentos inusuales y a directores artísticos y creativos, especialistas en comunicación corporativa y firmas de diseño gráfico una forma sencilla de encontrar a estos expertos. Se han presentado innovaciones en hardware y software constantemente, y han abundado los nuevos canales para la expresión creativa. Pero incluso en este emocionante y cambiante ámbito, la magnitud y el volumen del cambio que estamos experimentando no tienen precedentes. Este volumen abarca temas tan apasionantes como: los derechos de propiedad creativa nos afectan a todos; la impresión: la última frontera; el CD-ROM: los medios siguen siendo el mensaje; la educación neoclásica en nuevos medios: preparándose para el mañana; contemplando el futuro digital y más. Hermosas imágenes fotográficas a todo color en todo el volumen.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/new-media-showcase.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/new-media-showcase.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766874186269-34c2781fa615d8",
@@ -244,14 +972,15 @@
     "editorial": "Numen",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Arte",
       "Fantasía"
     ],
-    "formato": "Físico",
     "notas": "For three decades, H. R. Giger (born 1940) has reigned as one of the leading exponents of fantastic art with his signature \"biomorphic\" style. Giger's multi-faceted work - surrealistic dreamscapes, album cover designs, sculpture, even architecture - and his Oscar-winning set design for films like Alien - are richly showcased in this book.",
     "comentarios": "Durante tres décadas, H. R. Giger (nacido en 1940) se ha consolidado como uno de los principales exponentes del arte fantástico con su característico estilo biomórfico. Su obra multifacética —paisajes oníricos surrealistas, diseños de portadas de álbumes, esculturas e incluso arquitectura— y su diseño de escenografía para películas como Alien, ganador del Óscar, se exponen con gran detalle en este libro.",
-    "portada": "https://books.google.com/books/content?id=cC8CAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=cC8CAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766874025563-6718f86a72394",
@@ -262,11 +991,12 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "8ava ed.",
-    "categorias": [],
     "formato": "Físico",
+    "categorias": [],
     "notas": "Las organizaciones actuales constituyen la innovación más importante de nuestra era porque de su éxito o fracaso depende el bienestar de los habitantes del planeta. Para alcanzar sus objetivos deben poner en práctica sus estrategias y administrar de manera eficiente y eficaz sus recursos. De entre estos, el más valioso es el capital humano que se encarga de preparar, implementar y lleva a cabo la estrategia. En términos sencillos, la forma en que una organización obtenga, mantenga y retenga este capital es un factor decisivo de su éxito o fracaso. El objetivo de esta octava edición es explicar cómo los administradores proactivos y los profesionales comparten la responsabilidad de impulsar y mejorar la contribución del capital humano a sus organizaciones a través de enfocarse en áreas claves, como preparación y selección, desarrollo y evaluación, compensación y seguridad, y relaciones con el personal y evaluación de la cultura organizacional.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/administracion-del-capital-humano.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/administracion-del-capital-humano.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766873857917-b71e4ad0f0dda",
@@ -277,16 +1007,17 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "3era ed.",
+    "formato": "Físico",
     "categorias": [
       "Organización",
       "Industria",
       "Empresas",
       "Administración"
     ],
-    "formato": "Físico",
     "notas": "Un aspecto fundamental para quien interaccione directa o indirectamente una organización (sea como miembro, cliente, proveedor, investigador, consultor o analista, pues tiene que hacer negocios, asociarse, relacionarse o desarrollar alguna actividad con ella, es conocerla bien: cómo es y cómo funciona para entender sus manifestaciones. características y, consecuentemente, sus éxitos y fracasos. Es sabido que el valor intrínseco de una organización reside principalmente en sus activos intangibles, los cuales constituyen su verdadera riqueza y son la piedra central de su innovación y competitividad en un mundo cambiante y globalizado. Uno de ellos es el capital humano, entendido como la suma de talentos que actúa en un entorno propicio para que pueda activarse y producir sus efectos: ahí es cuando entra el comportamiento organizacional. El capital humano debe trabajar al interior de una estructura cohesiva e integrada, en una cultura organizacional agradable e incluyente y con un estilo de administración que le dé impulso y apalancamiento. Cuando todos estos elementos: talentos, organización. comportamiento y administración, se conjugan, la organización se desempeña excepcionalmente. Esto es lo que veremos a lo largo de este libro.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/comportamiento-organizacional-la-dinamica-del-exito-en-las-organizaciones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/comportamiento-organizacional-la-dinamica-del-exito-en-las-organizaciones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766873736418-68fec5271f086",
@@ -297,15 +1028,16 @@
     "editorial": "Lulu.com",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Industria",
       "TPM"
     ],
-    "formato": "Físico",
     "notas": "El TPM es una estrategia compuesta por una serie de actividades ordenadas que una vez implantadas ayudan a mejorar la competitividad de una organización industrial o de servicios. Se considera como estrategia, ya que ayuda a crear capacidades competitivas a través de la eliminación rigurosa y sistemática de las deficiencias de los sistemas operativos. El TPM permite diferenciar una organización en…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=IPtzAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=IPtzAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766873528577-5d03f218a6a068",
@@ -316,14 +1048,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Comic",
       "Historia"
     ],
-    "formato": "Físico",
     "notas": "Una visión amplia, aunque detallada, de una forma de arte que no tiene parangón gracias a su accesible, democrático y con frecuencia subversivo poder. Con más de 300 ilustraciones de libros, manga, bande dessinée, fumetti e historietas, y cientos de dibujantes y guionistas, desde R. Crumb y Jack Kirby a Moebius y Alan Moore. Una revolucionaria historia que cubra más de cinco décadas de la producción de este arte en todo el mundo. Se les llame manga, bandes dessinées, fumetti, tebeos o historietas, los cómics son una parte esencial del deseo humano de contar historias con imágenes. Esta innovadora recopilación es la primera en integrar la historia del cómic en Europa, Asia y América, en una relación completa narrada desde una perspectiva global. Se inicia en 1968, un momento clave del cómic, ya que es cuando pasó de ser una empresa impulsada por su potencial comercial a convertirse en un medio de autoexpresión respetado no solo como forma de entretenimiento sino como arte.   En este libro se traza la evolución de los cómics durante más de cuatro décadas y en los cinco continentes, hasta la aparición de la escena global digital, la cual domina en la actualidad y parece ser el futuro del medio. El amplio alcance de esta obra abarca una gran variedad de artistas, estilos y movimientos. Incluye la cobertura de, entre muchos otros, los siguientes países: Reino Unido, Estados Unidos, Japón, Bélgica, Francia, España, Italia, Países Bajos, Alemani, Suiza, Argentina, Corea del Sur y Nueva Zelanda.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/comics-una-historia-global-desde-1968-hasta-hoy.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/comics-una-historia-global-desde-1968-hasta-hoy.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766873441165-d53681241c663",
@@ -334,14 +1067,15 @@
     "editorial": "Ediciones Díaz de Santos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Programas",
       "Software"
     ],
-    "formato": "Físico",
     "notas": "MatLab es el principal estándar de Cálculo, de uso generalizado en todas lasramas de la Ciencia y la Ingeniería, utilizado en todas las universidadesdel mundo. Este manual incluye lo esencial de MatLab y Simulink, que ya nocambian con las versiones que van saliendo. El desarrollo del contenido deeste libro se realiza mediante una transición progresiva, para que personasde diferentes titulaciones p…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=xBu1jHbsUrsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=xBu1jHbsUrsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766794111037-14b569b6f0d46",
@@ -438,25 +1172,6 @@
     "notas": "Un refrán griego dice que sólo las mujeres que han lavado sus ojos con lágrimas pueden ver con claridad. El refrán no se cumple con Manuela. La noche que un coche atropelló a su hijo Esteban, Manuela lloró hasta quedar totalmente seca. Y lejos de ver con claridad, el presente y el futuro se confunden en la misma oscuridad. Prologo de Guillermo Cabrera Unfante",
     "comentarios": "",
     "portada": "https://books.google.com/books/content?id=itpkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766788395123-8f738ca4fedb98",
-    "titulo": "Ultimate Python, de cero a experto: Un libro para principiantes fácil de seguir",
-    "autor": "Nicolas Schurmann",
-    "anio": 2024,
-    "isbn": "9798884444447",
-    "editorial": "Independently Published",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Progamación",
-      "Informática"
-    ],
-    "notas": "Aprender a programar es una herramienta necesaria el día de hoy, ya sea para poder construir aplicaciones web hasta crear la más avanzada inteligencia artificial. Y puede ser sumamente desafiante si no se tiene la guía correcta. Es por esta razón que decidí crear este libro de Ultimate Python, un libro donde te tomaré de la mano y te enseñaré todo lo que necesitas saber acerca del lenguaje de prog…",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=GH-r0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "fechaRegistro": null
   },
   {
@@ -1142,26 +1857,6 @@
     "notas": "El auge sin precedentes de la inteligencia artificial nos está llevando al diseño de máquinas con capacidades equiparables a las del ser humano. Organizadas como redes de neuronas artificiales, serán capaces de registrar y analizar, mediante algoritmos cada vez más complejos, los terabytes de información de los que disponemos actualmente, hasta llegar a tomar decisiones cada vez más complejas y ac…",
     "comentarios": "El cerebro es el órgano más misterioso del cuerpo humano. A pesar de los avances más recientes en disciplinas como la biología molecular o las tecnologías de neuroimagen, todavía queda mucho camino por recorrer hasta desentrañar todos sus secretos.\n¿Llegaremos algún día a descifrar los mecanismos de su estructura y funcionamiento? ¿Nos permitirá eso reparar sus defectos y potenciar nuestras capacidades? José Viosca, bioquímico y doctor en neurociencias, aborda el reto de cartografiar el cerebro y nos acerca un poco más a conocer nuestro órgano más complejo.",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inteligencia-artificial.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766758207867-ee83fdaf645e2",
-    "titulo": "Bombas hidráulicas",
-    "autor": "Jorge Moreno Castro",
-    "anio": 2010,
-    "isbn": "9788492889686",
-    "editorial": "ICB Editores",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Bombas",
-      "Hidraulica",
-      "Mantenimiento"
-    ],
-    "notas": "Todo sobre Bombas Hidráulicas. Incluye Solucionarios Glosario y Bibliografía.MÓDULO 1: Bombas Hidráulicas. Conocimientos Teóricos sobre Presión TEMA 1. Hidráulica TEMA 2. Hidrostática TEMA 3. Hidrodinámica MÓDULO 2: Canal Velocidad y Prácticas sobre Funcionamiento de las Bombas Tomas de Agua y Fuerza TEMA 4. Bombas Hidráulicas TEMA 5. Bombas Contra Incendios MÓDULO 3: Prevención de Riesgos Laborales TEMA 6. Introducción a la Prevención de Riesgos Laborales TEMA 7. Marco Normativo Básico en Prevención de Riesgos Laborales TEMA 8. Riesgos Relacionados con las Condiciones de Seguridad Solucionarios Test Glosario Bibliografía",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1xOpcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "fechaRegistro": null
   },
   {
@@ -1905,25 +2600,6 @@
     "fechaRegistro": null
   },
   {
-    "id": "libro-1766610990722-5816407377815",
-    "titulo": "Como nos gobiernan en Colombia",
-    "autor": "Rogelio Villamizar J.",
-    "anio": 1993,
-    "isbn": "9586660001",
-    "editorial": "FERIVA S.A",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Ensayo político",
-      "Ciencias sociales"
-    ],
-    "notas": "El libro Cómo nos gobiernan en Colombia, escrito por Rogelio Villamizar J., es una obra de ensayo político y social que reflexiona críticamente sobre el funcionamiento del sistema de gobierno colombiano, con énfasis en las prácticas de poder, la gestión del Estado y la relación entre la ciudadanía y sus gobernantes.\n\nEl texto combina análisis, denuncia y reflexión ética. Su estilo es directo y busca interpelar al lector sobre temas como la corrupción, la debilidad institucional, la burocracia, la inequidad y la desconexión entre las decisiones políticas y las necesidades reales de la población. De fondo, subyace una mirada crítica hacia cómo el ejercicio del poder público puede distorsionarse cuando priman intereses particulares sobre el bien común.\n\nUn elemento destacable es el enfoque ciudadano: el libro no se limita a describir problemas, sino que invita a la reflexión sobre responsabilidad cívica, participación y el rol del silencio social, idea reforzada por la cita de Gandhi en su portada: “Lo más atroz de las cosas malas de la gente mala, es el silencio de la gente buena.” Esta frase resume el espíritu del libro: generar conciencia para movilizar transformación social.",
-    "comentarios": "Que le pasa a Colombia--No queremos paz sino victoria.--Entre la economía y el sectarismo.--La resurrección de un gigante.--Tragedia de Bahía en Tumaco.--La gran despensa del Océano Pacífico.--La desprotección del pueblo colombiano.--La Mafia de las Aduana y del Contrabando.--Sistema de economía mafiosa.--Mantengamos viva la esperanza.--El rumbo de simplificación.--La ley de la entropia Colombia -- Polt̕ica econm̤ica Colombia -- Polt̕ica y gobierno Colombia -- Condiciones econm̤icas",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-nos-gobiernan-en-colombia.jpg",
-    "fechaRegistro": null
-  },
-  {
     "id": "libro-1766610540190-ed2dd6e628e0c",
     "titulo": "Numerical Calculation of Lubrication, Methods and Programs",
     "autor": "Ping Huang",
@@ -2151,26 +2827,6 @@
     "notas": "El libro Automoción: Lubricación, Lubricar y Lubricantes y Todos sus Complementos, escrito por Ángel Pons y Josep Maria Torras  (ingeniero químico), es una obra especializada que aborda el mundo de la lubricación desde la perspectiva de la automoción, es decir, enfocada en motores, transmisiones y componentes vehiculares donde la lubricación es indispensable para garantizar eficiencia, rendimiento y vida útil.\n\nA diferencia de textos industriales centrados en maquinaria pesada o equipos estacionarios, este libro se concentra en el entorno automotriz e introduce de forma ordenada:\n\nPrincipios físico-químicos de la lubricación en motores de combustión interna.\n\nTipos de lubricantes (minerales, sintéticos, semisintéticos) y sus aditivos.\n\nSelección de aceites según viscosidad, normas SAE, API y especificaciones de fabricantes.\n\nLubricación de cajas de cambio, diferenciales, rodamientos y sistemas auxiliares.\n\nComportamiento del aceite bajo temperatura, presión, carga y contaminación.\n\nComplementos como grasas, refrigerantes, filtros y fluidos especiales.\n\nEl libro destaca además por ser accesible y visual, con un lenguaje pensado tanto para estudiantes técnicos como para mecánicos y profesionales del mantenimiento vehicular. Incluye explicaciones claras, esquemas y recomendaciones aplicadas al uso cotidiano, lo que facilita trasladar el conocimiento a talleres, flotas y gestión de vehículos.",
     "comentarios": "",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/automocion-lubricacion-lubricar-y-lubricantes-y-todos-sus-complementos.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766606461359-cfeffe5eeca08",
-    "titulo": "Introducción a la potencia fluida, neumática e hidráulica para ingenieros",
-    "autor": "Gerardo Aragón González, Aurelio Canales Palma, Alejandro León Galicia",
-    "anio": 2014,
-    "isbn": "9786072802063",
-    "editorial": "",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Neumática",
-      "Hidráulica",
-      "Eneergía"
-    ],
-    "notas": "Este texto ha sido diseñado para formar ingenieros capacitados en las aplicaciones contemporáneas de la potencia fluida, con las aptitudes para concebir la neumática e hidráulica como partes de un campo tecnológico unificado.\nLas máquinas que funcionan con base a la transmisión de energía por medio de un vehículo fluido, se han aplicado industrialmente durante más de 200 años. En el siglo XXI la importancia tecnológica de las máquinas hidroneumáticas es irrefutable. Con este libro se pretende contribuir a la formación de nuevos ingenieros, que al incorporarse a la actividad profesional ya posean las habilidades para accionar dispositivos basados en aire y aceite presurizados. La obra también está dirigida a los profesionales que deben tratar con alguno de los muchos procesos de manufactura, en los que las máquinas automáticas ejecutan ciclos de trabajo repetitivos, precisos, veloces y fiables. Ahí es donde la potencia fluida establece la mejor interrelación con el control electrónico.\n\nDESTACADOS:\n\nEjemplos resueltos y numerosos ejercicios propuestos.\n\nMinuciosidad en las explicaciones y cálculos numéricos.\n\nRecuadros sobre detalles históricos, conexiones con otros campos tecnológicos y demostraciones minuciosas para aclarar la aplicación de los conceptos tratados.\n\nUso sistemático y ordenado de las unidades que corresponden a cada magnitud física. Se destaca el uso del SI, pero además se emplean las del llamado “sistema inglés”, y otras de uso común que todavía siguen utilizando los fabricantes de equipos.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-potencia-fluida-neumatica-e-hidraulica-para-ingenieros.jpg",
     "fechaRegistro": null
   },
   {
@@ -2453,26 +3109,6 @@
     "notas": "El libro Planeación y Control de la Producción, escrito por Robert H. Bock y William K. Holstein, es un texto clásico dentro del ámbito de la gestión de operaciones, particularmente útil para comprender los fundamentos del planeamiento, programación y control de los procesos productivos en organizaciones industriales.\n\nLa obra desarrolla de manera estructurada los elementos que conforman un sistema de producción eficiente: pronósticos de demanda, planeación agregada, programación maestra, control de inventarios, control de piso y seguimiento del desempeño. Su enfoque metodológico y conceptual permite al lector comprender la lógica de coordinación entre recursos, tiempos y capacidades, mostrando cómo las decisiones estratégicas y tácticas se conectan con la operación diaria.\n\nSi bien refleja una visión tradicional previa a los modelos contemporáneos de manufactura esbelta, automatización avanzada o Industria 4.0, el texto sigue siendo valioso por la solidez de sus fundamentos y por su utilidad para quienes requieren una base conceptual en operaciones antes de abordar metodologías más modernas. En particular, resulta recomendable para estudiantes de ingeniería industrial, administración de operaciones y logística, así como para profesionales que buscan reforzar los pilares de la gestión productiva.",
     "comentarios": "",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/planeacion-y-control-de-la-produccion.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766603384410-051ac99af97198",
-    "titulo": "Reliability Analysis with Minitab",
-    "autor": "KISHORE KUMAR. GUPTA POCHAMPALLY (SURENDRA M.), Surendra M Gupta",
-    "anio": 2021,
-    "isbn": "9780367783105",
-    "editorial": "CRC Press",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Confiabilidad",
-      "Minitab",
-      "Sistemas"
-    ],
-    "notas": "Statistical Analysis for the Reliability Engineering Professional Effectively conduct reliability analysis using the world's leading statistical software. Reliability Analysis with Minitab(R) outlines statistical concepts and applications, explains the theory of probability, reliability analysis, and quality improvement, and provides step-by-step instruction on the use of Minitab. Minitab introduc…",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=aXEezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "fechaRegistro": null
   },
   {
