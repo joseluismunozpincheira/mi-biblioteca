@@ -1,5 +1,804 @@
 [
   {
+    "id": "libro-1766951924486-73bbe260b38d78",
+    "titulo": "Estadística práctica para ciencia de datos con R y Python",
+    "autor": "Peter Bruce, Andrew Bruce, Peter Gedeck",
+    "anio": 2022,
+    "isbn": "9788426734433",
+    "editorial": "Marcombo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Estadistica",
+      "R",
+      "Phyton"
+    ],
+    "formato": "Físico",
+    "notas": "Los métodos estadísticos son una parte fundamental de la ciencia de datos, pero pocos científicos de datos tienen una formación avanzada en estadística. Los cursos y libros sobre estadística básica rara vez tratan el tema desde la perspectiva de la ciencia de datos. La segunda edición de este libro incluye ejemplos detallados de Python, ofrece una orientación práctica sobre la aplicación de los mé…",
+    "comentarios": "Más de 50 conceptos esenciales",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica-practica-para-ciencia-de-datos-con-r-y-python.jpg"
+  },
+  {
+    "id": "libro-1766951825490-4bb00b2f97b9d8",
+    "titulo": "Design and Analyse Your Experiment Using MINITAB",
+    "autor": "Tony Greenfield, Andrew V. Metcalfe",
+    "anio": 2010,
+    "isbn": "9780470711149",
+    "editorial": "Wiley",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Estadistica",
+      "Minitab",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "El progreso en la ingeniería y las ciencias físicas, la agricultura y las ciencias biológicas, y en cierta medida en las ciencias sociales, depende de los experimentos. El diseño de estos experimentos es crucial. Si están mal diseñados, serán ineficientes y podrían llevar a conclusiones erróneas. Sin embargo, se espera que muchos investigadores de la industria y la universidad diseñen y analicen...",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=1K5-RAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766951603022-7e0d4cfbbb466",
+    "titulo": "Problemas resueltos de probabilidad y estadística en la ingenería",
+    "autor": "José Manuel Framiñán Torres",
+    "anio": null,
+    "isbn": "9788447218325",
+    "editorial": "Universidad de Sevilla",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Estadística",
+      "Probabilidad"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro contiene una colección de problemas propuestos de Estadística e Investigación Operativa. clasificados según su dificultad y resueltos de varias formas posibles y con gran nivel de detalle, incluyendo asimismo al comienzo de cada capítulo una breve sinopsis de los contenidos teóricos requeridos. Para un uso adecuado del libro. se recomienda abordar primero los problemas de forma autónoma. Con ello se pretende no sólo entender cómo se ha resuelto el problema. sino ser capaz de resolverlo de forma autónoma. desarrollando habilidades de análisis e intuición. fundamentales para la Ingeniería.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/problemas-resueltos-de-probabilidad-y-estadistica-en-la-ingeneria.jpg"
+  },
+  {
+    "id": "libro-1766951335040-4b4cbd5670b1d8",
+    "titulo": "Estadística con Minitab: Aplicaciones para el control y la mejora de la calidad",
+    "autor": "Grima i Cintas, Pere, Lluís Marco Almagro, Xavier Tort i Martorell",
+    "anio": 2011,
+    "isbn": "9788492812394",
+    "editorial": "Garceta",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Estadistica",
+      "Minitab"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro está dirigido a profesionales y estudiantes que deseen usar MINITAB como herramienta para la realización de análisis estadísticos. Su contenido está orientado a las aplicaciones que giran en torno al control y la mejora de la calidad, pero también puede ser útil a personas que trabajan en otros ámbitos y necesitan analizar datos, especialmente en entornos industriales. Está dividido en …",
+    "comentarios": "Estadística con Minitab es un libro que permite aprender como utilizar el programa Minitab para los análisis estadísticos de datos enfocados a la mejora de calidad y optimización de procesos. Me parece un libro eminentemente práctico y lo recomiendo a todas las personas que quieren empezar a sacarles provecho a sus datos gracias a este Software.\n\nUtilizo este programa en todos los cursos 6 sigma (Green Belt, Black Belt, Champion) y de estadística ya que me parece muy adaptado a las necesidades de las empresas en aprender como funcionan sus procesos y en resolver problemas basando sus decisiones en datos.\n\nEn primer lugar explica el funcionamiento básico de Minitab y como obtener la estadística descriptiva de los datos (media, mediana, rango, desviación estándar, percentiles,…) y realizar unas representaciones gráficas muy útiles tales como:\n\nGráfico cronológico para entender la evolución de los datos en el tiempo (tendencias, ciclos, variabilidad…)\nHistogramas para apreciar la forma y la dispersión de los datos\nDiagrama de probabilidad (recta de Henry) para comprobar si unos datos se ajustan a una distribución normal (campana de Gauss)\nBox-plot o diagrama de caja y bigotes\nDiagramas de correlación para ver la relación entre dos variables continuas,…\nPero por otra parte, también explica, con numerosos ejemplos, como utilizar el software Minitab para:\n\nEstudios de capacidad (índices Cp, Cpk)\nMSA – Validar los sistemas de medida (estudios R&R)\nEl análisis de regresión\nLos diseños de experimentos (DOE)\nControl estadístico de proceso (SPC)",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica-con-minitab-aplicaciones-para-el-control-y-la-mejora-de-la-calidad.jpg"
+  },
+  {
+    "id": "libro-1766951069490-1499c9f4a5141",
+    "titulo": "Colorful Statistics with Basic Steps in Minitab® 18",
+    "autor": "Usman Zafar Paracha",
+    "anio": 2018,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Estadistica",
+      "Minitab"
+    ],
+    "formato": "Físico",
+    "notas": "Un intento de hacer que la estadística sea colorida junto con las instrucciones básicas de Minitab® 18…\nIncluye:\n•Ilustraciones prácticas sobre una gran cantidad de temas estadísticos con hermosos colores\n•Rompecabezas para ayudar a recordar diferentes aspectos de ecuaciones y términos (y estadística)\n•Temas adicionales, como “Técnicas/procedimientos estadísticos importantes utilizados en ciencias médicas”, “Distribuciones no normales más utilizadas en salud, educación y ciencias sociales”, “Árbol de decisión para pruebas estadísticas” y otros temas.",
+    "comentarios": "Usman Zafar Paracha nació en Pakistán en 1983. Su padre, Muhammad Zafar Paracha, es ingeniero. Su esposa, Amara Usman Paracha, suele asistirlo en sus investigaciones y la redacción de informes.\n\nUsman lleva más de tres años impartiendo docencia en el Departamento de Farmacia de la Universidad Hajvery de Lahore, Pakistán. Es autor de un blog científico, http://SayPeople.com. También es uno de los autores de uno de los artículos más consultados, titulado \"Estrés oxidativo y virus de la hepatitis C\", en la Revista de Virología.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/colorful-statistics-with-basic-steps-in-minitab-18.jpg"
+  },
+  {
+    "id": "libro-1766950867857-2310d3ad48b6e8",
+    "titulo": "Probabilidad y estadística aplicadas a la ingeniería",
+    "autor": "Douglas C. Montgomery, George C. Runger",
+    "anio": 2002,
+    "isbn": "9789681859152",
+    "editorial": "Editorial Limusa S.A. De C.V.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Probabilidad",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "En el mejoramiento de la calidad, los ingenieros juegan un papel decisivo, pues es a ellos a quién corresponde el diseño y desarrollo de nuevos productos y nuevos sistemas y procesos de fabricación, así como el perfeccionamiento de los procesos existentes. Los recursos estadísticos son una herramienta indispensable en estas actividades, porque proporcionan métodos descriptivos y analíticos para ab…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=B2fkPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766950669736-6b831761011f4",
+    "titulo": "Estadística",
+    "autor": "Murray R. Spiegel",
+    "anio": 1991,
+    "isbn": "9788476155622",
+    "editorial": "McGraw-Hill",
+    "coleccion": "Shaum",
+    "vol": "",
+    "categorias": [
+      "Estadísticas"
+    ],
+    "formato": "Físico",
+    "notas": "El propósito de esta obra es presentar una introducción a los principios generales de la estadística, que será útil a\ntodos los individuos sin importar su campo de especialización. Se diseñó para usarse ya sea como consulta para todos\nlos textos estándar modernos o como un libro para un curso formal de estadística. Será también de gran valor como\nreferencia para todos aquellos que estén aplicando la estadística en su campo de investigación particular",
+    "comentarios": "MURRAY R. SPIEGEL† obtuvo su maestría en física y su doctorado en matemáticas, ambos en Cornell University.\nTrabajó en Harvard University, Columbia University, Oak Ridge and Rensselaer Polytecnic Institute; además fue\nasesor en matemáticas para diversas compañías. Su último cargo fue como profesor y presidente de matemáticas en el\nHartford Graduate Center del Rensselaer Polytecnic Institute. Su interés por las matemáticas lo acompañó durante toda\nsu trayectoria, en especial en la rama que comprende la aplicación de la física y los problemas de ingeniería. Fue autor\nde numerosos artículos periodísticos y de más de una docena de libros sobre temas matemáticos.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica.jpg"
+  },
+  {
+    "id": "libro-1766950393766-f653ff27c19628",
+    "titulo": "Statistical Models in Engineering",
+    "autor": "Gerald J. Hahn,  Samuel S. Shapiro",
+    "anio": 1968,
+    "isbn": "978-0471040651",
+    "editorial": "John Wiley",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Estadísticas",
+      "Modelos"
+    ],
+    "formato": "Físico",
+    "notas": "Un tratamiento detallado del uso de modelos estadísticos que representan fenómenos físicos. Considera la relevancia de los modelos de distribución normal más populares y la aplicabilidad de la distribución exponencial en problemas de confiabilidad. Introduce y analiza el uso de modelos alternativos como las distribuciones gamma, beta y Weibull. Abarca ampliamente el rendimiento del sistema y describe un método preciso conocido como transformación de variables. Aborda técnicas para evaluar la idoneidad de un modelo seleccionado, incluyendo procedimientos gráficos y analíticos. Contiene numerosos ejemplos ilustrativos, la mayoría adaptados de problemas reales.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/statistical-models-in-engineering.jpg"
+  },
+  {
+    "id": "libro-1766950000845-4d5ff79b0162a",
+    "titulo": "Tuberías industriales, diseño, selección, cálculo y accesorios",
+    "autor": "D.N.W. Kentish",
+    "anio": 1988,
+    "isbn": "9788431404734",
+    "editorial": "Urmo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Diseño",
+      "Tuberías",
+      "Industria"
+    ],
+    "formato": "Físico",
+    "notas": "Prefacio. - Diagramas de flujo y símbolos para tuberías. - Diseño y disposición de las tuberías de agua, vapor y aire comprimido. - Códigos y normas ingleses (British Standard). - Tubos: de acero, de fundición dúctil y termoplásticos. - Accesorios: de acero, para tubos de fundición y para tubos de termoplásticos. - Revestimiento de tuberías: de goma, plástico, plomo, vidrio, resinas epoxy y resina…",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/tuberias-industriales-diseno-seleccion-calculo-y-accesorios.jpg"
+  },
+  {
+    "id": "libro-1766949911375-7207302afd83a8",
+    "titulo": "Matemática discreta",
+    "autor": "Francesc Comellas Padró",
+    "anio": 2009,
+    "isbn": "9788483014561",
+    "editorial": "Univ. Politèc. de Catalunya",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas Discretas"
+    ],
+    "formato": "Físico",
+    "notas": "La matemática discreta es la parte de las matemáticas que trata de estructuras finitas y numerables. Esta nueva rama de la ciencia matemática ha recibido un impulso decisivo gracias a los recientes progresos de la informática y las técnicas de computación",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=F-OErJtSzeMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766949732814-984d6db812156",
+    "titulo": "Modern Heuristic Techniques for Combinatorial Problems",
+    "autor": "C. R. Reeves",
+    "anio": 1993,
+    "isbn": "0470220791",
+    "editorial": "John Wiley & Sons",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Metaheuristicas",
+      "Programación",
+      "Informática"
+    ],
+    "formato": "Físico",
+    "notas": "Experienced researchers describe the latest types of heuristic procedures. Artificial networks, simulated annealing, Tabu search, Lagrangean relaxation, genetic algorithms and evaluation of heuristics are among the subjects discussed.",
+    "comentarios": "Investigadores experimentados describen los últimos tipos de procedimientos heurísticos. Entre los temas tratados se encuentran las redes artificiales, el recocido simulado, la búsqueda tabú, la relajación lagrangiana, los algoritmos genéticos y la evaluación de heurísticas.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/modern-heuristic-techniques-for-combinatorial-problems.jpg"
+  },
+  {
+    "id": "libro-1766949458357-87ec073473bd88",
+    "titulo": "Discrete Optimization Algorithms, With Pascal Programs",
+    "autor": "Maciej M. Sysło, Narsingh Deo, Janusz S. Kowalik",
+    "anio": 1983,
+    "isbn": "0132155095",
+    "editorial": "Prentice Hall",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Pascal",
+      "Algoritmos",
+      "Matemática Discreta"
+    ],
+    "formato": "Físico",
+    "notas": "A pesar de su amplia gama de publicaciones, el consolidado campo de la optimización discreta presenta relativamente pocos libros con programas informáticos listos para usar. Este libro, dirigido a estudiantes de grado y posgrado de nivel superior, aborda esta necesidad. Además, ofrece una visión de la derivación y las características de rendimiento de los programas.\nLos temas incluyen programación lineal y entera, empaquetamiento y cubrimiento, optimización en redes, y coloración y planificación. Se presupone familiaridad con el diseño, análisis y uso de algoritmos informáticos, así como conocimientos de programación en Pascal. El libro puede utilizarse como texto de apoyo en cursos de optimización discreta o como manual de software, con veintiséis programas que ejecutan los algoritmos más comunes en cada área temática. Cada capítulo es independiente, lo que permite al lector navegar libremente.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=CvdQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766949304626-09b6adc9dcfb3",
+    "titulo": "Métodos Y Modelos De La Investigación De Operaciones",
+    "autor": "Arnold Kaufmann",
+    "anio": 1979,
+    "isbn": "",
+    "editorial": "Compañía Editorial Continental",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Optimización",
+      "Investigación de Operaciones"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro es una obra clásica y de carácter académico que aborda de manera rigurosa los fundamentos teóricos y metodológicos de la Investigación de Operaciones (IO). A diferencia de libros más orientados a la aplicación inmediata, Kaufmann da un énfasis especial al desarrollo conceptual y a la formalización matemática detrás de los modelos de optimización, convirtiéndolo en un texto de referencia para quienes buscan comprender la IO desde una base científica sólida.\n\nEl autor presenta los métodos fundamentales utilizados en la toma de decisiones óptimas dentro de sistemas complejos: programación lineal, teoría de juegos, modelos de transporte y asignación, análisis de redes, programación dinámica y modelos estocásticos, entre otros. La obra también destaca por la profundidad con la que expone la lógica que justifica cada técnica, permitiendo al lector no solo aprender a aplicar los modelos, sino comprender cuándo, por qué y bajo qué supuestos estos funcionan.\n\nSu estilo, aunque más denso que textos modernos, ofrece un recorrido estructurado que resulta ideal para estudiantes de posgrado, académicos o investigadores que buscan una base robusta y un marco conceptual amplio para el desarrollo o análisis de modelos de IO. También es un texto valioso para quienes desean explorar el vínculo entre matemáticas, teoría de decisiones y optimización en el ámbito industrial y de gestión.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/metodos-y-modelos-de-la-investigacion-de-operaciones.jpg"
+  },
+  {
+    "id": "libro-1766949146096-a267b0607d03b8",
+    "titulo": "Optimization in Operations Research",
+    "autor": "Ronald L. Rardin",
+    "anio": 1998,
+    "isbn": "0023984155",
+    "editorial": "Pearson",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Optimización",
+      "Investigación de Operaciones"
+    ],
+    "formato": "Físico",
+    "notas": "Covers a broad range of optimization techniques, including linear programming, network flows, integer/combinational optimization, and nonlinear programming. Emphasizes the importance of modeling and problem formulation, this text teaches students how to apply algorithms to real-world problems to arrive at optimal solutions.",
+    "comentarios": "Abarca una amplia gama de técnicas de optimización, incluyendo programación lineal, flujos de red, optimización entera/combinacional y programación no lineal. Enfatiza la importancia del modelado y la formulación de problemas, y enseña a los estudiantes a aplicar algoritmos a problemas reales para alcanzar soluciones óptimas.",
+    "portada": "https://books.google.com/books/content?id=9WVRAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766949082682-4f3f16b648bdf",
+    "titulo": "Applied Combinatorics",
+    "autor": "Roberts, Fred S",
+    "anio": 1984,
+    "isbn": "",
+    "editorial": "Pearson College Div",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Combinatoria",
+      "Matemáticas Discretas"
+    ],
+    "formato": "Físico",
+    "notas": "El objetivo original de este libro era introducir al lector en las herramientas de la combinatoria desde una perspectiva aplicada. Esta tercera edición de Combinatoria Aplicada ha sido sustancialmente reescrita. Incluye numerosos ejercicios nuevos. Además, las referencias bibliográficas se han actualizado, tanto con nuevas ediciones de obras ya citadas como con referencias a libros y artículos publicados recientemente. Dado que la primera edición apareció décadas antes, el lenguaje de la exposición se ha actualizado y es más contemporáneo. El libro sigue basándose en la filosofía de los autores: la mejor manera de aprender matemáticas es mediante la resolución de problemas. La combinatoria puede ser un mecanismo excelente para introducir a los estudiantes en las demostraciones. Los autores tratan las demostraciones de forma bastante informal, mientras que muchas de las demostraciones más complejas del libro son opcionales. En esta nueva edición, se incluyen numerosos ejemplos y ejercicios nuevos, así como una actualización general de la exposición para un lenguaje más contemporáneo. El libro se divide en cuatro partes. La primera parte presenta las herramientas básicas de la combinatoria y sus aplicaciones. Las tres partes restantes se organizan en torno a los tres problemas básicos de la combinatoria: el problema de conteo, el problema de existencia y el problema de optimización. La Parte IV finaliza con una discusión de los problemas de optimización para grafos y redes. Secciones completas se centran en aplicaciones como funciones de conmutación, el uso de enzimas para descubrir cadenas de ARN desconocidas, problemas de búsqueda y ordenación en la recuperación de información, la construcción de códigos de corrección de errores, el conteo de compuestos químicos, el cálculo de la potencia en situaciones de votación y el uso de los números de Fibonacci. Hay secciones completas sobre aplicaciones de recurrencias que involucran convoluciones, aplicaciones de cadenas eulerianas y aplicaciones de funciones generadoras. La mayor parte del libro está escrito para un primer curso sobre el tema a nivel de licenciatura. Con un ritmo acelerado, ofrece material más que suficiente para un curso de posgrado exigente. Este libro apareció por primera vez cuando los cursos sobre combinatoria eran escasos. Es uno de los clásicos que, gracias a su uso, ayudó a establecer un curso viable en muchos departamentos de matemáticas de todo el mundo. Sigue siendo una herramienta útil tanto para instructores como para estudiantes.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/applied-combinatorics.jpg"
+  },
+  {
+    "id": "libro-1766948973239-91601c9f16c16",
+    "titulo": "Applied Combinatorics",
+    "autor": "Roberts, Fred S",
+    "anio": 1984,
+    "isbn": "",
+    "editorial": "Pearson College Div",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Combinatoria",
+      "Matemáticas Discretas"
+    ],
+    "formato": "Físico",
+    "notas": "El objetivo original de este libro era introducir al lector en las herramientas de la combinatoria desde una perspectiva aplicada. Esta tercera edición de Combinatoria Aplicada ha sido sustancialmente reescrita. Incluye numerosos ejercicios nuevos. Además, las referencias bibliográficas se han actualizado, tanto con nuevas ediciones de obras ya citadas como con referencias a libros y artículos publicados recientemente. Dado que la primera edición apareció décadas antes, el lenguaje de la exposición se ha actualizado y es más contemporáneo.\n\nEl libro sigue basándose en la filosofía de los autores: la mejor manera de aprender matemáticas es mediante la resolución de problemas. La combinatoria puede ser un mecanismo excelente para introducir a los estudiantes en las demostraciones. Los autores tratan las demostraciones de forma bastante informal, mientras que muchas de las demostraciones más complejas del libro son opcionales.\n\nEn esta nueva edición, se incluyen numerosos ejemplos y ejercicios nuevos, así como una actualización general de la exposición para un lenguaje más contemporáneo.\n\nEl libro se divide en cuatro partes. La primera parte presenta las herramientas básicas de la combinatoria y sus aplicaciones. Las tres partes restantes se organizan en torno a los tres problemas básicos de la combinatoria: el problema de conteo, el problema de existencia y el problema de optimización. La Parte IV finaliza con una discusión de los problemas de optimización para grafos y redes.\n\nSecciones completas se centran en aplicaciones como funciones de conmutación, el uso de enzimas para descubrir cadenas de ARN desconocidas, problemas de búsqueda y ordenación en la recuperación de información, la construcción de códigos de corrección de errores, el conteo de compuestos químicos, el cálculo de la potencia en situaciones de votación y el uso de los números de Fibonacci. Hay secciones completas sobre aplicaciones de recurrencias que involucran convoluciones, aplicaciones de cadenas eulerianas y aplicaciones de funciones generadoras.\n\nLa mayor parte del libro está escrito para un primer curso sobre el tema a nivel de licenciatura. Con un ritmo acelerado, ofrece material más que suficiente para un curso de posgrado exigente. Este libro apareció por primera vez cuando los cursos sobre combinatoria eran escasos. Es uno de los clásicos que, gracias a su uso, ayudó a establecer un curso viable en muchos departamentos de matemáticas de todo el mundo. Sigue siendo una herramienta útil tanto para instructores como para estudiantes.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/applied-combinatorics.jpg"
+  },
+  {
+    "id": "libro-1766948514855-978730c77f5678",
+    "titulo": "Aprendizaje automático y profundo en Python,una mirada hacia la inteligencia artificial",
+    "autor": "Carlos M. Pineda Pertuz",
+    "anio": 2021,
+    "isbn": "9789587923162",
+    "editorial": "Edu",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Phyton",
+      "IA"
+    ],
+    "formato": "Físico",
+    "notas": "Es una herramienta de apoyo y de consulta para toda aquella persona interesada en dominar los fundamentos del aprendizaje automático y profundo, a tal punto que le permita aprender lo necesario para desarrollar sus propios modelos de aprendizaje aptos para realizar predicciones con base en los datos, para ello el autor hará uso en la mayoría de los casos de explicaciones teóricas y prácticas, que …",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aprendizaje-automatico-y-profundo-en-python-una-mirada-hacia-la-inteligencia-artificial.jpg"
+  },
+  {
+    "id": "libro-1766948452738-64357d980b1718",
+    "titulo": "Ciencia de Datos Python",
+    "autor": "Christopher Wilkinson",
+    "anio": 2020,
+    "isbn": "9781654192389",
+    "editorial": "Independently Published",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Ciencia de Datos",
+      "Phyton"
+    ],
+    "formato": "Físico",
+    "notas": "Una guía definitiva para que los principiantes aprendan los fundamentos de la ciencia de datos con Python",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=Mu4tzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766948211483-fbed77d1f9d58",
+    "titulo": "Investigación de Operaciones. Métodos y Problemas.",
+    "autor": "Maurice Sasieni, Arthur Yaspan, Lawrence Friedman.",
+    "anio": 1967,
+    "isbn": "1258819457",
+    "editorial": "Limusa",
+    "coleccion": "",
+    "vol": "1era ed.",
+    "categorias": [
+      "Investigación de Operaciones",
+      "Probabilidad",
+      "Inventario"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro es un clásico introductorio al campo de la Investigación Operativa (Operations Research), orientado a mostrar cómo las herramientas matemáticas y analíticas pueden aplicarse para tomar mejores decisiones dentro de organizaciones y sistemas complejos.\n\nSu enfoque es práctico y progresivo: comienza con modelos básicos de optimización, programación lineal, teoría de colas y asignación de recursos, para luego avanzar hacia metodologías más avanzadas como programación dinámica, modelos probabilísticos y métodos computacionales. A lo largo del texto, los autores incorporan casos, problemas resueltos y ejercicios que permiten al lector comprender no solo la teoría, sino también cómo esta se aplica en la industria, el transporte, la manufactura y la gestión estratégica.\n\nEl libro destaca por su lenguaje didáctico y accesible, ideal para estudiantes de ingeniería, administración, logística y ciencias económicas, así como para profesionales que buscan comprender los fundamentos matemáticos detrás de la toma de decisiones óptimas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/investigacion-de-operaciones-metodos-y-problemas.jpg"
+  },
+  {
+    "id": "libro-1766945593415-86ee71ff1941e8",
+    "titulo": "Reliability engineering and risk analysis, A practical guide",
+    "autor": "Mark P. Kaminskiy, Vasiliy Krivtsov, Mohammad Modarres",
+    "anio": null,
+    "isbn": "9781498745871",
+    "editorial": "CRC Press LLC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Tecnología",
+      "Ingeniería",
+      "Negocios",
+      "Economía",
+      "Confiabilidad",
+      "Riesgo"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro de texto de pregrado y posgrado proporciona una visión general práctica y completa de las técnicas de fiabilidad y análisis de riesgos. Escrito para estudiantes de ingeniería e ingenieros en ejercicio, el libro tiene un alcance multidisciplinario. Este libro de texto de pregrado y posgrado proporciona una visión práctica y completa de las técnicas de confiabilidad y análisis de riesgos. Escrito para estudiantes de ingeniería e ingenieros en ejercicio, el libro tiene un alcance multidisciplinario. La nueva edición tiene nuevos temas en la estimación clásica del intervalo de confianza; análisis de incertidumbre bayesiana; modelos para el enfoque de la física del fracaso para la estimación de la vida; discusiones extendidas sobre el proceso de renovación generalizado y el mantenimiento óptimo; y más modificaciones, actualizaciones y discusiones. El libro incluye ejemplos para aclarar temas técnicos y muchos ejercicios de fin de capítulo. Las diapositivas de PowerPoint y un manual de soluciones también están disponibles.",
+    "comentarios": "Ingeniería de confiabilidad en perspectiva. Matemáticas básicas de fiabilidad: revisión de probabilidad y estadística. Análisis de componentes. Análisis de confiabilidad del sistema. Fiabilidad y disponibilidad de componentes y sistemas reparables. Temas seleccionados en modelado de confiabilidad. Temas seleccionados en el análisis de datos de fiabilidad. Análisis de riesgos",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reliability-engineering-and-risk-analysis-a-practical-guide.jpg"
+  },
+  {
+    "id": "libro-1766945178206-d96d3690b41158",
+    "titulo": "Fundamentos de la teoría y del cálculo de fiabilidad de elementos y dispositivos de automatización y técnica del cálculo",
+    "autor": "Sotsov, Boris",
+    "anio": 1972,
+    "isbn": "",
+    "editorial": "MIR",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "Moscú, Editorial Mir, 1972, 262 pp. Encuadernación plena tela original de editor, lomo y plato con títulos y sobrecubiertas. Traducción del ruso por el Ing. A. Grdian. Extenso índice cuyos capítulos son: Características fundamentales de la fiabilidad y dependencias entre ellas. Fiabilidad de aparatos (equipo), fiabilidad de elementos respecto a la ausencia de fallos catastróficos. Fiabilidad de equipo, fiabilidad de los elementos con relación a la ausencia de fallos paramétricos. Física de los fallos. Fiabilidad de distintos tipos de elementos. Fiabilidad estructural. Métodos de cálculo de fiabilidad. Condiciones de explotación. Tipos de ensayos. Elección del número de artículos y duración de los ensayos. Determinación de la fiabilidad de los artículos según los resultados de explotación. Problemas económicos de la fiabilidad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fundamentos-de-la-teoria-y-del-calculo-de-fiabilidad-de-elementos-y-dispositivos-de-automatizacion-y-tecnica-del-calculo.jpg"
+  },
+  {
+    "id": "libro-1766944992901-8bf7c3e3b6491",
+    "titulo": "El Arte De Mantener",
+    "autor": "Rodrigo Pascual",
+    "anio": 2009,
+    "isbn": "",
+    "editorial": "Ed. Propia",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Gestión de Activos",
+      "Minería",
+      "Confiabilidad",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "IV. Gestión de repuestos y cadena de suministros\nV. Planificación y gestión estratégica\nVI. Análisis de Falla\nVIIAnexos",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-arte-de-mantener.jpg"
+  },
+  {
+    "id": "libro-1766944890273-00f0a2d7c6a69",
+    "titulo": "El Arte De Mantener",
+    "autor": "Rodrigo Pascual",
+    "anio": 2009,
+    "isbn": "",
+    "editorial": "Ed. Propia",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Gestión de Activos",
+      "Minería",
+      "Confiabilidad",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "I. Bases Generales\nII. Modelos de Confiabilidad\nIII.Modelos para apoyo a toma de decisiones",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-arte-de-mantener.jpg"
+  },
+  {
+    "id": "libro-1766944239781-7adc78a945735",
+    "titulo": "Confiabilidad Integral, un enfoque práctico, Aplicaciones Especiales",
+    "autor": "Medardo Yánez Medina",
+    "anio": 2013,
+    "isbn": "",
+    "editorial": "R2M",
+    "coleccion": "",
+    "vol": "3",
+    "categorias": [
+      "Confiabilidad",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "El presente tomo se centra en las denominadas Aplicaciones Especiales, las cuales constituyen la base práctica del enfoque teórico desarrollado en los Tomos I y II.\n\nEl Capítulo I pretende ofrecer una introducción a la Confiabilidad Integral, haciendo mención a los objetivos y beneficios de la misma, así como de sus disciplinas y metodologías.\n\nEl Capítulo II, así como el resto de los capítulos que se mencionan a continuación, busca impartir la marco regulatorio.\n\nSección 1. Aplicación de la Metodología para la Solución de Problemas Basada en Análisis Causa Raíz (ACR):\nPara el análisis de problemas, la metodología considera la elaboración de un Árbol de Fallas, para identificar las causas raíces del problema, el cual incluye conceptos que deben incorporarse en este tipo de análisis. Esta sección también presenta una fórmula matemática relacionada con la asignación de pesos para la elección de una solución óptima.\n\nSección 2. Análisis Cuantitativo de Riesgo en Proyectos de Perforación y Rehabilitación de Pozos:\nEsta sección presenta una guía para identificar las causas de fallas de los componentes, así como las consecuencias en el proyecto, también se caracteriza y cuantifica el riesgo mínimo que se requiere asumir dentro del entorno.\n\nSección 3. Metas de la Confiabilidad Integral:\nEsta parte estudia su sustento en un análisis de similitud visual y dinámica, permitiendo identificar las fortalezas de la técnica utilizada y su aplicación para la planificación de proyectos mediante el Valor Presente Neto (VPN), y en la concepción de la matemática necesaria para mitigar el riesgo dentro de la cadena de capacidad de los procesos.\n\nSección 4. Análisis en Instalaciones basado en Análisis CDM y Análisis del Costo del Ciclo de Vida:\nEste apartado desarrolla el modelo general para el análisis económico de instalaciones, apoyado en conocimientos de confiabilidad y economía para definir el Costo del Ciclo de Vida (CCV). También hace énfasis en el impacto económico que podría producir el cambio en el punto óptimo de mantenimiento, analizando posibles “flujos de caja” que pudieran ocurrir durante toda la vida del activo.\n\nSecciones 4, Análisis Económico del Ciclo de Vida de Activos (AECVA):\nEsta sección está destinada a una de las más importantes metodologías del enfoque de Confiabilidad Integral, conocida como Análisis Económico del Ciclo de Vida de Activos (AECVA).\nincluyendo todas las fases de la vida útil, desde el diseño, procura, construcción, operación, mantenimiento hasta su desincorporación al término de su vida o de los proyectos a futuro, a un valor económicamente compatible y considerando el valor de dinero en el tiempo, tal como el valor presente neto (VPN).\n\nEn esta sección se detalla y documenta un ejemplo de aplicación del AECVA en el Diseño de Planes de Explotación de Hidrocarburos.\n\nSección 5. Metodología Estocástica Integral para Evaluación de Proyectos Exploratorios, considerando incertidumbre de la información e interdependencia probabilística entre prospectos y diferentes objetivos geológicos – MEEIPE:\nEn esta sección se aborda una metodología integrada que utiliza variables estocásticas, curvas de incertidumbre, parámetros probabilísticos e integración de Prospectos Exploratorios para mitigar riesgos mediante el análisis de diferentes escenarios y priorización de proyectos, con el objetivo de lograr resultados aprobado-riesgo conforme por acciones específicas.\nLa sección presenta el método de integración de información probabilística en la toma de decisiones, con el propósito de una mejor valoración del riesgo y análisis costo-beneficio en Exploraciones.\n\nSección 6. Metodología de Optimización de Secuencia de Intervenciones a Pozos – MOSIP:\nEsta sección está orientada a analizar los aspectos conceptuales de la metodología propuesta, que tiene como objetivo fundamental mejorar la toma de decisiones de mantenimiento e intervención en la elaboración de programas operativos de pozos.\nPresenta una metodología sistemática que permite analizar la priorización de actividades de intervención en pozos, considerando para ello elementos como: identificación del pronóstico del pozo (costo de producción en el pozo, ciclo de vida del activo y su relación con la producción), análisis económico asociado (valor presente neto del pozo y del proyecto); mediante el análisis probabilístico de datos históricos, herramientas financieras y técnicas de optimización para identificar la intervención más adecuada que asegure continuidad operativa, mínimo costo probable, reducción del impacto económico negativo y mitigación de riesgo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/confiabilidad-integral-un-enfoque-practico-disciplinas.jpg"
+  },
+  {
+    "id": "libro-1766943926849-11cfbca1438448",
+    "titulo": "Confiabilidad Integral, un enfoque práctico, Metodologías",
+    "autor": "Medardo Yánez Medina",
+    "anio": 2013,
+    "isbn": "",
+    "editorial": "R2M",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Confiabilidad",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "CAPÍTULO I\n\nObjetivos de la Confiabilidad Integral®\n\nBeneficios y áreas de aplicación de la Confiabilidad Integral®\n\nDisciplinas y metodologías de la Confiabilidad Integral®\n3.1. Confiabilidad y Estadística Descriptiva\n3.2. Gerencia de la Incertidumbre\n3.3. Ingeniería de Confiabilidad\n3.4. Análisis de Riesgo\n3.5. Confiabilidad Humana\n3.7. Gerencia de Activos (GA)\n\nMetodologías\n\n3.2.1. Análisis de Criticidad\n3.2.2. Análisis de Confiabilidad, Disponibilidad, Mantenibilidad – CDM\n3.2.3. Mantenimiento Basado en Confiabilidad – MCC / Cuidado Integral de Activos\n3.2.4. Inspección Basada en Riesgo – IBR\n3.2.5. Optimización Costo Riesgo – OCR\n3.2.6. Análisis Causa Raíz – ACR\n3.2.7. Análisis Económico del Ciclo de Vida – AECV\n\nCiclo de Implantación de la Confiabilidad Integral®\n4.1. Diagnóstico\n4.1.2. Diagnóstico de la Confiabilidad Integral del Proceso de Producción\n4.2. Ordenamiento del Mantenimiento de Instalaciones\n4.3. Optimización del Mantenimiento de Instalaciones\n4.4. Optimización del Costo del Ciclo de Vida de Activos y Procesos\n4.5. Integración del Diseño y Optimización de Inversiones\n4.6. Optimización de los Modelos de Decisión (Facilidades – Procesos)\n4.7. Integración de los Modelos de Decisión\n4.8. Fases Complementarias del Ciclo de Confiabilidad Integral\n4.8.1. Concientización\n4.8.2. Entendimiento\n\nMarco Teórico de la Confiabilidad Integral®\n\nCAPÍTULO II. Análisis de Criticidad Integral de Activos\nSECCIÓN 1. Fundamentos del Análisis de Criticidad\n\nIntroducción\n\nConcepto de Análisis de Criticidad\n\nElementos fundamentales del análisis de Criticidad\n\nModelos de Criticidad\n4.1. Determinación del Índice de Criticidad de los Equipos Secundarios de un Equipment Group, en función del Nivel de Criticidad del Equipo Principal y de los Subsistemas Atributos Críticos\n4.2. Determinación del Índice de Criticidad de los Equipos Secundarios de un Equipment Group (API 581)\n4.3. Modelo General para elaborar un Análisis CDM\n4.4. Resultados de un Análisis CDM\n\nSECCIÓN 2. Confiabilidad Integral de Activos\n\nIntroducción\n\nArquitecturas y Evolución de las Metodologías para el Diseño de Planes de Mantenimiento\n\nComponentes y Conceptos Claves\n\nMetodologías para el Diseño de Planes Óptimos de Mantenimiento Basados en Confiabilidad y el Riesgo\nSECCIÓN 4. Metodologías para el Diseño de Planes Óptimos de Inspección y Mantenimiento Basados en el Riesgo\n\nIntroducción\n\nInspección Basada en Riesgo (IBR)\n2.1. Objetivo del IBR\n2.2. Enfoques para seleccionar el desarrollo de planes de Inspección y Mantenimiento\n2.3. Evaluación de Riesgos por IBR\n\nIntegración de los modelos del IBR\n3.1. Datos de entrada del IBR\n3.2. Datos de salida del IBR\n3.3. Factores asociados a la selección de técnicas de la mecánica de fractura que toman en cuenta la falla por fatiga\n3.4. Análisis Costo – Riesgo\n3.5. Análisis por Niveles\n\nPropuesta de Inspección por Sistemas: aplicación de la Metodología Compuesta\n\nSECCIÓN 5. Metodología para la Solución de Problemas Basada en Análisis Causa Raíz (ACR)\n\nIntroducción\n\nHerramientas para realizar un Análisis Causa Raíz\n2.1. Modelos asociados al Análisis Causa Raíz\n\nProcedimiento general según Pezet Porchetaluz para la causa de un problema analizado mediante un ACR\n3.1. Alcance del ACR\n3.2. Preparación\n3.3. Organización\n3.1.1. Procedimiento para Asignación de Pesos\n3.1.2. Árbol de Fallas\n\nSECCIÓN 6. Análisis Costo – Riesgo – Beneficio\n\nIntroducción\n\nProcedimiento\n2.1. Factores de Evaluaciones Financieras\n2.2. Pasos de la Evaluación Financiera\n2.3. Elementos de la Hoja de Proyecto\n2.4. Tasas de Descuento\n2.5. Costo del Capital (WACC)\n2.6. Modelo para el Costo de Capital (CAPM)\n2.7. Otros modelos financieros\n2.8. Valor Presente Neto (VPN)\n2.9. Tasas Internas de Rentabilidad\n2.10. Modelos para el Valor Anual\n2.11. Modelos para el Valor Presente Probabilístico (VPP)\n2.12. Modelos para el Valor Anual Probabilístico (VAE)\n2.13. Modelo para cuantificar análisis de riesgo\n2.14. Modelos Integrados\n2.15. Modelo de Optimización Costo – Riesgo para la Optimización de Frecuencias de Mantenimiento o Reemplazo\n\nSECCIÓN 7. Análisis Económico del Ciclo de Vida de Activos (AECVA)\n\nIntroducción\n\nGeneralidades para el Análisis Económico del Ciclo de Vida de Activos\n\nModelo General para la Evaluación Económica del Ciclo de Vida de Activos\n\nEjemplo de Aplicación AECVA",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/confiabilidad-integral-un-enfoque-practico-disciplinas.jpg"
+  },
+  {
+    "id": "libro-1766943016742-af6ce0deb55678",
+    "titulo": "Confiabilidad Integral, un enfoque práctico. Disciplinas",
+    "autor": "Medardo Yánez Medina",
+    "anio": 2013,
+    "isbn": "",
+    "editorial": "R2M",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Confiabilidad",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "**CAPÍTULO I**\n\n1. Objetivos de la Confiabilidad Integral ®\n   3.1. Beneficios y áreas de aplicación de la Confiabilidad Integral ®\n   3.1. Disciplinas y metodologías de la Confiabilidad Integral ®\n   3.1.1. Confiabilidad y Estadística Descriptiva\n   3.1.2. Gerencia de la Incertidumbre\n   3.1.3. Ingeniería de Confiabilidad\n   3.1.4. Análisis de Riesgo\n   3.1.5. Confiabilidad Humana\n   3.1.7. Gerencia de Activos (GA)\n\n**Metodologías:**\n3.2.1. Análisis de Criticidad\n3.2.2. Análisis de Confiabilidad, Disponibilidad, Mantenibilidad – CDM\n3.2.3. Mantenimiento Basado en Confiabilidad – MCC / Cuidado Integral de Activos\n3.2.4. Inspección Basada en Riesgo – IBR\n3.2.5. Optimización Costo Riesgo – OCR\n3.2.6. Análisis Causa Raíz – ACR\n3.2.7. Análisis Económico del Ciclo de Vida – AECV\n\n4. Ciclo de implantación de la Confiabilidad Integral ®\n   4.1. Diagnóstico\n   4.1.2. Diagnóstico de la Confiabilidad Integral del Proceso de Producción\n   4.2. Ordenamiento del Mantenimiento de Instalaciones\n   4.3. Optimización del Mantenimiento de Instalaciones\n   4.4. Optimización del Costo del Ciclo de Vida de Activos y Procesos\n   4.5. Integración del Diseño y Optimización de Inversiones\n   4.6. Optimización de los Modelos de Confiabilidad (Facilidades – Procesos)\n   4.7. Integración de los Modelos de Decisión\n   4.8. Fases Complementarias del Ciclo de Confiabilidad Integral\n   4.8.1. Concientización\n   4.8.2. Entendimiento\n\n5. Marco Teórico de la Confiabilidad Integral ®\n\n---\n\n**CAPÍTULO II**\n\n**SECCIÓN 1. Conceptos Básicos**\n\n1. Introducción\n\n2. Definiciones de Probabilidad\n   2.1. Concepto Frecuentista o Clásico\n   2.1.1. Concepto “Resultados Igualmente Probables”\n   2.2. Concepto Frecuentista Empírico de Probabilidad\n   2.3. Definición \"Subjetivista\" o \"Bayesiana\"\n\n3. Leyes y axiomas de probabilidad\n   3.1. Introducción\n   3.2. Definiciones de Dependencia Probabilística\n   3.3. Axiomas y Leyes de Probabilidad\n\n4. Teorema de la Probabilidad Total\n   4.1. Variable Random, Aleatoria o Distribuida\n   4.1.1. Variable Random Discreta\n   4.1.2. Variable Random Continua\n   4.2. Clasificación de Variables Random\n   4.3. Caracterización Probabilística de Variables Random\n\nSECCIÓN II. Gerencia de la Incertidumbre\n\n2.1. Introducción\n2.2. Incertidumbre y Riesgo\n2.3. Gerencia de la Incertidumbre\n2.4. Tipos de Incertidumbre\n2.5. Modelo de Incertidumbre\n2.6. Horizonte de Planeación\n2.7. Horizonte de Planeación e Incertidumbre de las Variables de Entrada\n2.8. Modelos de Incertidumbre\n2.9. Caracterización de la Incertidumbre\n\nSECCIÓN III. Ingeniería de Confiabilidad – Equipos\n\n3.1. Introducción\n3.2. Conceptos Generales\n3.3. Confiabilidad CD: Conceptos y modelos de tiempo para la falla o historial de fallas (Statistical Based Reliability)\n3.4. Modelos basados en Análisis Probabilístico\n3.5. Confiabilidad y Análisis del Ciclo de Vida\n3.6. Confiabilidad en Activos Reparables\n3.7. Disponibilidad\n3.8. Disponibilidad vs Confiabilidad\n3.9. Modelos Probabilísticos en Análisis de Confiabilidad de Activos Reparables\n3.9.1. Modelos de Parámetros para la Estimación de Predicción del Número de Fallas (N(t)) en un Periodo de Operación\n3.9.2. Sistemas Reparables\n3.9.3. Modelos basados en análisis probabilístico de deterioro o física de la falla (physics-based reliability analysis)\n3.10. Análisis Carga – Resistencia\n3.11. Análisis Carga – Resistencia en Simulación de Montecarlo\n3.12. Disponibilidad y disponibilidad de equipos basado en información genérica y opinión de expertos\n3.13. Disponibilidad intrínseca\n3.14. Redundancia\n3.15. El Teorema de Bayes\n3.16. Formulación Matemática del Teorema de Bayes en la Estimación de Confiabilidad y Disponibilidad de Equipos y Sistemas\n\nSECCIÓN I. Ingeniería de Confiabilidad – Sistemas\n\n4.1. Aspectos generales de confiabilidad a nivel de sistemas\n4.2. Modelos de Incremento de Confiabilidad (D&C)\n4.3. Análisis por Árboles de Fallas (AAF)\n4.3.1. Elementos de un Árbol de Fallas – Descripción y Simbología\n4.3.2. Probabilidades\n4.3.3. Generación del AAF\n4.3.4. Análisis del caso común de falla\n4.3.5. Análisis por Markov para Confiabilidad en Sistemas\n4.3.6. Modelo de Incremento de Confiabilidad\n4.4. Modelo Integrado para cuantificar análisis de confiabilidad a nivel de sistema\n\nSECCIÓN III. Análisis Probabilístico de Riesgo\n\n5.1. Riesgo\n5.2. Riesgo e Incertidumbre\n5.3. Riesgos en activos e instalaciones\n5.3.1. Definición de riesgo\n5.3.2. Función del riesgo\n5.4. Teorías Cuantitativas\n5.4.1. Técnicas Cuantitativas\n5.4.2. Técnicas Determinísticas\n5.5. Análisis de consecuencias\n5.5.1. Introducción\n5.5.2. Árbol de Falla para consecuencias\n5.5.3. Modelos conceptuales para estimación de consecuencias de una falla\n5.6. Modelos conceptuales para la estimación de consecuencias de “fugas” – norma API RP 581: second edition, October 2000\n5.7. Otros modelos de consecuencia\n5.8. Ejemplos de Análisis de Riesgo en forma cuantitativa\n5.9. Desarrollo estructurado del riesgo\n5.10. Definición de criterios de aceptabilidad o tolerancia al riesgo\n6.3. Definiciones de “Riesgo Aceptable”\n6.4. Clasificaciones del Riesgo\n6.5. Criterios de Aceptabilidad del Riesgo\n6.5.1. Cualidades de un Criterio de Aceptabilidad del Riesgo (CAR)\n6.5.2. Formatos para los Criterios de Tolerabilidad o Aceptabilidad del Riesgo",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/confiabilidad-integral-un-enfoque-practico-disciplinas.jpg"
+  },
+  {
+    "id": "libro-1766942479202-5333acdd96b77",
+    "titulo": "Ingeniería de confiabilidad y análisis probabilístico de riesgos",
+    "autor": "Medardo Yánez Medina",
+    "anio": 2004,
+    "isbn": "980121201169",
+    "editorial": "R2M",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Riesgo",
+      "Probabilidad",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "Durante los últimos quince años, el mundo ha experimentado cambios enormes y dramáticos. El proceso de globalización ha aumentado la competencia, forzando a las industrias a ajustarse cada vez más rápidamente, a nuevas y más complejas realidades. Debido a lo acelerado y complejo de este ambiente de negocios, para tener éxito las empresas se ven obligadas a invertir basadas en información incompleta, incierta o difusa, y a la vez deben producir con más bajo costo, con más alta calidad y con un mayor nivel de confiabilidad. Esto explica por qué las empresas más importantes del mundo están trabajando con mucho énfasis y a gran velocidad en la Ingeniería en Confiabilidad, Análisis de Riesgo y Gerencia de la Incertidumbre. Para poder subsistir, las empresas deben convertirse en “expertas tomadoras de riesgos”.\n\nEste libro está orientado a proveer a sus lectores los conocimientos y herramientas más avanzadas para acometer el reto previamente mencionado; es decir, “decidir cómoda y acertadamente en condiciones de incertidumbre”.\n\nEn este sentido, el texto ha sido diseñado para proporcionar a los profesores de las diferentes áreas, las herramientas para modelar, vincular y sopesar la influencia de la incertidumbre asociada a las variables y problemas técnicos de los procesos productivos con los parámetros financieros como valor presente neto (VPN) y tasas de retorno, con el objeto de determinar la toma de decisión más adecuada y de mayor factibilidad dentro del contexto en el cual se desenvuelven las organizaciones. De la misma forma los gerentes de las empresas podrán cumplir con los requerimientos técnicos y normativos y legales, asegurando un nivel adecuado de riesgos y rentabilidad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ingenieria-de-confiabilidad-y-analisis-probabilistico-de-riesgos.jpg"
+  },
+  {
+    "id": "libro-1766942128159-4903a8dadc6a1",
+    "titulo": "Robust Design Methodology for Reliability",
+    "autor": "Bo Bergman, Jacques de Mare, Thomas Svensson, Sara Loren",
+    "anio": 2009,
+    "isbn": "9780470713945",
+    "editorial": "Wiley",
+    "coleccion": "Exploring the Effects of Variation and Uncertainty",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "Basada en una profunda experiencia teórica y práctica en Ciencias de la Confiabilidad y la Calidad, la Metodología de Diseño Robusto para la Confiabilidad aborda de forma constructiva problemas prácticos de confiabilidad. Ofrece una teoría integral del diseño para la confiabilidad, utilizando la metodología de diseño robusto y los marcos Six Sigma. En particular, se explora la relación entre la falta de confiabilidad, la variación y la incertidumbre, y se sugieren medidas para mejorar la confiabilidad en las primeras etapas del desarrollo del producto.\nActualmente, muchas empresas utilizan el diseño para Six Sigma (DfSS) para la mejora estratégica del proceso de diseño, pero a menudo sin describir explícitamente la perspectiva de la confiabilidad. Este libro explica cómo el diseño de confiabilidad puede relacionarse y funcionar con DfSS, y lo ilustra con problemas del mundo real. Los autores abogan por el diseño para la robustez, es decir, la insensibilidad a la variación en las primeras etapas del desarrollo del diseño del producto. También se presentan métodos para el tratamiento racional de las incertidumbres en los supuestos del modelo.\n\nEste libro\n\npromueve un nuevo enfoque del pensamiento de confiabilidad que aborda el proceso de diseño y la propensión a fallas en la fase de diseño mediante la sensibilidad a la variación y la incertidumbre. Incluye contribuciones tanto de académicos como de profesionales de la industria con una amplia experiencia, incluyendo ciencias de la calidad, estadística matemática e ingeniería de confiabilidad;\nadopta un enfoque innovador que promueve el estudio de la variación y la incertidumbre como base para el trabajo en confiabilidad;\nincluye estudios de caso y ejemplos ilustrativos que traducen la teoría a la práctica.\nLa Metodología de Diseño Robusto para la Confiabilidad proporciona un punto de partida para nuevas ideas en el trabajo práctico de mejora de la confiabilidad, que resultará atractivo para diseñadores avanzados y especialistas en confiabilidad, tanto en el ámbito académico como en la industria, incluyendo ingenieros de fatiga, profesionales del desarrollo de productos y de procesos/calidad, especialmente para aquellos interesados ​​en el marco DfSS o que lo utilicen.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=b6jotwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766941859365-a364b4916752c8",
+    "titulo": "Fundamentos de la teoría de envejecimiento de la maquinaria",
+    "autor": "Selivanov, A.i.",
+    "anio": 1972,
+    "isbn": "",
+    "editorial": "MIR",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Reemplazo"
+    ],
+    "formato": "Físico",
+    "notas": "Contenidos:\nI. Sobre el contenido de la teoría de las máquinas.\nII. Análisis del estado de las máquinas en el período de su uso y envejecimiento.\nIII. Desgaste sumario de las máquinas.\nIV. Determinación de los plazos de servicio de las máquinas y de sus elementos constructivos y no constructivos.\nV. Soluciones particulares de algunos problemas técnicos económicos de las máquinas que envejecen.\nResumen: En este libro se ha realizado el análisis de la variación del estado general de las máquinas durante su período de empleo, se exponen las leyes de envejecimiento de las mismas y se elaboran los métodos de apreciación de su perfección constructiva y tecnológica según la resistencia de los elementos constructivos, estabilidad de las regulaciones y utilidad para la reparación. Se expone un análisis análogo para diferentes elementos de las máquinas, una parte de los cuales puedes ser fácil y sencillamente reestablecida y recambiada, mientras la otra parte requiere trabajos complejos y laboriosos en las condiciones de empleo de las máquinas para su restauración o recambio.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fundamentos-de-la-teoria-de-envejecimiento-de-la-maquinaria.jpg"
+  },
+  {
+    "id": "libro-1766941448244-05c1b58355ac38",
+    "titulo": "Sistemas Neumáticos: Principios y Mantenimiento",
+    "autor": "S. R. Majumdar",
+    "anio": 1997,
+    "isbn": "",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Neumática",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "En este libro el autor trata los temas de proyectos de los sistemas neumáticos en su totalidad, desde el nivel básico para que sea útil a un público más amplio, compuesto por los diseñadores de sistemas, fabricantes de componentes y los ingenieros de servicio. Los temas se tratan de una manera tan fácil que incluso el técnico de primera línea sería capaz de entender los principios rudimentarios del diseño de circuitos neumáticos y técnicas de mantenimiento. Los dispositivos neumáticos son utilizados en operaciones como el trabajo de sujeción, prensado y formación de componentes, la expulsión de las piezas de terminación, etc. La última incorporación a este interesante campo de la ingeniería es robótica y los dispositivos de pick-n-place.\nContenido:\nCapítulo 1: Sistema neumático y unidades fisicas.\nCapítulo 2: Necesidades basicas para el sistema neumático.\nCapítulo 3: Compresor de aire.\nCapítulo 4: Acondicionamiento del aire comprimido.\nCapítulo 5: Cilindros y motores neumáticos.\nCapítulo 6: Valvulas neumaticas.\nCapítulo 7: Circuitos neumaticos basicos.\nCapítulo 8: Hidroneumática.\nCapítulo 9: Fluídica y lógica fluídica.\nCapítulo 10: Automatización y principio de diseño de circuitos neumáticos.\nCapítulo 11: Controles eléctricos en los circuitos neumáticos.\nCapítulo 12: Mantenimiento del sistema neumático y mantenimiento en el mismo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/sistemas-neumaticos-principios-y-mantenimiento.jpg"
+  },
+  {
+    "id": "libro-1766941268659-d67360bdce1748",
+    "titulo": "Ingeniería de Mantenimiento y Fiabilidad aplicada a la Gestión de Activos",
+    "autor": "Carlos Parra, Adolfo Crespo",
+    "anio": 2012,
+    "isbn": "9788495499677",
+    "editorial": "INGECON",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Confiabilidad",
+      "Gestión de Activos"
+    ],
+    "formato": "Físico",
+    "notas": "La gestión de mantenimiento forma parte de la moderna dirección de operaciones y se orienta a la utilización óptima de unos medios y recursos, con la finalidad de conservar y/o restituir la función de los equipos de producción a unas condiciones que les permitan cumplir con los objetivos requeridos durante unos determinados periodos de tiempo. Como veremos a lo largo del presente libro, la gestión del mantenimiento utiliza hoy en día una serie de métodos y técnicas específicos para la resolución de problemas muy concretos, ligados por completo al proceso de toma de decisiones en mantenimiento. Estos métodos y técnicas intentan recoger y tratar convenientemente la complejidad del problema, ofrecer a los gestores de mantenimiento soluciones para priorizar y enfrentarse a los problemas, fórmulas para encontrar más fácilmente respuestas a los mismos.\n\nLos responsables de mantenimiento saben que no es fácil diseñar un modelo integral de mantenimiento dentro de un proceso de gestión de activos, tampoco hay reglas fijas o inmutables, aplicables a todos los activos de producción en los distintos sectores industriales y de servicios.\n\nEn términos específicos, el desarrollo del presente libro tiene como objetivos principales, describir y divulgar un proceso (curso de acciones y la serie de etapas o pasos para seguir) y un marco de referencia (la estructura de soporte esencial y el sistema básico) necesario para la implantación de un modelo de gestión del mantenimiento (MGM) propuesto por los autores del libro. En el desarrollo del mismo, se presentan un conjunto de métodos prácticos para mejorar la toma de decisiones en tareas de gestión de mantenimiento, los cuales son también clasificados según su utilización más conveniente dentro del MGM. El libro está estructurado por un total de doce capítulos en los cuales se describirán de forma detallada las distintas etapas del modelo integral de gestión del mantenimiento (MGM) propuesto. A continuación se hace un resumen breve del contenido de cada uno de los capítulos:",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=8xsnQ1aMg2gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766939289115-55c4e21630326",
+    "titulo": "Manual del Mantenimiento: Ingeniería, Gestión y Organización",
+    "autor": "Alejandro Pistarelli",
+    "anio": 2010,
+    "isbn": "9789870584209",
+    "editorial": "Ed. Propia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [],
+    "formato": "Físico",
+    "notas": "Hace aproximadamente unos veinte años asistí, casi por casualidad, a un seminario dictado en la provincia de Jujuy relacionado con la Gestión de Activos. Recuerdo que era un día muy caluroso de verano y mis expectativas no eran del todo buenas. Sin embargo, jamás habría pensado que el contenido de la propuesta despertaría en mí tanto interés por el Mantenimiento Industrial. A partir de aquel momento hubo un quiebre en mi carrera profesional y descubrí un mundo nuevo dentro de la Ingeniería que me atrapó profundamente. Todos estos años de estudio e investigación relacionados con la gestión de fallos, han derivado en este trabajo cuyo objetivo central es transformarse en una herramienta de consulta sobre los problemas habituales con que se enfrenta el Ingeniero de Mantenimiento.\n\nLa figura del Ingeniero de Mantenimiento naturalmente obliga a pensar en las funciones de una especialidad en constante crecimiento: Ingeniería de Mantenimiento. Los profesionales dedicados a esta rama de la tecnología, son cada vez mas reconocidos y deben ocupar un rol protagónico en la industria a través de la actualización y formación permanentes. El grado de formación que requiere un profesional de esta especialidad excede ampliamente las expectativas del pasado, cuando sólo era suficiente con ser un buen reparador de máquinas.\n\nEn la actualidad, los Ingenieros de Mantenimiento deben alcanzar la categoría de mantenedores. Éstos se dedican a “mantener” las funciones de los equipos dentro de un marco de conveniencia para el proceso productivo (negocio) del que forman parte; deben comprender la importancia de los factores productivos sobre la política de gestión de activos y no mirar a su profesión como una actividad aislada del resto. El mantenedor moderno, incluso, debe considerar el compromiso que tienen las organizaciones con la sociedad para que los procesos (de bienes o servicios) sean sustentables.\n\nEste libro tiene los siguientes capítulos:\n\nMantenimiento y Disponibilidad\nMantenimiento Preventivo\nMantenimiento Predictivo y Proactivo\nTécnicas de Mantenimiento Condicional\nMantenimiento Detectivo y riesgo Industrial\nAcciones Reactivas del Mantenimiento\nProcesos y Metodologías para mejorar el Mantenimiento\nAdministración y Programación del Mantenimiento\nGestión de Repuestos\nOrganización del Mantenimiento\nCostos del Mantenimiento\nMedición y Control del Mantenimiento",
+    "comentarios": "Alejandro J. Pistarelli es Ingeniero Aeronáutico por la Universidad Tecnológica Nacional (UTN – FRH). Se desempeña en el ámbito del Mantenimiento Industrial desde 1994, año en el que comienza a prestar servicios como Ingeniero de Mantenimiento en empresas nacionales e internacionales y llegando a ocupar puestos de liderazgo en los mismos ámbitos. Es Director en Estudio Pistarelli Alejandro J. & Asociados, empresa dedicada al Asesoramiento, Formación Profesional, Capacitación, Diagnóstico y Auditorias en Confiabilidad de Sistemas Productivos y Mantenimiento Industrial.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/manual-del-mantenimiento-ingenieria-gestion-y-organizacion.jpg"
+  },
+  {
+    "id": "libro-1766939142624-c7065147f1bb18",
+    "titulo": "Ingeniería de la confiabilidad: teoría y aplicación en proyectos de capital y en la operación de instalaciones industriales a través del enfoque R-MES",
+    "autor": "Adolfo Arata, Arata Alessio",
+    "anio": 2013,
+    "isbn": "9789562849678",
+    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Gestión de Activos"
+    ],
+    "formato": "Físico",
+    "notas": "En estas páginas se ha volcado de manera clara toda la experiencia internacional desarrollada durante muchos años, no solo producto de un trabajo académico y de investigación pura, sino también de lo realizado en diferentes empresas de relieve internacional. Este nuevo libro de Adolfo Arata posee todos los elementos necesarios para convertirse en un poderoso instrumento de formación, por lo que lo…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=9wnfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766938566993-d35f9683f5bb7",
+    "titulo": "Confiabilidad de los Sistemas Electronicos",
+    "autor": "Jose Luis Roca",
+    "anio": 2013,
+    "isbn": "9871871066",
+    "editorial": "Nueva Libreria",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Electrónica"
+    ],
+    "formato": "Físico",
+    "notas": "Las técnicas asociadas a la evaluación y análisis de la confiabilidad han sido desarrolladas tardíamente como una necesidad de las diversas disciplinas de la ingeniería. Las primeras industrias que se ocuparon del tema fueron sin duda: la militar, la nuclear y la espacial. Sin embargo no sólo en estos ámbitos se ha llevado a cabo esta pequeña gran revolución en aumento de las cifras de vida útil de los productos electrónicos, sino que se ha extendido a toda la industria quien debió acomodarse a nuevos requerimientos: productos complejos y aseguramiento de confiabilidad suficiente, con adecuados costos de producción y control.\n\nEn este libro se pretende tratar el tema con rigurosidad abarcando el análisis y la evaluación detallada de sistemas electrónicos, en donde los componentes de hardware como los de software cobran, sin igual, similar importancia.\n\nEstá dirigido a profesionales y estudiantes. En esta edición, como corolario, y a título de síntesis en lo que respecta a confiabilidad de sistemas electrónicos, se ha desarrollado un capítulo que trata la distribución de la confiabilidad de un sistema entre sus partes integrantes.",
+    "comentarios": "Reliability Engineer for the Microelectronics Reliability Group at (CITEFA) the Army Research Institute. Belonged to the Board of Editors of Microelectronics & Reliability International Journal from 1995 to 1999. Referee for the Reliability Engineering & System Safety International Journal. He is author of books “La Confiabilidad de los Sistemas Electrónicos” & \"El Proyecto de Ingeniería, Los Tres Pilares del Éxito\", Edit. Nueva Librería SRL (2013/2017). Industrial Quality and Reliability consultant of (INTI) the National Institute of Industrial Technology. Author of several papers at various conferences in quality and reliability hardware and software areas, most of them have been published in international journals. Citations:84 Index h:5 according to Google Scholar.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/confiabilidad-de-los-sistemas-electronicos.jpg"
+  },
+  {
+    "id": "libro-1766939023020-99da853ecf0e68",
+    "titulo": "Ingeniería y gestión de la confiabilidad operacional en plantas industriales. Aplicación de la plataforma R-MES",
+    "autor": "Adolfo Arata",
+    "anio": 2009,
+    "isbn": "9789562846585",
+    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Gestión de Activos",
+      "Mantenimiento",
+      "Confiabilidad"
+    ],
+    "formato": "Físico",
+    "notas": "Una contribución para el desarrollo y la implementación da la Ingeniería de Confiabilidad, tanto como documento de consulta para los profesionales que se relacionan con esta actividad, sean mantenedores, ingenieros de proyecto o consultores, como también un texto de estudio para estudiantes de ingeniería en las especialidades de proyecto, gestión y mantenimiento de activos físicos.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=7wnfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766938274916-8cd04bbdecd178",
+    "titulo": "Manual de gestión de activos y mantenimiento",
+    "autor": "Adolfo Arata",
+    "anio": 2023,
+    "isbn": "9789562844338",
+    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Gestión de Activos",
+      "Confiabilidad"
+    ],
+    "formato": "Físico",
+    "notas": "La gestión de activos y su mantenimiento ha ido asumiendo un rol significativo en la actividad industrial, generando uno de los cambios más importantes en el ámbito gerencial. Esta publicación reúne una veintena de estudios y análisis, en los cuales se resume la experiencia que poseen sus autores, basada en años de investigación y de colaboración con las empresas, constituyendo una ayuda indispensable para los profesionales que laboran en las diferentes áreas relacionadas con estas temáticas, así como también un texto fundamental para quienes se inician en esta importante actividad empresarial.",
+    "comentarios": "Adolfo Arata Andreani (Chiavari, Italia, 18 de abril de 1950) es un ingeniero, doctor en ingeniería (Phd), académico y empresario italiano nacionalizado chileno. Esta última nacionalidad le fue concedida por especial gracia.",
+    "portada": "https://books.google.com/books/content?id=HJPUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766938174240-cd2a68e45436b",
+    "titulo": "Reemplazo de camiones mineros",
+    "autor": "Victor Barrientos Boccardo",
+    "anio": 2022,
+    "isbn": "9789564169910",
+    "editorial": "Ed. Propia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Reemplazo",
+      "Minería"
+    ],
+    "formato": "Físico",
+    "notas": "En este libro se aborda uno de los proyectos de inversión más frecuentes en la industria minera: el reemplazo de camiones. En este contexto, surgen preguntas como \"¿Cuál es la vida útil del equipo?\", \"¿Qué tipo de camiones existen?\", \"¿Cuáles son las características de los camiones autónomos?\", \"¿Cuáles son los beneficios atribuibles a un camión minero?\" y, finalmente, \"¿Cómo evaluar este tipo de proyectos de inversión?\".\n\nDe forma práctica y con ejercicios resueltos, se espera que este libro sirva como una introducción básica a este tipo de estudios.\n\nEn el primer capítulo se abordan los distintos tipos de vida útil de los activos, los errores más comunes en las evaluaciones de proyectos, las áreas de optimización en los procesos de mantenimiento y una categorización de modelos de reemplazo de equipos. En este último punto, se explica cómo se categorizan las metodologías de evaluación de proyectos en los casos donde los ingresos son variables o fijos.\n\nEn el segundo capítulo se presentan las diferencias entre los camiones mineros mecánicos y eléctricos, el mercado de camiones en Chile, los costos operacionales, los servicios de mantenimiento, los precios de los equipos, las velocidades de transporte y sus productividades.\n\nEn el tercer capítulo se aborda el tema de los camiones mineros autónomos, incluyendo sus disponibilidades y costos, el comportamiento de su productividad por turno, los costos para su implementación y la proyección de crecimiento del parque de equipos.\n\nEn el cuarto capítulo se presenta una metodología para la estimación de los ingresos que puede generar a la compañía el uso de un camión minero. Aquí se integran aspectos financieros (tasa de descuento, precio de venta), de costos (neumáticos y cambios de componentes mayores) y operacionales (distancias y velocidades de transporte). La interrelación entre estas variables define el grado de complejidad de este tipo de evaluaciones de proyecto.\n\nEn el quinto y último capítulo se desarrolla, en detalle y de forma numérica, la metodología para la evaluación de proyectos de reemplazo de camiones mineros, definiendo los conceptos y diferencias entre el valor actual neto (VAN) y el valor actual de costos (VAC), así como el costo y valor anual equivalente (CAE y VAE).",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reemplazo-de-camiones-mineros.jpg"
+  },
+  {
+    "id": "libro-1766937947449-6d50cb95b06298",
+    "titulo": "Que la produccción no se detenga: Cuánto comprar en repuestos",
+    "autor": "Victor Barrientos Boccardo",
+    "anio": 2022,
+    "isbn": "9789564169903",
+    "editorial": "Ed. Propia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Producción"
+    ],
+    "formato": "Físico",
+    "notas": "Las definiciones de inversión en repuestos son elementos cruciales para soportar los procesos productivos. Es muy frecuente que las pérdidas por la falta de un repuesto superen con creces su valor comercial.\n\nLa demanda de repuestos en bodega, en general, presenta mucha variabilidad y depende fuertemente de las características de cada proceso productivo. Son muchos los factores influyentes en la demanda de repuestos. Algunos de ellos son: el clima y las condiciones de las pistas y caminos, las destrezas operacionales y los modos de operación de los conductores, la escasa disponibilidad del repuesto y sus tiempos de reparación, sus tasas de falla, las complejidades de sus reparaciones correctivas. Adicionalmente, se incluyen parámetros técnicos del proceso, tales como: la cantidad de repuestos en operación, los requerimientos de disponibilidad de producción, las horas de utilización del equipo, los costos de conservación de los inventarios y la tasa de descuento definida por la empresa.\n\nJunto con la gran cantidad de parámetros que afectan esta demanda, la dinámica de su funcionamiento enlaza variados conceptos de ingeniería, tales como: teoría de colas y cadenas de Markov, lo que hace necesario el uso, por ejemplo, de simulación de Monte Carlo para la obtención de aproximaciones a la solución.\n\nEn este libro, se aplican los conceptos de ingeniería y las dinámicas de funcionamiento para intentar responder algunas preguntas aparentemente sencillas, por ejemplo: ¿Cuántas unidades de motores diésel, alternadores principales, motores de tracción o suspensiones delanteras y traseras debo comprar y guardar en bodega para soportar la disponibilidad de una flota de 10, 20, 30, 40, 50 o más equipos? ¿Cuál es el pool de componentes óptimo? ¿Cuál es el impacto de las economías de escala al invertir en componentes de alto valor? En el contenido, se presentan casos aplicados a distintos repuestos, a diversos tamaños de flota, sus costos de falta y tiempos de reparaciones en talleres externos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/que-la-producccion-no-se-detenga-cuanto-comprar-en-repuestos.jpg"
+  },
+  {
+    "id": "libro-1766937742544-4678621fabc4f",
+    "titulo": "Reemplazo de Componentes",
+    "autor": "Victor Barrientos Boccardo",
+    "anio": 2023,
+    "isbn": "979-8850305550",
+    "editorial": "Ed. Propia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Industria",
+      "Minería",
+      "Reemplazo"
+    ],
+    "formato": "Físico",
+    "notas": "En este libro se aborda una de las tareas clave en los procesos de mantenimiento: la determinación de la frecuencia óptima de reemplazo de componentes de un activo físico.\n\nEn este contexto, surgen algunas preguntas: ¿Qué componentes deben ser reemplazados? ¿De forma preventiva o correctiva? ¿Cuál será la opción para la restauración del componente: nuevo, reparado o remanufacturado? Y, por último, ¿queremos minimizar los costos o maximizar la disponibilidad?\n\nCon una aproximación práctica y mediante ejercicios concretos, este libro pretende servir como una introducción básica a este tipo de estudios.",
+    "comentarios": "Víctor Barrientos Boccardo, es Magister en Ingeniería Industrial de la U. Católica de Valparaíso, Magister en Gestión de Activos y Mantenimiento de la U. Santa María e Ingeniero Civil Mecánico de la U. de Chile y Experto en prevención de riesgos para la industria extractiva minera (Sernageomin), cuenta con una amplia experiencia en el mantenimiento de flotas de equipos mineros y es autor del libro “Mantenimiento de Equipos en Minas a Cielo Abierto” publicado por la editorial RIL.\n\nEn el ejercicio de la profesión ha implementado áreas de mantenimiento en proyectos mineros nuevos, gestionado contratos MARC y LPP para equipos Caterpillar y Komatsu, elaborado presupuestos de gastos para variadas operaciones mineras, dirigido áreas de planificación de mantenimiento y gestión de reparaciones de componentes, además de desempeñarse como líder de proyectos de innovación para la reducción de gastos en flotas de equipos mina.\n\nHa adquirido experiencia por más de dieciocho años dedicados al mantenimiento de flotas de equipos en minas a cielo abierto para la extracción de minerales de Cobre, Hierro y no metálicos.\n\nDesde el año 2008 a la fecha, he presentado sus estudios técnicos en más de catorce oportunidades en conferencias profesionales y han sido publicados en más de diez revistas especializadas de temas de minería y mantenimiento.\n\nMás información la puedes encontrar en su perfil profesional online: https://mantenimientominero.cl",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/reemplazo-de-componentes.jpg"
+  },
+  {
+    "id": "libro-1766937425048-c3aabfdac513c8",
+    "titulo": "Planificación, Programación y Costos del Mantenimiento",
+    "autor": "José Contreras Márquez",
+    "anio": 2021,
+    "isbn": "9789878809137",
+    "editorial": "Ed. Propia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Planificación"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro se dedica exclusivamente a la gestión táctica y operacional del mantenimiento, con especial énfasis a la planificación operacional en un departamento de mantenimiento.\nEstá estructurado por 14 capítulos, comenzando por la visión general sobre la gestión del mantenimiento, con el principal objetivo de reconocer el lugar y la importancia de los procesos de planificación y programación del trabajo dentro de un modelo general de gestión.\nEn esta obra, estos temas son tratados con profundidad y con el suficiente detalle para que los profesionales dedicados al mantenimiento dentro de sus organizaciones puedan adquirir los conocimientos necesarios que, de forma ordenada y sistemática, les permitirá un alto nivel de desempeño en el cumplimiento de sus funciones.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/planificacion-programacion-y-costos-del-mantenimiento.jpg"
+  },
+  {
+    "id": "libro-1766937185568-d9c9dc9d99c1a",
+    "titulo": "Gestión y Optimización de Inventarios para el Mantenimiento",
+    "autor": "José Contreras Márquez",
+    "anio": 2019,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Inventarios",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "La problemática actual de necesitar una pieza de repuesto y no disponer de ella en la bodega se genera frustración, pérdida de negocio y altos costos a la organización; sin embargo, el tener exceso de inventario y piezas de repuesto incrementa costos  y disminuye el retorno de la inversión de la organización; encontrar ese equilibrio es algo que afecta a finanzas, operación y mantenimiento. En este libro, encontrarás recomendaciones prácticas y con fundamento para controlar, definir, optimizar y gestionar los inventarios de partes y repuestos de mantenimiento de la mejor manera.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gestion-y-optimizacion-de-inventarios-para-el-mantenimiento.jpg"
+  },
+  {
+    "id": "libro-1766936951188-d28a9759000b78",
+    "titulo": "Sistema de Medición del Desempeño en Mantenimiento Basados en los Indicadores de Gestión",
+    "autor": "José Contreras Márquez",
+    "anio": 2021,
+    "isbn": "9789878819006",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "3era ed.",
+    "categorias": [
+      "Mantenimiento",
+      "KPI",
+      "Gestión de Activos"
+    ],
+    "formato": "Físico",
+    "notas": "Un programa de mantenimiento debe ser efectivo y eficiente; para asegurarnos que esto está siendo efectuado requerimos medir el desempeño de las tareas y el resultado de ellas a través de indicadores de mantenimiento y gestión.\nUna descripción detallada de los objetivos de los indicadores de desempeño, la manera de seleccionarlos y la relevancia que tienen para la organización será lo que conseguirás en este libro basado en la experiencia y resultados prácticos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/sistema-de-medicion-del-desempeno-en-mantenimiento-basados-en-los-indicadores-de-gestion.jpg"
+  },
+  {
+    "id": "libro-1766936709202-3fb09ae32d53c",
+    "titulo": "Maintenance, Replacement, and Reliability, Theory and Applications, Second Edition",
+    "autor": "Andrew K.S. Jardine, Albert H.C. Tsang",
+    "anio": 2013,
+    "isbn": "9781466554856",
+    "editorial": "CRC Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Mantenimiento",
+      "Gestión de Activos"
+    ],
+    "formato": "Físico",
+    "notas": "Basado en los resultados de la investigación en gestión de activos físicos, Mantenimiento, Reemplazo y Confiabilidad: Teoría y Aplicaciones presenta a los estudiantes las herramientas para la toma de decisiones basadas en datos y cómo utilizarlas. El libro ofrece una sólida base teórica para estas herramientas, demostrando sus aplicaciones mediante diversos casos prácticos. Con una sólida base práctica, las aplicaciones abordadas se relacionan con áreas como el procesamiento de alimentos, el sector militar, la minería, el transporte, el acero y las industrias petroquímica y farmacéutica. Ideal para el aula, este texto incluye software complementario que puede descargarse del sitio web del CRC. Las versiones educativas descargables de los paquetes de software incluyen: OREST, SMS, EXAKT para optimización de CBM, PERDEC, Simulador de Taller, Optimizador de Tamaño de Tripulación y WiebullSoft. Este libro puede utilizarse como libro de texto para un curso de un semestre de último año de grado o posgrado sobre análisis de decisiones de mantenimiento. Incluye ejercicios con respuestas al final de cada capítulo, un amplio conjunto de diapositivas de PowerPoint que abarcan los distintos capítulos y apéndices, un manual de soluciones para los ejercicios del libro y un banco de más de 100 preguntas de examen. Los profesores que adopten el libro pueden obtener estos recursos en www.crcpress.com. Los autores abordan el tema con la idea de que el modelado matemático no es un deporte para espectadores. Su análisis de las teorías fundamentales para la formulación de modelos y la exploración de aplicaciones prácticas hacen que el libro sea informativo y práctico. Proporciona a los profesores las herramientas necesarias para enseñar fácilmente a sus estudiantes a transformar datos en información.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=6sgh7iIQxboC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
     "id": "libro-1766902122268-4b070e9e1b034",
     "titulo": "Mantenimiento de instalaciones eléctricas",
     "autor": "José Roldán",
@@ -8,14 +807,15 @@
     "editorial": "Creaciones Copyright",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Electricidad"
     ],
-    "formato": "Físico",
     "notas": "El mantenimiento de instalaciones es una de las principales tareas o funciones que realiza el electricista en un campo tan amplio como es el de las aplicaciones de la electricidad. El mantenimiento puede hacerse de formas y procedimientos muy diversos, atendiendo al tipo de máquina, instalación o proceso. Los métodos de mantenimiento más utilizados son: Mantenimiento correctivo. Mantenimiento preventivo. Mantenimiento predictivo. Mantenimiento selectivo. Mantenimiento productivo total (TPM). Otras formas de mantener la instalación en situación de servicio. La obra no se limita a estudiar el mantenimiento, sino que proporciona las bases sobre las que debe apoyarse un buen técnico de mantenimiento.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-instalaciones-electricas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-instalaciones-electricas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766901841519-ebeabd9a4cefe8",
@@ -26,14 +826,15 @@
     "editorial": "Trillas",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "Toda empresa, cualquiera que sea su ramo o magnitud, necesita contar con un equipo de mantenimiento profesional, el cual debe contar con especialistas en las áreas administrativa técnica, laboral y humana, personas leales con compromisos éticos y morales, que asuman retos y compromisos en forma entusiasta. El propósito de este libro es concientizar a los altos directivos en administración e ingeniería de mantenimiento para que coordinen sus esfuerzos de manera congruente con las necesidades de cada departamento, con miras a lograr el objetivo general del mantenimiento, que es mantener la funcionalidad, seguridad y apariencia de los equipos e instalaciones de una empresa, a costos razonables. Los administradores, técnicos y profesionales que se relacionan con las áreas de ingeniería, mantenimiento y afines, tienen aquí una guía completa que describe los aspectos principales del mantenimiento industrial, cuyos temas también son de interés para los estudiantes técnicos que planean dedicarse a esta actividad.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-industrial-manual-de-operacion-y-administracion.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-industrial-manual-de-operacion-y-administracion.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766901647758-d6e15595aad6c8",
@@ -44,14 +845,15 @@
     "editorial": "CreateSpace",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "El \"Mantener\" máquinas o sistemas de equipos einstalaciones es de vital importancia para, no solo, el buen funcionamiento de éstos, sino para la disminución de gastos en presupuestos empresariales; el cálculo previsible en gastos e inversiones de repuestos y accesorios; la producción constante y eficaz de unaempresa; y en muchos casos, evitar la contaminación del medio ambiente y la de los operado…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=z6rsjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=z6rsjgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766901590016-f02d8ca8875b38",
@@ -62,16 +864,17 @@
     "editorial": "Eae Editorial Academia Espanola",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Industria",
       "RCM",
       "Confiabilidad"
     ],
-    "formato": "Físico",
     "notas": "El Mantenimiento Industrial actual se presenta como un conjunto de Tecnicas y Organizacion para hacer que los \"equipos\" cumplan con la funciones para los cuales fueron disenados. La aplicacion de estas tecnicas y metodologias actuales como la del Mantenimiento Centrado en la Confiabilidad (MCC), traen como consecuencia la disminucion de las \"interrupciones (paradas inesperadas por fallas)\" que a s…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=cc13MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=cc13MAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766901457413-c6af98bf39706",
@@ -82,15 +885,16 @@
     "editorial": "Alfaomega",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Confiabilidad",
       "Ejecución"
     ],
-    "formato": "Físico",
     "notas": "Compendia los cuatro niveles: estratégico, táctico instrumental y operacional del mantenimiento, con un enfoque sistémico que permite planear, ejecutar, coordinar y controlar de una manera muy efectiva todas las actividades, tareas y acciones propias de mantenimiento para el mejoramiento de la producción. VENTAJAS COMPETITIVAS: Incluye herramientas interactivas en la Web, ejemplos empresariales y conceptos pertinentes para el manejo integral, específico y eficaz. Incluye descargas de Software especializado desde su página Web CONOZCA La evolución del mantenimiento, los enfoques recientes de mantenimiento y de producción. Los criterios y parámetros que se deben tener en cuenta a la hora de implementar la gestión y la operación del mantenimiento en el ámbito empresarial. APRENDA Las diferentes metodologías, las explicaciones, los fundamentos, cálculos y criterios necesarios para realizar el CMD. A caracterizar y monitorear el comportamiento para establecer estrategias, tácticas y tareas óptimas del mantenimiento y de producción. A manejar la metodología aplicada del PMO (Planned Maintenance Optimization). REALICE Aplicaciones reales e integrales de una predicción de Confiabilidad, mantenibilidad, y disponibilidad (CMD), bajo la metodología puntual, de distribuciones y con series temporales. La integración de todas las áreas sistémicas de mantenimiento. La elaboración de una estrategia con sus respectivas actividades para realizar una gestión y operación efectivas del mantenimiento, mediante la utilización de las mejores prácticas internacionales, adaptándolas a las propias. El logro de alta confiabilidad en los sistemas productivos con altos índices de eficacia, eficiencia y efectividad en el mantenimiento, asegurando la disponibilidad de los equipos al más bajo nivel de inversión, con la máxima rentabilidad. La eliminación de tareas inapropiadas en el mantenimiento, predicción y control de las fallas, optimizando los recursos humanos y físicos de la empresa. AREA Ingeniería- industrial NIVEL Recomendado para el nivel intermedio y avanzado.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-planeacion-ejecucion-y-control.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-planeacion-ejecucion-y-control.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766901291763-69437751c96898",
@@ -101,14 +905,15 @@
     "editorial": "FC Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "Hoy día está claro que el Mantenimiento es ante todo una \"estrategia\" en la empresa. Esta estrategia se ha de integrar en la \"nueva cultura de la empresa\" y pasa por el diseño - construcción - implantación - puesta en servicio y explotación de los sistemas productivos y tiene como fin llegar al objetivo deseado en cualquier industria avanzada: disponer de los equipos productivos siempre que se necesiten, implantando en la empresa los grupos de mejora y fiabilidad. El Mantenimiento Industrial moderno se presenta así como un conjunto de Técnicas y Organización para \"cuidar la tecnología\" de los sistemas de producción a lo largo de su ciclo de vida, llegando a utilizarlos con la máxima disponibilidad y al menor coste, garantizando, además, una asistencia técnica eficaz a través de una buena formación y gestión de competencias en el uso y mantenimiento de dichos sistemas. En este libro se propone una metodología de trabajo y una búsqueda de un nuevo \"comportamiento\" en las organizaciones para desarrollar la \"cultura de prevención\" y optimizarla de manera permanente dentro de una estrategia de mejora continua en los costes y actividades del Mantenimiento y de los Técnicos de las diferentes funciones implicadas con el Sistema de Producción. Se va a ver así al Mantenimiento como una herramienta de reducción de costes para dar satisfacción al cliente directo, encontrando estrategias de competitividad y buscando vías de mejora de la productividad y calidad, evitando todo tipo de disfuncionamiento en la empresa y reduciendo todo tipo de coste que no aporte valor añadido al cliente. Así mismo, las organizaciones han ido evolucionando en los últimos años, integrando en la fabricación ciertos niveles de intervención en las tareas de Mantenimiento, por lo que hemos de identificar éstas dentro de los planes de Mantenimiento Preventivo, sensibilizando y preparando a la organización para asumir la tarea de la prevención con rigor.PREÁMBULO.INTRODUCCIÓN.CAPÍTULO I: Conceptos Generales.CAPÍTULO II: Nuevas Organizaciones del Mantenimiento y la Producción.CAPÍTULO III: Planificación del Mantenimiento correctivo por averías.CAPÍTULO IV: Planificación del Mantenimiento Preventivo.Anexo I: Ejemplo de Plan de Mantenimiento Preventivo sobre una máquina especial de mecanizado de bloques de motor.Anexo II: Ejemplo de Aplicación del Correcto Automantenimiento sobre una máquina talladora.CAPÍTULO V: Ingeniería del Mantenimiento (Primera Parte).CAPÍTULO VI: Ingeniería del Mantenimiento (Segunda Parte).CAPÍTULO VII: Mantenimiento de la Calidad por gran Reparación o Reconversión de un equipo de producción.CAPÍTULO VIII: El Mantenimiento y la Informática.CAPÍTULO IX: Gestión de Piezas de Recambio y Documentación Técnica.CAPÍTULO X: Los Costes de Mantenimiento y su Control.CAPÍTULO XI: El TPM (Mantenimiento Productivo Total) como Herramienta Práctica en un Proyecto de Mantenimiento Industrial Hacia la Excelencia.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=zyYz3HkcdXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=zyYz3HkcdXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766901145132-8ec0eff37b64f",
@@ -119,14 +924,15 @@
     "editorial": "Ic Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Automatización"
     ],
-    "formato": "Físico",
     "notas": "OBJETIVOS\n\n- Analizar los sistemas de automatización industrial, identificando las partes que las componen y las características más relevantes del mantenimiento, a partir de la documentación técnica.\n- Aplicar técnicas de mantenimiento predictivo y preventivo en los sistemas de automatización industrial actuando bajo normas de seguridad personal y de los materiales utilizados.\n- Generar planos, esquemas y documentación para facilitar las labores de mantenimiento de los sistemas de control.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-preventivo-de-sistemas-de-automatizacion-industrial-uf2237.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-preventivo-de-sistemas-de-automatizacion-industrial-uf2237.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766900954564-65722c4bebc87",
@@ -137,15 +943,16 @@
     "editorial": "Ic Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Fotovoltaicas",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "Objetivos - Analizar el funcionamiento general de las instalaciones solares fotovoltaicas para desarrollar el plan de mantenimiento. - Analizar las medidas de prevención, seguridad y protección ambiental respecto al mantenimiento de instalaciones solares fotovoltaicas contenidas en los planes de seguridad de las empresas del sector. - Realizar operaciones de mantenimiento preventivo de instalaciones solares fotovoltaicas siguiendo los procedimientos y especificaciones del plan de mantenimiento de la instalación. - Realizar operaciones de mantenimiento correctivo de las instalaciones solares fotovoltaicas según los procedimientos establecidos para devolverlas a su estado de funcionamiento dentro de los parámetros establecidos. Contenidos Prevención de riesgos profesionales y seguridad en el mantenimiento de instalaciones solares fotovoltaicas Introducción. Planes de seguridad en el mantenimiento de instalaciones fotovoltaicas. Prevención de riesgos profesionales en el ámbito del mantenimiento de instalaciones térmicas. Medios y equipos de seguridad. Prevención y protección medioambiental. Emergencias. Señalización de seguridad. Normativa de aplicación. Resumen. Mantenimiento preventivo de instalaciones solares fotovoltaicas Introducción. Consideraciones previas. Ventajas e inconvenientes del mantenimiento preventivo. Métodos y técnicas usadas en la localización de averías en instalaciones aisladas y conectadas a red. Procedimientos y operaciones para la toma de medidas. Comprobación y ajuste de los parámetros a los valores de consigna (radiaciones, temperaturas, parámetros de magnitudes eléctricas, etc.). Programas de mantenimiento de instalaciones fotovoltaicas. Averías críticas más comunes. Normativa de aplicación en el mantenimiento de instalaciones fotovoltaicas. Programa de mantenimiento preventivo. Programa de gestión energética. Evaluación de rendimientos. Operaciones mecánicas en el mantenimiento de instalaciones. Operaciones eléctricas de mantenimiento de circuitos eléctricos. Equipos y herramientas usuales. Procedimientos de limpieza de captadores, acumuladores y demás elementos de las instalaciones. Resumen. Mantenimiento correctivo de instalaciones solares fotovoltaicas Introducción. Consideraciones previas. Ventajas e inconvenientes del mantenimiento correctivo. Diagnóstico de averías. Métodos y técnicas usadas en la localización de averías en instalaciones aisladas y conectadas a red. Métodos para la reparación de los distintos componentes de las instalaciones. Desmontaje y reparación o reposición de elementos mecánicos, eléctricos y electrónicos. Resumen. Calidad en el mantenimiento de instalaciones solares fotovoltaicas Introducción. Calidad en el mantenimiento. Herramientas de calidad aplicadas a la mejora de las operaciones de mantenimiento. Documentación técnica de la calidad. Manual de mantenimiento. Resumen. Glosario Bibliografía",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-instalaciones-solares-fotovoltaicas-enae0108-montaje-y-mantenimiento-de-instalaciones-solares-fotovoltaicas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-instalaciones-solares-fotovoltaicas-enae0108-montaje-y-mantenimiento-de-instalaciones-solares-fotovoltaicas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766900781714-708f5c884e9b08",
@@ -156,14 +963,15 @@
     "editorial": "CRC Press",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Confiabilidad",
       "Weibull distribution"
     ],
-    "formato": "Físico",
     "notas": "Compiling findings from many scientific journals and research papers, this handbook focuses on the origin, statistical properties, and related distributions of the Weibull distribution. It also presents various approaches to estimate the parameters of this distribution under all possible situations of sampling data as well as approaches to param",
     "comentarios": "Este manual, que recopila hallazgos de numerosas revistas científicas y artículos de investigación, se centra en el origen, las propiedades estadísticas y las distribuciones relacionadas de la distribución de Weibull. También presenta diversos enfoques para estimar los parámetros de esta distribución en todas las situaciones posibles de muestreo de datos, así como enfoques para la estimación de parámetros.",
-    "portada": "https://books.google.com/books/content?id=vxaTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=vxaTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766603384410-051ac99af97198",
@@ -174,15 +982,16 @@
     "editorial": "CRC Press",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Confiabilidad",
       "Minitab",
       "Sistemas"
     ],
-    "formato": "Físico",
     "notas": "Statistical Analysis for the Reliability Engineering Professional Effectively conduct reliability analysis using the world's leading statistical software. Reliability Analysis with Minitab(R) outlines statistical concepts and applications, explains the theory of probability, reliability analysis, and quality improvement, and provides step-by-step instruction on the use of Minitab. Minitab introduc…",
     "comentarios": "Análisis estadístico para el profesional de ingeniería de confiabilidad. Realice análisis de confiabilidad de forma eficaz con el software estadístico líder a nivel mundial. Análisis de confiabilidad con Minitab® describe conceptos y aplicaciones estadísticas, explica la teoría de la probabilidad, el análisis de confiabilidad y la mejora de la calidad, y proporciona instrucciones paso a paso sobre el uso de Minitab. Introducción a Minitab…",
-    "portada": "https://books.google.com/books/content?id=aXEezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=aXEezgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766900566762-c33f552010d7d8",
@@ -193,14 +1002,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Confiabilidad"
     ],
-    "formato": "Físico",
     "notas": "El Mantenimiento Preventivo surgió (del principio que existía) una relación directa entre la edad de un elemento y su función de densidad de fallas, cambiar una pieza de manera sistemática fue una técnica que se aplicó hasta la década de los 60, cuando la industria aeronáutica americana demostró que solo un pequeño porcentaje de los elementos en un equipo presentaban esta relación. La orientación …",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mejoramiento-de-la-confiabilidad-una-ruta-hacia-la-excelencia-en-el-mantenimiento-industrial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mejoramiento-de-la-confiabilidad-una-ruta-hacia-la-excelencia-en-el-mantenimiento-industrial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766900457413-c1d0c0fdea4df",
@@ -211,14 +1021,15 @@
     "editorial": "Ediciones Díaz de Santos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "Es posible que usted piense que su departamento de mantenimiento necesita un cambio, pero que su empresa es tan especial que no hay forma de cambiar. Si es así, pensará que el mantenimiento preventivo, el predictivo, el TPM, el RCM, etc., están muy bien como teoría, tal vez interesante para otras empresas, pero que en la suya es imposible aplicarlo. Este libro trata de explicar como aplicar divers…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=p7ggAxkc6TgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=p7ggAxkc6TgC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766900379417-92e7d79a6bcc2",
@@ -229,14 +1040,15 @@
     "editorial": "Ediciones Díaz de Santos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Contratos"
     ],
-    "formato": "Físico",
     "notas": "El mantenimiento contratado supone entre el 40 y el 50 por ciento de la actividad de mantenimiento en países industrializados. Este libro repasa las razones que llevan a las empresas a poner un aspecto tan estratégico como el mantenimiento de sus máquinas e instalaciones en manos de empresas ajenas, con sus ventajas e inconvenientes. Estudia también cada uno de los servicios que pueden ofrecer las…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=WrLszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=WrLszgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766899921893-c137db79b39548",
@@ -247,13 +1059,14 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Control Automático"
     ],
-    "formato": "Físico",
     "notas": "Este texto es el resultado de la extensa experiencia docente de sus autores. El libro, sin abandonar la formalidad de descripción y desarrollo de los diferentes temas, intenta dar respuestas a las dificultades que se encuentran quienes se enfrentan al aprendizaje de la materia. Los contenidos del texto se presentan en la secuencia habitual de este tipo de libros: estudio de los sistemas en tiempo continuo y estudio de los sistemas en tiempo discreto. De igual modo, en el desarrollo de los temas,",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/control-automatico-tiempo-continuo-y-tiempo-discreto.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/control-automatico-tiempo-continuo-y-tiempo-discreto.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766899828985-b05b9c04bfb36",
@@ -264,15 +1077,16 @@
     "editorial": "Marcombo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Energía",
       "Eólica"
     ],
-    "formato": "Físico",
     "notas": "La energía eólica ha experimentado importantes progresos técnicos y económicos. Se han mejorado significativamente aspectos tales como la gestión y el mantenimiento, la integración de la energía eléctrica en la red, la adaptación del diseño de aerogeneradores a las características de los emplazamientos, la regulación y control, la predicción de producción a corto plazo y la economía de escala con …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=F_e_qh4XOpEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=F_e_qh4XOpEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766899763259-cdb5b300f6ae8",
@@ -283,15 +1097,16 @@
     "editorial": "Ediciones Paraninfo, S.A.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Termodinámica",
       "Energía"
     ],
-    "formato": "Físico",
     "notas": "El objetivo de este libro es la presentacion de diferentes posibilidades existentes en la integracion de las tecnologias basadas en la bomba de calor con las energias renovables (solar termica y geotermica) aplicadas a los edificios.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=HqIwQqzDKsIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=HqIwQqzDKsIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766899459302-7fb1af8778aa4",
@@ -302,14 +1117,15 @@
     "editorial": "UOC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "IA",
       "Informática"
     ],
-    "formato": "Físico",
     "notas": "En este libro se introducen los conceptos fundamentales de la Inteligencia Artificial, desde una visión muy orientada al reconocimiento de patrones. El lector podrá encontrar una revisión completa de las técnicas avanzadas más usadas en el campo del aprendizaje automático. El texto se ha enfocado desde un punto de vista eminentemente práctico. Las explicaciones teóricas de las diferentes técnicas se basan en la resolución de problemas concretos. Los algoritmos están acompañados de ejemplos, escritos en Python, con aplicaciones directas en ámbitos como el procesado de imágenes o el análisis de textos. Los diferentes capítulos comprenden las técnicas de aprendizaje no supervisado, los métodos de reducción de la dimensionalidad y extracción de características (PCA, NMF, ICA, LDA, MDS), los principales algoritmos de clasificación de patrones (probabilísticos, kNN, SVM y Boosting) y diferentes métodos de optimización.",
     "comentarios": "Scientific Researcher at CREB UPC - Research Centre for Biomedical Engineering",
-    "portada": "https://books.google.com/books/content?id=j93lnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=j93lnQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766899140090-c660068b18e39",
@@ -320,13 +1136,14 @@
     "editorial": "Shackleton Books",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Física"
     ],
-    "formato": "Físico",
     "notas": "Desde Eratóstenes hasta nuestro días, el largo e ingenioso viaje de la humanidad en el intento de medir el universo. Los científicos de la Antigüedad lograron prodigiosas hazañas al obtener algunas estimaciones preliminares del tamaño de nuestro planeta y la distancia de los astros más importantes. Su trabajo estimuló a las generaciones que los siguieron, dotadas de mejores herramientas matemáticas e instrumentos más precisos, quienes no obstante se enfrentaron a un difícil puzle lógico: hay una curiosa simetría en la medición del cielo y la de la Tierra. Para determinar la posición geográfica, la distancia entre dos localizaciones o incluso el tamaño de la propia Tierra era imprescindible realizar mediciones de los astros, como hallar la altura de una estrella. Pero esa relación era recíproca, y estimar la posición y la distancia a los astros solo era posible mediante mediciones que tuvieran a la propia Tierra como patrón de medida o conociendo con detalle la distancia entre dos lugares de observación. No era posible la geografía de precisión sin la astronomía, ni viceversa. En este fascinante libro veremos cómo las distancias en cualquiera de los dos sistemas se pudieron obtener con cierta sencillez en valores relativos. Sin embargo, costó mucho esfuerzo pasar a un sistema de magnitudes absolutas que nos permitiera acceder a las complejas mediciones actuales. Editorial: Shackleton Books ISBN: 9788413611372 Idioma: Castellano Número de páginas: 176 Encuadernación: Tapa blanda Año de edición: 2022",
     "comentarios": "Fernando J. Ballesteros es astrobiólogo y doctor en Física por la Universidad de Valencia. En 2014 fue nombrado jefe de Instrumentación del Observatorio ...",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/midiendo-el-cielo-y-la-tierra-la-aventura-de-medir-el-cosmos-de-eratostenes-a-la-paralaje-estelar.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/midiendo-el-cielo-y-la-tierra-la-aventura-de-medir-el-cosmos-de-eratostenes-a-la-paralaje-estelar.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766898636505-f97fea36313e2",
@@ -337,13 +1154,14 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Física"
     ],
-    "formato": "Físico",
     "notas": "Siguiendo el enfoque clásico de Lev Landau y Evgenii Lifshitz, este libro introduce la teoría de la relatividad especial y general desde el formalismo lagrangiano y el principio de mínima acción. Este método, bastante utilizado en la física teórica moderna, permite construir completamente la teoría a partir de un pequeño número de supuestos. El libro comienza revisando la mecánica newtoniana, para luego pasar a la relatividad especial y general. La mayoría de los cálculos se presentan con bastante detalle y paso a paso, como se haría en una pizarra durante una clase magistral. Además, cada capítulo contiene varios ejemplos y problemas. El libro finaliza discutiendo algunos de los avances recientes en la astronomía de ondas gravitacional es y las líneas actuales de investigación en gravedad.",
     "comentarios": "Cosimo Bambi es un relativista y cosmólogo italiano, actualmente profesor de física en la Universidad de Fudan en Shanghái, China. Recibió el Premio de la Amistad del Partido Comunista Chino por su labor como \"experto extranjero\" en apoyo a los comunistas en 2025.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-relatividad-general-un-curso-para-estudiantes-de-fisica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-relatividad-general-un-curso-para-estudiantes-de-fisica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766897399850-5e03bb45e057e",
@@ -354,16 +1172,17 @@
     "editorial": "Dextra",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica",
       "Fluídos",
       "Energía",
       "Simulación"
     ],
-    "formato": "Físico",
     "notas": "Las turbomáquinas son mecanismos que intercambian energía con un fluido mediante la acción combinada de elementos fijos y giratorios. Se utilizan en todos los ámbitos industriales y en, gran medida, son responsables directos en la eficiencia global de l\n.Juan Manuel Tizón Pulido\nProfesor del Departamento de Mecánica de Fluidos y Propulsión Aeroespacial de la Universidad Politécnica de Madrid. Su actividad docente se desarrolla en torno a las asignaturas sobre Aerorreactores, Motor Cohete y Turbomáquinas que forman parte de los planes de estudio de titulaciones habilitantes de Grado en Ingeniería Aeroespacial y Master Universitario en Ingeniería Aeronáutica",
     "comentarios": "Nomenclatura\nPrólogo\n1. Introducción a las Turbomáquinas\n2. Conceptos básicos sobre turbomáquinas\n3. Actuaciones de turbomáquinas\n4. Ecuaciones y principios fundamentales\n5. Cascadas de álabes\n6. Análisis Q 3D y tridimensionalidad del movimiento en turbomáquinas\n7. Simulación numérica en turbomáquinas\n8. Turbulencia en Turbomáquinas y su simulación numérica\n9. Compresores axiales I: Análisis y funcionamiento\n10. Compresores axiales II: Diseño, actuaciones y simulación numérica\n11. Turbinas axiales I: Análisis y funcionamiento\n12. Turbinas axiales II: Diseño, actuaciones y simulación numérica\n13. Compresores centrífugos\n14. Turbinas radiales\nBibliografía",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/turbomaquinas-analisis-diseno-y-simulacion-numerica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/turbomaquinas-analisis-diseno-y-simulacion-numerica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766897049463-389097711066e8",
@@ -374,14 +1193,15 @@
     "editorial": "Arpa",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Números"
     ],
-    "formato": "Físico",
     "notas": "Todo lo que te perdiste el día que abandonaste las matemáticas, y que estás a tiempo de recuperar.\nA menudo no somos conscientes de hasta qué punto nuestras vidas se articulan en torno a los números. Podemos haber olvidado las reglas gramaticales, las fórmulas químicas, las leyes físicas, las narraciones históricas o los conceptos filosóficos aprendidos en el colegio, pero lo que nunca olvidaremos son los números. Nos pasamos el día contando, midiendo y pesando. Utilizamos los números para ordenar el mundo, y aún más, para construirlo.\nEste libro nos muestra, de forma amena y concisa, cómo nacieron y crecieron los números para llegar a formar parte de nuestra vida cotidiana, y cómo para ello se tuvieron que resolver grandes problemas y superar muchas dificultades, no solo las de naturaleza puramente matemática, sino también aquellas que se generaron en diferentes ámbitos, como el religioso o el filosófico. Enrique Gracián pone en juego su dilatada experiencia como docente y divulgador científico para mostrarnos los más de 3.000 años de historia que rodean a los números.\nUn estimulante viaje que comienza con la aparición de los números primos ?objeto de profundas y sorprendentes investigaciones matemáticas a lo largo de los siglos? y nos lleva hasta los límites del infinito, el número más grande de todos y el único que consigue que las matemáticas y la filosofía encuentren un lugar común.",
     "comentarios": "Enrique Gracián es licenciado en Matemáticas por la Universidad de Barcelona. Con una larga trayectoria como docente y divulgador científico, ha colaborado en los suplementos de ciencia de La Vanguardia y El País y fue subdirector del célebre programa de televisión Redes. Entre sus publicaciones destacan diversos libros de no ficción como Construir el mundo, Historia de los números, Un descubrimiento sin fin. El infinito matemático y Los números primos, traducida a catorce idiomas y con más de 400.000 ejemplares vendidos.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-los-numeros.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-los-numeros.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766896827063-295c344222ba3",
@@ -392,14 +1212,15 @@
     "editorial": "Obreron",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Programación",
       "Comics"
     ],
-    "formato": "Físico",
     "notas": "Alan Turing, el brillante matemático que descifró el código alemán Enigma, permitió que un grupo de decodificadores británicos acortara varios años la duración de la Segunda Guerra Mundial. Solo eso sería suficiente para asegurarle un lugar en la historia, pero su genio no se detuvo ahí. Turing impulsó la informática moderna con la creación de su máquina universal, también conocida como máquina de Turing, y el juego de imitación, una prueba de inteligencia artificial que aún se usa en la actualidad. Jim Ottaviani y Leland Purvis nos presentan a Turing como un genio excéntrico, corredor de clase olímpica y teórico revolucionario cuyo trabajo juega un papel fundamental en la ciencia y los sistemas de telecomunicaciones de nuestro mundo moderno.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/descrifrando-enigma-alan-turing-un-genio-de-su-tiempo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/descrifrando-enigma-alan-turing-un-genio-de-su-tiempo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766896703292-5636452d0dd158",
@@ -410,15 +1231,16 @@
     "editorial": "Marcombo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Hidráulica",
       "Neumática",
       "Técnico"
     ],
-    "formato": "Físico",
     "notas": "La evolución continua de la industria en la obtención de nuevas materias, su mecanización y la obtención de un producto final elaborado obliga a conocer y entender el funcionamiento de los dispositivos neumáticos e hidráulicos, su control, sus limitaciones y la forma de realizar un correcto diseño de las instalaciones. La obra estudia los actuadores y motores neumáticos, hidráulicos, elÚctricos y …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=CXtRrbhr9bYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=CXtRrbhr9bYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766896519483-5e7b2844cbd758",
@@ -429,14 +1251,15 @@
     "editorial": "Ediciones Urano",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencias",
       "Ciencias Naturales"
     ],
-    "formato": "Físico",
     "notas": "La Tierra está repleta de imágenes y texturas, sonidos y vibraciones, olores y sabores, campos eléctricos y magnéticos. Pero cada individuo está encerrado dentro de su burbuja sensorial, propia y única, y solo percibe una pequeña porción de la inmensidad de nuestro planeta. Este libro nos abre las puertas a dimensiones hasta ahora insondables: el mundo tal como lo perciben otros animales. Encontraremos escarabajos que se sienten atraídos por el fuego; tortugas que pueden rastrear los campos magnéticos de la Tierra; peces que llenan los ríos con mensajes eléctricos; humanos que tienen sonares al igual que los murciélagos; y plantas que vibran con las canciones inaudibles de cortejo de los insectos. Aprenderemos qué ven las abejas en las flores, qué escuchan los pájaros en sus melodías y qué huelen los perros en la calle. Leeremos las historias de los descubrimientos fundamentales del área y anticiparemos qué misterios quedan aún sin resolver. En La inmensidad del mundo, el aclamado periodista científico Ed Yong nos lleva más allá de los confines de nuestros sentidos, dándonos la posibilidad de percibir los olores, las ondas electromagnéticas y los pulsos de presión que nos rodean. Porque para entender nuestro mundo no necesitamos viajar a otros lugares, sino ver a través de otros ojos.",
     "comentarios": "Ed Yong es un periodista científico ganador del premio Pulitzer, cuyas fascinantes presentaciones sobre los animales y el mundo natural están impregnadas de humor, alegría, asombro y entusiasmo contagioso.",
-    "portada": "https://books.google.com/books/content?id=UXirzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=UXirzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766896240529-654fd106854668",
@@ -447,13 +1270,14 @@
     "editorial": "Paidos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencias Sociales"
     ],
-    "formato": "Físico",
     "notas": "En el siglo XXI la humanidad está alcanzando nuevas cotas en la comprensión científica y, al mismo tiempo, parece estar enloqueciendo. ¿Cómo puede una especie que ha desarrollado vacunas para la Covid-19 en menos de un año producir tantas noticias falsas, remedios de curanderos y teorías de la conspiración?\nPinker rechaza el cínico lugar común de que somos una especie irracional: cavernícolas extemporáneos cargados de sesgos, falacias e ilusiones. Después de todo, hemos descubierto las leyes de la naturaleza, hemos prolongado y enriquecido nuestras vidas, y hemos fijado los puntos de referencia de la racionalidad misma. En lugar de ello, explica que pensamos de formas sensatas en los contextos de baja tecnología en los que transcurre la mayor parte de nuestras vidas, pero no sacamos partido de las potentes herramientas del razonamiento que hemos construido a lo largo de los milenios: la lógica, el pensamiento crítico, la probabilidad, la correlación y la causalidad, y la toma de decisiones. Estas herramientas no son un componente estándar de nuestros currículos educativos y, hasta la fecha, nunca se habían presentado de un modo claro y ameno.\nRacionalidad explora asimismo su contraria: cómo la búsqueda racional del interés propio, la solidaridad sectaria y la mitología edificante de los individuos puede desembocar en la irracionalidad paralizante en una sociedad. La racionalidad colectiva depende de normas explícitamente diseñadas para promover la objetividad y la verdad.\nLa racionalidad es importante. Nos permite tomar mejores decisiones en nuestra vida y en la esfera pública, y es el principal motor de la justicia social y del progreso moral. Rebosante de perspicacia y de humor, Racionalidad nos iluminará, nos inspirará y nos empoderará.",
     "comentarios": "Steven Pinker (Montreal, Canadá, 18 de septiembre de 1954) es uno de los psicólogos, lingüistas y divulgadores científicos más influyentes a nivel internacional. Doctorado por Harvard y actualmente profesor en esa universidad, su trabajo ha revolucionado la comprensión del lenguaje, la mente y la naturaleza humana, defendiendo teorías sobre los instintos lingüísticos, la evolución del pensamiento y el poder de la razón. Entre sus libros más célebres destacan El instinto del lenguaje (1994), Cómo funciona la mente (1997, finalista del Pulitzer), La tabla rasa (2002), Los ángeles que llevamos dentro (2011), En defensa de la Ilustración (2018) y Racionalidad (2021), obras esenciales que abordan desde la reducción de la violencia hasta el rol del humanismo y la ciencia en el progreso social.\n\nReconocido por su rigor y claridad expositiva, Pinker ha sido incluido entre los pensadores más influyentes del mundo por Time, Foreign Policy y Prospect. Ha obtenido distinciones como el William James Book Prize (tres veces), el Los Angeles Times Science Book Prize, el George Miller Prize, el Humanist of the Year y el Frontiers of Knowledge Award de la Fundación BBVA (2022). Fue finalista del Pulitzer en dos ocasiones y ha recibido doctorados honoris causa en diversos países. Su labor como divulgador y su defensa del pensamiento crítico y la evidencia empírica lo han consolidado como voz esencial para entender la mente y el progreso humano en el siglo XXI.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/racionalidad-que-es-por-que-escasea-y-como-promoverla.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/racionalidad-que-es-por-que-escasea-y-como-promoverla.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766896008233-305b2be5e059",
@@ -464,14 +1288,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Física",
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "Alguien dijo que la gravedad «es un acertijo envuelto en un misterio». Es una fuerza tan débil que, si extiendes la mano, la gravedad de todo el planeta no es capaz de imponerse a la fuerza de tus músculos. * Y aun así es tan irresistible a gran escala que controla la evolución y el destino de todo el universo. De no haberse «activado» tras el Big Bang, el tiempo no tendría dirección.Solo cuando la comprendamos estaremos en condiciones de responder a la mayor de las preguntas: ¿De dónde salió el universo?",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gravedad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/gravedad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766895640031-b971c1310c7ba",
@@ -482,15 +1307,16 @@
     "editorial": "Deusto",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Industria",
       "Espacio",
       "Comercio"
     ],
-    "formato": "Físico",
     "notas": "Cuanto más ampliamos nuestras perspectivas, más rica es nuestra experiencia. Hace ya tiempo que los seres humanos superamos la idea de que sólo podemos vivir en la Tierra, y la voluntad emprendedora de muchos innovadores del siglo xxi ha empezado a desarrollar estrategias y tecnologías asombrosas que hacen del cosmos una nueva realidad vital y económica.\n\nLas actividades espaciales están aumentando, tanto aquellas que son invisibles a nuestros ojos en la Tierra como las que comienzan a aparecer de noche en el firmamento. Pronto, todas las personas, las meras espectadoras o las directamente involucradas, empezarán a ser conscientes de los trabajos y progresos ultraterrestres. En especial, cuando el cielo se pueble de nuevas construcciones de fabricación humana, algunas de ellas perceptibles sin la necesidad de telescopio. Ésta es la naturaleza del progreso. Así es como creamos las redes y las torres eléctricas, los rascacielos y los túneles que atraviesan montañas, que nos han ayudado a suministrar energía a las casas, a dar cobijo a nuestras familias, a disfrutar de servicios y transportar mercancías. La evolución industrial del cosmos transformará la vida en todos los sentidos, no sólo en el científico o el comercial.\n\nEn la actualidad, el espacio lidera un profundo cambio social que afecta a todos los desafíos a los que nos enfrentamos: la preservación de la Tierra, el progreso de la raza humana y el avance hacia una nueva civilización que ejemplifique la grandeza de nuestro espíritu.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-quinta-revolucion-industrial-como-la-comercializacion-del-espacio-se-convertira-en-la-mayor-expansion-industrial-del-siglo-xxi.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-quinta-revolucion-industrial-como-la-comercializacion-del-espacio-se-convertira-en-la-mayor-expansion-industrial-del-siglo-xxi.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766895495460-c571c259f95c88",
@@ -501,14 +1327,15 @@
     "editorial": "Gedisa",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Juegos"
     ],
-    "formato": "Físico",
     "notas": "Édouard Lucas fue un excelente matemático, bien conocido por sus estudios en el campo de la teoría de números, por haberdescubierto el mayor número primo antes de la invención de los ordenadores y por haber concebido la Torre de Hanói, uno de los juegos que aún hoy figura entre los más populares, y que los estudiantes de informática utilizan como ejerciciode programación.Peiretti te explica aquí los trucos para entenderlo y recupera otros juegos sencillos e intrigantes como el dodecaedro de Hamilton, el testamento del pachá y el vuelo de las grullas.Locos por los números es una verdadera mina de oro, pues el autor te introduce la biografía y los problemas matemáticos de los máximos expertos en materia del siglo xx: Walter Rouse Ball, Henry Ernest Dudeney, Piet Hein, Martin Gardner, RichardPhillips Feynman, Roger Penrose, Solomon Wolf Golomb y John Horton Conway.Una extraordinaria antología de juegos de sorprendentes propiedades matemáticas que, junto con las historias de sus inventores, te enganchará durante mucho tiempo. Nº de páginas: 192 Editorial: Gedisa Idioma: Castellano Encuadernación: Tapa blanda ISBN: 9788418525513 Año de edición: 2021",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=uW13zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=uW13zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766895261721-de8c6d5deab838",
@@ -519,13 +1346,14 @@
     "editorial": "Planeta",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "¿Cómo influye la geometría en nuestro día a día?, ¿cuál es el origen de la primera bandera de Chile?, ¿cuán inexactos son los mapas del mundo?, ¿quién fue el primer científico chileno?, ¿por qué no hay un Premio Nobel de Matemáticas?, ¿cómo se trabajan las exitosas películas animadas de Pixar?, ¿qué tiene que ver la flor del naranjo con el azar? o ¿qué famosos personajes de la historia universal fueron matemáticos? son algunas de las preguntas que responde el libro que tienes en tus manos.\n\nAndrés Navas, académico universitario ganador de los premios MCA (2013) y Umalca (2016), logra, a través de 33 historias, iluminar el oscuro y misterioso mundo de las matemáticas con un talento narrativo sorprendente, haciendo que la compleja mente de Ramanujan se relacione con la geometría del papel tisú, y que la forma del estadio del Bayern de Múnich coexista con el arte de Escher. Porque, para nuestro autor, la historia, la ciencia, la política, el arte y la cultura son materias que dialogan y a las que podemos entrar con la avidez con la que se ve un partido de fútbol o se escucha una canción.\n\nEn un esfuerzo único, Navas abre la puerta para que la divulgación matemática encuentre su lugar entre los lectores, escribiendo el primer texto sobre esta ciencia exacta pensado para un público amplio en Chile.\n\nNo necesitas más que ser curioso para maravillarte con este hermoso y desconocido mundo.",
     "comentarios": "Andrés Navas participó desde niño en olimpiadas de matemáticas. En la década de los noventa obtuvo tres medallas de oro a nivel sudamericano e iberoamericano en estas competencias. Estudió Matemáticas en la Universidad de Santiago de Chile (donde hoy es profesor a tiempo completo), para luego doctorarse en la École Normale Supérieure de Lyon (Francia). Ha sido profesor invitado en instituciones como el Institut des Hautes Études Scientifiques, Caltech, la Universidad de Cambridge y la Universidad de Tokio.\n\nEs autor de casi cincuenta artículos de investigación, por los cuales fue galardonado en 2013 por el Consejo Matemático de las Américas, y en 2016 por la Unión Matemática de América Latina y el Caribe.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-viaje-a-las-ideas-33-historias-matematicas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/un-viaje-a-las-ideas-33-historias-matematicas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766895015906-b85f657a4c7e1",
@@ -536,14 +1364,15 @@
     "editorial": "Icaria",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Medioambiente"
     ],
-    "formato": "Físico",
     "notas": "sobre el objetivo parece haber consenso, pero detrás de este se esconden intereses extremadamente divergentes. hermann scheer, en esta obra cuyo título, el imperativo energético, encierra ya un doble sentido, detalla todas las tretas que está tramando el llamado sector eléctrico tradicional, adicto y encadenado a los combustibles fósiles y nucleares, contra las renovables. desmonta uno a uno los principales mitos y trampas que las grandes corporaciones ener­géticas propagan para que no alcancemos la autonomía ener­gética. por eso el autor cuestiona los proyectos de gigantescos parques eólicos e inmensas centrales solares interconectadas con redes de alta tensión inteligentes. este libro nos pone sobre aviso: para conseguir un cambio energético rápido también es inevitable un cambio de sistema. las tecnologías renovables llevan implícitas esta posibilidad de aceleración a la que anima scheer para alcanzar una sociedad sostenible.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-imperativo-energetico-100-ya-como-hacer-realidad-el-cambio-integral-hacia-las-energias-renovables.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-imperativo-energetico-100-ya-como-hacer-realidad-el-cambio-integral-hacia-las-energias-renovables.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766610990722-5816407377815",
@@ -554,14 +1383,15 @@
     "editorial": "FERIVA S.A",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ensayo político",
       "Ciencias Sociales"
     ],
-    "formato": "Físico",
     "notas": "El libro Cómo nos gobiernan en Colombia, escrito por Rogelio Villamizar J., es una obra de ensayo político y social que reflexiona críticamente sobre el funcionamiento del sistema de gobierno colombiano, con énfasis en las prácticas de poder, la gestión del Estado y la relación entre la ciudadanía y sus gobernantes.\n\nEl texto combina análisis, denuncia y reflexión ética. Su estilo es directo y busca interpelar al lector sobre temas como la corrupción, la debilidad institucional, la burocracia, la inequidad y la desconexión entre las decisiones políticas y las necesidades reales de la población. De fondo, subyace una mirada crítica hacia cómo el ejercicio del poder público puede distorsionarse cuando priman intereses particulares sobre el bien común.\n\nUn elemento destacable es el enfoque ciudadano: el libro no se limita a describir problemas, sino que invita a la reflexión sobre responsabilidad cívica, participación y el rol del silencio social, idea reforzada por la cita de Gandhi en su portada: “Lo más atroz de las cosas malas de la gente mala, es el silencio de la gente buena.” Esta frase resume el espíritu del libro: generar conciencia para movilizar transformación social.",
     "comentarios": "Que le pasa a Colombia--No queremos paz sino victoria.--Entre la economía y el sectarismo.--La resurrección de un gigante.--Tragedia de Bahía en Tumaco.--La gran despensa del Océano Pacífico.--La desprotección del pueblo colombiano.--La Mafia de las Aduana y del Contrabando.--Sistema de economía mafiosa.--Mantengamos viva la esperanza.--El rumbo de simplificación.--La ley de la entropia Colombia -- Polt̕ica econm̤ica Colombia -- Polt̕ica y gobierno Colombia -- Condiciones econm̤icas",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-nos-gobiernan-en-colombia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-nos-gobiernan-en-colombia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766876604916-c92b518d5693",
@@ -572,15 +1402,16 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Termodinámica",
       "Normas"
     ],
-    "formato": "Físico",
     "notas": "La entrada en vigor de normativas anticontaminantes cada vez más restrictivas, está conduciendo a la necesidad de incluir en el motor nuevos sistemas de post-tratamiento de los gases de escape. Este libro pretende desarrollar en detalle un modelo para la predicción del comportamiento termofluidodinámico de esos sistemas en los motores Diesel.\nDetalles del producto",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/calculo-termofluidodinamico-de-filtros-de-particulas-de-flujo-de-pared.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/calculo-termofluidodinamico-de-filtros-de-particulas-de-flujo-de-pared.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766788395123-8f738ca4fedb98",
@@ -591,14 +1422,15 @@
     "editorial": "Independently Published",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Programación",
       "Informática"
     ],
-    "formato": "Físico",
     "notas": "Aprender a programar es una herramienta necesaria el día de hoy, ya sea para poder construir aplicaciones web hasta crear la más avanzada inteligencia artificial. Y puede ser sumamente desafiante si no se tiene la guía correcta. Es por esta razón que decidí crear este libro de Ultimate Python, un libro donde te tomaré de la mano y te enseñaré todo lo que necesitas saber acerca del lenguaje de prog…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=GH-r0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=GH-r0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766758207867-ee83fdaf645e2",
@@ -609,15 +1441,16 @@
     "editorial": "ICB Editores",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Bombas",
       "Hidráulica",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "Todo sobre Bombas Hidráulicas. Incluye Solucionarios Glosario y Bibliografía.MÓDULO 1: Bombas Hidráulicas. Conocimientos Teóricos sobre Presión TEMA 1. Hidráulica TEMA 2. Hidrostática TEMA 3. Hidrodinámica MÓDULO 2: Canal Velocidad y Prácticas sobre Funcionamiento de las Bombas Tomas de Agua y Fuerza TEMA 4. Bombas Hidráulicas TEMA 5. Bombas Contra Incendios MÓDULO 3: Prevención de Riesgos Laborales TEMA 6. Introducción a la Prevención de Riesgos Laborales TEMA 7. Marco Normativo Básico en Prevención de Riesgos Laborales TEMA 8. Riesgos Relacionados con las Condiciones de Seguridad Solucionarios Test Glosario Bibliografía",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1xOpcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=1xOpcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766606461359-cfeffe5eeca08",
@@ -628,15 +1461,16 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Neumática",
       "Hidráulica",
       "Energía"
     ],
-    "formato": "Físico",
     "notas": "Este texto ha sido diseñado para formar ingenieros capacitados en las aplicaciones contemporáneas de la potencia fluida, con las aptitudes para concebir la neumática e hidráulica como partes de un campo tecnológico unificado.\nLas máquinas que funcionan con base a la transmisión de energía por medio de un vehículo fluido, se han aplicado industrialmente durante más de 200 años. En el siglo XXI la importancia tecnológica de las máquinas hidroneumáticas es irrefutable. Con este libro se pretende contribuir a la formación de nuevos ingenieros, que al incorporarse a la actividad profesional ya posean las habilidades para accionar dispositivos basados en aire y aceite presurizados. La obra también está dirigida a los profesionales que deben tratar con alguno de los muchos procesos de manufactura, en los que las máquinas automáticas ejecutan ciclos de trabajo repetitivos, precisos, veloces y fiables. Ahí es donde la potencia fluida establece la mejor interrelación con el control electrónico.\n\nDESTACADOS:\n\nEjemplos resueltos y numerosos ejercicios propuestos.\n\nMinuciosidad en las explicaciones y cálculos numéricos.\n\nRecuadros sobre detalles históricos, conexiones con otros campos tecnológicos y demostraciones minuciosas para aclarar la aplicación de los conceptos tratados.\n\nUso sistemático y ordenado de las unidades que corresponden a cada magnitud física. Se destaca el uso del SI, pero además se emplean las del llamado “sistema inglés”, y otras de uso común que todavía siguen utilizando los fabricantes de equipos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-potencia-fluida-neumatica-e-hidraulica-para-ingenieros.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-potencia-fluida-neumatica-e-hidraulica-para-ingenieros.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766894361914-954dccbae0f17",
@@ -647,6 +1481,7 @@
     "editorial": "Courier Corporation",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Control",
@@ -654,10 +1489,10 @@
       "Optimización",
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Functional analysis provides a concise conceptual framework for linear control theory. This self-contained text, geared toward engineering students, demonstrates the subject's unity. It features a wide range of powerful theorems that illustrate inner product spaces, instability, controllability, and observability. It also discusses minimum norm and time control as well as distributed systems.The first chapter offers a brief survey of basic mathematics, followed by chapters that contain most of the mathematics needed later in the book. Subsequent chapters establish axioms for linear dynamic systems, linking the axiomatic description to the state space description. They also consider important structural properties of a given system, the formulation of optimization problems, issues of existence and uniqueness, and the characterization of optimal controls. The final chapter returns to some of the concepts and methods discussed earlier, extending the applications of finite dimensional systems to distributed parameter systems. A comprehensive set of references concludes the text.",
     "comentarios": "El análisis funcional proporciona un marco conceptual conciso para la teoría del control lineal. Este texto autocontenido, dirigido a estudiantes de ingeniería, demuestra la unidad del tema. Presenta una amplia gama de teoremas relevantes que ilustran los espacios de producto interno, la inestabilidad, la controlabilidad y la observabilidad. También aborda la norma mínima y el control temporal, así como los sistemas distribuidos. El primer capítulo ofrece un breve resumen de las matemáticas básicas, seguido de capítulos que contienen la mayor parte de las matemáticas necesarias más adelante en el libro. Los capítulos posteriores establecen axiomas para sistemas dinámicos lineales, vinculando la descripción axiomática con la descripción del espacio de estados. También consideran importantes propiedades estructurales de un sistema dado, la formulación de problemas de optimización, cuestiones de existencia y unicidad, y la caracterización de controles óptimos. El capítulo final retoma algunos de los conceptos y métodos discutidos anteriormente, ampliando las aplicaciones de los sistemas de dimensión finita a los sistemas de parámetros distribuidos. Una completa bibliografía concluye el texto.",
-    "portada": "https://books.google.com/books/content?id=rwvmDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=rwvmDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766894100851-92fa7c3484c6b8",
@@ -668,15 +1503,16 @@
     "editorial": "",
     "coleccion": "",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Sustentabilidad",
       "Innovación"
     ],
-    "formato": "Físico",
     "notas": "Este libro es el segundo tomo de la colección de Innovación y sustentabilidad energética. Destacan aquí las experiencias e investigaciones educativas en el marco de: Openergy Lab para desarrollar recursos educativos abiertos de energía, sistemas de gestión del conocimiento para la visibilidad de la producción energética y cuatro cursos masivos abiertos (MOOCs) de formación en temas de energía. En el momento en que se presenta este libro, los MOOC han contado con más de 100,000 participantes, de más de 51 países (dato de la plataforma EdX, donde destacan diez países por cantidad de participantes: México, España, Perú, Colombia, Argentina, Estados Unidos, Ecuador, Chile, Venezuela y Guatemala). El soporte conceptual de la sustentabilidad energé tica, abordado en los MOOC, se vinculó con el sector productivo y con la realidad energé tica que ofrece nuevas oportunidades. El soporte de innovació n educativa se dio a travé s de la implementación de estrategias poco abordadas en los MOOC, como lo son la realidad virtual, realidad aumentada, biometría, gamifi cación y los laboratorios virtuales y remotos. El soporte de investigación se dio a través de estudios con metodologías mixtas, comparativas y de casos. Esta obra ofrece aportes de innovación educativa, formación en sustentabilidad energética, investigación educativa y desarrollos tecnológicos para potencializar la formación de capacidades en ambientes de aprendizaje modernos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/innovacion-y-sustentabilidad-energetica-implementaciones-en-cursos-masivos-e-investigacion-educativa.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/innovacion-y-sustentabilidad-energetica-implementaciones-en-cursos-masivos-e-investigacion-educativa.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766893857641-a6bf7d87c67558",
@@ -687,15 +1523,16 @@
     "editorial": "Narcea",
     "coleccion": "",
     "vol": "3",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Sustentabilidad",
       "Innovación"
     ],
-    "formato": "Físico",
     "notas": "Este libro es el tercero que surge en el marco del Laboratorio Binacional para la Gestión Inteligente de la Sustentabilidad Energética y la Formación Tecnológica. Se abordan temáticas transversales del Laboratorio, tales como el trabajo en red que ha sido el motor del proyecto, así como innovaciones educativas formativas desde los laboratorios ciudadanos, competencias autopercibidas y estrategias innovadoras como los retos, biometría, gamificación y aprendizaje invertido. Multidisciplinariedad, Innovación e Investigación Educativa son ejes clave en esta obra. El libro aporta a los esfuerzos de los Objetivos de Desarrollo Sostenible de la Agenda 2030 de las Naciones Unidas, concretamente en el concerniente al objetivo siete donde se aborda: energía asequible y no contaminante. La formación en esta temática, a través de 12 MOOC, ha sido estratégica, para contar con más de 200,000 participantes, de más de 50 países (dato de las plataformas MéxicoX y EdX), donde destacan los países siguientes por cantidad de participantes: Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, España, Estados Unidos, Guatemala, Honduras, México, Países Bajos, Paraguay, Perú, República Dominicana y Venezuela. La producción de los MOOC se gestó a través de equipos multidisciplinares: especialistas de las á reas de energía, tecnología educativa e investigación educativa, que han trabajado juntos en el desarrollo de los MOOC, así como en su puesta en operación, y en investigaciones educativas en cada una de las experiencias formativas. La innovación educativa ha sido un tema transversal en el proyecto, se han integrado tecnologías en las plataformas abiertas que anteriormente no habían sido trabajadas. Con este libro, los autores pretenden evidenciar procesos de innovación educativa en ambientes formativos para potenciar capacidades de sustentabilidad energética. Queda una invitación para seguir sumando esfuerzos por el bien común de la sustentabilidad energética.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/innovacion-y-sustentabilidad-energetica-colaboracion-multidisciplinar-mooc-e-investigacion-educativa.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/innovacion-y-sustentabilidad-energetica-colaboracion-multidisciplinar-mooc-e-investigacion-educativa.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766879118935-ecebdf6faec52",
@@ -706,14 +1543,15 @@
     "editorial": "ECOE",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Optimización",
       "Investigación de Operaciones"
     ],
-    "formato": "Físico",
     "notas": "En este texto se brindan las herramientas necesarias para la comprensión y ejecución del método analítico de resolución de problemas y toma de decisiones denominado Investigación de Operaciones (I.O), su éxito se debe a la flexibilidad para describir un gran número de situaciones reales en áreas como la militar, industrial, agrícola, de transporte, de economía, sistemas de salud e incluso en las ciencias sociales y de la conducta. Un factor importante en el amplio uso de esta técnica es la disponibilidad de programas de computadora eficaces para resolver extensos problemas de programación lineal.La obra consta de doce capítulos distribuidos de la siguiente manera: método gráfico, método simplex y simplex dual, modelo de transporte, método de la gran M, método de las dos fases, análisis de sensibilidad, programación entera, programación lineal mixta, programación dinámica, dinámica probabilística y teoría de inventarios. Todos enfocados de manera teórico-práctica, ayudando al lector a verificar, comprender, analizar y aplicar estas herramientas de programación lineal.Dirigido a estudiantes y profesionales en ingeniería industrial, ingeniería de sistemas, ingeniería electrónica e ingeniería eléctrica. Además es de gran interés para los posgrados enfocados en la gestión de proyectos para la toma de decisiones.Medidas: 24 cm x 17 cm x 0.9 cm en empaque",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/investigacion-de-operaciones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/investigacion-de-operaciones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766879065490-5ae7c76edbe558",
@@ -724,15 +1562,16 @@
     "editorial": "CreateSpace",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Confiabilidad",
       "Mantenimiento",
       "RCA"
     ],
-    "formato": "Físico",
     "notas": "¿Diseñas y desarrollas un producto? ¿Quieres desarrollarlo en menos tiempo? ¿Quieres desarrollarlo de una forma más económica? ¿Quieres aumentar su calidad real, de uso y percibida por el cliente? El Análisis Modal de Fallos y Efectos (AMFE) es una potente metodología aplicada en las fases iniciales de diseño y desarrollo de un producto, que nos permite identificar, prevenir y jerarquizar potenciales fallos de un sistema, proponiendo acciones que los eliminen o minimicen sus efectos. Y todo ello antes de que aparezcan o de haber fabricado prototipos. Es decir, cuando las modificaciones aún son rápidas y baratas. Además, permite priorizar los recursos disponibles para el desarrollo del sistema, documentar el proceso de cara a futuros desarrollos y aglutinar la experiencia de la empresa generando un histórico de fallos que nos servirá como lecciones aprendidas. Como consecuencia, reduce el tiempo y coste del desarrollo de un producto, aumentando al mismo tiempo su calidad y fiabilidad. Partiendo del estándar J1739 de la Society of American Engineers (SAE), y basado en la experiencia del autor, se ha evolucionado la metodología mediante la integración de técnicas de creatividad y de comunicación visual, de cara a proporcionar una dinámica más fluida y de más efectiva aplicación.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=J8IwrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=J8IwrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766877470584-6f3d9b19e5f1c",
