@@ -1,5 +1,458 @@
 [
   {
+    "id": "libro-1767062619714-f1188fba5f3548",
+    "titulo": "Aceites y grasas industriales",
+    "autor": "Alton Edward Bailey",
+    "anio": 1961,
+    "isbn": "9788429179019",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Lubricación",
+      "Tribología"
+    ],
+    "formato": "Físico",
+    "notas": "Al escribir este volumen se ha tratado de hacer, principalmente, un texto sobre Tecnología de aceites y grasas; por esto, en su mayor parte (secciones C y D), se dedica a la descripción y estudio de los productos grasos de importancia comercial y a los productos usados en la manufactura de estos productos.En las dos secciones preliminares (A y B), se revisan brevemente la naturaleza, propiedades físicas y propiedades químicas de los aceites y grasas, y se estudian la composición, características y disponibilidades de las materias primas para la obtención de aquéllos.A.NATURALEZA DE LOS ACEITES Y GRASAS.Estructura y composición de los aceites y grasas.Reacciones de las grasas y los ácidos grasos.Propiedades físicas de las grasas y los ácidos grasos.Papel de las grasas en la dieta humana.B MATERIAS PRIMAS PARA LA PRODUCCIÓN DE ACEITES Y GRASAS.Fuentes, utilización y clasificación de los aceites y grasas.Composición y características de los distintos aceites y grasas.C UTILIZACIÓN INDUSTRIAL DE LAS GRASAS Y ACEITES.Aceites para cocinar y para ensaladas.Grasas plásticas para reposteria.Mantequilla y margarina.Productos horneados y confituras.Jabón y otros agentes tensoactivos.Pinturas, barnices y productos afines.Diversos productos derivados de los aceites y grasas.D.PROCESOS FUNDAMENTALES EN LA TECNOLOGÍA DE ACEITES Y GRASAS.Manipulación, almacenamiento y valoración de los aceites y productos oleaginosos.Extracción de grasas y aceites.Neutralización y decoloración.Hidrogenación.Desodorización.Hidrólisis de grasas, esterificación e interesterificación.Fabricación de jabón.Fraccionamiento de grasas y ácidos grasos.Polimerización, isomerización y procesos afines.Solidificación, homogenización y emulsionamiento.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=xFjGDCmLuKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1767062580291-d374a089d968",
+    "titulo": "Eficiencia energética en las instalaciones de calefacción y ACS en los edificios",
+    "autor": "DIEZ SUÁREZ, ANA MARÍA, GONZÁLEZ MARTÍNEZ, ALBERTO, DE LA PUENTE GIL, ALVARO, DE SOUSA DIAZ, LAURA, VEGA BARRALLO, BEATRIZ",
+    "anio": 2015,
+    "isbn": "9788428397216",
+    "editorial": "Ediciones Paraninfo, S.A.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Eficiencia Energética",
+      "Energía"
+    ],
+    "formato": "Físico",
+    "notas": "En la actualidad, el análisis de la eficiencia energética en instalaciones de calefacción y agua caliente sanitaria en edificios representa un campo de amplia aplicación, por lo que aquellos especialistas que deseen desarrollar su vida profesional en este ámbito laboral deberán dominar todos los elementos disponibles en dicha materia. A través de este manual aprenderemos a calcular la eficiencia e…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=koO5CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1767062524365-ff43a3bb05fba8",
+    "titulo": "Energías Del Siglo XXI",
+    "autor": "Fernando Calderón Fernández, Gregorio Gil García, Felipe Palomero Rodríguez, José Antonio Suárez Lepe",
+    "anio": 2009,
+    "isbn": "9788496709133",
+    "editorial": "",
+    "coleccion": "De Las Energías Fósiles a Las Alternativas",
+    "vol": "",
+    "categorias": [
+      "Energía",
+      "Medioambiente"
+    ],
+    "formato": "Físico",
+    "notas": "La finalidad de este libro es describir los métodos actuales de producción de energía, no limitándose, sin embargo, a la exposición de las más modernas tecnologías relacionadas con la obtención de energía útil, sino mostrando, además, su desarrollo a lo largo de los últimos años; no desdeñando describir la constante lucha por la mejora de la eficiencia y la seguridad medioambiental, todo ello con una clara finalidad formativa. No existe, hasta la fecha, obra alguna en lengua española que contemple las diversas formas de energía tanto fósiles como alternativas, se estima muy perjudicial la acostumbrada separación de textos relacionados con las energías dejando fuera de alcance a las energías no renovables o a las renovables, según los casos.Se intenta crear opinión, respecto a este asunto, demasiado importante para ser dejado únicamente en manos de los especialistas.El libro está dedicado a las personas con interés por los temas de su tiempo que utilizan fundamentalmente el español como lenguaje de comunicación, en particular técnicos, políticos, ejecutivos y, en general, aquellas personas con un interés en detener el calentamiento global del planeta cuyo origen principal es el efecto invernadero. Este viene determinado prioritariamente por las emisiones a la atmósfera de CO2, SO2, y NOx, entre otros, debidos fundamentalmente a la combustión de los combustibles fósiles.'",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=Ihc1QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767062456952-68dbfcc1ac3ff8",
+    "titulo": "Ingeniería de proyectos",
+    "autor": "A. González Marcos, Fernando Alba Elías, Joaquín B. Ordieres Meré",
+    "anio": 2014,
+    "isbn": "9788416277018",
+    "editorial": "Dextra",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Proyectos",
+      "Ingeniería"
+    ],
+    "formato": "Físico",
+    "notas": "El presente libro ha sido específicamente pensado como materia de base para dar a todo aquél que pretenda acometer un grado en ingeniería ( ya sea ésta Mecánica, Eléctrica, Química, Energía o en Tecnologías Industriales) una visión actualizada de la materia de Ingeniería del Proyecto. Se han tenido en su redacción en cuenta las últimas novedades y avances en todo aquello que afecta a la profesión del ingeniero. Así, se revisa el ciclo de vida del proyecto en ingeniería desde las etapas tempranas de concepción, el diseño, la ingeniería básica, la de detalle, la construcción, el montaje y la puesta en operación. Se cuidan aspectos esenciales como son: - Los aspectos Medioambientales y de Seguridad y Salud Laboral en el marco del Proyecto de Ingeniería La consideración integrada de la Ingeniería de Procesos.- La consideración de los suministros como un elemento clave, con especial atención a los INCOTERM y su impacto en el proceso de acopios. - La consideración de aspectos de investigación e innovación y su relación con el proyecto y su protección mediante la ley de propiedad industrial.- La documentación formal del proyecto, incluyendo aspectos claves para el proyecto como puede ser la presupuestación y el plan de obra.Todo esto se combina con un número significativo de ejercicios resueltos y casos prácticos. Los ejercicios resueltos son proporcionados a través de un servicio web, para mayor comodidad y mantenibilidad, lo que redundará en un mejor servicio al lector. Esta interface electrónica permitirá al lector acceder a revisiones y actualizaciones del contenido de la obra.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=_NPWrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767062323916-4a1ab3d4b80ca",
+    "titulo": "Ecuaciones Diferenciales Con Problemas Con Valores en la Frontera",
+    "autor": "Dennis G. Zill, Warren S. Wright",
+    "anio": 2014,
+    "isbn": "9786075194431",
+    "editorial": "Cengage Learning Editores",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Cálculo"
+    ],
+    "formato": "Físico",
+    "notas": "Nueva edición de este clásico, ahora presenta características que lo han renovado a fin de responder a muchas de las necesidades actuales de la enseñanza de las matemáticas, y en especial de las ecuaciones diferenciales. Incluye un CD-ROM con herramientas que complementan el desarrollo de los temas y los proyectos. Se aumentaron los proyectos, de manera que todos los capítulos finalizan con uno. Se crearon secciones de introducción y de repaso, al principio y al final de los capítulos. Presenta un diseño de páginas muy ágil y agradable para los estudiantes.Prefacio. Reconocimientos 1. Introducción a las ecuaciones diferenciales 2. Ecuaciones diferenciales de primer orden 3. Modelado con ecuaciones diferenciales de primer orden 4. Ecuaciones diferenciales de orden superior 5. Modelado con ecuaciones diferenciales de orden superior 6. Soluciones en serie de ecuaciones lineales 7. Transformada de Laplace 8. Sistemas de ecuaciones diferenciales de primer orden 9. Soluciones numéricas de ecuaciones diferenciales ordinarias 10. Sistemas autónomos planos 11. Funciones ortogonales y series de Fourier 12. Problemas de valores en la frontera en coordenadas rectangulares 13. Problemas de valores en la frontera en otros sistemas coordenados 14. Método de la transformada integral 15. Soluciones numéricas de ecuaciones diferenciales parciales. Apéndices. Respuestas a problemas impares. Índice.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=T6RzrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767062225793-421754fefb80b",
+    "titulo": "Ciencias aplicadas I, Formación Profesional Básica",
+    "autor": "Dulce María Andrés Cabrerizo, Francisco Javier Guerra Perlado",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Editex",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Ciencia"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ciencias-aplicadas-ii-formacion-profesional-basica.jpg"
+  },
+  {
+    "id": "libro-1767061945871-dd5460f991c978",
+    "titulo": "Ciencias aplicadas II, Formación Profesional Básica",
+    "autor": "Dulce María Andrés Cabrerizo, Francisco Javier Guerra Perlado",
+    "anio": 2,
+    "isbn": "9788490785188",
+    "editorial": "Editex",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencia"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ciencias-aplicadas-ii-formacion-profesional-basica.jpg"
+  },
+  {
+    "id": "libro-1767061728456-00cc493a23b3a",
+    "titulo": "Energía: desarrollos tecnológicos en la protección medioambiental",
+    "autor": "José Luis García Delgado",
+    "anio": 2011,
+    "isbn": "9788447038060",
+    "editorial": "Civitas",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Energía",
+      "Medioambiente"
+    ],
+    "formato": "Físico",
+    "notas": "Energía : Desarrollos Tecnológicos En La Protección Medioambiental JOSE LUIS GARCIA DELGADO CIVITAS – Esta obra recoge los textos de las Conferencias dictadas en la sede de la Comisión Nacional de Energía, dentro del Ciclo «La energía: mercados eficientes, suministro seguro y protección de los consumidores». El presente volumen se centra en la interrelación de los aspectos medioambientales y tecnológicos aplicados al sector energético, decisivos para atender uno de los pilares básicos de la política energética europea. Tras el prólogo de Alberto Pototschnig, Director de la nueva Agencia para la Cooperación de los Reguladores Energéticos (ACER), los nueve capítulos de la obra, a cargo de otros tantos destacados especialistas de reconocido prestigio nacional e internacional, se articulan en dos partes: «El papel de las energías renovables» y «Nuevos desarrollos tecnológicos».",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/energia-desarrollos-tecnologicos-en-la-proteccion-medioambiental.jpg"
+  },
+  {
+    "id": "libro-1767061615980-d6aab88e87b3e8",
+    "titulo": "Primera Parte",
+    "autor": "Alberto Fuguet",
+    "anio": 2007,
+    "isbn": "9789562392785",
+    "editorial": "punto de lectura",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Literatura"
+    ],
+    "formato": "Físico",
+    "notas": "Alberto Fuguet ha desarrollado una de las carreras más personales dentro del periodismo escrito. Con un estilo directo, urbano y a veces políticamente incorrecto, ha sintonizado como ninguno con las tendencias y actores sociales que lo rodean. Maneja con total destreza los límites de la ficción y la realidad, haciendo suyas las historias que observa. Se fascina con personajes y anécdotas que luego transforma en relatos que han marcado a un amplio sector de sus homólogos en la prensa nacional. Estas páginas albergan buena parte de la memoria pop de las últimas dos décadas. Mike Patton, Tim Burton, Mario Vargas Llosa, el asesino de John Lennon, Hollywood, la baja cultura y los giros idiomáticos que asume él mismo, son algunos de los temas que aquí explora el autor de Las películas de mi vida./p>",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/primera-parte.jpg"
+  },
+  {
+    "id": "libro-1767061442531-1eb688e49112b",
+    "titulo": "Diccionario Mapudungun Español / Español Mapudungun",
+    "autor": "",
+    "anio": 2022,
+    "isbn": "008486732422",
+    "editorial": "Centro Gráfico",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Diccionario",
+      "Lenguas"
+    ],
+    "formato": "Físico",
+    "notas": "El Diccionario Mapudungun - Español / Español - Mapudungun es una herramienta única para aprender y entender el idioma mapudungun, hablado por el pueblo mapuche, uno de los grupos indígenas más importantes de Chile y Argentina. Ideal para estudiantes, lingüistas, profesionales y todos aquellos interesados en la cultura y lengua mapuche.\n\nCaracterísticas del Producto:\n\nBilingüe y Completo: Este diccionario ofrece una traducción precisa entre Mapudungun y Español, lo que lo convierte en una herramienta indispensable tanto para quienes desean aprender mapudungun como para aquellos que necesitan consultar el idioma de forma práctica y rápida.\n\nVocabulario Extenso: Contiene una amplia gama de palabras y expresiones comunes en mapudungun, cubriendo áreas como la naturaleza, la vida cotidiana, la familia, los valores, entre otros, brindando una visión integral del idioma.\n\nFacilidad de Uso: Organizado alfabéticamente para facilitar la búsqueda rápida de términos, con explicaciones claras y ejemplos que facilitan su comprensión.\n\nRecurso Cultural: Más que un diccionario, es una ventana abierta a la cultura mapuche, permitiendo que los hablantes del español puedan acercarse a un idioma ancestral que sigue vivo y vigente en diversas comunidades de Chile y Argentina.\n\nIdeal para Estudiantes y Profesionales: Perfecto para quienes estudian lingüística, antropología, historia, o para aquellos interesados en preservar y promover el idioma mapudungun.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diccionario-mapudungun-espanol-espanol-mapudungun.jpg"
+  },
+  {
+    "id": "libro-1767061286641-6cd6070d2207b8",
+    "titulo": "Amberes",
+    "autor": "Roberto Bolaño",
+    "anio": 2002,
+    "isbn": "8433968327",
+    "editorial": "Anagrama",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Literatura"
+    ],
+    "formato": "Físico",
+    "notas": "\"Un policia perdido en la ruta que media entre Castelldefels y Barcelona, una pelirroja de la que todos hablan pero nadie ha visto, un vagabundo jorobado que vive en el bosque, un asesinato congelado en la memoria de unos pocos, escenas sadomasoquistas que aparecen como relampagos, protagonizadas por el policia y una mujer misteriosa, una pelicula que alguien proyecta en el bosque y en donde parec…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=ohtfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767061177461-62ca254bcacc9",
+    "titulo": "Capablanca",
+    "autor": "Vasili N. Panov",
+    "anio": 1973,
+    "isbn": "9788427002128",
+    "editorial": "Ediciones MArtinez Roca",
+    "coleccion": "Escaques",
+    "vol": "",
+    "categorias": [
+      "Chess",
+      "Ajedrez",
+      "reglamento"
+    ],
+    "formato": "Físico",
+    "notas": "Barcelona. Encuadernación En Tapa Blanda De Editorialei. 20 Cm. 242 P. Traducción Del Ruso Por Agustín Puig; Revisión Técnica De José Luis Brasero. Colección Escaques. Vol. 44. Capablanca, José Raúl. 1888 - 1942. Ajedrez. Cubierta Deslucida. Isbn: 84 - 270 - 0212 - 2",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/capablanca.jpg"
+  },
+  {
+    "id": "libro-1767060907135-efc662a8e9ac5",
+    "titulo": "La guía definitiva de Roblox",
+    "autor": "Jose Pingray Maria",
+    "anio": 2021,
+    "isbn": "9789871713301",
+    "editorial": "Guadal",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Juegos",
+      "Guía",
+      "Software"
+    ],
+    "formato": "Físico",
+    "notas": "Una guía imperdible que enseñará a los niños cómo dominar ¡y ser el mejor en los juegos más populares de Roblox vol.1.\nIncluye: Piggy\nAdopt Me\nFlee the Facility\nMy Restaurant",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-guia-definitiva-de-roblox.jpg"
+  },
+  {
+    "id": "libro-1767060661529-a17952e7be69b",
+    "titulo": "Crónicas y leyendas de coliumo",
+    "autor": "Francisco Cabrera Bastías",
+    "anio": 2022,
+    "isbn": "9789569657276",
+    "editorial": "Archivo Histórico de Concepción",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Leyendas",
+      "Literatura"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "Lo compré en museo de historia natural, parque Ecuador en 2024",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cronicas-y-leyendas-de-coliumo.jpg"
+  },
+  {
+    "id": "libro-1767060388504-7cd6e511150ba8",
+    "titulo": "La biomasa : fundamentos, tecnologías y aplicaciones",
+    "autor": "Alain Damien, Ana Madrid Cenzano",
+    "anio": 2008,
+    "isbn": "9788496709171",
+    "editorial": "AMV Ediciones",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Energía",
+      "Biomasa"
+    ],
+    "formato": "Físico",
+    "notas": "A Definiciones y generalidades. 1 Compuestos orgánicos producidos por la Naturaleza.- 1.1 Producción directa de biomasa.- 1.2 Producción indirecta de biomasa.- 1.3 El carbono fósil.- 1.4 Productos intermedios. 2 Definiciones reglamentarias de la biomasa.- 2.1 Reglamentación de la Unión Europea.- 2.2 Reglamentación francesa.- 2.3 Precisiones de las Naciones Unidas.- 2.4 Legislación y normativa espa…",
+    "comentarios": "NDICE RESUMIDO DEL LIBRO: A Definiciones y generalidades. B Fuentes de biomasa. C Métodos de transformación de la biomasa en energías. D Biocombustibles y biocarburantes. E Situación de la biomasa como fuente de energía: la biomasa- energía.\n\nBIOMASA, LA: FUNDAMENTOS, TECNOLOGÍAS Y APLICACIONES",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-biomasa-fundamentos-tecnologias-y-aplicaciones.jpg"
+  },
+  {
+    "id": "libro-1767060236389-22c8c852693c7",
+    "titulo": "La nueva era del cambio energético",
+    "autor": "Eric Spiegel",
+    "anio": 2011,
+    "isbn": "9786071502469",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Clima",
+      "Energía"
+    ],
+    "formato": "Físico",
+    "notas": "Es un recurso continuo para los ejecutivos y los responsables de elaborar políticas que necesitan una guía fiable y accesible para las grandes preguntas estratégicas en torno a la energía. Expone la información más actualizada sobre el futuro de la energía en un formato práctico y fácil de usar. Discute sobre las nuevas oportunidades que surgirán para los inversores, corporaciones y gobiernos. Ayuda a distinguir los mitos desarrollados por los medios de comunicación e ideas equivocadas de los efectos actuales que la crisis energética tendrá en diversos negocios y organizaciones",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nueva-era-del-cambio-energetico.jpg"
+  },
+  {
+    "id": "libro-1767060115346-d876a4c0e4496",
+    "titulo": "Algebra",
+    "autor": "Charles H. Lehmann",
+    "anio": 1983,
+    "isbn": "9789681801168",
+    "editorial": "Editorial Limusa S.A. De C.V.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Álgebra"
+    ],
+    "formato": "Físico",
+    "notas": "Este texto está dedicado al estudio de aquellos temas del álgebra que tradicionalmente se estudian en la universidad. Aunque se supone que solamente se ha cursado un curso de álgebra elemental aprovecharán mucho más este libro aquellos estudiantes que hayan llevado dos cursos de álgebra y uno de trigonometría plana. No es exagerado señalar la importancia que tiene el álgebra en los estudios universitarios, ya que es una experiencia bien conocida el hecho de que las deficiencias en esta materia impiden al estudiante cursar de manera satisfactoria la geometría analítica y el cálculo.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/algebra.jpg"
+  },
+  {
+    "id": "libro-1767059997447-b1baa910b2526",
+    "titulo": "La vuelta al mundo en 80 días",
+    "autor": "Julio Verne",
+    "anio": 2017,
+    "isbn": "9789563341171",
+    "editorial": "Ediciones Promocionales",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Literatura"
+    ],
+    "formato": "Físico",
+    "notas": "La vuelta al mundo en 80 días narra las aventuras del caballero inglés Phileas Fogg, que, acompañado de su criado Picaporte, quiere demostrar a la sociedad de su época (1872) que es posible recorrer la superficie de la Tierra en solo 80 días. Durante el viaje, no solamente tienen que luchar contra todo tipo de obstáculos (accidentes geológicos y geográficos, dificultades culturales y de locomoción_), sino que tienen que vérselas con un inspector de policía que confunde a Phileas Fogg con un ladrón y, sobre todo, deben luchar contra el paso de las horas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vuelta-al-mundo-en-80-dias.jpg"
+  },
+  {
+    "id": "libro-1767059877428-92a01d4b22f908",
+    "titulo": "El gran diseño",
+    "autor": "S. W. Hawking, Leonard Mlodinow",
+    "anio": 2013,
+    "isbn": "9788408119203",
+    "editorial": "Booket",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencia",
+      "Cosmología"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro de Stephen Hawking y Leonard Mlodinow sobre los descubrimientos y los progresos técnicos más recientes nos presenta una nueva imagen del universo, y de nuestro lugar en él, muy distinta de la tradicional e, incluso, de la imagen que el propio Hawking nos había proporcionado, hace ya más de veinte años, en su gran libro Historia del tiempo.\n\nEn él el gran físico nos explicaba de dónde procedía el universo y hacia dónde se encaminaba, pero aún no podía dar respuesta a importantes preguntas: ¿por qué existe el universo?, ¿por qué hay algo en lugar de nada?, ¿por qué existimos nosotros?, ¿necesita el universo un creador?\n\nEn los últimos años, el desarrollo de la teoría “M” (en realidad toda una familia de teorías enlazadas sobre física cuántica) y las recientes observaciones realizadas por los satélites de la NASA, nos permiten ya enfrentarnos a la pregunta fundamental: la Cuestión Última de la Vida, el Universo y el Todo.\n\nSi esta teoría última es verificada por la observación científica, habremos culminado una búsqueda que se remonta a hace más de tres mil años: habremos hallado el Gran Diseño.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=XIGfngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767059737793-40a024de604bf8",
+    "titulo": "Guía práctica para la integración de sistemas de gestión, ISO 9001, ISO 14001 e ISO 45001",
+    "autor": "Natalia Calso Morales",
+    "anio": 2018,
+    "isbn": "9788481439694",
+    "editorial": "Aenor",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Normas",
+      "ISO",
+      "Gestión"
+    ],
+    "formato": "Físico",
+    "notas": "omprender las características de cada empresa y su contexto, además de conocer los requisitos de cada sistema de gestión, es vital para llevar a cabo una buena integración. El sistema integrado debe funcionar como un todo, aunque esté compuesto de elementos diferentes interrelacionados entre sí. La Guía práctica para la integración de sistemas de gestión es una herramienta muy útil a la hora de gestionar tanta información. Tal y como se menciona en el libro: “La integración de sistemas es el futuro”.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-practica-para-la-integracion-de-sistemas-de-gestion-iso-9001-iso-14001-e-iso-45001.jpg"
+  },
+  {
+    "id": "libro-1767059642852-5593d2dbb346b8",
+    "titulo": "El amor y en los tiempos del cólera",
+    "autor": "Gabriel García Márquez",
+    "anio": 2005,
+    "isbn": "9500726084",
+    "editorial": "Sudamericana",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Colombia",
+      "Novela",
+      "Literatura"
+    ],
+    "formato": "Físico",
+    "notas": "\"El amor en los tiempos del cólera\" es una célebre novela de 1985 del escritor colombiano Gabriel García Márquez, que narra la historia de amor incondicional de Florentino Ariza por Fermina Daza, desde su juventud hasta la vejez, a través de más de medio siglo de esperas, obstáculos y encuentros, inspirada en la relación de los padres del autor y ambientada en el Caribe colombiano, explorando temas como la persistencia del amor, la fidelidad, el tiempo y la muerte.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=obebgK699sYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767059525737-7a03c42758e93",
+    "titulo": "Climate Change and Biodiversity",
+    "autor": "Thomas E. Lovejoy, Lee Hannah",
+    "anio": 2004,
+    "isbn": "9780300119800",
+    "editorial": "Yale University Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Clima",
+      "Biodiversidad"
+    ],
+    "formato": "Físico",
+    "notas": "Leading researchers discuss what is now known about the effects of climate change on the natural world. They examine recent trends in and projections about climate chan≥ ways that particular organisms are responding to climate chan≥ conservation challenges, including social and policy issues; and more. \"This book will be a milestone in the emerging discipline of climate change biology. No issue is…",
+    "comentarios": "Investigadores destacados debaten sobre los efectos del cambio climático en la naturaleza. Examinan las tendencias y proyecciones recientes sobre el cambio climático, las formas en que determinados organismos responden a los desafíos de conservación del cambio climático, incluyendo cuestiones sociales y políticas, y más. «Este libro marcará un hito en la disciplina emergente de la biología del cambio climático. Ningún tema es…»",
+    "portada": "https://books.google.com/books/content?id=T0n45hxqy_gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1767059444964-6aad3259037668",
+    "titulo": "Ecuaciones diferenciales ordinarias. Intr. Problemas resueltos",
+    "autor": "Ernesto Javier Espinosa Herrera , Ignacio Canals Navarrete , Ismael Muñoz Maya , Rafael Pérez Flores , Carlos Daniel; Prado Pérez , Rubén Darío Santiago Acosta , Carlos Antonio Ulín Jiménez",
+    "anio": 2012,
+    "isbn": "978-607-7815-07-5",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "matemáticas",
+      "Cálculo"
+    ],
+    "formato": "Físico",
+    "notas": "El libro Ecuaciones diferenciales ordinarias. Introducción. Problemas resueltos contiene el desarrollo, con todo detalle, y la solución de los ejercicios que aparecen en el volumen de teoría Ecuaciones diferenciales ordinarias. Introducción. Ambos libros fueron diseñados como una sola obra en dos tomos, concebida para estudiantes de escuelas de ingeniería. Tanto los ejemplos de la teoría como el conjunto de los ejercicios fueron elegidos entre aquellos que los autores hemos utilizado en las múltiples ocasiones que hemos impartido este material. De los siete capítulos de este volumen de problemas, dos contienen ejercicios de aplicación y los otros cinco, ejercicios sobre algoritmos y estrategias de solución de ecuaciones diferenciales (ED).",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ecuaciones-diferenciales-ordinarias-intr-problemas-resueltos.jpg"
+  },
+  {
+    "id": "libro-1767059295326-681fcbe62fd7b8",
+    "titulo": "Teoría de la señal",
+    "autor": "L. E. Franks",
+    "anio": 1975,
+    "isbn": "9788429140347",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Control Automático",
+      "Estadísticas",
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Como oferta a un curso formal, el nivel del texto es adecuado para graduados de un primer año de Ingeniería que hayan superado un curso de sistemas lineales (donde se insista en aplicaciones de la transformada de Fourier) y una introducción a las probabilidades y variables aleatorias.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=D5Q2CFr-pakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1767059220962-f3a720bf326f",
+    "titulo": "Taller de Arduino, experimentando con Arduino MKR 1010",
+    "autor": "Germán Tojeiro Calaza",
+    "anio": 2021,
+    "isbn": "9788426726162",
+    "editorial": "Marcombo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Arduino"
+    ],
+    "formato": "Físico",
+    "notas": "Ha llegado el libro que estaba esperando: conozca Arduino a través de múltiples prácticas ordenadas por nivel de dificultad. En esta segunda edición se ahonda en el desarrollo de muchas de las prácticas expuestas en la primera edición del libro, pero se emplea el novedoso Arduino MKR 1010. Mucho más potente y dotado de un módulo de conexión WiFi, Arduino MKR 1010 le permitirá adentrarse en el mundo del internet de las cosas (IoT). Asimismo, en esta guía de autoaprendizaje se presentan nuevas herramientas de desarrollo hardware, como el sistema Grove, que evita el cableado de componentes, y los “bricks”, el método revolucionario en el terreno educativo de la electrónica. En cuanto al software, se muestran las plataformas IoT más relevantes en la actualidad. ThingSpeak, Adafruit IO o Blynk integran los valores captados por diferentes sensores a través de Arduino 1010 para mostrarlos ordenada y gráficamente en un PC, una tablet o un móvil. Además, se dedica un capítulo completo a las comunicaciones Bluetooth y al desarrollo de aplicaciones para Android utilizando App Inventor 2, así como se incluye otro capítulo sobre las comunicaciones LoRaWAN, tratadas con un ejemplo práctico y didáctico por medio de Arduino MKR 1300. TTN y Ubidots se muestran como ejemplos de utilización básica. Con este libro, iniciarse en el internet de las cosas sin perder de vista la sencillez de la programación con Arduino, es posible. Consiga ya su ejemplar, disfrute de su enfoque práctico y conozca las herramientas que le permitirán innovar en el desarrollo de sus proyectos. Páginas: 520 Edición: 2 Fecha de publicación: 10/11/2020 ISBN: 9788426726162 Formato: 17x24 cms",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/taller-de-arduino-experimentando-con-arduino-mkr-1010.jpg"
+  },
+  {
     "id": "libro-1767056634940-815bfb58f98808",
     "titulo": "Frente al apocalipsis del clima",
     "autor": "Tamames, Ramón",
@@ -8,14 +461,15 @@
     "editorial": "Profit",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Clima",
       "Medioambiente"
     ],
-    "formato": "Físico",
     "notas": "Reseña – Frente al Apocalipsis del Clima: La lucha contra el calentamiento global. De Río-92 a París-2015 – Ramón Tamames\n(Profit Editorial – Instituto Coordenadas de Gobernanza y Economía Aplicada)\n\nFrente al Apocalipsis del Clima es una obra de corte divulgativo-analítico en la que Ramón Tamames aborda, con una mirada histórica, política y económica, la evolución del debate internacional sobre el cambio climático y las estrategias globales para enfrentarlo. El libro sigue un recorrido que comienza con la Cumbre de la Tierra (Río-1992) y avanza hasta el acuerdo de París-2015, examinando los hitos, avances, retrocesos y controversias surgidos en torno a uno de los mayores desafíos de nuestra era: el calentamiento global.\n\nEl tono del texto es reflexivo y crítico, orientado a comprender no solo los fenómenos físicos y científicos del cambio climático, sino también su dimensión geopolítica: las negociaciones internacionales, la tensión entre países desarrollados y economías emergentes, el papel de los organismos multilaterales y la responsabilidad compartida —aunque no siempre equilibrada— entre naciones. Tamames combina datos empíricos, análisis económico y referencias históricas para mostrar cómo la lucha climática ha sido, en gran medida, un escenario de intereses divergentes, donde la voluntad política y los compromisos reales suelen distanciarse del discurso.\n\nEl libro destaca también por su capacidad de contextualizar el problema ambiental en la economía global, discutiendo temas como la transición energética, la necesidad de inversiones sostenibles, los efectos sociales del cambio climático y las perspectivas de futuro ante la urgencia climática. Si bien su estilo puede percibirse más ensayístico que técnico, ofrece una lectura accesible y útil para quienes buscan entender el debate climático desde una mirada panorámica y no únicamente científica.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/frente-al-apocalipsis-del-clima.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/frente-al-apocalipsis-del-clima.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767056487530-58a72c8c7c8f9",
@@ -26,15 +480,16 @@
     "editorial": "Rialp",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Clima",
       "Medioambiente",
       "Historia"
     ],
-    "formato": "Físico",
     "notas": "Historia De Los Cambios Climáticos JOSE LUIS COMELLAS GARCIALERA RIALP – «Muchas veces me preguntan si de verdad está cambiando el clima: el clima siempre ha cambiado, y a veces de forma más espectacular y mucho más temible que como lo está haciendo ahora». Según José Luis Comellas, el debate actual ha sido envenenado por los inmensos intereses en juego. Una vez más, el componente ideológico incide en un territorio que debería corresponder a los especialistas. Con su amable lenguaje, el autor nos ofrece un magnífico trabajo sobre cuestiones de enorme interés y actualidad, que incide en la vida de los pueblos, en sus leyes y en sus costumbres: las glaciaciones, el efecto invernadero, el calentamiento global… Tenemos más medios que nunca para corregir nuestros errores, y la obligación de dejar un mundo mejor a quienes nos sucedan.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-los-cambios-climaticos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-los-cambios-climaticos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767056358942-07ebdfe7a72b2",
@@ -45,14 +500,15 @@
     "editorial": "Los Libros De La Catarata",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Biología",
       "Ecología"
     ],
-    "formato": "Físico",
     "notas": "Nuestro organismo está compuesto por un setenta por ciento de agua y vivimos en un planeta que, aunque se llame Tierra, destaca por el color azul de unos océanos que lo cubren en casi las tres cuartas partes de su superficie; doce hombres han pisado la Luna, pero apenas tres han conseguido descender hasta los fondos abisales, que permanecen como una frontera casi inaccesible para los humanos. Así, la presencia de agua es una condición imprescindible para la existencia de vida y de los sistemas naturales, pero aún son muchas las cosas que nos quedan por conocer de este elemento. Aunque probablemente todos los lectores se sepan de memoria su fórmula química, la lectura de esta obra les abrirá las puertas a un mundo apasionante, en el que el agua se revela no solo como alimento, medicamento o veneno, sino también como fuente de vida, causa de conflicto y muerte.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-agua.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-agua.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767056206676-81fb3478bef7d8",
@@ -63,14 +519,15 @@
     "editorial": "Nivola",
     "coleccion": "Literatura y matemáticas",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Historia"
     ],
-    "formato": "Físico",
     "notas": "Nada parece estar más alejado del mundo literario que la galaxia de las matemáticas. Y sin embargo durante siglos los poetas buscaron inspiración en las ciencias exactas a la vez que los matemáticos se valieron de la poesía para expresar sus ideas y divulgar sus descubrimientos, compartiendo de este modo todos ellos una esfera común del saber. Este libro se propone mostrar que, en contra de lo que…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=rJqMtgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=rJqMtgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767055911303-4e07befa4b8bb8",
@@ -81,13 +538,14 @@
     "editorial": "Universidad Católica de Chile",
     "coleccion": "",
     "vol": "4a Ed.",
+    "formato": "Físico",
     "categorias": [
       "Mecánica de Fluídos"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Bonifacio Fernández es Ingeniero Civil de la Pontificia Universidad Católica de Chile y M.Sc. y Ph.D. en Ingeniería Civil por la Universidad del Estado de Colorado, EE.UU. Ha dirigido varias investigaciones en temas relacionados con recursos hídricos, sequías, estimación de riesgo de fenómenos hidrológicos complejos y soluciones para drenaje urbano de aguas lluvia, cuyos resultados han dado origen a numerosas publicaciones científicas y técnicas en revistas especializadas así como presentaciones en congresos internacionales de la especialidad.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-mecanica-de-fluidos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-mecanica-de-fluidos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767055607207-5bd08978ff44f",
@@ -98,14 +556,15 @@
     "editorial": "Dextra",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica",
       "Calor"
     ],
-    "formato": "Físico",
     "notas": "Este texto le será de ayuda a cualquier lector para abordar lo que podría considerarse un curso sobre “Fundamentos de la Transmisión de Calor”, contenido que es común a las asignaturas que sobre esta materia se imparten en numerosas facultades y escuelas técnicas.Este libro tiene un claro enfoque que es el de poder adquirir los conocimientos en un tiempo de estudio limitado. Por ello se elige el formato de “cuaderno”, que recoge de forma esquemática las definiciones, conceptos, métodos, ecuaciones y correlaciones necesarios para comprender y resolver problemas y cuestiones sobre los mecanismos de transferencia de calor.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fundamentos-de-transmision-de-calor.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fundamentos-de-transmision-de-calor.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767055445677-1820f2f851663",
@@ -116,13 +575,14 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "2da Ed.",
+    "formato": "Físico",
     "categorias": [
       "Mecánica de Fluídos"
     ],
-    "formato": "Físico",
     "notas": "Este libro fue hecho para usarse como libro de texto en el primer curso de mecánica de fluidos de estudiantes de licenciatura de ingeniería, en los años iniciales o avanzados. Se asume que los estudiantes tiene una preparación adecuada en cálculo diferencial e integral, física, mecánica para ingeniería y termodinámica.\n\nEl texto contiene material suficiente para dar a los profesores la flexibilidad en cuanto a los temas que deben resaltar. Por ejemplo, los instructores de ingeniería aeronáutica y espacial puede destacar el flujo potencia, la resistencia al movimiento y la sustentación, el flujo compresible, la turbo-maquinaria y la dinámica de fluidos computacional.\n\nEn cambio, es posible que los profesores de ingeniería mecánica y civil elijan temas como flujos en tubos y en canales abiertos, respectivamente.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mecanica-de-fluidos-fundamentos-y-aplicaciones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mecanica-de-fluidos-fundamentos-y-aplicaciones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767055110730-3af6ebc27bcb18",
@@ -133,14 +593,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "2da Ed,",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Cálculo"
     ],
-    "formato": "Físico",
     "notas": "Análisis Matemático de Tom M. Apostol es una de las obras más influyentes y respetadas en el campo del cálculo avanzado y el análisis real, utilizada por décadas en universidades de prestigio alrededor del mundo para la formación matemática rigurosa de ingenieros, físicos y matemáticos. Su estilo se distingue por un enfoque formal, lógico y axiomático, donde cada concepto es introducido con precisión y sustentado en demostraciones cuidadosas.\n\nEl libro no solo cubre los contenidos tradicionales del cálculo diferencial e integral, sino que también incorpora con profundidad temas fundamentales del análisis real moderno, como sucesiones, series, topología básica, funciones continuas, derivabilidad, integración de Riemann y propiedades estructurales de los números reales. En paralelo, su metodología fomenta el pensamiento matemático disciplinado: cada capítulo presenta teoremas, demostraciones y ejercicios que exigen razonamiento abstracto y capacidad de argumentación, más allá de simples aplicaciones numéricas.\n\nSi bien puede resultar desafiante para quienes buscan una aproximación intuitiva o aplicada al cálculo, su mayor fortaleza radica precisamente en esa formalidad: Apostol transforma el cálculo en una disciplina estructurada, mostrando que detrás de operaciones aparentemente sencillas existe una arquitectura conceptual profunda. Además, el libro es especialmente valioso como puente hacia cursos superiores de análisis funcional, ecuaciones diferenciales y teoría de medida.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analisis-matematico-2da-ed.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analisis-matematico-2da-ed.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767054996454-015fbfa3394d78",
@@ -151,15 +612,16 @@
     "editorial": "Paidos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia",
       "Historia",
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Durante el turbulento siglo XIII, el principio de la navaja de Occam cambió nuestra percepción del mundo al demostrar que las respuestas más simples suelen ser las más acertadas. En La vida es simple, el científico Johnjoe McFadden recorre siglos de descubrimientos —desde el universo heliocéntrico de Copérnico hasta la mecánica cuántica de Einstein y el ADN de Watson y Crick, pasando por las leyes de Newton y la teoría de la evolución de Darwin— para señalar cómo la simplicidad ha revelado las respuestas fundamentales a los misterios más grandes de la naturaleza. Y esto no es una coincidencia: McFadden afirma que la vida solo podría haber surgido adoptando la máxima simplicidad. Al reformular tanto la historia de la ciencia como los orígenes de nuestro universo, McFadden transforma nuestra comprensión de nosotros mismos y de nuestro mundo, y con La vida es simple brinda una nueva visión de lo que realmente es la ciencia. Editorial: Paidós Traductor: Fernando Borrajo Número de páginas: 392 Idioma: Español ISBN: 978-84-493-3976-9 Formato: 15,3 x 23,3 cm. Presentación: Rústica con solapas",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-es-simple.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-es-simple.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767054677619-548970d8acd898",
@@ -170,16 +632,17 @@
     "editorial": "Becocci Editore",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Arte",
       "Ingeniería",
       "Máquinas",
       "Historia"
     ],
-    "formato": "Físico",
     "notas": "El mito de que Leonardo fue un ingenioso precursor de todos los descubrimientos e inventos de nuestra era surge de la propia figura misteriosa y, comprensiblemente, de las reflexiones espontáneas iniciales de quien contempla sus dibujos tecnológicos o los modelos de sus máquinas. La propaganda del «genio italiano», iniciada con la exposición de Leonardo en Milán en 1939, contribuyó posteriormente decisivamente a dicho mito, junto con una presentación más reciente de una imagen comercial dirigida al gran público que ha sido un claro éxito.",
     "comentarios": "Libro comprado en el museo de Leonardo en el Museo Interactivo Leonardo da Vinci en Florencia en febrero del 2025. María José y yo entramos al museo",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-maquinas-de-leonardo-da-vinci.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-maquinas-de-leonardo-da-vinci.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767054448679-9b455e9df8583",
@@ -190,14 +653,15 @@
     "editorial": "Macro",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mecánica",
       "Estática"
     ],
-    "formato": "Físico",
     "notas": "Material indispensable dirigido a estudiantes y profesionales de las carreras de ingeniería, y fundamental para el aprendizaje de la ingeniería estructural. Tiene el propósito de ofrecer al usuario información inédita referente a centros de gravedad, momentos de inercia, productos de inercia, entre otros temas más. También explica cómo se generan las fuerzas internas en barras, vigas, cables, pórticos y arcos. El libro ofrece una presentación clara y concisa de contenido teórico y, además, está reforzado con ejercicios prácticos, con diferentes grados de dificultad. Todo ello permite que temas como fuerzas concurrentes, pares de fuerza, fuerzas coplanares, fuerzas paralelas, torsor, fuerzas distribuidas sobre líneas, fuerzas distribuidas sobre superficies planas, entre otros, sean de gran utilidad para el entendimiento de la estática.CAPÍTULO 1. REDUCCIÓN GENERAL DE FUERZAS1.1 Fuerzas concurrentes1.2 Momento de una fuerza con respecto a un punto1.3 Momento de una fuerza con respecto a un eje1.4 El principio de los momentos (Teorema de Varignon)1.5 Momento de un par de fuerzas1.6 Descomposición de una fuerza en fuerza y par1.7 Sistemas de fuerzas equivalentes1.8 Reducción de un sistema de fuerzas en fuerza y par1.9 Fuerzas coplanares1.10 Fuerzas paralelas1.11 Reducción general de un sistema de fuerzas en el espacioProblemas resueltosCAPÍTULO 2. FUERZAS DISTRIBUIDAS2.1 Tipos de cargas distribuidasProblemas resueltosCAPÍTULO 3. CENTRO DE GRAVEDAD3.1 Peso (W)3.2 Centro de gravedad de cuerpos homogéneos3.2.1 Centro de gravedad de líneas3.2.2 Centro de gravedad de áreas3.2.3 Centro de gravedad de volúmenes3.3 Teoremas de Pappus y Guldinus3.4 Tabla de centros de gravedadProblemas resueltosCAPÍTULO 4. MOMENTO DE INERCIA DE SUPERFICIES PLANAS4.1 Teorema de ejes paralelos (Steiner)4.2 Radio de giro4.3 Producto de inercia o momento segundo mixto4.4 Rotación de ejes4.5 Momentos de inercia principales4.6 Método gráfico: Círculo de Mohr4.7 Tabla de momentos de inercia4.8 Tabla de productos de inerciaProblemas resueltosCAPÍTULO 5. FUERZAS SOBRE SUPERFICIES SUMERGIDAS5.1 Fuerzas sobre superficies planas5.2 Fuerzas sobre superficies curvasProblemas resueltosCAPÍTULO 6. EQUILIBRIO DEL CUERPO RÍGIDO6.1 Equilibrio en dos dimensiones6.2 Equilibrio en tres dimensiones6.3 Reacciones en los apoyos y conexionesProblemas resueltosCAPÍTULO 7. FUERZAS EN VIGAS Y PÓRTICOS7.1 Fuerzas internas: V, N, M7.2 Tipos de cargas7.3 Secciones transversales7.4 Tipos de viga7.5 Relación entre carga distribuida, fuerza cortante y momento flexionante7.6 Estructura: Pórtico isostáticoProblemas resueltosCAPÍTULO 8. FUERZAS EN ARMADURAS PLANAS8.1 Fuerzas internas en las barras8.2 Armadura8.3 Barras con fuerza nula8.4 Método de los nudos8.5 Método de las seccionesProblemas resueltosCAPÍTULO 9. FUERZAS EN MARCOS9.1 Denominación9.2 Definición y metodologíaProblemas resueltosCAPÍTULO 10. FUERZAS EN CABLES10.1 Tipos de fuerzas en cables10.1.1 Cables con cargas concentradas10.1.2 Cable parabólico10.1.3 Cable catenariaProblemas resueltosBibliografía",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estatica-teoria-y-aplicaciones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estatica-teoria-y-aplicaciones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767054318764-7be57ec6299e98",
@@ -208,13 +672,14 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "Consultar comentario general de la obra completa. Índice Introducción. Conceptos previos. Los principios de la Termodinámica. Formalismo termodinámico. Condiciones de equilibrio y estabilidad. Estudio termodinámico de los procesos. Fases en equilibrio. Determinación de las magnitudes termodinámicas. Sistemas simples pluricomponentes. Equilibrio de fases pluricomponentes. Sistemas binarios. Termodinámica de las reacciones químicas. Sistemas termodinámicos generales. Gases ideales monocomponentes. Gases ideales cuánticos. Gases reales y modelos para gases. Fases puras. Disoluciones. Equilibrio de disoluciones. Disoluciones binarias. Formalismo y métodos de la Termodinámica (2 vols.) (Volumen 1) Por J. BIEL GAYE, Universidad De Granada, EspaÑa. 8429143432 Primera edición original 1998 400 pág. 1 color 17 X 24 cm 130 figs, 25 tablas y 108 ejercicios Añadir a cesta de la compra Ver cesta de la compra Descripción",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=QVd1rRyKUjkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=QVd1rRyKUjkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767054174681-ae5c6682e6da58",
@@ -225,13 +690,14 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "Consultar comentario general de la obra completa. Índice Introducción. Conceptos previos. Los principios de la Termodinámica. Formalismo termodinámico. Condiciones de equilibrio y estabilidad. Estudio termodinámico de los procesos. Fases en equilibrio. Determinación de las magnitudes termodinámicas. Sistemas simples pluricomponentes. Equilibrio de fases pluricomponentes. Sistemas binarios. Termodinámica de las reacciones químicas. Sistemas termodinámicos generales. Gases ideales monocomponentes. Gases ideales cuánticos. Gases reales y modelos para gases. Fases puras. Disoluciones. Equilibrio de disoluciones. Disoluciones binarias.\n\nFormalismo y métodos de la Termodinámica (2 vols.) (Volumen 1) Por J. BIEL GAYE, Universidad De Granada, EspaÑa. 8429143432 Primera edición original 1998 400 pág. 1 color 17 X 24 cm 130 figs, 25 tablas y 108 ejercicios Añadir a cesta de la compra Ver cesta de la compra Descripción",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=Gi4VjrdODdYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=Gi4VjrdODdYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767054094997-b6addb59999978",
@@ -242,14 +708,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Discretas"
     ],
-    "formato": "Físico",
     "notas": "Invitación a la matemática discreta es una introducción clara, accesible y autocontenida a la matemática discreta, y en particular a la combinatoria y la teoría de grafos. Está orientada a estudiantes de grado y primeros cursos de postgrado y ha sido escrita con el propósito de estimular el interés por las matemáticas a través de una aproximación activa al material por medio de la resolución de problemas. La obra se centra en un espectro menor de temas que la mayoría de textos de matemática discreta con la intención de abordar los contenidos seleccionados con una profundidad poco común y bajo puntos de vista diversos.\n\nEl libro refleja la convicción de los autores que el mayor provecho que se obtiene estudiando matemáticas es el cultivo de un pensamiento lógico y transparente. Los más de 400 ejercicios que acompañan al texto, de diferentes grados de dificultad y muchos de ellos con indicaciones para su solución, sostienen esa opinión. La obra está escrita con un estilo vivaz e informal y ha sido ilustrada con más de 200 diagramas y dibujos.\n\nInvitación A La Matemática Discreta\nNesetril, Jaroslav; Matousek, Jirí (Editorial Reverte)",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=ycms-m99nzoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=ycms-m99nzoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767053985121-5982a74f2ce3b8",
@@ -260,15 +727,16 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mecánica",
       "Proyectos",
       "Mecanismos"
     ],
-    "formato": "Físico",
     "notas": "Este libro es un libro de texto y está escrito para estudiantes. La presentación es lo bastante elemental como para impartirse en el primer año del plan de estudios de cualquier carrera técnica. No presume de conocimientos de cálculo o físicos sino que utiliza con gran profusión técnicas gráficas que faciliten el estudio de esta materia basándose en la Geometría. La claridad y simplicidad del estudio gráfico, prolonga la capacidad del estudiante más allá de los límites usuales de los cursos de introducción.\n\nDesplazamiento. Velocidad. Aceleración. Análisis gráfico del movimiento. Engranajes. Trenes de engranajes. Sistemas articulados. Levas. Mecanismos",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=xZnIruFfnBcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=xZnIruFfnBcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767053775912-1d0e4b1226de",
@@ -279,14 +747,15 @@
     "editorial": "Dextra",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mecánica",
       "Sólidos"
     ],
-    "formato": "Físico",
     "notas": "El estado actual de la técnica requiere cada vez mayor conocimiento profundo de la mecánica de los sólidos reales que permita sacar un mayor partido a los materiales, optimizando los diseños de las estructuras y de las máquinas y que le permita a su vez prever su comportamiento en las condiciones más severas.Los autores han ordenado el contenido del libro en finción del comportamiento del material una vez introducidos los modelos básicos de equilibrio y cenemático. Así se abordan la elasticidad, la termoelasticidad, la viscoelasticidad, la plasticidad y la rotura. Todos los capítulos vienen acompañados por extensos ejemplos de aplicaciones.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-mecanica-de-los-solidos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-mecanica-de-los-solidos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767053706027-472ce931d87ab8",
@@ -297,15 +766,16 @@
     "editorial": "Mapfre",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Iluminación",
       "Seguridad",
       "Trabajo"
     ],
-    "formato": "Físico",
     "notas": "Mapfre. Rústica. New/New. Junto a los imprescindibles apartados sobre la luz, el sistema visual y las magnitudes y principios fundamentales en la iluminación se analizan los aspectos que interrelacionan iluminación, riesgo y seguridad, así como el confort visual y la calidad de las condiciones de trabajo.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=mfJxAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=mfJxAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767053567841-d331873ed016d8",
@@ -316,14 +786,15 @@
     "editorial": "Nivola",
     "coleccion": "Científicos para la Historia",
     "vol": "9",
+    "formato": "Físico",
     "categorias": [
       "Astronomía",
       "Historia"
     ],
-    "formato": "Físico",
     "notas": "Copérnico y Kepler son dos personalidades muy distintas unidas por la época turbulenta en que les tocó vivir y por la empresa titánica a la que ambos se enfrentaron. Frío, distante, parco y desconocido el primero; extrovertido, próximo y prolífico el otro; sus vidas y sus historias, su época y sus obras ofrecen una visión humanizada de la ciencia, la traen al plano de la actividad cotidiana y permiten verla como una producción cultural e histórica. Sólo si nos acercamos de este modo a la ciencia, comprenderemos que los científicos, mucho más que agentes ciegos de un destino, instrumentos impersonales de un progreso necesario, son creadores de nuevas visiones del mundo que nos rodea y, por tanto, protagonistas de la historia global y de la cultura humana.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=-kDDcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=-kDDcQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767053418070-a3e43608404e6",
@@ -334,13 +805,14 @@
     "editorial": "Debate",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Genética"
     ],
-    "formato": "Físico",
     "notas": "Bioquímica, investigadora, profesora universitaria y reciente premio Nobel, Jennifer Doudna realizó en 2012, junto con Emmanuelle Charpentier, uno de los avances científicos más importantes del último siglo: el desarrollo de la tecnología CRISPR, una herramienta genética capaz de editar el ADN y, por lo tanto, de transformar el mundo. El código de la vida es la trepidante historia de ese descubrimiento, sus orígenes, sus protagonistas, sus aplicaciones científicas, y una exploración de una de las cuestiones más relevantes del futuro: ¿qué significa ser humano cuando se es capaz de manipular la información genética?",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-codigo-de-la-vida-jennifer-doudna-la-edicion-genetica-y-el-futuro-de-la-especie-humana.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-codigo-de-la-vida-jennifer-doudna-la-edicion-genetica-y-el-futuro-de-la-especie-humana.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767053203106-ba35608035b47",
@@ -351,13 +823,14 @@
     "editorial": "Planeta",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Sinopsis de Pi: una autobiografía infinita\nEmbárcate en una travesía fascinante por el mundo y la historia de las matemáticas.\n\nLas matemáticas nos acompañan desde tiempos remotos. Sin ellas no podríamos, por ejemplo, haber alcanzado los avances tecnológicos que tantos problemas han resuelto en áreas como la salud o la economía. Es más, un inventor como Leonardo da Vinci afirmó: “No existe ninguna certeza cuando no se puede aplicar alguna de las ciencias matemáticas”. Por eso, que  quiera contarnos su historia no solo nos permitirá entender más el mundo de los números, sino que también la naturaleza de la realidad.\n\nEn este divertido y sencillo relato, Mahsa, Andrés y Verena nos acompañan en un recorrido a través de la presencia recurrente de 兀 en la naturaleza, en las obras humanas y también en la imaginación.\n\n兀: Una autobiografía infinita es una travesía que va desde los números hasta las formas que vemos a diario, para conocer el origen y el destino de un número irracional al cual solo podemos acercarnos mediante aproximaciones.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pi-una-autobiografia-infinita.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pi-una-autobiografia-infinita.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767053089951-fa644f737dd788",
@@ -368,13 +841,14 @@
     "editorial": "Nivola",
     "coleccion": "La matemática en sus personajes",
     "vol": "50",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "J. B. J. Fourier (1768-1830), autor de la Teoría analítica del calor, es considerado uno de los fundadores de la física matemática moderna.\n\nAl tratar un tema que, por su propia naturaleza, quedaba fuera de los dominios de la mecánica racional, se vio obligado a enfrentarse a ciertos problemas completamente nuevos, y los abordó con más imaginación que rigor. Así, cuando presentó sus resultados ante la Academia de Ciencias de París, se inició un debate en el que participaría lo más granado del universo matemático del momento, y que se prolongaría por muchos años, hasta casi la muerte de Fourier.\n\nAl final, la razón se puso del lado de nuestro héroe, pero el proceso necesario para aclarar todos los detalles de aquella discusión llevó a introducir numerosas ideas y métodos que son esenciales para comprender las matemáticas del siglo XX, y el debate, en algunos de sus puntos cruciales, no llegó a cerrarse hasta la década de 1960.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fourier-un-debate-acalorado.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fourier-un-debate-acalorado.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767052915373-6b16b78cc5c47",
@@ -385,14 +859,15 @@
     "editorial": "CSIC",
     "coleccion": "Debates Científicos",
     "vol": "3",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Nuclear"
     ],
-    "formato": "Físico",
     "notas": "Energía Nuclear ENRIQUE GONZALEZ ROMERO LIBROS DE LA CATARATA – En la energía nuclear suele darse el fenómeno que se designa en inglés con el acrónimo NIMBY (“Not in my back yard”) y que algunos traducen al español como SPAN (“Sí, pero aquí no”), es decir, que muchos ciudadanos no la verían mal, siempre que las correspondientes centrales se instalasen lejos de sus casas. La relación de los humanos con las fuentes de energía ha solido ser conflictiva, desde el mismo momento en que Prometeo le robó el fuego a Zeus para llevárselo a ellos y, en otro orden de cosas, aunque don Quijote no se caracterizaba por una fidedigna percepción de los hechos reales, lo cierto es que rompió una lanza, precisamente, contra un molino de viento, que es un artefacto que aprovecha la energía de la naturaleza. Pero este libro no discurre en el mundo del mito, el de Prometeo y don Quijote, sino en el plano científico, el de los argumentos y los datos empíricos y, a partir de ellos, trata de informar al lector de cuáles son las ventajas y los riesgos de la energía nuclear.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/energia-nuclear.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/energia-nuclear.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767052726180-7a76c33bd51b38",
@@ -403,14 +878,15 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Big data",
       "Ciencia de datos"
     ],
-    "formato": "Físico",
     "notas": "\"Ya se dijo todo sobre Borges. ¿Ya se dijo todo sobre Borges? Pues no. A su obra vasta y generosa no se accede por una sola puerta de entrada, sino por una infinidad de ventanas, pasadizos y claraboyas hacia un universo que, una vez conocido, ya no se puede ni se quiere abandonar. En este libro fascinante y adictivo, Walter Sosa Escudero propone una de esas entradas: la ciencia de datos. En efecto…",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/borges-big-data-y-yo-guia-nerd-y-un-poco-rea-para-perderse-en-el-laberinto-borgeano.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/borges-big-data-y-yo-guia-nerd-y-un-poco-rea-para-perderse-en-el-laberinto-borgeano.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767052581802-272bb739aae77",
@@ -421,13 +897,14 @@
     "editorial": "Nivola",
     "coleccion": "La matemática en sus personajes",
     "vol": "19",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/euclides-la-fuerza-del-razonamiento-matematico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/euclides-la-fuerza-del-razonamiento-matematico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767052371674-8306b2ac1a39b8",
@@ -438,14 +915,15 @@
     "editorial": "Nivola",
     "coleccion": "Una historia de las matemáticas para jóvenes",
     "vol": "9",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Historia"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/desde-la-antiguedad-al-renacimiento.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/desde-la-antiguedad-al-renacimiento.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767047513056-e79541f065ef78",
@@ -456,14 +934,15 @@
     "editorial": "Nivola",
     "coleccion": "Una historia de las matemáticas para jóvenes",
     "vol": "34",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Geometría"
     ],
-    "formato": "Físico",
     "notas": "Este libro está dirigido a los jóvenes, y a todo aquel que quiera conocer el fascinante mundo de las matemáticas a través de su historia. Las ideas matemáticas que hoy manejamos con soltura, incluso las más simples, han tardado siglos en gestarse.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/una-historia-de-las-matematicas-para-jovenes.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/una-historia-de-las-matematicas-para-jovenes.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767052078085-651e6c4fe86a28",
@@ -474,13 +953,14 @@
     "editorial": "Nivola",
     "coleccion": "Una historia de las matemáticas para jóvenes",
     "vol": "30",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Este libro está dirigido a los jóvenes, y a todo aquel que quiera conocer el fascinante mundo de las matemáticas a través de su historia. Las ideas matemáticas queEncuadernación: RústicaColección: Violeta hoy manejamos con soltura, incluso las más simples, han tardado siglos en gestarse.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-la-teoria-elemental-de-numeros.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/historia-de-la-teoria-elemental-de-numeros.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767048240804-4a6d0a65c8f0a8",
@@ -491,14 +971,15 @@
     "editorial": "Nivola",
     "coleccion": "Científicos para la Historia",
     "vol": "19",
+    "formato": "Físico",
     "categorias": [
       "Física",
       "Mecánica Cuántica"
     ],
-    "formato": "Físico",
     "notas": "a finales del siglo xix la física clásica entró en una crisis, que sería parcialmente resuelta por planck en 1900 con un trabajo que inauguraría la física del siglo xx en el que afirmaba que la luz no era emitida de forma continua, como la física clásica predecía, sino de forma discontinua o discreta.\n\nniels bohr empleó algunos conceptos de la teoría cuántica de planck y logró establecer hacia 1913 el primer modelo operativo de la estructura del átomo.\n\npersona de múltiples intereses, en sus últimos años dedicó sus mayores esfuerzos a la aplicación pacífica de la energía atómica, siendo partidario de que todas las naciones cooperasen en este tema con la mayor transparencia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/de-la-teoria-atomica-a-la-fisica-cuantica-bohr.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/de-la-teoria-atomica-a-la-fisica-cuantica-bohr.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767048157864-698088857249c",
@@ -509,15 +990,16 @@
     "editorial": "Nivola",
     "coleccion": "La matemática en sus personajes",
     "vol": "24",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "IA",
       "Programación"
     ],
-    "formato": "Físico",
     "notas": "Turing : Del Primer Ordenador A La Inteligencia Artificial RAFAEL LAHOZBELTRA NIVOLA – Alan Turing fue un adelantado a su tiempo. En esta biografía, la primera escrita en lengua española, se analiza preferentemente su perfil científico, que comienza con la célebre máquina de Turing, uno de los elementos hoy fundamentales en teoría de la computación, continúa durante la II Guerra Mundial con el descifrado de los códigos alemanes de Enigma, sigue con la construcción del Pilot Model ACE, uno de los primeros ordenadores, basado en un diseño suyo, y termina con su incorporación a la Universidad de Manchester, donde explora el tratamiento con ordenador de algunos problemas en biología y propone el test de Turing, una de las pruebas más célebres de la inteligencia artificial.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=a8fhpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=a8fhpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767048048060-1d748bdd33e5c8",
@@ -528,14 +1010,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "IA",
       "Algoritmo"
     ],
-    "formato": "Físico",
     "notas": "En 1999, dos psicólogos idearon el experimento del gorila invisible. Grabaron a dos equipos de jóvenes mientras se pasaban un balón. Después pidieron a un grupo de personas que visionaran la grabación y que contaran los pases. Más de la mitad no se percató de que una persona disfrazada de gorila aparecía por un lado, caminaba hasta pararse en el centro, se daba unos golpes en el pecho y desaparecía por el otro extremo... No vemos la realidad, aunque la tengamos ante nuestros propios ojos. Anhelábamos máquinas públicas que nos sustituyeran en las tareas sucias, aburridas o peligrosas. Para cuando nos hemos dado cuenta, una inteligencia artificial privatizada decide en juzgados, hospitales y ministerios. En el Algoritmo Paternalista, Ujue Agudo y Karlos G. Liberal rastrean el mito del progreso tecnológico en las profundidades de la historia y recorren a vista de pájaro los límites de la inteligencia humana (sesgos, heurística). A continuación, se detienen en los goznes de la comunicación manipuladora, hoy insertos en una matrix que, afirman, está crecientemente bajo control de máquinas antidemocráticas. El capitalismo ha decidido que las imperfecciones del ser humano son un obstáculo para su civilización, pero no que la riqueza deba repartirse mejor. Por eso, el algoritmo aumenta los flujos del capital pero no las rentas del trabajo. Urge cambiar el sentido de la historia, pero primero hay que entender qué está pasando.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-algoritmo-paternalista-cuando-mande-la-inteligencia-artificial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-algoritmo-paternalista-cuando-mande-la-inteligencia-artificial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767047948752-62d8a8d3c65c8",
@@ -546,14 +1029,15 @@
     "editorial": "CSIC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Caos"
     ],
-    "formato": "Físico",
     "notas": "Este libro trata sobre el caos, es decir, sobre el comportamiento aparentemente errático e impredecible de algunos sistemas dinámicos, incluso en... Leer másEste libro trata sobre el caos, es decir, sobre el comportamiento aparentemente errático e impredecible de algunos sistemas dinámicos, incluso en aquellos cuya formulación matemática es determinista. Este comportamiento aparece cuando hay una dependencia sensible a las condiciones iniciales, de modo que si las modificamos ligeramente, la evolución puede diferir en gran manera. La mejor imagen de este fenómeno es la del llamado efecto mariposa y lo experimentamos diariamente, por ejemplo, en las predicciones meteorológicas. Pero el caos, gracias a las matemáticas y a la física, se ha convertido en ciencia; y, así, a pesar de sus connotaciones negativas de confusión y desorden, ha llegado a ser un poderoso instrumento con aplicaciones en muchos campos de la ciencia y la tecnología: matemáticas, física, biología, dinámica de poblaciones, medicina, ciencias de la computación, economía y finanzas, ingeniería, filosofía o robótica, tal y como nos narran los autores de esta obra, quienes trazan una historia del caos que nos lleva desde el mundo determinista de Aristóteles, Newton y Laplace, hasta los tiempos modernos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-matematicas-y-la-fisica-del-caos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-matematicas-y-la-fisica-del-caos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767047755703-4969369204c5c",
@@ -564,13 +1048,14 @@
     "editorial": "Cuadernos Octaedr",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Clima"
     ],
-    "formato": "Físico",
     "notas": "Este libro es una herramienta que nos proporciona los principales conceptos relacionados con el tiempo y el clima; y porque para mostrarnos las nociones prácticas básicas, el lector curioso y el estudiante puede medir, anotar y experimentar con los medios y aparatos disponibles, como un observador.",
     "comentarios": "Este libro es una herramienta que nos proporciona los principales conceptos relacionados con el tiempo y el clima; y porque para mostrarnos las nociones prácticas básicas, el lector curioso y el estudiante puede medir, anotar y experimentar con los medios y aparatos disponibles, como un observado",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-tiempo-y-el-clima-conocer-aprender-y-trabajar.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-tiempo-y-el-clima-conocer-aprender-y-trabajar.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767047690281-be8438e34fd65",
@@ -581,14 +1066,15 @@
     "editorial": "Nivola",
     "coleccion": "La matemática en sus personajes",
     "vol": "8",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Geometría"
     ],
-    "formato": "Físico",
     "notas": "La primera mitad del siglo XVII es una etapa convulsa en la historia de Europa. Las guerras de religión conforman un fondo sobre el que, sin embargo, maduran grandes adelantos científicos. Descartes es el pilar sobre el que se asienta la corriente racionalista en filosofía que, junto a la empirista, establecerá las bases de reflexión para la ciencia moderna. Descartes consagrará su vida a diseñar …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=CwsRPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=CwsRPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767047374749-4d7d5ff86c0bf",
@@ -599,14 +1085,15 @@
     "editorial": "UNAM",
     "coleccion": "Filosofía Contemporánea",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Los Escritos Matemáticos De George Berkeley JOSE ANTONIO ROBLES UNIVERSIDAD NACIONAL AUTONOMA DE MEXICO (UNAM) – Esta antología está dirigida a los estudiosos, tanto filósofos como matemáticos, interesados en conocer la polémica sobre los fundamentos del cálculo, desencadenada por la publicación de El analista, en la que Berkeley señaló oscuridades en los planteamientos de Newton y de Leibniz.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=f5IBvsJEYs4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=f5IBvsJEYs4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767047212795-52dae674a4955",
@@ -617,15 +1104,16 @@
     "editorial": "Nivola",
     "coleccion": "Ciencia Abierta",
     "vol": "14",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Programación",
       "Algoritmos"
     ],
-    "formato": "Físico",
     "notas": "Es innegable, en este comienzo del siglo XXI, que la aparición de los ordenadores y, sobre todo, su hibridación con las teleco- municaciones configurando la gran red global, ha propiciado una revolución de las fuerzas productivas de una magnitud desconocida hasta ahora. Nuestra historia comienza casi a la vez que la de la humanidad, pues incluso en la antigua Mesopotamia de hace 3.000 años se emplearon algoritmos -concepto tan ligado hoy a los computadores- para describir ciertos cálculos relacionados con transacciones comerciales. Estos han acompañado desde entonces al desarrollo de las matemáticas.\n \nEn el siglo XVII aparecieron las primeras ayudas mecánicas para el cálculo en forma de calculadoras de sobremesa y en el XIX se conciben las primeras máquinas programables. Los primeros ordenadores, tal como hoy los conocemos, son, sin embargo, de mediados del siglo XX. A partir de ahí, los algoritmos alcanzan un desarrollo sin precedentes. El libro recorre la historia de los mismos, prestando especial atención a los tiempos más recientes. En un cierto momento, situado hacia 1960, el énfasis del libro pasa a describir los lenguajes de programación, que son los instrumentos apropiados para comunicar los algoritmos a las máquinas que han de ejecutarlos.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=VkqZAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=VkqZAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767047026174-e391e4c47127d8",
@@ -636,13 +1124,14 @@
     "editorial": "Nivola",
     "coleccion": "La matemática en sus personajes",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "En la época en que los científicos no existían aún como casta, Arquímedes se nos presenta como una persona interesada por la ciencia, contribuyendo a ella con aportaciones de transcendencia indiscutible en Matemáticas y en Física. En esta obra se presenta lo más significativo de sus descubrimientos matemáticos, inscribiendo su trabajo en el contexto de la ciencia de entonces, señalando su influencia en el progreso posterior y poniendo de manifiesto como alguien que vivió hace 23 siglos puede seguir despertando polémicas en la actualidad.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=RuuYMgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=RuuYMgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767046790823-749fe03675c39",
@@ -653,14 +1142,15 @@
     "editorial": "Starbook",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Producción",
       "Ingeniería Industrial"
     ],
-    "formato": "Físico",
     "notas": "En este texto se ofrece una manera diferente de enfocar la mejora e inversión en un sistema productivo complejo de varias etapas en serie. El objetivo es conocer el resultado antes de actuar o invertir y relacionarlo con sus parámetros clave.No es un método de simulación. Los métodos de simulación por aproximación a menudo decepcionan por sus resultados, normalmente alejados de la realidad. El esfuerzo que requieren estos métodos solo se justifican cuando la cantidad de dinero es muy grande y además requiere de experiencia previa, es decir, alguien que conozca lo que ocurre para ir validando cada hipótesis en función de los resultados, para que el modelo sea de utilidad.La metodología aquí desarrollada es también aproximada, pero es simple y cercana a la realidad. El viaje ha sido duro, difícil e incompleto, pero se ha llegado a varios de los objetivos. El libro sigue el proceso de investigación paso a paso.La búsqueda de un método aproximado responde a la dificultad de resolver el modelo analíticamente, como se comprobará durante el libro. La ventaja de las aproximaciones es que permiten echar números y disponer de un orden de magnitud, lo cual ayuda en la toma de decisiones. Por supuesto el margen de error ha de ser muy pequeño para que esas decisiones sean las correctas.El desarrollo seguido es: analizar los modelos de mejora existentes; explicar cómo interpretar un proceso productivo simplificándolo en un modelo manejable; aplicar los métodos tradicionales para ver los resultados que se obtienen; y desarrollar una metodología nueva para estimar la mejor estrategia de mejora o inversión, relacionando todas las variables clave. Al final también se introduce el tema de la fiabilidad y el mantenimiento.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/procesos-productivos-obtenga-la-maxima-rentabilidad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/procesos-productivos-obtenga-la-maxima-rentabilidad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767046666892-c2a1f4a7a91a78",
@@ -671,13 +1161,14 @@
     "editorial": "ECOE",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería"
     ],
-    "formato": "Físico",
     "notas": "Introducción a la Ingeniería es una guía de enseñanza para los profesores de la asignatura y para los estudiantes de esta área, ya contiene la fundamentación científica de la ingeniería como disciplina y los aspectos tecnológicos de las ramas de la misma, el currículo en la formación del ingeniero, el enfoque utilizado por los ingenieros para resolver problemas de su disciplina, así como la historia y desarrollo de la ingeniería.\n\nEl libro se refiere a la ingeniería como disciplina y, asimismo, hace una contribución especial a su enseñanza. Esta nueva edición incluye un nuevo capítulo donde se relaciona el propósito y la importancia de la asignatura, conceptos modernos como Ingeniería sostenible (energías limpias y renovables), Tecnologías de la Información, la Inteligencia Artificial, entre otros. Se reestructuraron varios capítulos para hacerlos más claros y mejor entendibles por parte del estudiante, y facilitarle al profesor de la asignatura Introducción a la Ingeniería el desarrollo de la asignatura en una forma lógica y ordenada.\n\nDirigido a los profesores y estudiantes del área de ingeniería. Sin embargo, es especial interés para los profesores de ingeniería que no son ingenieros de profesión, como físicos, químicos, matemáticos, economistas, y contadores, entre otros, ya que además les permite entender la articulación de sus materias dentro de la estructura curricular.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-ingenieria-una-vision-desde-sus-fundamentos-cientificos-y-tecnologicos-y-desde-el-curriculo-en-la-formacion-del-ingeniero.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-ingenieria-una-vision-desde-sus-fundamentos-cientificos-y-tecnologicos-y-desde-el-curriculo-en-la-formacion-del-ingeniero.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767046539224-1f3675fe9b4218",
@@ -688,15 +1179,16 @@
     "editorial": "Ediciones Díaz de Santos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Centrales Térmicas",
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "Este libro es eminentemente práctico y orientado a todos aquellos que trabajan o quieren trabajar en centrales eléctricas de ciclo combinado. El libro describe los principios técnicos de cada uno de los equipos y sistemas que intervienen en estas plantas, pero sobre todo, trata los problemas a los que se enfrenta un profesional que trabaja en este sector: arranques, regímenes de carga, variaciones…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1p-APgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=1p-APgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767046445724-5c8faa73e17a78",
@@ -707,15 +1199,16 @@
     "editorial": "ECOE",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingenieria Industrial",
       "Inventarios",
       "Producción"
     ],
-    "formato": "Físico",
     "notas": "Inventarios, manejo y control trata el manejo eficiente de los inventarios en las empresas; esto hace referencia a la gestión óptima de los inventarios a través del uso de modelos matemáticos que permiten contestar las preguntas: ¿Cuánto fabricar o pedir? ¿Cada cuánto tiempo poner una orden de producción o compra?Este texto comprende cuatro capítulos: en el primero, se desarrolla la estructura teórica, tocando aspectos como costos, funciones y la clasificación ABC de los inventarios; en el segundo, se abarcan los modelos determinísticos de inventarios desde su estructura teórica hasta su aplicación en empresas tanto manufactureras como comercializadoras; en el tercero, se explican los sistemas de inventario de revisión continua y periódica, involucrando la variabilidad en los parámetros de los modelos, y finalmente, en el cuarto se presentan modelos estocásticos aplicables a productos que se planifican para un solo periodo o artículos perecederos.Dirigido a estudiantes y docentes de pregrado y postgrado en todas las carreras que incluyan dentro de sus asignaturas Modelos de Optimización y Eficiencia en el Manejo de los Inventarios como Ingeniería Industrial, Administración de Empresas, Economía y Contaduría Pública, entre otras; para ser utilizado como texto guía.IncluyeIncluyeProcedimientos paso a paso que guían al lector en el aprendizaje y comprensión de las aplicaciones en las empresas.Explicaciones matemáticas de la forma en que se llega las diferentes formulaciones y su aplicación práctica en las empresas.Un lenguaje que permite una fácil comprensión de todos los conceptos y aplicaciones.Ejemplos de aplicación y sus respectivos algoritmos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inventarios-manejo-y-control.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inventarios-manejo-y-control.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767046327520-d4deda1dabcfb8",
@@ -726,14 +1219,15 @@
     "editorial": "Ediciones Díaz de Santos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Hidrógeno"
     ],
-    "formato": "Físico",
     "notas": "El problema del petróleo no es que se acabe de inmediato, sino que la demandasupere a la oferta debido a la presión de los países emergentes. Hay que ir pensando en alternativas que el tiempo dirá si son o no viables. El hidrógeno es una de las posibilidades, no como recurso, que no puede serlo, sino como vector energético de las energ¡as renovables. En esta nueva edición ampliada y actualizada se representa una panorámica de la temática relacionada con el hidrógeno, desde un punto de vista socioeconómico, termodinámico, de obtención, de almacenaje y utilización, sin olvidarse de los convertidores que permitirán devolver la energía utilizada en su obtención, las fuell Cell, las pilas de combustilble. INDICE: Ha llegado el hidrógeno como energía del mañana. Ante una nueva energía: problemas y estudios. Instauración de la economía del hidrógeno. Progresa la revolución del hidrógeno. Termodin mica de la degradación energética. Obtención, almacenaje y normativa del hidrógeno. Las pilas de combustible. Aplicación del hidrógeno al transporte. El futuro del transporte movido por hidrógeno. Las preguntas más frecuentes relacionadas con el hidrógeno y las energías renovables. Terminolog¡a. Bibliograf¡a",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=v5kSrxNSKEQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=v5kSrxNSKEQC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767046186781-7bb7f6ce118728",
@@ -744,15 +1238,16 @@
     "editorial": "ECOE",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Medioambiente",
       "Ecología",
       "Residuos"
     ],
-    "formato": "Físico",
     "notas": "Este libro sitúa a los estudiantes en el entorno del medio ambiente y la gestión de residuos con el fin de que puedan comprender los aspectos básicos relacionados con esta temática, además de adquirir los conocimientos necesarios para la gestión de los residuos generados en las actividades empresariales. La obra le apunta a que el alumnado pueda entender la problemática ambiental y acercarse a la idea de un desarrollo sostenible que garantice una adecuada calidad de vida para las generaciones actuales y futuras. Está dirigida a profesionales medioambientales, estudiantes de formación profesional del campo del medio ambiente y cualquier persona interesada en la gestión de los aspectos ambientales para su posterior aplicación en cualquier sector productivo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fundamentos-en-medio-ambiente-y-gestion-de-residuos-innovacion-y-cualificacion-target-asesores.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fundamentos-en-medio-ambiente-y-gestion-de-residuos-innovacion-y-cualificacion-target-asesores.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767045985197-30b1982e51e2a",
@@ -763,15 +1258,16 @@
     "editorial": "John Wiley & Sons",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Celdas de Combustible",
       "Hidrógeno"
     ],
-    "formato": "Físico",
     "notas": "A complete, up-to-date, introductory guide to fuel cell technology and application Fuel Cell Fundamentals provides a thorough introduction to the principles and practicalities behind fuel cell technology. Beginning with the underlying concepts, the discussion explores fuel cell thermodynamics, kinetics, transport, and modeling before moving into the application side with guidance on system types and design, performance, costs, and environmental impact. This new third edition has been updated with the latest technological advances and relevant calculations, and enhanced chapters on advanced fuel cell design and electrochemical and hydrogen energy systems. Worked problems, illustrations, and application examples throughout lend a real-world perspective, and end-of chapter review questions and mathematical problems reinforce the material learned. Fuel cells produce more electricity than batteries or combustion engines, with far fewer emissions. This book is the essential introduction to the technology that makes this possible, and the physical processes behind this cost-saving and environmentally friendly energy source. Understand the basic principles of fuel cell physics Compare the applications, performance, and costs of different systems Master the calculations associated with the latest fuel cell technology Learn the considerations involved in system selection and design As more and more nations turn to fuel cell commercialization amidst advancing technology and dropping deployment costs, global stationary fuel cell revenue is expected to grow from $1.4 billion to $40.0 billion by 2022. The sector is forecasted to explode, and there will be a tremendous demand for high-level qualified workers with advanced skills and knowledge of fuel cell technology. Fuel Cell Fundamentals is the essential first step toward joining the new energy revolution.",
     "comentarios": "Una guía introductoria completa y actualizada sobre la tecnología y aplicación de las celdas de combustible. Fundamentos de celdas de combustible proporciona una introducción completa a los principios y aspectos prácticos detrás de la tecnología de celdas de combustible. Comenzando con los conceptos subyacentes, la discusión explora la termodinámica, la cinética, el transporte y el modelado de las celdas de combustible antes de pasar al lado de la aplicación con orientación sobre tipos de sistemas y diseño, rendimiento, costos e impacto ambiental. Esta nueva tercera edición ha sido actualizada con los últimos avances tecnológicos y cálculos relevantes, y capítulos mejorados sobre diseño avanzado de celdas de combustible y sistemas de energía electroquímica y de hidrógeno. Los problemas resueltos, las ilustraciones y los ejemplos de aplicación a lo largo del libro brindan una perspectiva del mundo real, y las preguntas de repaso al final del capítulo y los problemas matemáticos refuerzan el material aprendido. Las celdas de combustible producen más electricidad que las baterías o los motores de combustión, con muchas menos emisiones. Este libro es la introducción esencial a la tecnología que lo hace posible y a los procesos físicos detrás de esta fuente de energía económica y respetuosa con el medio ambiente. Comprenda los principios básicos de la física de las celdas de combustible Compare las aplicaciones, el rendimiento y los costos de diferentes sistemas Domine los cálculos asociados con la última tecnología de celdas de combustible Aprenda las consideraciones involucradas en la selección y el diseño del sistema A medida que más y más naciones recurren a la comercialización de celdas de combustible en medio del avance de la tecnología y la caída de los costos de implementación, se espera que los ingresos globales de celdas de combustible estacionarias crezcan de $ 1.4 mil millones a $ 40.0 mil millones para 2022. Se pronostica que el sector explotará y habrá una tremenda demanda de trabajadores calificados de alto nivel con habilidades avanzadas y conocimiento de la tecnología de celdas de combustible. Fundamentos de celdas de combustible es el primer paso esencial para unirse a la nueva revolución energética.",
-    "portada": "https://books.google.com/books/content?id=O2JYCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=O2JYCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767045923491-c45b8c679db4c",
@@ -782,14 +1278,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Minería",
       "Economía"
     ],
-    "formato": "Físico",
     "notas": "El libro \"Fundamentos de Economía Minera\" ofrece un programa y contenido que generan una base de estudio para cualquier interesado en el problema de la explotación óptima de minas (sea ingeniero o economista). El texto desarrolla por vez primera de forma integrada los últimos desarrollos de la economía de minerales y planificación minera referidos a la explotación de minas, buscando establecer reglas generales y no únicamente abordar casos particulares y presentando una buena cantidad de material inédito en la literatura científica. Para facilitar su uso como libro de enseñanza en la educación de ingeniería de minas, al final de cada capítulo se añaden problemas resueltos que permiten aplicar y comprender mejor los conceptos aprendidos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fundamentos-de-economia-minera.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fundamentos-de-economia-minera.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767045782192-e30482fa55ff7",
@@ -800,14 +1297,15 @@
     "editorial": "PRENTICE HALL",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "IA",
       "Programación"
     ],
-    "formato": "Físico",
     "notas": "Este manual es una obra muy amplia que cubre todos los aspectos de esta ciencia tan moderna. Se analiza el problema de la inteligencia artificial, que radica en describir y construir agentes que reciban percepciones provinientes del medio ambiente y que ejecuten acciones.Contenido: 1. Introducción. 2. Agentes inteligentes. 3. Solución de problemas mediante la búsqueda. 4. Métodos de búsqueda respaldados con información. 5. Problemas de “Constraint Satisfaction”. 6. Búsqueda adversarial. 7. Agentes que razonan de manera lógica. 8. Lógica de primer orden. 9. La inferencia en la lógica de primer orden. 10. Sistemas que razonan lógicamente. 11. Planificación. 12. Planificación y actuación. 13. Incertidumbre. 14. Sistemas probabilísticos de razonamiento. 15. Sistemas probabilísticos de razonamiento over time. 16. Toma de decisiones sencillas. 17. Toma de decisiones complejas. 18. Aprendizaje a partir de la observación. 19. El aprendizaje estadístico. 20. Aprendizaje por refuerzo. 21. El conocimiento en el aprendizaje. 22. Agentes que se comunican. 23. Procesamiento práctico del lenguaje natural. 24. Percepción. 25. Robótica. 26. Fundamentos filosóficos. 27. IA, presente y futuro. Apéndices.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=yZCVPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=yZCVPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767045622935-bfb67fd4a54e88",
@@ -818,14 +1316,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "2da Ed.",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Biomasa"
     ],
-    "formato": "Físico",
     "notas": "Esta obra ofrece una amplia visión del aprovechamiento de la biomasa como fuente de energía renovable. Abarca desde su caracterización, cuantificación, recogida y transporte hasta el análisis de los diferentes procesos e instalaciones que puede ofrecer el campo energético: calderas, máquinas térmicas, gasificadores y biorreactores. También se incluye el estudio y aplicación para obtener biocombustibles sólidos y gases (biogás). Finalmente recoge una revisión sobre la producción de los principales cultivos energéticos oleaginosos. Con una gran profusión de ilustraciones, tablas y gráficos, sus capítulos incluyen numerosos ejemplos y casos prácticos, con su planteamiento y desarrollo detallado paso a paso, para facilitar la compresión y la puesta en práctica de los conceptos referidos. Se trata de un libro muy completo sobre un tema de gran interés, y está dirigido a quienes desean formarse en el campo de la biomasa, quienes ejercen su trabajo en el aprovechamiento energético y también a las personas que deben tomar las decisiones políticas sobre planes energéticos.\n\nTapa blanda: 848 páginas Editor: REVE0|#Reverte; Edición: 2 (20 de junio de 2018) Colección: Textos académicos Universitarios (TAU) Idioma: Español",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aprovechamiento-de-la-biomasa-para-uso-energetico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aprovechamiento-de-la-biomasa-para-uso-energetico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767031983983-a61e61e435f408",
@@ -836,16 +1335,17 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energías Renovables",
       "Social",
       "Medioambiente",
       "Energía"
     ],
-    "formato": "Físico",
     "notas": "El desafío planteado por el cambio climático es reemplazar los combustibles fósiles por fuentes energéticas más sustentables. A través de la revisión de una serie de casos, este libro aborda los múltiples dilemas y oportunidades que acompañan este proceso de transición. Los casos se enfocan en Chile, uno de los líderes mundiales en el cambio hacia fuentes energéticas renovables no convencionales. El supuesto que anima este trabajo es que la generación, distribución y consumo de energía no son únicamente procesos técnicos o físicos; están también sujetos a dinámicas de cambio social, político y cultural. Todo proceso de transición energética será sustentable solo si es capaz de incorporar la implementación de nuevas tecnologías con mayores niveles de focalización, justicia y participación. Este libro busca entregar evidencia empírica y herramientas conceptuales para pensar críticamente la vida social de la Energía.\n\nTomás Ariztía es profesor asociado y director de la Escuela de Sociología de la Universidad Diego Portales. Su área central de investigación se encuentra en el entrecruce entre la sociología económica, los estudios de ciencia, tecnología y sociedad y la sociología de la sustentabilidad. Su trabajo ha sido publicado en revistas como el Sociological Review, Journal of Cultural Economy, Journal of Cleaner Production y el British Journal of Sociology, entre otras.",
     "comentarios": "Sebastián Ureta es profesor asociado del Departamento de Sociología de la Universidad Alberto Hurtado y director del Magíster en Ciencia, Tecnología y Sociedad. Su área central de investigación es el análisis de los problemas que enfrenta la gobernanza de la tecnociencia en Chile, especialmente en el ámbito ambiental. En el año 2022 University of California Press publicó su nuevo libro “Worlds of Gray and Green: Mineral extraction as ecological practice”, coescrito con Patricio Flores.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-social-de-la-energia-politicas-fricciones-y-futuros-de-las-transiciones-sustentables.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-social-de-la-energia-politicas-fricciones-y-futuros-de-las-transiciones-sustentables.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767031886586-66d87f817f8b2",
@@ -856,16 +1356,17 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energías Renovables",
       "Energía",
       "Políticas",
       "Medioambiente"
     ],
-    "formato": "Físico",
     "notas": "La cantidad de energía que una sociedad consume y la eficiencia con la que la transforma y utiliza constituyen hoy en día criterios que permiten diagnosticar su grado de desarrollo. Se puede afirmar que el incremento en el nivel de desarrollo de una nación se encuentra asociado, en general, a un mayor consumo energético y a una mayor capacidad para llevar a cabo un uso y transformación eficientes …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=bl6L8E_9t1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=bl6L8E_9t1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767029822420-272cedfae7b1a",
@@ -876,15 +1377,16 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Medioambiente",
       "Procesos",
       "Ingeniería"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Libro de Alejandro San Martín",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-ingenieria-ambiental-para-la-industria-de-procesos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-ingenieria-ambiental-para-la-industria-de-procesos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767043516912-37c96017db0e9",
@@ -895,15 +1397,16 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matlab",
       "Medioambiente",
       "Residuos"
     ],
-    "formato": "Físico",
     "notas": "Esta obra pretende reforzar las bases teóricas del lector en el área del tratamiento de aguas residuales y enseñarle a utilizar una herramienta computacional moderna y de fácil manejo: el Matlab. Su objetivo es actualizar y facilitar el trabajo matemático relacionado con los datos y procedimientos utilizados en dicha área. Se intenta enseñar a operar con datos teóricos y experimentales según las condiciones y necesidades de proyectos reales, a fin de obtener un diseño óptimo del sistema de tratamiento de aguas residuales con la menor inversión de tiempo posible. Para ello, se abordan los conceptos teóricos más importantes de los diferentes procesos expuestos, pero con la finalidad de que el lector entienda las nociones y ecuaciones básicas, en lugar de retenerlas de forma aislada de todo contexto. También se enseña a realizar simulaciones y a visualizar los efectos de la variación de los parámetros de operación: con ello se adquiere una mejor comprensión tanto de esos conceptos teóricos como de los procesos. Los problemas y ejercicios presentados se resuelven con Matlab, desarrollando paso a paso las soluciones y simulaciones, con explicaciones muy detalladas sobre la función de cada uno de los comandos. Se espera que el lector logre detectar las distintas relaciones entre variables y pueda plantear y elaborar sus propios programas. Í\n\nTratamiento De Aguas Residuales Con Matlab Rodriguez R., Miriam G; Martinez, Sergio A. (Editorial Reverte) 239 páginas. Idioma: Español ISBN: 968670857X. ISBN-13: 9789686708578 (2005).",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aguas-residuales-con-matlab.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aguas-residuales-con-matlab.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767043411074-d4d67a34433b",
@@ -914,16 +1417,17 @@
     "editorial": "McGraw-Hill Education",
     "coleccion": "",
     "vol": "4ta Ed.",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Ingeniería",
       "Planificación",
       "Programación"
     ],
-    "formato": "Físico",
     "notas": "Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product. The industry-standard resource for maintenance planning and scheduling—thoroughly revised for the latest advances Written by a Certified Maintenance and Reliability Professional (CMRP) with more than three decad…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=8xMGwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=8xMGwgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767043357628-e8f2834f13851",
@@ -934,14 +1438,15 @@
     "editorial": "Creaciones",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Oleohidráulica",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "La gran experiencia del autor de esta obra le permite presentar las aplicaciones de la oleohidráulica de una forma especialmente original y didáctica, a la par que muy actualizada.\nSe trata de un libro muy visual, que contiene numerosos ejemplos de aplicación, estructurado en dos módulos y varios anexos. El primero no presupone conocimientos previos y comienza explicando qué es un circuito hidráulico hasta llegar a explicar todos los componentes de una plataforma hidráulica, explicando también los principios y teoremas necesarios para la comprensión de los diversos temas. El segundo módulo profundiza en el estudio de las válvulas, de los motores hidráulicos, de las bombas de cilindrada variable, etc., hasta llegar al estudio de los componentes de un grupo hidráulico.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=KdzEPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=KdzEPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767043240304-74a43ea37d19c8",
@@ -952,16 +1457,17 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "6ta Ed.",
+    "formato": "Físico",
     "categorias": [
       "Producción",
       "Operación",
       "Administración",
       "Industrial"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Capitulo 1. Estrategia y competencia\nApéndice 1-A. Cálculos del valor presente.\nCapitulo 2. Pronósticos.\nApéndices: 2-A. Errores de pronóstico para promedios móviles y suavizamiento exponencial.\n2-B. Deducción de las ecuaciones para la pendiente y la intercepción en el análisis de regresión.\nCapitulo 3. Planeación agregada.\nSUPLEMENTO 1. Programación lineal\nCapítulo 4. Control de inventarios sujeto conocimiento de la demanda.\nApéndice 4\n4-A. Deducción matemática para sistemas de cantidad económica de pedido con restricciones para varios productos.\nCapítulo 5. Control de inventarios sujetos a demanda incierta.\nApéndices 5\n5-A. Convenciones de notación y repaso de probabilidad.\n5-B. Resultados adicionales y extensiones para el modelo del repartidor de periódicos.\n5-C. Deducción de la política (Q, R) óptima.\n5-D. Distribuciones de probabilidad para administración de inventarios.\nCapítulo 6. Administración de la cadena de suministro.\nCapítulo 7. Sistemas de producción de empuje y tracción: MRP y JIT.\nApéndice 7\n7-A. Determinación óptima de tamaños de lote para demandas que varían con el tiempo.\nCapítulo 8. Programación de operaciones.\nSUPLEMENTO 2. Teoría de colas.\nCapítulo 9. Programación de proyectos.\nCapítulo 10. Distribución y ubicación de instalaciones.\nApéndices 10\n10-A. Determinación de centroides.\n10-B. Cálculo de curvas de nivel.\nCapítulo 11. Calidad y su aseguramiento.\nApéndice 11\n11-A. Aproximación de distribuciones\nCapítulo 12. Confiabilidad y fiabilidad de mantenimiento Tablas e Índice analítico",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analisis-de-la-produccion-y-las-operaciones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analisis-de-la-produccion-y-las-operaciones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767043047511-6922fbe973791",
@@ -972,14 +1478,15 @@
     "editorial": "Syrawood Publishing House",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Ingeniería"
     ],
-    "formato": "Físico",
     "notas": "Energy engineering is a multidisciplinary field which merges knowledge from the fields of mathematics, chemistry and physics with environmental and economic engineering practices. There are various aspects which are dealt with under this discipline such as energy efficiency, energy services, plant engineering and alternative energy technologies. The main focus of energy engineering is to develop t…",
     "comentarios": "La ingeniería energética es un campo multidisciplinario que fusiona conocimientos de matemáticas, química y física con prácticas de ingeniería ambiental y económica. Esta disciplina aborda diversos aspectos, como la eficiencia energética, los servicios energéticos, la ingeniería de plantas y las tecnologías energéticas alternativas. Su objetivo principal es desarrollar los métodos más eficientes y sostenibles para el funcionamiento de edificios y procesos de fabricación. Esto se logra generalmente observando el uso de la energía y sugiriendo enfoques para mejorar la eficiencia. La ingeniería de potencia es una subdisciplina de la ingeniería energética donde las matemáticas y la física se aplican al movimiento y la transferencia de energía para trabajar dentro de un sistema. Los temas incluidos en este libro sobre ingeniería energética son de suma importancia y sin duda proporcionarán conocimientos extraordinarios a los lectores. Es adecuado tanto para estudiantes que buscan información detallada en esta área como para expertos.",
-    "portada": "https://books.google.com/books/content?id=KcWzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=KcWzzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767042651694-6fa353872fc058",
@@ -990,15 +1497,16 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Bioenergía",
       "Energía",
       "Quimiosmótica"
     ],
-    "formato": "Físico",
     "notas": "Este libro trata de ser una introducción al campo de la Bioenergética más que una revisión extensa. Consecuentemente y en primer lugar, aunque existen opiniones discrepantes para casi todos los temas tratados, hemos basado los contenidos sobre lo que creemos que está generalmente aceptado como ortodoxo en Bioenergética.",
     "comentarios": "1. Transducción de energía quimiosmótica\n2. El transporte de iones a través de las membranas transductoras de energía\n3. Bioenergética cuantitativa: Medida de las fuerzas conductoras\n4. El circuito quimiosmótico de protones\n5. Cadenas respiratorias\n6. Generadores fotosintéticos de potencial electroquímico de protones\n7. La ATP sintetasa\n8 Interacción de orgánulos bioenergéticos con su entorno\nBibliografia",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/bioenergetica-introduccion-a-la-teoria-quimiosmotica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/bioenergetica-introduccion-a-la-teoria-quimiosmotica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767042508828-b02e659b6629b8",
