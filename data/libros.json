@@ -1,5 +1,244 @@
 [
   {
+    "id": "libro-1767066755568-1a47f0d4d15d18",
+    "titulo": "Mecánica clásica",
+    "autor": "John R. Taylor",
+    "anio": 2018,
+    "isbn": "9788429143997",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mecánica"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro está destinado a estudiantes de ciencias e ingeniería que hayan estudiado algo de mecánica, como parte de un curso de introducción a la física. El texto se desarrolla a partir de un conocimiento mínimo a fin de proporcionar primero una comprensión más profunda de las ideas básicas para luego continuar con el desarrollo de temas más avanzados, tales como las formulaciones lagrangiana y hamiltoniana, la mecánica de sistemas no inerciales, el movimiento de cuerpos rígidos, los osciladores acoplados, la teoría del caos y otros temas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mecanica-clasica.jpg"
+  },
+  {
+    "id": "libro-1767066571191-2e90ae1b69f4d8",
+    "titulo": "Nexus Una breve historia de las redes de información desde la Edad de Piedra hasta la IA",
+    "autor": "Yuval Noah Harari",
+    "anio": 2024,
+    "isbn": "9789566247593",
+    "editorial": "Debate",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Historia",
+      "Divulgación",
+      "Información",
+      "Datos"
+    ],
+    "formato": "Físico",
+    "notas": "En Nexus, Harari contempla a la humanidad desde la amplia perspectiva de la historia para analizar cómo las redes de información han hecho y deshecho nuestro mundo. Durante los últimos 100.000 años, los sapiens hemos acumulado un enorme poder. Pero, a pesar de todos los descubrimientos, inventos y conquistas, ahora nos enfrentamos a una crisis existencial: el mundo está al borde del colapso ecológico, abunda la desinformación y nos precipitamos hacia la era de la I.A. Con todo el camino andando, ¿por qué somos una especie autodestructiva?\n\nA partir de una fascinante variedad de ejemplos históricos, desde la Edad de Piedra, pasando por la Biblia, la caza de brujas de principios de la Edad Moderna, el estalinismo y el nazismo, hasta el resurgimiento del populismo en nuestros días, Harari nos ofrece un marco revelador para indagar en las complejas relaciones que existen entre información y verdad, burocracia y mitología, y sabiduría y poder.\n\nExamina cómo diferentes sociedades y sistemas políticos han utilizado la información para lograr sus objetivos e imponer el orden, para bien y para mal. Y plantea las opciones urgentes a las que nos enfrentamos hoy en día, cuando la inteligencia no humana amenaza nuestra propia existencia.\n\nLa información no es el principio activo de la verdad; tampoco una simple arma. Nexusexplora el esperanzador término medio entre estos extremos.",
+    "comentarios": "Yuval Noah Harari (1976) es profesor de Historia en la Universidad Hebrea de Jerusalén. Se especializó en Historia Medieval e Historia Militar, aunque sus investigaciones actuales se centran en los procesos macrohistóricos y en las relaciones entre historia y biología. Es considerado uno de los intelectuales más influyentes nuestro tiempo.\n\nSu libro Sapiens. De animales a dioses ha sido un éxito internacional que ha vendido más de 21 millones de ejemplares en 65 idiomas. Recomendado por personalidades como Barack Obama, Natalie Portman o Bill Gates, alcanzó la lista de best sellers del New York Times y ocupó los tres primeros puestos de los libros más vendidos del Sunday Times durante 96 semanas consecutivas. Tal fue su éxito que se ha adaptado a novela gráfica, Sapiens. Una historia gráfica, cuyo primer volumen ya ha sido publicado. La continuación de su obra, Homo Deus. Breve historia del mañana, ha vendido más de 7,5 millones de ejemplares y se ha traducido a 50 idiomas. En 2018 publicó 21 lecciones para el siglo XXI, que en su primer año vendió 4 millones de ejemplares y fue traducido a 40 idiomas. En él Harari se detiene a examinar los mayores desafíos de nuestro tiempo.\n\nEn 2019, tras el reconocimiento internacional de sus libros, Yuval Noah Harari e Itzik Yahav fundaron Sapienship, una organización cuya misión es alentar la conversación global, señalar los desafíos más importantes y apoyar la búsqueda de soluciones colectivas. En 2018 y 2020 dio sendas conferencias magistrales en el Foro Económico Mundial de Davos. Asimismo, a lo largo de su trayectoria se ha reunido con líderes internacionales como Angela Merkel, Mauricio Macri, Kyriakos Mitsotakis, o con Mark Zuckerberg, CEO de Facebook, con quien conversó sobre el futuro de la tecnología.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/nexus-una-breve-historia-de-las-redes-de-informacion-desde-la-edad-de-piedra-hasta-la-ia.jpg"
+  },
+  {
+    "id": "libro-1767066451171-fbf7cb1fe27e7",
+    "titulo": "Érase una vez los números primos, La asombrosa relación entre la literatura y las matemáticas",
+    "autor": "Sarah B. Hart",
+    "anio": 2024,
+    "isbn": "9788449342059",
+    "editorial": "Paidos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Divulgación"
+    ],
+    "formato": "Físico",
+    "notas": "La matemática Sarah Hart nos descubre el profundo vínculo entre la literatura y las matemáticas a través de un viaje por los libros más destacados de la literatura universal.A menudo pensamos que las matemáticas y la literatura son dos mundos opuestos, pero ¿y si en realidad estuvieran profundamente conectados? En Érase una vez los números primos, la profesora Sarah Hart nos muestra las múltiples …",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/erase-una-vez-los-numeros-primos-la-asombrosa-relacion-entre-la-literatura-y-las-matematicas.jpg"
+  },
+  {
+    "id": "libro-1767066239459-60ff40b9c91378",
+    "titulo": "El tiempo",
+    "autor": "Stefan Klein",
+    "anio": null,
+    "isbn": "9789566215110",
+    "editorial": "Peninsula",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Física",
+      "Divulgación",
+      "Ciencia"
+    ],
+    "formato": "Físico",
+    "notas": "¿Por qué algunas horas pasan volando mientras otras se alargan infinitamente? ¿Por qué la sensación del tiempo transcurrido se diluye inexorablemente ante el tedio y en cambio se desvanece en los momentos de gozo? Hace tiempo que la ciencia definió el tiempo como algo relativo y sin embargo sigue siendo nuestro bien más escaso. Lo prueba el hecho de que somos la generación que más tiempo tiene para sí misma y sin embargo vivimos subyugados por el ritmo incesante de las agujas del reloj.\n\nEste libro escrito por el físico alemán Stefan Klein y que con los años se ha convertido en un texto de referencia para lectores de todo el mundo aborda lo que el autor denomina la dimensión oculta del tiempo. Abarca todo aquello que no puede medirse en minutos ni segundos y nos enseña a manejar nuestro tiempo con cuidado, tratándolo como el preciado bien que es. Desde los tiempos de nuestro cerebro hasta su dimensión cósmica, Klein nos enseña a modificar el sentido del tiempo y nos ayuda a navegar mientras nos dejamos llevar por su corriente.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-tiempo.jpg"
+  },
+  {
+    "id": "libro-1767066153558-76e369dcfb69b8",
+    "titulo": "La proporción áurea",
+    "autor": "Mario Livio",
+    "anio": 2024,
+    "isbn": "9789569948596",
+    "editorial": "Editorial Ariel",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Divulgación"
+    ],
+    "formato": "Físico",
+    "notas": "Un clásico de la ciencia para el público no especializado que ahonda en los misterios de la relación matemática más famosa de todos los tiempos. Desde matemáticos y científicos hasta filósofos y artistas, la proporción áurea ha sido una obsesión constante en todas las disciplinas del conocimiento humano. Los seguidores de Pitágoras creían que revelaba la mano de Dios y el astrónomo Kepler vio en ella uno de los grandes tesoros de la geometría; presente en La Gioconda o La última cena de Dalí, el número Phi representa la unión entre la belleza, el mundo y las matemáticas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-proporcion-aurea.jpg"
+  },
+  {
+    "id": "libro-1767065984849-072d8ac9c859c8",
+    "titulo": "El Tío Petros y la conjetura de Goldbach",
+    "autor": "Apostolos Doxiadis",
+    "anio": 2005,
+    "isbn": "9788496546561",
+    "editorial": "ZETA BOLSILLO",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas",
+      "Divulgación"
+    ],
+    "formato": "Físico",
+    "notas": "En esta novela, las matemáticas se convierten en símbolo de la lucha del ser humano por arrojar luz sobre los enigmas que lo rodean y conquistar lo imposible. «Toda familia tiene una oveja negra; en la nuestra era el tío Petros.»Así lo afirma el sobrino favorito de Petros Papachristos #y narrador de las peripecias de su tío-, al comienzo de la novela de Apostolos Doxiadis. En efecto, el anciano tío Petros vive retirado de la vida social y familiar, entregado a sus dos aficiones: la jardinería y el ajedrez. Su sobrino, sin embargo, descubre un día por azar que el tío Petros fue un matemático eminente, profesor en Alemania e Inglaterra, niño prodigio en esta disciplina y estudioso totalmente absorto en sus investigaciones científicas. Como irá descubriendo el sobrino, y el lector con él, la vida de Petros Papachristos ha girado durante años en torno a la comprobación de la famosa conjetura de Golbach, un problema en apariencia sencillo, pero que durante más de dos siglos nadie ha conseguido resolver científicamente. Apostolos Doxiadis nos abre las puertas de una extraordinaria aventura personal inscrita en el ámbito de las matemáticas, donde personajes ficticios conversar con eminentes estudiosos como Hardy, Ramanujan, Turing y Gödel. Sin embargo, más importante aún es que en esta novela las matemáticas adquieren una dimensión simbólica, y los esfuerzos de un estudioso por resolver un enigma reflejan la lucha prometeica del ser humano por conquistar lo imposible.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-tio-petros-y-la-conjetura-de-goldbach.jpg"
+  },
+  {
+    "id": "libro-1767065860789-1855175d325f9",
+    "titulo": "Los Detectives Salvajes (Edición Ilustrada) / The Savage Detectives",
+    "autor": "Roberto Bolaño",
+    "anio": 2025,
+    "isbn": "9788420476445",
+    "editorial": "Alfaguara",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Literatura",
+      "Novela"
+    ],
+    "formato": "Físico",
+    "notas": "Una de las mejores novelas del siglo XXI, según el New York Times y El País en edición especial ilustrada por Luis Scafati\n\n«No es exagerado decir que Bolaño es un genio. Los detectives salvajes deberían otorgarle la inmortalidad». Washington Post\n\n«He sido cordialmente invitado a formar parte del realismo visceral. Por supuesto, he aceptado. No hubo ceremonia de iniciación. Mejor así».\n\nLa búsqueda en 1975 de la misteriosa escritora mexicana Cesárea Tinajero, desaparecida y olvidada en los años posteriores a la revolución, sirve de inicio a un viaje sin descanso que llevan a cabo dos jóvenes poetas latinoamericanos, Arturo Belano y Ulises Lima. Durante varias décadas y a través distintos países, su aventura transcurre marcada por el amor, la muerte, el deseo de libertad, el humor y la literatura. Símbolo de la rebeldía y la necesidad de ruptura con la realidad establecida, sus vidas representan los anhelos de toda una generación.\n\nLa obra de Bolaño conversa con el arte del ilustrador argentino Luis Scafati en esta edición especial ilustrada de una novela que ganó los premios Herralde y Rómulo Gallegos y está considerada una de las mejores novelas del siglo XXI por medios como The New York Times o El País.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=q0ok0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767065739074-7b9c80910f54f",
+    "titulo": "Teoría del conocimiento",
+    "autor": "Johannes Hessen",
+    "anio": 2003,
+    "isbn": "950039412X",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Filosofía",
+      "Política",
+      "Ciencias Sociales"
+    ],
+    "formato": "Físico",
+    "notas": "Johannes Hessen fue una de las principales figuras del movimiento filosófico del siglo XX en Europa. Profesor de la Universidad de Colonia y adscrito al grupo de pensadores católicos, fue autor de numerosas obras sobre filosofía escolástica y de otras sobre los principales problemas metafísicos.Teoría del conocimiento ha sido reconocida como la producción más lograda y significativa de Hessen. Se trata de un libro de valor excepcional y poseedor de una singular aptitud para iniciar a todos los lectores en las difíciles cuestiones de la gnoseología. El vasto panorama que ofrecen los problemas del conocimiento, los diferentes puntos de vista y las variadas soluciones propuestas se tratan aquí con precisión y fidelidad, con una seguridad y una eficacia didáctica que revelan tanto la hondura y versación del filósofo como la destreza y la vocación del maestro. Es además importante este libro porque en él se puso por vez primera el moderno método fenomenológico al servicio de la teoría del conocimiento; y porque plantea una discusión detenida de este problema, que no suelen tratar otras exposiciones. Y, finalmente, porque desenvuelve la teoría especial del conocimiento, además de la general.'",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767065561237-321c02179c8ce",
+    "titulo": "La máquina increible",
+    "autor": "Jeremy Campbell",
+    "anio": 1990,
+    "isbn": "9780671725099",
+    "editorial": "Efe",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "IA",
+      "Computadora",
+      "Ciencia"
+    ],
+    "formato": "Físico",
+    "notas": "Jeremy Campbell, escritor científico, explora la naturaleza de la inteligencia humana bajo la luz de lo que se sabe acerca de la estructura de la computadora y muestra por qué el tipo de máquina biológica que llevamos en la cabeza nos hace ser lo que somos: ilógicos, manipuladores del conocimiento, tendenciosos y con sentido común. En suma: mundanos.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-maquina-increible.jpg"
+  },
+  {
+    "id": "libro-1767065145032-4a0ba89ec3bf6",
+    "titulo": "Madame Bovary",
+    "autor": "Gustave Flaubert",
+    "anio": 2004,
+    "isbn": "956301040x",
+    "editorial": "centro Grafico",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Literatura"
+    ],
+    "formato": "Físico",
+    "notas": "Emma Rouault es una joven de origen campesino y huerfana de madre que contrae matrimonio con el medico Charles Bovary. El afán por ser la protagonista de una vida romántica presidida por el amor, ambición que su marido no puede satisfacer, será la perdición de la ingenua muchacha, que buscará por todos los medios, con aventuras y con amantes, escapar al tedio, la monotonía y la exasperación que se han apoderado de su vida. La presente edición, en reciente traducción de Mauro Armiño, incluye los fragmentos, descubiertos entre los manuscritos de Flaubert, que el autor decidió a última hora no incluir en la novela.",
+    "comentarios": "Gustave Flaubert (Ruan, 12 de diciembre de 1821-Croisset, 8 de mayo de 1880) fue un escritor francés. Considerado uno de los mejores novelistas universales, es conocido principalmente por su novela Madame Bovary, además de por su escrupulosa devoción a su arte y su estilo, cuyo mejor ejemplo fue su interminable búsqueda de le mot juste (‘la palabra exacta’).",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/madame-bovary.jpg"
+  },
+  {
+    "id": "libro-1767064253774-edc595a67c5628",
+    "titulo": "Cómo ganar contra la defensa Grünfeld",
+    "autor": "Anatoli Karpov",
+    "anio": 1992,
+    "isbn": "9788488155054",
+    "editorial": "Zugarto Ediciones",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Chess",
+      "Ajedrez"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro, escrito por uno de los campeones mundiales de ajedrez más emblemáticos de la historia, Anatoli Karpov, es una obra especializada dirigida a jugadores avanzados y aficionados serios que desean comprender en profundidad cómo afrontar y superar una de las defensas más dinámicas y complejas del repertorio negro: la Defensa Grünfeld.\n\nKarpov, reconocido por su estilo posicional, metódico y estratégico, presenta en este texto un análisis detallado de líneas críticas, planes típicos, transiciones tácticas y estructuras de peones propias de la Grünfeld. La obra destaca por su enfoque práctico: más allá de presentar variantes teóricas, explica ideas estratégicas, errores frecuentes y caminos para obtener ventaja desde la apertura, apoyándose en partidas reales –incluyendo algunas disputadas por el propio Karpov– como ejemplos ilustrativos.\n\nSu principal fortaleza radica en la combinación de teoría con experiencia viva del tablero: cada recomendación y variante está anclada en la comprensión profunda que un campeón mundial posee sobre la psicología del ajedrez competitivo. Esto convierte al libro en una guía no solo de teoría de apertura, sino también de planificación a mediano plazo y técnica de explotación de debilidades.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-ganar-contra-la-defensa-grunfeld.jpg"
+  },
+  {
+    "id": "libro-1767064090420-c67214bb063c6",
+    "titulo": "El Libro de arena",
+    "autor": "Jorge Luis Borges",
+    "anio": 1998,
+    "isbn": "9788448704711",
+    "editorial": "Alianza Editorial",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Literatura"
+    ],
+    "formato": "Físico",
+    "notas": "«A mis años —he nacido en 1899—, no puedo prometer ni prometerme sino esas pocas variaciones de la irreparable monotonía. Séame permitido, sin embargo, indicar alguna minucia. El libro incluye trece relatos. El número es casual o fatal —aquí las dos palabras son estrictamente sinónimas— y no mágico. Si de todos mis textos tuviera que rescatar uno solo, rescataría, creo, El Congreso, que es a la vez el más autobiográfico (el que prodiga más los recuerdos) y el más fantástico. No ocultaré tampoco mi preferencia por El libro de arena. Hay también un cuento de amor, un cuento «psicológico» y el relato de un episodio dramático de la historia de estas repúblicas. He querido ser fiel, en estos ejercicios de Ciego, al ejemplo de Wells: la conjunción de un estilo llano, a veces casi oral, y de un argumento imposible. El curioso lector puede agregar los nombres de Swift y de aquel Edgar Allan Poe que, hacia 1838, renunció a su modo suntuario para legarnos los admirables capítulos finales de su Arthur Gordon Pym. No escribo para una minoría selecta, que no me importa, ni para ese adulado ente platónico cuyo apodo es la Masa. Descreo de ambas abstracciones, caras al demagogo. Escribo para mí, para los amigos y para atenuar el curso del tiempo» (Jorge Luis Borges)",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-libro-de-arena.jpg"
+  },
+  {
+    "id": "libro-1767063941899-eb75b5b704892",
+    "titulo": "Quemando cromo",
+    "autor": "William Gibson",
+    "anio": 2002,
+    "isbn": "9788445073834",
+    "editorial": "Minotauro",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Literatura",
+      "Cuentos",
+      "Ficción"
+    ],
+    "formato": "Físico",
+    "notas": "Este volumen reúne los primeros cuentos de William Gibson, publicados originalmente en antologías y revistas especializadas. La mayoría de ellos estuvieron nominados para los principales premios del género (Hugo, Nebula, Locus). Dos de estos cuentos, Quemando Cromo y Johnny Mnemónico (origen de la película del mismo nombre protagonizada por Keanu Reeves en 1995), tienen como escenario el mismo universo de Neuromante, que se convertirá en el referente estético y tecnológico del movimiento ciberpunk.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/quemando-cromo.jpg"
+  },
+  {
     "id": "libro-1767062619714-f1188fba5f3548",
     "titulo": "Aceites y grasas industriales",
     "autor": "Alton Edward Bailey",
@@ -8,14 +247,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Lubricación",
       "Tribología"
     ],
-    "formato": "Físico",
     "notas": "Al escribir este volumen se ha tratado de hacer, principalmente, un texto sobre Tecnología de aceites y grasas; por esto, en su mayor parte (secciones C y D), se dedica a la descripción y estudio de los productos grasos de importancia comercial y a los productos usados en la manufactura de estos productos.En las dos secciones preliminares (A y B), se revisan brevemente la naturaleza, propiedades físicas y propiedades químicas de los aceites y grasas, y se estudian la composición, características y disponibilidades de las materias primas para la obtención de aquéllos.A.NATURALEZA DE LOS ACEITES Y GRASAS.Estructura y composición de los aceites y grasas.Reacciones de las grasas y los ácidos grasos.Propiedades físicas de las grasas y los ácidos grasos.Papel de las grasas en la dieta humana.B MATERIAS PRIMAS PARA LA PRODUCCIÓN DE ACEITES Y GRASAS.Fuentes, utilización y clasificación de los aceites y grasas.Composición y características de los distintos aceites y grasas.C UTILIZACIÓN INDUSTRIAL DE LAS GRASAS Y ACEITES.Aceites para cocinar y para ensaladas.Grasas plásticas para reposteria.Mantequilla y margarina.Productos horneados y confituras.Jabón y otros agentes tensoactivos.Pinturas, barnices y productos afines.Diversos productos derivados de los aceites y grasas.D.PROCESOS FUNDAMENTALES EN LA TECNOLOGÍA DE ACEITES Y GRASAS.Manipulación, almacenamiento y valoración de los aceites y productos oleaginosos.Extracción de grasas y aceites.Neutralización y decoloración.Hidrogenación.Desodorización.Hidrólisis de grasas, esterificación e interesterificación.Fabricación de jabón.Fraccionamiento de grasas y ácidos grasos.Polimerización, isomerización y procesos afines.Solidificación, homogenización y emulsionamiento.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=xFjGDCmLuKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=xFjGDCmLuKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767062580291-d374a089d968",
@@ -26,14 +266,15 @@
     "editorial": "Ediciones Paraninfo, S.A.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Eficiencia Energética",
       "Energía"
     ],
-    "formato": "Físico",
     "notas": "En la actualidad, el análisis de la eficiencia energética en instalaciones de calefacción y agua caliente sanitaria en edificios representa un campo de amplia aplicación, por lo que aquellos especialistas que deseen desarrollar su vida profesional en este ámbito laboral deberán dominar todos los elementos disponibles en dicha materia. A través de este manual aprenderemos a calcular la eficiencia e…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=koO5CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=koO5CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767062524365-ff43a3bb05fba8",
@@ -44,14 +285,15 @@
     "editorial": "",
     "coleccion": "De Las Energías Fósiles a Las Alternativas",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Medioambiente"
     ],
-    "formato": "Físico",
     "notas": "La finalidad de este libro es describir los métodos actuales de producción de energía, no limitándose, sin embargo, a la exposición de las más modernas tecnologías relacionadas con la obtención de energía útil, sino mostrando, además, su desarrollo a lo largo de los últimos años; no desdeñando describir la constante lucha por la mejora de la eficiencia y la seguridad medioambiental, todo ello con una clara finalidad formativa. No existe, hasta la fecha, obra alguna en lengua española que contemple las diversas formas de energía tanto fósiles como alternativas, se estima muy perjudicial la acostumbrada separación de textos relacionados con las energías dejando fuera de alcance a las energías no renovables o a las renovables, según los casos.Se intenta crear opinión, respecto a este asunto, demasiado importante para ser dejado únicamente en manos de los especialistas.El libro está dedicado a las personas con interés por los temas de su tiempo que utilizan fundamentalmente el español como lenguaje de comunicación, en particular técnicos, políticos, ejecutivos y, en general, aquellas personas con un interés en detener el calentamiento global del planeta cuyo origen principal es el efecto invernadero. Este viene determinado prioritariamente por las emisiones a la atmósfera de CO2, SO2, y NOx, entre otros, debidos fundamentalmente a la combustión de los combustibles fósiles.'",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=Ihc1QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=Ihc1QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767062456952-68dbfcc1ac3ff8",
@@ -62,14 +304,15 @@
     "editorial": "Dextra",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Proyectos",
       "Ingeniería"
     ],
-    "formato": "Físico",
     "notas": "El presente libro ha sido específicamente pensado como materia de base para dar a todo aquél que pretenda acometer un grado en ingeniería ( ya sea ésta Mecánica, Eléctrica, Química, Energía o en Tecnologías Industriales) una visión actualizada de la materia de Ingeniería del Proyecto. Se han tenido en su redacción en cuenta las últimas novedades y avances en todo aquello que afecta a la profesión del ingeniero. Así, se revisa el ciclo de vida del proyecto en ingeniería desde las etapas tempranas de concepción, el diseño, la ingeniería básica, la de detalle, la construcción, el montaje y la puesta en operación. Se cuidan aspectos esenciales como son: - Los aspectos Medioambientales y de Seguridad y Salud Laboral en el marco del Proyecto de Ingeniería La consideración integrada de la Ingeniería de Procesos.- La consideración de los suministros como un elemento clave, con especial atención a los INCOTERM y su impacto en el proceso de acopios. - La consideración de aspectos de investigación e innovación y su relación con el proyecto y su protección mediante la ley de propiedad industrial.- La documentación formal del proyecto, incluyendo aspectos claves para el proyecto como puede ser la presupuestación y el plan de obra.Todo esto se combina con un número significativo de ejercicios resueltos y casos prácticos. Los ejercicios resueltos son proporcionados a través de un servicio web, para mayor comodidad y mantenibilidad, lo que redundará en un mejor servicio al lector. Esta interface electrónica permitirá al lector acceder a revisiones y actualizaciones del contenido de la obra.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=_NPWrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=_NPWrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767062323916-4a1ab3d4b80ca",
@@ -80,14 +323,15 @@
     "editorial": "Cengage Learning Editores",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Cálculo"
     ],
-    "formato": "Físico",
     "notas": "Nueva edición de este clásico, ahora presenta características que lo han renovado a fin de responder a muchas de las necesidades actuales de la enseñanza de las matemáticas, y en especial de las ecuaciones diferenciales. Incluye un CD-ROM con herramientas que complementan el desarrollo de los temas y los proyectos. Se aumentaron los proyectos, de manera que todos los capítulos finalizan con uno. Se crearon secciones de introducción y de repaso, al principio y al final de los capítulos. Presenta un diseño de páginas muy ágil y agradable para los estudiantes.Prefacio. Reconocimientos 1. Introducción a las ecuaciones diferenciales 2. Ecuaciones diferenciales de primer orden 3. Modelado con ecuaciones diferenciales de primer orden 4. Ecuaciones diferenciales de orden superior 5. Modelado con ecuaciones diferenciales de orden superior 6. Soluciones en serie de ecuaciones lineales 7. Transformada de Laplace 8. Sistemas de ecuaciones diferenciales de primer orden 9. Soluciones numéricas de ecuaciones diferenciales ordinarias 10. Sistemas autónomos planos 11. Funciones ortogonales y series de Fourier 12. Problemas de valores en la frontera en coordenadas rectangulares 13. Problemas de valores en la frontera en otros sistemas coordenados 14. Método de la transformada integral 15. Soluciones numéricas de ecuaciones diferenciales parciales. Apéndices. Respuestas a problemas impares. Índice.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=T6RzrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=T6RzrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767062225793-421754fefb80b",
@@ -98,13 +342,14 @@
     "editorial": "Editex",
     "coleccion": "",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ciencias-aplicadas-ii-formacion-profesional-basica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ciencias-aplicadas-ii-formacion-profesional-basica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767061945871-dd5460f991c978",
@@ -115,13 +360,14 @@
     "editorial": "Editex",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ciencias-aplicadas-ii-formacion-profesional-basica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ciencias-aplicadas-ii-formacion-profesional-basica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767061728456-00cc493a23b3a",
@@ -132,14 +378,15 @@
     "editorial": "Civitas",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Medioambiente"
     ],
-    "formato": "Físico",
     "notas": "Energía : Desarrollos Tecnológicos En La Protección Medioambiental JOSE LUIS GARCIA DELGADO CIVITAS – Esta obra recoge los textos de las Conferencias dictadas en la sede de la Comisión Nacional de Energía, dentro del Ciclo «La energía: mercados eficientes, suministro seguro y protección de los consumidores». El presente volumen se centra en la interrelación de los aspectos medioambientales y tecnológicos aplicados al sector energético, decisivos para atender uno de los pilares básicos de la política energética europea. Tras el prólogo de Alberto Pototschnig, Director de la nueva Agencia para la Cooperación de los Reguladores Energéticos (ACER), los nueve capítulos de la obra, a cargo de otros tantos destacados especialistas de reconocido prestigio nacional e internacional, se articulan en dos partes: «El papel de las energías renovables» y «Nuevos desarrollos tecnológicos».",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/energia-desarrollos-tecnologicos-en-la-proteccion-medioambiental.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/energia-desarrollos-tecnologicos-en-la-proteccion-medioambiental.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767061615980-d6aab88e87b3e8",
@@ -150,14 +397,15 @@
     "editorial": "punto de lectura",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "Alberto Fuguet ha desarrollado una de las carreras más personales dentro del periodismo escrito. Con un estilo directo, urbano y a veces políticamente incorrecto, ha sintonizado como ninguno con las tendencias y actores sociales que lo rodean. Maneja con total destreza los límites de la ficción y la realidad, haciendo suyas las historias que observa. Se fascina con personajes y anécdotas que luego transforma en relatos que han marcado a un amplio sector de sus homólogos en la prensa nacional. Estas páginas albergan buena parte de la memoria pop de las últimas dos décadas. Mike Patton, Tim Burton, Mario Vargas Llosa, el asesino de John Lennon, Hollywood, la baja cultura y los giros idiomáticos que asume él mismo, son algunos de los temas que aquí explora el autor de Las películas de mi vida./p>",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/primera-parte.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/primera-parte.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767061442531-1eb688e49112b",
@@ -168,14 +416,15 @@
     "editorial": "Centro Gráfico",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Diccionario",
       "Lenguas"
     ],
-    "formato": "Físico",
     "notas": "El Diccionario Mapudungun - Español / Español - Mapudungun es una herramienta única para aprender y entender el idioma mapudungun, hablado por el pueblo mapuche, uno de los grupos indígenas más importantes de Chile y Argentina. Ideal para estudiantes, lingüistas, profesionales y todos aquellos interesados en la cultura y lengua mapuche.\n\nCaracterísticas del Producto:\n\nBilingüe y Completo: Este diccionario ofrece una traducción precisa entre Mapudungun y Español, lo que lo convierte en una herramienta indispensable tanto para quienes desean aprender mapudungun como para aquellos que necesitan consultar el idioma de forma práctica y rápida.\n\nVocabulario Extenso: Contiene una amplia gama de palabras y expresiones comunes en mapudungun, cubriendo áreas como la naturaleza, la vida cotidiana, la familia, los valores, entre otros, brindando una visión integral del idioma.\n\nFacilidad de Uso: Organizado alfabéticamente para facilitar la búsqueda rápida de términos, con explicaciones claras y ejemplos que facilitan su comprensión.\n\nRecurso Cultural: Más que un diccionario, es una ventana abierta a la cultura mapuche, permitiendo que los hablantes del español puedan acercarse a un idioma ancestral que sigue vivo y vigente en diversas comunidades de Chile y Argentina.\n\nIdeal para Estudiantes y Profesionales: Perfecto para quienes estudian lingüística, antropología, historia, o para aquellos interesados en preservar y promover el idioma mapudungun.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diccionario-mapudungun-espanol-espanol-mapudungun.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diccionario-mapudungun-espanol-espanol-mapudungun.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767061286641-6cd6070d2207b8",
@@ -186,14 +435,15 @@
     "editorial": "Anagrama",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "\"Un policia perdido en la ruta que media entre Castelldefels y Barcelona, una pelirroja de la que todos hablan pero nadie ha visto, un vagabundo jorobado que vive en el bosque, un asesinato congelado en la memoria de unos pocos, escenas sadomasoquistas que aparecen como relampagos, protagonizadas por el policia y una mujer misteriosa, una pelicula que alguien proyecta en el bosque y en donde parec…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=ohtfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=ohtfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767061177461-62ca254bcacc9",
@@ -204,15 +454,16 @@
     "editorial": "Ediciones MArtinez Roca",
     "coleccion": "Escaques",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Chess",
       "Ajedrez",
       "reglamento"
     ],
-    "formato": "Físico",
     "notas": "Barcelona. Encuadernación En Tapa Blanda De Editorialei. 20 Cm. 242 P. Traducción Del Ruso Por Agustín Puig; Revisión Técnica De José Luis Brasero. Colección Escaques. Vol. 44. Capablanca, José Raúl. 1888 - 1942. Ajedrez. Cubierta Deslucida. Isbn: 84 - 270 - 0212 - 2",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/capablanca.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/capablanca.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767060907135-efc662a8e9ac5",
@@ -223,15 +474,16 @@
     "editorial": "Guadal",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Juegos",
       "Guía",
       "Software"
     ],
-    "formato": "Físico",
     "notas": "Una guía imperdible que enseñará a los niños cómo dominar ¡y ser el mejor en los juegos más populares de Roblox vol.1.\nIncluye: Piggy\nAdopt Me\nFlee the Facility\nMy Restaurant",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-guia-definitiva-de-roblox.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-guia-definitiva-de-roblox.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767060661529-a17952e7be69b",
@@ -242,14 +494,15 @@
     "editorial": "Archivo Histórico de Concepción",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Leyendas",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Lo compré en museo de historia natural, parque Ecuador en 2024",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cronicas-y-leyendas-de-coliumo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cronicas-y-leyendas-de-coliumo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767060388504-7cd6e511150ba8",
@@ -260,14 +513,15 @@
     "editorial": "AMV Ediciones",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Biomasa"
     ],
-    "formato": "Físico",
     "notas": "A Definiciones y generalidades. 1 Compuestos orgánicos producidos por la Naturaleza.- 1.1 Producción directa de biomasa.- 1.2 Producción indirecta de biomasa.- 1.3 El carbono fósil.- 1.4 Productos intermedios. 2 Definiciones reglamentarias de la biomasa.- 2.1 Reglamentación de la Unión Europea.- 2.2 Reglamentación francesa.- 2.3 Precisiones de las Naciones Unidas.- 2.4 Legislación y normativa espa…",
     "comentarios": "NDICE RESUMIDO DEL LIBRO: A Definiciones y generalidades. B Fuentes de biomasa. C Métodos de transformación de la biomasa en energías. D Biocombustibles y biocarburantes. E Situación de la biomasa como fuente de energía: la biomasa- energía.\n\nBIOMASA, LA: FUNDAMENTOS, TECNOLOGÍAS Y APLICACIONES",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-biomasa-fundamentos-tecnologias-y-aplicaciones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-biomasa-fundamentos-tecnologias-y-aplicaciones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767060236389-22c8c852693c7",
@@ -278,14 +532,15 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Clima",
       "Energía"
     ],
-    "formato": "Físico",
     "notas": "Es un recurso continuo para los ejecutivos y los responsables de elaborar políticas que necesitan una guía fiable y accesible para las grandes preguntas estratégicas en torno a la energía. Expone la información más actualizada sobre el futuro de la energía en un formato práctico y fácil de usar. Discute sobre las nuevas oportunidades que surgirán para los inversores, corporaciones y gobiernos. Ayuda a distinguir los mitos desarrollados por los medios de comunicación e ideas equivocadas de los efectos actuales que la crisis energética tendrá en diversos negocios y organizaciones",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nueva-era-del-cambio-energetico.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nueva-era-del-cambio-energetico.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767060115346-d876a4c0e4496",
@@ -296,14 +551,15 @@
     "editorial": "Editorial Limusa S.A. De C.V.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Álgebra"
     ],
-    "formato": "Físico",
     "notas": "Este texto está dedicado al estudio de aquellos temas del álgebra que tradicionalmente se estudian en la universidad. Aunque se supone que solamente se ha cursado un curso de álgebra elemental aprovecharán mucho más este libro aquellos estudiantes que hayan llevado dos cursos de álgebra y uno de trigonometría plana. No es exagerado señalar la importancia que tiene el álgebra en los estudios universitarios, ya que es una experiencia bien conocida el hecho de que las deficiencias en esta materia impiden al estudiante cursar de manera satisfactoria la geometría analítica y el cálculo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/algebra.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/algebra.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059997447-b1baa910b2526",
@@ -314,14 +570,15 @@
     "editorial": "Ediciones Promocionales",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "La vuelta al mundo en 80 días narra las aventuras del caballero inglés Phileas Fogg, que, acompañado de su criado Picaporte, quiere demostrar a la sociedad de su época (1872) que es posible recorrer la superficie de la Tierra en solo 80 días. Durante el viaje, no solamente tienen que luchar contra todo tipo de obstáculos (accidentes geológicos y geográficos, dificultades culturales y de locomoción_), sino que tienen que vérselas con un inspector de policía que confunde a Phileas Fogg con un ladrón y, sobre todo, deben luchar contra el paso de las horas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vuelta-al-mundo-en-80-dias.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vuelta-al-mundo-en-80-dias.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059877428-92a01d4b22f908",
@@ -332,14 +589,15 @@
     "editorial": "Booket",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia",
       "Cosmología"
     ],
-    "formato": "Físico",
     "notas": "Este libro de Stephen Hawking y Leonard Mlodinow sobre los descubrimientos y los progresos técnicos más recientes nos presenta una nueva imagen del universo, y de nuestro lugar en él, muy distinta de la tradicional e, incluso, de la imagen que el propio Hawking nos había proporcionado, hace ya más de veinte años, en su gran libro Historia del tiempo.\n\nEn él el gran físico nos explicaba de dónde procedía el universo y hacia dónde se encaminaba, pero aún no podía dar respuesta a importantes preguntas: ¿por qué existe el universo?, ¿por qué hay algo en lugar de nada?, ¿por qué existimos nosotros?, ¿necesita el universo un creador?\n\nEn los últimos años, el desarrollo de la teoría “M” (en realidad toda una familia de teorías enlazadas sobre física cuántica) y las recientes observaciones realizadas por los satélites de la NASA, nos permiten ya enfrentarnos a la pregunta fundamental: la Cuestión Última de la Vida, el Universo y el Todo.\n\nSi esta teoría última es verificada por la observación científica, habremos culminado una búsqueda que se remonta a hace más de tres mil años: habremos hallado el Gran Diseño.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=XIGfngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=XIGfngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059737793-40a024de604bf8",
@@ -350,15 +608,16 @@
     "editorial": "Aenor",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Normas",
       "ISO",
       "Gestión"
     ],
-    "formato": "Físico",
     "notas": "omprender las características de cada empresa y su contexto, además de conocer los requisitos de cada sistema de gestión, es vital para llevar a cabo una buena integración. El sistema integrado debe funcionar como un todo, aunque esté compuesto de elementos diferentes interrelacionados entre sí. La Guía práctica para la integración de sistemas de gestión es una herramienta muy útil a la hora de gestionar tanta información. Tal y como se menciona en el libro: “La integración de sistemas es el futuro”.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-practica-para-la-integracion-de-sistemas-de-gestion-iso-9001-iso-14001-e-iso-45001.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-practica-para-la-integracion-de-sistemas-de-gestion-iso-9001-iso-14001-e-iso-45001.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059642852-5593d2dbb346b8",
@@ -369,15 +628,16 @@
     "editorial": "Sudamericana",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Colombia",
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "\"El amor en los tiempos del cólera\" es una célebre novela de 1985 del escritor colombiano Gabriel García Márquez, que narra la historia de amor incondicional de Florentino Ariza por Fermina Daza, desde su juventud hasta la vejez, a través de más de medio siglo de esperas, obstáculos y encuentros, inspirada en la relación de los padres del autor y ambientada en el Caribe colombiano, explorando temas como la persistencia del amor, la fidelidad, el tiempo y la muerte.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=obebgK699sYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=obebgK699sYC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059525737-7a03c42758e93",
@@ -388,14 +648,15 @@
     "editorial": "Yale University Press",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Clima",
       "Biodiversidad"
     ],
-    "formato": "Físico",
     "notas": "Leading researchers discuss what is now known about the effects of climate change on the natural world. They examine recent trends in and projections about climate chan≥ ways that particular organisms are responding to climate chan≥ conservation challenges, including social and policy issues; and more. \"This book will be a milestone in the emerging discipline of climate change biology. No issue is…",
     "comentarios": "Investigadores destacados debaten sobre los efectos del cambio climático en la naturaleza. Examinan las tendencias y proyecciones recientes sobre el cambio climático, las formas en que determinados organismos responden a los desafíos de conservación del cambio climático, incluyendo cuestiones sociales y políticas, y más. «Este libro marcará un hito en la disciplina emergente de la biología del cambio climático. Ningún tema es…»",
-    "portada": "https://books.google.com/books/content?id=T0n45hxqy_gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=T0n45hxqy_gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059444964-6aad3259037668",
@@ -406,14 +667,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "matemáticas",
       "Cálculo"
     ],
-    "formato": "Físico",
     "notas": "El libro Ecuaciones diferenciales ordinarias. Introducción. Problemas resueltos contiene el desarrollo, con todo detalle, y la solución de los ejercicios que aparecen en el volumen de teoría Ecuaciones diferenciales ordinarias. Introducción. Ambos libros fueron diseñados como una sola obra en dos tomos, concebida para estudiantes de escuelas de ingeniería. Tanto los ejemplos de la teoría como el conjunto de los ejercicios fueron elegidos entre aquellos que los autores hemos utilizado en las múltiples ocasiones que hemos impartido este material. De los siete capítulos de este volumen de problemas, dos contienen ejercicios de aplicación y los otros cinco, ejercicios sobre algoritmos y estrategias de solución de ecuaciones diferenciales (ED).",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ecuaciones-diferenciales-ordinarias-intr-problemas-resueltos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ecuaciones-diferenciales-ordinarias-intr-problemas-resueltos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059295326-681fcbe62fd7b8",
@@ -424,15 +686,16 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Control Automático",
       "Estadísticas",
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Como oferta a un curso formal, el nivel del texto es adecuado para graduados de un primer año de Ingeniería que hayan superado un curso de sistemas lineales (donde se insista en aplicaciones de la transformada de Fourier) y una introducción a las probabilidades y variables aleatorias.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=D5Q2CFr-pakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=D5Q2CFr-pakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059220962-f3a720bf326f",
@@ -443,14 +706,15 @@
     "editorial": "Marcombo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Programación",
       "Arduino"
     ],
-    "formato": "Físico",
     "notas": "Ha llegado el libro que estaba esperando: conozca Arduino a través de múltiples prácticas ordenadas por nivel de dificultad. En esta segunda edición se ahonda en el desarrollo de muchas de las prácticas expuestas en la primera edición del libro, pero se emplea el novedoso Arduino MKR 1010. Mucho más potente y dotado de un módulo de conexión WiFi, Arduino MKR 1010 le permitirá adentrarse en el mundo del internet de las cosas (IoT). Asimismo, en esta guía de autoaprendizaje se presentan nuevas herramientas de desarrollo hardware, como el sistema Grove, que evita el cableado de componentes, y los “bricks”, el método revolucionario en el terreno educativo de la electrónica. En cuanto al software, se muestran las plataformas IoT más relevantes en la actualidad. ThingSpeak, Adafruit IO o Blynk integran los valores captados por diferentes sensores a través de Arduino 1010 para mostrarlos ordenada y gráficamente en un PC, una tablet o un móvil. Además, se dedica un capítulo completo a las comunicaciones Bluetooth y al desarrollo de aplicaciones para Android utilizando App Inventor 2, así como se incluye otro capítulo sobre las comunicaciones LoRaWAN, tratadas con un ejemplo práctico y didáctico por medio de Arduino MKR 1300. TTN y Ubidots se muestran como ejemplos de utilización básica. Con este libro, iniciarse en el internet de las cosas sin perder de vista la sencillez de la programación con Arduino, es posible. Consiga ya su ejemplar, disfrute de su enfoque práctico y conozca las herramientas que le permitirán innovar en el desarrollo de sus proyectos. Páginas: 520 Edición: 2 Fecha de publicación: 10/11/2020 ISBN: 9788426726162 Formato: 17x24 cms",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/taller-de-arduino-experimentando-con-arduino-mkr-1010.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/taller-de-arduino-experimentando-con-arduino-mkr-1010.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767056634940-815bfb58f98808",
