@@ -1,219 +1,832 @@
 [
   {
-    "id": "libro-1767115090990-6bf5eb140e6948",
-    "titulo": "Cine y casos de negocios, una mirada multidisciplinaria",
-    "autor": "Moira Nakousi, Soto Muñoz Soto",
-    "anio": 2014,
-    "isbn": "9789560101518",
-    "editorial": "RIL",
-    "coleccion": "",
-    "vol": "",
-    "categorias": [
-      "Cine",
-      "Negocios"
-    ],
-    "formato": "Físico",
-    "notas": "El libro analiza e interpreta las 15 mejores películas sobre negocios de todos los tiempos y las emplea como casos de estudio cubriendo una amplia gama de temas como: liderazgo, emprendimiento, gobiernos corporativos, perfiles criminales, diseño de productos, valoración de activos, psicología organizacional, innovación, estrategias de marketing y ventas, contratos financieros, negocios internacionales y derechos humanos, entre muchos otros.\n\nEs así como es posible encontrar un detallado análisis a las películas Ciudadano Kane de Orson Welles, Wall Street de Oliver Stone, Pánico en Wall Street de Glenn Jordan, Recursos Humanos de Laurent Cantet, El método de Marcelo Piñeyro, Okuribito de Yojiro Takita, El desinfomante de Stevenn Soderbergh, La familia Jones de Derrick Borte, Red social de David Fincher, Too big to fail de Curtis Hanson, La pesca de salmón en Yemen de Lasse Hallström, Margin Call de J.C. Chandor, No de Pablo Larraín, Jobs de Joshua Michael Stern y El lobo de Wall Street de Martin Scorsese.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cine-y-casos-de-negocios-una-mirada-multidisciplinaria.jpg"
-  },
-  {
-    "id": "libro-1767112339303-e9ee15305dd76",
-    "titulo": "Aproximaciones a la epistemología para universitarios. Breves acercamientos a mentes brillantes",
-    "autor": "Marcelo Careaga Butter",
-    "anio": 2020,
-    "isbn": "9789560108197",
-    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
-    "coleccion": "",
-    "vol": "",
-    "categorias": [
-      "Filosofía",
-      "Universidad"
-    ],
-    "formato": "Físico",
-    "notas": "Este libro contiene pone a disposición de estudiantes, profesores y académicos algunas aproximaciones acerca de las bases originarias del pensamiento y del conocimiento; considerando las principales corrientes fundantes del pensamiento clásico que conformaron las líneas orientadoras del pensamiento moderno, incluyendo una selección de la escuelas y de los autores más representativos, para llegar a un acercamiento progresivo y analítico acerca de las nuevas corrientes del pensamiento.",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1wnfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "libro-1767112272201-50365e38ca4cd8",
-    "titulo": "Biología",
-    "autor": "Claude Alvin Villee",
-    "anio": 1984,
-    "isbn": "9789682505874",
-    "editorial": "Interamericana",
-    "coleccion": "",
-    "vol": "7a Ed.",
-    "categorias": [
-      "Biología"
-    ],
-    "formato": "Físico",
-    "notas": "",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/biologia.jpg"
-  },
-  {
-    "id": "libro-1767109366693-4e62f5b597f388",
-    "titulo": "Cálculo de una variable, trascendentes tempranas",
-    "autor": "James Stewart",
-    "anio": 2018,
-    "isbn": "9786075265506",
-    "editorial": "Cengage",
-    "coleccion": "",
-    "vol": "8ava ed.",
-    "categorias": [
-      "Matemáticas",
-      "Cálculo"
-    ],
-    "formato": "Físico",
-    "notas": "El estudio del cálculo ayuda a los estudiantes a comprender la disciplina de manera práctica. El modo más importante de fomentar la comprensión conceptual es mediante los problemas que se asignan. Con ese fin el autor ha ideado varios tipos de problemas, algunos conjuntos de ejercicios comienzan explicando el significado de los conceptos básicos de la sección. Otro tipo de ejercicios usa la descripción verbal para probar la comprensión conceptual. Se combinan y comparan los enfoques gráfico, numérico y algebraico.",
-    "comentarios": "James Drewry Stewart (29 de marzo de 1941 - 3 de diciembre de 2014) fue un matemático canadiense y profesor emérito en la Universidad McMaster. Obtuvo su maestría en la Universidad de Stanford y su doctorado en la Universidad de Toronto en 1967. Su investigación se centró en el análisis armónico y funcional. Además de su carrera académica, Stewart fue violinista y miembro de la Orquesta Filarmónica de Hamilton. ​\n\nStewart es reconocido por su serie de libros de texto de cálculo ampliamente utilizados en educación secundaria y universitaria. Entre sus obras más destacadas se encuentran \"Cálculo: Trascendentes Tempranas\" (1995) y \"Cálculo: Conceptos y Contextos\" (1997), ambas en el género de libros de texto de matemáticas. Sus textos son considerados estándar en muchas instituciones educativas a nivel mundial.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/calculo-de-una-variable-trascendentes-tempranas.jpg"
-  },
-  {
-    "id": "libro-1767109092086-a4233206ffbf8",
-    "titulo": "Diseño de interiores",
-    "autor": "Paco Asensio, Hugo Kliczkowski",
-    "anio": 2004,
-    "isbn": "9789707181854",
-    "editorial": "Numen",
-    "coleccion": "minidesignbooks",
-    "vol": "",
-    "categorias": [
-      "Diseño",
-      "Interior"
-    ],
-    "formato": "Físico",
-    "notas": "",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diseno-de-interiores.jpg"
-  },
-  {
-    "id": "libro-1767108248569-1115fe86d34668",
-    "titulo": "Introducción a la historia de la arquitectura, de los orígenes al siglo XXI",
-    "autor": "José Ramón Alonso Pereira",
+    "id": "libro-1767126384925-5a2178149d598",
+    "titulo": "Análisi de flexibilidad de cañerías de refrigeración del laminador de planos en frío",
+    "autor": "Cadetech",
     "anio": 2005,
-    "isbn": "9788429121087",
-    "editorial": "Reverte",
+    "isbn": "",
+    "editorial": "Huachipato",
     "coleccion": "",
     "vol": "",
     "categorias": [
-      "Arquitectura"
-    ],
-    "formato": "Físico",
-    "notas": "Este libro recoge con una visión general y unitaria, el devenir de la arquitectura occidental a través del tiempo, desde sus orígenes remotos hasta nuestra misma contemporaneidad; no es ni pretende ser una historia convencional de la arquitectura, sino una introducción a su estudio que desvele sus claves y permita acceder a su realidad tanto al profesional como al aficionado, y especialmente a qui…",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=dzfOSpxUgAYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "libro-1767108136517-72dbaecf0bcf8",
-    "titulo": "Guía Museo nacional de bellas artes Buenos Aires",
-    "autor": "Américo Castilla",
-    "anio": 2007,
-    "isbn": "9789872203092",
-    "editorial": "Cultura nación",
-    "coleccion": "",
-    "vol": "",
-    "categorias": [
-      "Pintura",
-      "Arte"
+      "Anillado"
     ],
     "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-museo-nacional-de-bellas-artes.jpg"
+    "portada": ""
   },
   {
-    "id": "libro-1767107921001-5cd1d727a5291",
-    "titulo": "Ambientes Jóvenes",
-    "autor": "Patricia Bueno",
-    "anio": 2004,
-    "isbn": "9788495692290",
-    "editorial": "Atrium International",
+    "id": "libro-1767126330127-7dd7709b94a328",
+    "titulo": "Revestimiento refractario del alto horno N°1 y trabajos varios.",
+    "autor": "",
+    "anio": 2012,
+    "isbn": "",
+    "editorial": "Huachipato",
     "coleccion": "",
     "vol": "",
     "categorias": [
-      "Arquitectura",
-      "Diseño"
+      "Anillado"
     ],
     "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ambientes-jovenes.jpg"
+    "portada": ""
   },
   {
-    "id": "libro-1767107561022-a8dacb44dd0cd8",
-    "titulo": "Cafés, arquitectura e interiores",
-    "autor": "Paco Asensio, Hugo Kliczkowski",
-    "anio": 2004,
-    "isbn": "9789707181830",
-    "editorial": "Numen",
-    "coleccion": "minidesignbooks",
+    "id": "libro-1767126246434-2db88c6695cc4",
+    "titulo": "El problema de programación y secuenciamiento de tareas en el proceso de secado en un aserrader",
+    "autor": "José Luis Muñoz Pincheira",
+    "anio": 2006,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
     "vol": "",
     "categorias": [
-      "Arquitectura",
-      "Diseño"
+      "Anillado",
+      "Tesis",
+      "Programación"
     ],
     "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cafes-arquitectura-e-interiores.jpg"
+    "portada": ""
   },
   {
-    "id": "libro-1767107832252-cf0b31a871ecc",
-    "titulo": "Mecánica de fluidos, problemas resueltos",
-    "autor": "José María López-Herrera Sánchez",
-    "anio": 2005,
-    "isbn": "9788448198893",
+    "id": "libro-1767126192668-1da5b56dcecb2",
+    "titulo": "Análisis de vibraciones de máquinas, Categoría III - ISO 18436-2",
+    "autor": "Pedro Saavedra",
+    "anio": 2006,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Vibraciones"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767126123903-0357d055f14908",
+    "titulo": "Curso de Lubricación",
+    "autor": "SHELL Chile",
+    "anio": null,
+    "isbn": "",
     "editorial": "",
     "coleccion": "",
     "vol": "",
     "categorias": [
-      "Mecánica de Fluídos"
+      "Anillado",
+      "Lubricación"
     ],
     "formato": "Físico",
-    "notas": "Este libro de problemas de mecánica de fluidos es el complemento al libro de Fundamentos y Aplicaciones de la Mecánica de Fluidos de Antonio Barrero y Miguel Pérez-Saborid (McGraw-Hill 2005). Se compone de una colección de unos 60 problemas resueltos. La selección de los problemas se ajusta al contenido de la obra. Cada capitulo lleva un resumen de las fórmulas y teoría más importante. Los problem…",
+    "notas": "",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=5yxfAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": ""
   },
   {
-    "id": "libro-1767107722568-3274c0962d4348",
-    "titulo": "Problemas de transferencia de calor",
-    "autor": "Carlos Corrochano Sánchez, José Antonio Fernández Benítez, Javier Muñoz Antón, Adriana Ortiz Gómez",
-    "anio": 2014,
-    "isbn": "9788416277247",
-    "editorial": "Dextra",
+    "id": "libro-1767126093000-a8155509ff08e",
+    "titulo": "Estudio de mejoras en la mantención de mandriles enrolladores del laminador de planos frío",
+    "autor": "Carlos Rudolph Kuncar",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
     "categorias": [
-      "Termodinámica",
-      "Transferencia",
-      "Calor",
+      "Anillado",
+      "Tesis",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767126035826-81ba352470fcb",
+    "titulo": "Mantención de válvulas de bola y obturador rotatorio excéntrico",
+    "autor": "INECO",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "Guía del estudiante",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Instrumentación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125984587-ad50f20b79c418",
+    "titulo": "Mantención de actuadores de pistón",
+    "autor": "INECO",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "Guía del estudiante",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Instrumentación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125864800-bed2b09e44bb88",
+    "titulo": "Grandes Matemáticos",
+    "autor": "",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Prensa Cinetífica",
+    "coleccion": "Investigación y Ciencia",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Biografías",
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "1. Creación Matemática\n2. Leonardo de Pisa\n3. René Descartes\n4. Pierre de Fermat\n5. GAspard Monge\n6. André Weil\n7. Carl Gauss\n8. Fourier\n9. Cauchy\n10. Escher y Penrose\n11. Galois\n12. Cantor\n13. Frege\n14. Ramanujan",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125708422-163ef4c301d1c8",
+    "titulo": "Análisis estadístico en matlab",
+    "autor": "Cristian Gil Sanchez",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "Universidad Nacional Colombia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Matlab",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125668439-e7ce6166507b2",
+    "titulo": "Análisis del mercado de generación eléctrica: Spot, Contratos y comportamientos estratégicos",
+    "autor": "Cecilia Andrea Testart Pacheco",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Universidad de Chile",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Mercado Eléctrico",
+      "Tesis"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125598098-907046a779a158",
+    "titulo": "Programas de mantenimiento predictivo, análisis de lubricantes y vibraciones",
+    "autor": "María del carmen Carnero Moya",
+    "anio": null,
+    "isbn": "9783848452170",
+    "editorial": "EAE",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Vibraciones",
+      "Mantenmiento",
+      "Predictivo",
+      "Lubricación",
+      "Programación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125508333-c49630066cb0c",
+    "titulo": "Políticas de fomento a las energías renovables no convencionales (ERNC) en Chile",
+    "autor": "Enzo Sauma",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Universidad Católica de Chile",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
       "Energía"
     ],
     "formato": "Físico",
-    "notas": "Dicen los autores con respecto al libro: No quisiéramos que sirviese exclusivamente para responder a la cuestión primaria que suscita cada uno de los enunciados: el cómo se hace; más bien el lector debería responderse a cuestiones prácticas de suma importancia en su presente y futuro profesional: ¿de qué orden de magnitud estamos hablando?, ¿cómo podría optimizarse el sistema que se propone en cada ejercicio?, ¿qué factor o variable influye más en el resultado final?, ¿cuál es el lenguaje que se emplea en el área de la ingeniería térmica? Se busca por tanto que el lector desarrolle su ingenio. Así, cuando lo que tenga delante sea una pantalla de ordenador podrá detectar, utilizando su sentido común y su experiencia universitaria, si el resultado que se propone es lógico y plausible.",
+    "notas": "",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/problemas-de-transferencia-de-calor.jpg"
+    "portada": ""
   },
   {
-    "id": "libro-1767107343526-21f4f630e84eb",
-    "titulo": "Van Gogh",
-    "autor": "Manuel Gimenez Saurina, Manuel Mas Franch",
-    "anio": 2005,
-    "isbn": "9788484038702",
-    "editorial": "Edimat",
-    "coleccion": "Grandes Biografías",
+    "id": "libro-1767125454815-075ac7db071898",
+    "titulo": "Fijación de precios de nudo de corto plazo, informe técnic preliminar",
+    "autor": "",
+    "anio": 2018,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
     "vol": "",
     "categorias": [
-      "Biografia",
-      "Pintura",
-      "Arte"
+      "Anillado",
+      "Mercado Eléctrico"
     ],
     "formato": "Físico",
-    "notas": "Conocido en la historia de la pintura como \"el pintor loco\", Van Gogh reflejo en sus obras su alma torturada y el fuego que llevaba dentro.",
-    "comentarios": "Este libro de la colección Grandes Biografías ofrece una narración sintética y emotiva sobre la vida de Vincent van Gogh, un artista cuya grandeza fue reconocida solo después de su muerte. La obra recorre su trayectoria desde los años de búsqueda personal —marcados por la inestabilidad, la vocación religiosa frustrada y el descubrimiento tardío de la pintura— hasta la etapa de plena madurez artística, donde su estilo vibrante y cargado de emoción transformó la historia del arte. El texto destaca la intensidad con la que Van Gogh vivió cada experiencia, su profunda sensibilidad hacia la naturaleza y las personas, así como la relevancia de la relación con su hermano Theo, quien fue apoyo vital en medio de la adversidad. Se trata de una introducción accesible y conmovedora, ideal para quienes desean comprender la dimensión humana detrás de un artista universal y acercarse a su obra desde una mirada íntima y narrativa.",
-    "portada": "https://books.google.com/books/content?id=99bLPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125406169-c0facc6cb32a8",
+    "titulo": "Aprendiendo sobre el método de los elementos finitos",
+    "autor": "L.L. otero Pereiro",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "FEM"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125244799-2a23f2a7ec4ae",
+    "titulo": "Probabilidad y estadística básica para ingenieros con MAtlab",
+    "autor": "Luis Rodríguez Ojeda",
+    "anio": null,
+    "isbn": "",
+    "editorial": "ESPOL",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Estadística",
+      "Matlab"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125188557-dc80d0d24e8b88",
+    "titulo": "Conceptos básicos de probabilidad y estadísticas para el análisis de fallas",
+    "autor": "Benjamín Lhorente Weiss",
+    "anio": 2001,
+    "isbn": "",
+    "editorial": "Universidad Católica de Chile",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "RCA",
+      "Estadísticas",
+      "Probabilidad"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125078377-a5553bda0f9f98",
+    "titulo": "Análisis de vibraciones de máquinas, Categoría I - ISO 18436-2",
+    "autor": "Pedro Saavedra",
+    "anio": null,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Vibraciones"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767125034474-10f2f437dad14",
+    "titulo": "Simulación numérica de la mesa de enfriamiento galopante de la colada continua de Huachipato",
+    "autor": "Denis Concha",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Simulación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767124967285-58a0240f0a7918",
+    "titulo": "Nueva representación de la termodinámica, la entropía como calor",
+    "autor": "Georg Job",
+    "anio": 1970,
+    "isbn": "",
+    "editorial": "Universidad del Quindio",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767124904167-53bfbd02486b08",
+    "titulo": "Mantención de válvulas de control de vástago deslizante",
+    "autor": "INECO",
+    "anio": 1990,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "Guía del estudiante",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Instrumentación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767124803083-0c9a8a04ba3d18",
+    "titulo": "Mantención de actuadores de diafragma",
+    "autor": "INECO",
+    "anio": 1990,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "Guía del estudiante",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Instrumentación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767124756628-de016bcc00b7b8",
+    "titulo": "Términos, tipos y parámetros de selección de válvulas de control",
+    "autor": "INECO",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "Guía del estudiante",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Instrumentación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767124686047-d0c6f8134c15d",
+    "titulo": "Gibbs y la visión geométrica de la termodinámica",
+    "autor": "Justo Pérez",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767124584938-e8c7d436c414f8",
+    "titulo": "Elementos Finitos en mecánica de sólidos",
+    "autor": "Luis Quiroz",
+    "anio": null,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "FEM",
+      "Mecánica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767124445466-31a74a457208d8",
+    "titulo": "Modelo de Laminador reductor de planos en Frío",
+    "autor": "Felipe Ferrada Soto",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767117362746-c202edd0a76b18",
+    "titulo": "Fundamentos de combustión y operación de hornos de calentamiento en CSH",
+    "autor": "Carlos Barrera Medina",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "Huachipato",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767117312635-d11caa442a4d2",
+    "titulo": "Curso Electrohidráulica",
+    "autor": "Rodrigo Concha Quinteros",
+    "anio": null,
+    "isbn": "",
+    "editorial": "CEAT",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Electrohidráulica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767116804822-fb4de707e22338",
+    "titulo": "Soldadura de mantención y reparación",
+    "autor": "Indura",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Soldadura"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767116534788-70f8d8ad8e967",
+    "titulo": "Reliability Engineering Handbook v1",
+    "autor": "Dimitri Kececioglu",
+    "anio": 2002,
+    "isbn": "1932078002",
+    "editorial": "Destech Publications",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Anillado",
+      "Confiabilidad",
+      "Handbook"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767116574898-08441268b77d78",
+    "titulo": "Reliability Engineering Handbook v2",
+    "autor": "Dimitri Kececioglu",
+    "anio": 2002,
+    "isbn": "1932078002",
+    "editorial": "Destech Publications",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Anillado",
+      "Confiabilidad",
+      "Handbook"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767116389033-4ce76a69e536e",
+    "titulo": "Ideas fugaces, teoremas eternos, Grandes problemas de las matemáticas",
+    "autor": "Joquín Navarro",
+    "anio": 2011,
+    "isbn": "9788490060827",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767116309388-6ad8eaf0e0b0f",
+    "titulo": "Sistemas Neumáticos y Oleohidráulicos",
+    "autor": "Javier Almandoz Berrondo, Belén Mongelos Oquiñena",
+    "anio": 2007,
+    "isbn": "",
+    "editorial": "Universidad del País Vasco",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Oleohidráulica",
+      "Neumática"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767116226887-12cd27fb4a3158",
+    "titulo": "Análisis Jerárquico (AHP)",
+    "autor": "Toskano Hurtado",
+    "anio": null,
+    "isbn": "",
+    "editorial": "UNMSM",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Tesis",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767116103492-00659c21638d3",
+    "titulo": "El prisma y el péndulo, los diez experimentos más bellos de la ciencia",
+    "autor": "Robert P. Crease",
+    "anio": 2013,
+    "isbn": "9788498923483",
+    "editorial": "Crítica",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Ciencia",
+      "Experimentos",
+      "Divulgación"
+    ],
+    "formato": "Físico",
+    "notas": "La ciencia es un delicado y complejo equilibrio entre lo experimental y lo teórico, entre las observaciones que realizamos y los sistemas lógico-simbólicos que construimos para relacionar todo aquello que medimos en la naturaleza. No hay ciencia sin observaciones, sin experimentos. Y sin embargo, son las teorías, y los teóricos los que más atención y popularidad consiguen. Precisamente por esto son necesarios libros como el de Robert Crease, El prisma y el péndulo, en el que se presentan y explican con claridad y situándolos en su contexto científico e histórico, diez de los experimentos más importantes de la historia de la física; diez experimentos, además, bellos. Van éstos desde el que empleó en el siglo III a. de C. Eratóstenes para medir la circunferencia de la Tierra, hasta los de interferencia cuántica de electrones que muestran con particular dramatismo la famosa dualidad onda-corpúsculo, pasando por otros como los que Galileo supuestamente realizó en la torre inclinada de Pisa, la descomposición de los rayos de luz en colores que Newton produjo con el sencillo recurso de un prisma, la puesta en evidencia de la rotación de la Tierra mediante en péndulo de Foucault, o los que diseñó Rutherford y que le sirvieron para demostrar que los átomos tenían una estructura “planetaria”. Intercaladas entre los capítulos dedicados a estos experimentos, se encuentran unas exquisitas y apropiadas reflexiones de Crease que ayudarán a los lectores a comprender mejor qué es la ciencia. Robert P. Crease es profesor en el Departamento de Filosofía de la Universidad del Estado de Nueva York en Stony Brook. Es autor de numerosos trabajos en historia de la ciencia, entre los que se encuentran libros como Peace and War, en colaboración con Robert Serber.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767116013207-ef0dd4c11cf158",
+    "titulo": "La Mariposa y el tornado, teoría del caos y cambio climático",
+    "autor": "Carlos Madrid",
+    "anio": 2011,
+    "isbn": "",
+    "editorial": "RBA",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Matemáticas",
+      "Azar",
+      "Caos"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767115936410-ffd9862b04d4a",
+    "titulo": "Apuntes de Estadísticas",
+    "autor": "David Becerra Rojas",
+    "anio": null,
+    "isbn": "",
+    "editorial": "UTFSM",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1767115842837-705a6dbbde7308",
+    "titulo": "Procesamiento de datos y análisis estadísticos utilizando SPSS : un libro práctico para investigadores y administradores educativos",
+    "autor": "María Belén Castañeda, Alberto Cabrera, Yadira Navarro, Wietse de Vries",
+    "anio": 2010,
+    "isbn": "9788574309736",
+    "editorial": "EDIPUCRS",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Estadística",
+      "SPSS"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=XsxqTVs9-2QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766085281849-69dcc971255838",
+    "titulo": "Dinámica de Lagrange, teoría y problemas",
+    "autor": "Dare A. Wells",
+    "anio": 1972,
+    "isbn": "",
+    "editorial": "McGraw-Hill Education",
+    "coleccion": "Schaum",
+    "vol": "",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Este libro es un manual de estudio enfocado en la dinámica lagrangiana, diseñado tanto para estudiantes como para profesionales que desean entender y aplicar el formalismo de Lagrange a problemas de la mecánica clásica. Su presentación es clara y concisa, combinando explicación teórica con una amplia colección de problemas resueltos y ejercicios prácticos que facilitan el aprendizaje activo",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766950669736-6b831761011f4",
+    "titulo": "Estadística",
+    "autor": "Murray R. Spiegel",
+    "anio": 1991,
+    "isbn": "9788476155622",
+    "editorial": "McGraw-Hill",
+    "coleccion": "Schaum",
+    "vol": "",
+    "categorias": [
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "El propósito de esta obra es presentar una introducción a los principios generales de la estadística, que será útil a\ntodos los individuos sin importar su campo de especialización. Se diseñó para usarse ya sea como consulta para todos\nlos textos estándar modernos o como un libro para un curso formal de estadística. Será también de gran valor como\nreferencia para todos aquellos que estén aplicando la estadística en su campo de investigación particular",
+    "comentarios": "MURRAY R. SPIEGEL† obtuvo su maestría en física y su doctorado en matemáticas, ambos en Cornell University.\nTrabajó en Harvard University, Columbia University, Oak Ridge and Rensselaer Polytecnic Institute; además fue\nasesor en matemáticas para diversas compañías. Su último cargo fue como profesor y presidente de matemáticas en el\nHartford Graduate Center del Rensselaer Polytecnic Institute. Su interés por las matemáticas lo acompañó durante toda\nsu trayectoria, en especial en la rama que comprende la aplicación de la física y los problemas de ingeniería. Fue autor\nde numerosos artículos periodísticos y de más de una docena de libros sobre temas matemáticos.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica.jpg"
+  },
+  {
+    "id": "libro-1766978793166-b1681206af02a",
+    "titulo": "Introduccion a la Teoria de Numeros",
+    "autor": "Felipe Zaldivar",
+    "anio": 2012,
+    "isbn": "9786071607386",
+    "editorial": "Efe",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Álgebra",
+      "Teoría de números"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro es una introducción a la teoría de números, también conocida como \"aritmética superior\". Comienza con una discusión sobre el concepto de divisibilidad y aborda las propiedades elementales de las congruencias; estudia la existencia de raíces y congruencias cuadráticas, y concluye con el estudio de algunas ecuaciones diofánticas de grado 2 y 3, además de la conocida ecuación de Pell",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=iSiiuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766440063991-24ecd282b4d0c",
+    "titulo": "La Conquista del azar, la teoría de probabilidades",
+    "autor": "Fernando Corbalán, Gerardo Sanz, Sanz Sáiz Sanz",
+    "anio": 2010,
+    "isbn": "9788447369744",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "14",
+    "categorias": [
+      "Drive",
+      "Matemáticas",
+      "Probabilidad"
+    ],
+    "formato": "Digital",
+    "notas": "La conquista del azar: La teoría de probabilidades, de Fernando Corbalán y Gerardo Sanz, es un libro de divulgación que introduce al lector en el pensamiento probabilístico, mostrando cómo las matemáticas permiten comprender, modelar y cuantificar el azar.\n\nLa obra recorre de forma accesible conceptos fundamentales como probabilidad, aleatoriedad, riesgo, esperanza matemática y toma de decisiones bajo incertidumbre, apoyándose en ejemplos cotidianos, juegos de azar y situaciones reales. Los autores destacan que el azar no es sinónimo de caos absoluto, sino un fenómeno que puede ser analizado y descrito con herramientas matemáticas rigurosas.\n\nUno de los grandes aciertos del libro es su enfoque intuitivo y pedagógico, que ayuda a desmontar ideas erróneas frecuentes sobre la probabilidad y a desarrollar una mirada más crítica frente a la casualidad, las predicciones y la suerte. El texto conecta además la teoría de probabilidades con aplicaciones en la ciencia, la economía y la vida diaria.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-conquista-del-azar-la-teoria-de-probabilidades.jpg"
+  },
+  {
+    "id": "libro-1766948211483-fbed77d1f9d58",
+    "titulo": "Investigación de Operaciones. Métodos y Problemas.",
+    "autor": "Maurice Sasieni, Arthur Yaspan, Lawrence Friedman.",
+    "anio": 1967,
+    "isbn": "1258819457",
+    "editorial": "Limusa",
+    "coleccion": "",
+    "vol": "1era ed.",
+    "categorias": [
+      "Investigación de Operaciones",
+      "Probabilidad",
+      "Inventarios"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro es un clásico introductorio al campo de la Investigación Operativa (Operations Research), orientado a mostrar cómo las herramientas matemáticas y analíticas pueden aplicarse para tomar mejores decisiones dentro de organizaciones y sistemas complejos.\n\nSu enfoque es práctico y progresivo: comienza con modelos básicos de optimización, programación lineal, teoría de colas y asignación de recursos, para luego avanzar hacia metodologías más avanzadas como programación dinámica, modelos probabilísticos y métodos computacionales. A lo largo del texto, los autores incorporan casos, problemas resueltos y ejercicios que permiten al lector comprender no solo la teoría, sino también cómo esta se aplica en la industria, el transporte, la manufactura y la gestión estratégica.\n\nEl libro destaca por su lenguaje didáctico y accesible, ideal para estudiantes de ingeniería, administración, logística y ciencias económicas, así como para profesionales que buscan comprender los fundamentos matemáticos detrás de la toma de decisiones óptimas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/investigacion-de-operaciones-metodos-y-problemas.jpg"
+  },
+  {
+    "id": "libro-5",
+    "titulo": "La Fotografía Del Siglo XX",
+    "autor": "Taschen",
+    "anio": null,
+    "isbn": "9783836541046",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Fotografía",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "La historia de la fotografía comenzó hace unos 180 años, pero hace relativamente poco que ha sido reconocida como un género artístico por derecho propio. El Ludwig de Colonia fue el primer museo de arte contemporáneo en dedicar una sección considerable a la fotografía internacional. La colección L. Fritz Gruber, a partir de la cual se ha confeccionado este libro, es una de las más importantes de A…",
+    "comentarios": "La Fotografía del Siglo XX, publicado por Taschen, es una obra visualmente deslumbrante y cuidadosamente curada que recorre la evolución de la fotografía desde sus inicios hasta la contemporaneidad, destacando a los artistas y movimientos que transformaron este medio en una de las expresiones fundamentales del arte moderno. A través de una amplia selección de imágenes icónicas, acompañadas de textos concisos y contextualizadores, el libro muestra cómo la fotografía ha sido vehículo de documentación, experimentación estética, crítica social y exploración personal. La edición destaca por su rigor editorial y por la calidad de las reproducciones, permitiendo apreciar tanto la técnica como la intención artística detrás de cada obra. Se trata de un volumen imprescindible para aficionados, estudiantes y profesionales que buscan comprender el impacto cultural y estético que la fotografía ha tenido a lo largo del siglo XX.",
+    "portada": "http://books.google.com/books/content?id=BqE6nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1766604365931-afb5a0d4f2f49",
+    "titulo": "Redes industriales de tubería, bombas para agua, ventiladores y compresores : diseño y construcción",
+    "autor": "Antoni Luszczewski i Kudra, Antoni Luszczewski",
+    "anio": 1999,
+    "isbn": "9789686708417",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Bombas",
+      "Diseño",
+      "Fluídos",
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro cubre, de forma clara y didáctica, las bases teóricas para el diseño de tuberías industriales para líquidos y compresores. Acompañan al texto numerosas aplicaciones prácticas basadas en experiencias reales, de tal manera que se puedan aplicar los conocimientos expuestos. El presente libro puede servir tanto a estudiantes de ingeniería como a ingenieros en planta.\n\nRedes industriales de tuberías Luszczewski, Kudra Antoni Nº edición, 1 ISBN: 9788429120547 312 págs. 21.0x27.0 cm. rústica",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=1k3qRVvyFRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
     "id": "libro-1767107282057-2b40be491fea3",
@@ -225,12 +838,239 @@
     "coleccion": "Grandes Biografías",
     "vol": "",
     "categorias": [
-      "Biografia"
+      "Biografía"
     ],
     "formato": "Físico",
     "notas": "Este libro de la colección Grandes Biografías ofrece un retrato cercano y revelador de Salvador Dalí, figura clave del surrealismo y uno de los artistas más reconocibles del siglo XX. El texto, de prosa clara y ritmo ágil, aborda su infancia marcada por la autoexigencia y el descubrimiento precoz de su talento, su paso por la Residencia de Estudiantes y el encuentro con otros grandes artistas, así como su vínculo personal y artístico con Gala, quien marcó profundamente su vida y su obra. También explora sus obsesiones estéticas —el sueño, lo onírico, la religión, el tiempo y la muerte— y muestra cómo Dalí supo combinar extravagancia, provocación y una técnica pictórica impecable para construir un estilo único y universal. En conjunto, la obra constituye una introducción ideal para quienes desean comprender la complejidad del personaje y su legado dentro de la historia del arte moderno, sin perder la fluidez de una lectura biográfica amena.",
     "comentarios": "",
     "portada": "https://books.google.com/books/content?id=zGm0AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767107343526-21f4f630e84eb",
+    "titulo": "Van Gogh",
+    "autor": "Manuel Gimenez Saurina, Manuel Mas Franch",
+    "anio": 2005,
+    "isbn": "9788484038702",
+    "editorial": "Edimat",
+    "coleccion": "Grandes Biografías",
+    "vol": "",
+    "categorias": [
+      "Biografía",
+      "Pintura",
+      "Arte"
+    ],
+    "formato": "Físico",
+    "notas": "Conocido en la historia de la pintura como \"el pintor loco\", Van Gogh reflejo en sus obras su alma torturada y el fuego que llevaba dentro.",
+    "comentarios": "Este libro de la colección Grandes Biografías ofrece una narración sintética y emotiva sobre la vida de Vincent van Gogh, un artista cuya grandeza fue reconocida solo después de su muerte. La obra recorre su trayectoria desde los años de búsqueda personal —marcados por la inestabilidad, la vocación religiosa frustrada y el descubrimiento tardío de la pintura— hasta la etapa de plena madurez artística, donde su estilo vibrante y cargado de emoción transformó la historia del arte. El texto destaca la intensidad con la que Van Gogh vivió cada experiencia, su profunda sensibilidad hacia la naturaleza y las personas, así como la relevancia de la relación con su hermano Theo, quien fue apoyo vital en medio de la adversidad. Se trata de una introducción accesible y conmovedora, ideal para quienes desean comprender la dimensión humana detrás de un artista universal y acercarse a su obra desde una mirada íntima y narrativa.",
+    "portada": "https://books.google.com/books/content?id=99bLPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767115090990-6bf5eb140e6948",
+    "titulo": "Cine y casos de negocios, una mirada multidisciplinaria",
+    "autor": "Moira Nakousi, Soto Muñoz Soto",
+    "anio": 2014,
+    "isbn": "9789560101518",
+    "editorial": "RIL",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Cine",
+      "Negocios"
+    ],
+    "notas": "El libro analiza e interpreta las 15 mejores películas sobre negocios de todos los tiempos y las emplea como casos de estudio cubriendo una amplia gama de temas como: liderazgo, emprendimiento, gobiernos corporativos, perfiles criminales, diseño de productos, valoración de activos, psicología organizacional, innovación, estrategias de marketing y ventas, contratos financieros, negocios internacionales y derechos humanos, entre muchos otros.\n\nEs así como es posible encontrar un detallado análisis a las películas Ciudadano Kane de Orson Welles, Wall Street de Oliver Stone, Pánico en Wall Street de Glenn Jordan, Recursos Humanos de Laurent Cantet, El método de Marcelo Piñeyro, Okuribito de Yojiro Takita, El desinfomante de Stevenn Soderbergh, La familia Jones de Derrick Borte, Red social de David Fincher, Too big to fail de Curtis Hanson, La pesca de salmón en Yemen de Lasse Hallström, Margin Call de J.C. Chandor, No de Pablo Larraín, Jobs de Joshua Michael Stern y El lobo de Wall Street de Martin Scorsese.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cine-y-casos-de-negocios-una-mirada-multidisciplinaria.jpg",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767112339303-e9ee15305dd76",
+    "titulo": "Aproximaciones a la epistemología para universitarios. Breves acercamientos a mentes brillantes",
+    "autor": "Marcelo Careaga Butter",
+    "anio": 2020,
+    "isbn": "9789560108197",
+    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Filosofía",
+      "Universidad"
+    ],
+    "notas": "Este libro contiene pone a disposición de estudiantes, profesores y académicos algunas aproximaciones acerca de las bases originarias del pensamiento y del conocimiento; considerando las principales corrientes fundantes del pensamiento clásico que conformaron las líneas orientadoras del pensamiento moderno, incluyendo una selección de la escuelas y de los autores más representativos, para llegar a un acercamiento progresivo y analítico acerca de las nuevas corrientes del pensamiento.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=1wnfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767112272201-50365e38ca4cd8",
+    "titulo": "Biología",
+    "autor": "Claude Alvin Villee",
+    "anio": 1984,
+    "isbn": "9789682505874",
+    "editorial": "Interamericana",
+    "coleccion": "",
+    "vol": "7a Ed.",
+    "formato": "Físico",
+    "categorias": [
+      "Biología"
+    ],
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/biologia.jpg",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767109366693-4e62f5b597f388",
+    "titulo": "Cálculo de una variable, trascendentes tempranas",
+    "autor": "James Stewart",
+    "anio": 2018,
+    "isbn": "9786075265506",
+    "editorial": "Cengage",
+    "coleccion": "",
+    "vol": "8ava ed.",
+    "formato": "Físico",
+    "categorias": [
+      "Matemáticas",
+      "Cálculo"
+    ],
+    "notas": "El estudio del cálculo ayuda a los estudiantes a comprender la disciplina de manera práctica. El modo más importante de fomentar la comprensión conceptual es mediante los problemas que se asignan. Con ese fin el autor ha ideado varios tipos de problemas, algunos conjuntos de ejercicios comienzan explicando el significado de los conceptos básicos de la sección. Otro tipo de ejercicios usa la descripción verbal para probar la comprensión conceptual. Se combinan y comparan los enfoques gráfico, numérico y algebraico.",
+    "comentarios": "James Drewry Stewart (29 de marzo de 1941 - 3 de diciembre de 2014) fue un matemático canadiense y profesor emérito en la Universidad McMaster. Obtuvo su maestría en la Universidad de Stanford y su doctorado en la Universidad de Toronto en 1967. Su investigación se centró en el análisis armónico y funcional. Además de su carrera académica, Stewart fue violinista y miembro de la Orquesta Filarmónica de Hamilton. ​\n\nStewart es reconocido por su serie de libros de texto de cálculo ampliamente utilizados en educación secundaria y universitaria. Entre sus obras más destacadas se encuentran \"Cálculo: Trascendentes Tempranas\" (1995) y \"Cálculo: Conceptos y Contextos\" (1997), ambas en el género de libros de texto de matemáticas. Sus textos son considerados estándar en muchas instituciones educativas a nivel mundial.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/calculo-de-una-variable-trascendentes-tempranas.jpg",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767109092086-a4233206ffbf8",
+    "titulo": "Diseño de interiores",
+    "autor": "Paco Asensio, Hugo Kliczkowski",
+    "anio": 2004,
+    "isbn": "9789707181854",
+    "editorial": "Numen",
+    "coleccion": "minidesignbooks",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Diseño",
+      "Interior"
+    ],
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diseno-de-interiores.jpg",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767108248569-1115fe86d34668",
+    "titulo": "Introducción a la historia de la arquitectura, de los orígenes al siglo XXI",
+    "autor": "José Ramón Alonso Pereira",
+    "anio": 2005,
+    "isbn": "9788429121087",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Arquitectura"
+    ],
+    "notas": "Este libro recoge con una visión general y unitaria, el devenir de la arquitectura occidental a través del tiempo, desde sus orígenes remotos hasta nuestra misma contemporaneidad; no es ni pretende ser una historia convencional de la arquitectura, sino una introducción a su estudio que desvele sus claves y permita acceder a su realidad tanto al profesional como al aficionado, y especialmente a qui…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=dzfOSpxUgAYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767108136517-72dbaecf0bcf8",
+    "titulo": "Guía Museo nacional de bellas artes Buenos Aires",
+    "autor": "Américo Castilla",
+    "anio": 2007,
+    "isbn": "9789872203092",
+    "editorial": "Cultura nación",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Pintura",
+      "Arte"
+    ],
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-museo-nacional-de-bellas-artes.jpg",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767107921001-5cd1d727a5291",
+    "titulo": "Ambientes Jóvenes",
+    "autor": "Patricia Bueno",
+    "anio": 2004,
+    "isbn": "9788495692290",
+    "editorial": "Atrium International",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Arquitectura",
+      "Diseño"
+    ],
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ambientes-jovenes.jpg",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767107561022-a8dacb44dd0cd8",
+    "titulo": "Cafés, arquitectura e interiores",
+    "autor": "Paco Asensio, Hugo Kliczkowski",
+    "anio": 2004,
+    "isbn": "9789707181830",
+    "editorial": "Numen",
+    "coleccion": "minidesignbooks",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Arquitectura",
+      "Diseño"
+    ],
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cafes-arquitectura-e-interiores.jpg",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767107832252-cf0b31a871ecc",
+    "titulo": "Mecánica de fluidos, problemas resueltos",
+    "autor": "José María López-Herrera Sánchez",
+    "anio": 2005,
+    "isbn": "9788448198893",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Mecánica de Fluídos"
+    ],
+    "notas": "Este libro de problemas de mecánica de fluidos es el complemento al libro de Fundamentos y Aplicaciones de la Mecánica de Fluidos de Antonio Barrero y Miguel Pérez-Saborid (McGraw-Hill 2005). Se compone de una colección de unos 60 problemas resueltos. La selección de los problemas se ajusta al contenido de la obra. Cada capitulo lleva un resumen de las fórmulas y teoría más importante. Los problem…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=5yxfAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
+  },
+  {
+    "id": "libro-1767107722568-3274c0962d4348",
+    "titulo": "Problemas de transferencia de calor",
+    "autor": "Carlos Corrochano Sánchez, José Antonio Fernández Benítez, Javier Muñoz Antón, Adriana Ortiz Gómez",
+    "anio": 2014,
+    "isbn": "9788416277247",
+    "editorial": "Dextra",
+    "coleccion": "",
+    "vol": "",
+    "formato": "Físico",
+    "categorias": [
+      "Termodinámica",
+      "Transferencia",
+      "Calor",
+      "Energía"
+    ],
+    "notas": "Dicen los autores con respecto al libro: No quisiéramos que sirviese exclusivamente para responder a la cuestión primaria que suscita cada uno de los enunciados: el cómo se hace; más bien el lector debería responderse a cuestiones prácticas de suma importancia en su presente y futuro profesional: ¿de qué orden de magnitud estamos hablando?, ¿cómo podría optimizarse el sistema que se propone en cada ejercicio?, ¿qué factor o variable influye más en el resultado final?, ¿cuál es el lenguaje que se emplea en el área de la ingeniería térmica? Se busca por tanto que el lector desarrolle su ingenio. Así, cuando lo que tenga delante sea una pantalla de ordenador podrá detectar, utilizando su sentido común y su experiencia universitaria, si el resultado que se propone es lógico y plausible.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/problemas-de-transferencia-de-calor.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767106956813-12c073e970be78",
@@ -241,13 +1081,14 @@
     "editorial": "Edimat",
     "coleccion": "Grandes Biografías",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Biografía"
     ],
-    "formato": "Físico",
     "notas": "Este volumen de la serie Grandes Biografías ofrece un acercamiento claro y accesible a la vida y obra de uno de los artistas más influyentes del siglo XX: Pablo Picasso. A través de un relato conciso pero bien estructurado, el libro recorre sus distintas etapas creativas —desde el período azul y rosa hasta el cubismo y sus últimos años— mostrando cómo cada fase estuvo profundamente vinculada a sus experiencias personales, emociones y relaciones. La obra destaca no solo su genio artístico, sino también su carácter complejo, su constante búsqueda de innovación y la manera en que transformó para siempre el lenguaje visual moderno. Se trata de una biografía ideal para quienes desean una introducción ágil y amena al universo picassiano, perfecta tanto para lectores jóvenes como para quienes buscan una visión general antes de profundizar en estudios más especializados.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=y_PgAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=y_PgAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767106841789-0bd45ef27e7bd8",
@@ -258,13 +1099,14 @@
     "editorial": "Instituto del Fondo Nacional de La Vivienda Para Los Trab",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Arte"
     ],
-    "formato": "Físico",
     "notas": "Estudio profusamente ilustrado de la artista mexicana Frida Kahlo (1907-1954) y la iconografía que la rodea. 212 páginas. Las contribuciones llevan títulos como \"En busca de una Fridomania\", \"Fridolatria\", \"Todas las Fridas: Frida\", \"De todas las Fridas posibles\" (de Carlos Monsiváis). Las contribuciones bilingües incluyen la ya mencionada \"Fridolatria\" de Teresa del Conde, así como \"Frida Kahlo en Nueva York\" de Edward J. Sullivan, \"La imagen de Frida Kahlo en la plastica chicana\" de Ramon Favela y \"El legado de Frida Kahlo: toma de conciencia del cuerpo político\" de Elizabeth Bakewell.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pasion-por-frida.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/pasion-por-frida.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767104335692-f993d48dac9f8",
@@ -275,14 +1117,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "Creo que mi mujer se está acostando con mi hermano, piensa Ignacio. Tiene treinta y cinco años y se pasa el día trabajando, es banquero. Lleva nueve años casado con la bellísima Zoe, a quien irrita comprobar que su marido le hace muy poco caso. En cuanto a Gonzalo, el hermano de Ignacio, se dedica a la pintura y es un seductor nato; y aunque su cuñada le gusta, ha decidido no intentarlo «por respeto a su hermano». De momento…\n\nPero el triángulo está servido. Y es una bomba que va desencadenar secretos familiares, el furor contenido de los celos, la fuerza ingobernable del deseo…, y también la melancolía del desamor. Todo ello, narrado a un ritmo trepidante, en una historia que es a la vez tierna y descarada, tragicómica. El Jaime Bayly más deslumbrante.",
     "comentarios": "\"Jaime Bayly Letts (Lima, 19 de febrero de 1965) es un escritor, presentador de televisión y periodista peruano naturalizado estadounidense, radicado en Miami.\n\nSu trayectoria televisiva comenzó en 1983, como entrevistador de celebridades y políticos. Se le reconoció por un característico estilo irreverente e incisivo influenciado por el de Truman Capote. Ganó fama rápidamente por su corta edad y su posición conservadora en temas de la política peruana.​ Bayly ha resultado ganador en tres ocasiones del premio Emmy, por su labor en diferentes televisoras estadounidenses. Se dio a conocer como escritor en 1994; ha publicado una serie de novelas de estilo hedonista y casi documental (con los que la crítica tiene una relación contradictoria). Dos de ellas han servido como base para películas internacionales.\"",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-mujer-de-mi-hermano.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-mujer-de-mi-hermano.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767104152643-ba65bfde5d8a08",
@@ -293,14 +1136,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "la novela narra la vida de györy nagy, quien vivió en hungría entre 1860 y 1899, dedicado a un único propósito: volar. su historia nos la cuenta su discípulo, un joven atraído por la personalidad soñadora y temeraria de nagy.",
     "comentarios": "Jaime Collyer Canales es un escritor chileno, protagonista de la llamada nueva narrativa de los años 1990. Obras notables: El infiltrado; Gente al acecho; La bestia en casa; El habitante del cielo",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-habitante-del-cielo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-habitante-del-cielo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767103776552-d3f02944c7ebd8",
@@ -311,14 +1155,15 @@
     "editorial": "Ediciones Sur",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "La historia parte en 1984, cuando un periodista cesante y marginal que espera a una mujer en la estación de trenes de Concepción, recuerda su pasado en el Pedagógico.\n\nRevisa lo que pasaba entonces con la mirada de 1984, cuando todo el mundo esperaba que algo ocurriera y que retornara la democracia.\n\n-Es una novela política y la escribí para que no volvieran a cometerse los mismos errores de antes-, dice",
     "comentarios": "escritor chileno, Jaime Riveros Aedo, escritor y abogado residente en la ciudad de concepción, Chile. Dentro de sus publicaciones se encuentran La Espera (adios a todo eso) 1988 y Todo en ti Fue Naufragio 2007",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767103614138-86bb790f5586e8",
@@ -329,15 +1174,16 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Materiales",
       "Diseño",
       "Estructuras"
     ],
-    "formato": "Físico",
     "notas": "Las innovaciones tecnológicas a menudo son consecuencia del uso inteligente de nuevos materiales, pero también muchos desastres en ingeniería están causados por un mal uso de los mismos. Por ello es vital que el ingeniero profesional conozca cómo se seleccionan los materiales y sepa cuáles se ajustan a las demandas de un diseño en particular; es decir, demandas económicas, estéticas, de resistenci…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=nrLSqjbHEl0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=nrLSqjbHEl0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767103471987-bb17c11a3bf6b",
@@ -348,14 +1194,15 @@
     "editorial": "Horsori Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Materiales",
       "Aceros"
     ],
-    "formato": "Físico",
     "notas": "Este libro ha sido escrito con el fin de proporcionar a ingenieros, técnicos y expertos en metalurgia el conocimiento básico sobre temas de uso diario y aplicables al taller. Podemos considerar esta obra como un libro de consulta cuyo tema central es el tratamiento térmico de los aceros de alta aleación y especialmene de los aceros rápidos empleados en la fabricación de herramientas y utillajes. La obra incluye información detallada sobre metalografía, materia imprescindible para poder explicar los procesos y mecanismos que ocurren en el interior de los materiales metálicos cuando son expuestos a procesos térmicos. Entre otras temas desarrollados, incluimos información sobre los diagramas TTT y CCT, el efecto de los elementos de aleación en los materiales, los mecanismo de endurecimiento, las inclusiones no-metálicas, el proceso de figuración y rotura, el rectificado, los recubrimientos superficiales, la nitruración, la soldadura, etc.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aceros-especiales.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/aceros-especiales.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767103320525-0a3c736ad294f",
@@ -366,14 +1213,15 @@
     "editorial": "Tusquets Editores",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Divulgación"
     ],
-    "formato": "Físico",
     "notas": "El brillante matemático John Allen Paulos demuestra en este fascinante libro que toda vida humana es una sutil realización de modelos y patrones numéricos, y que los momentos que conforman nuestra biografía obedecen a ideas y ciclos gobernados por los números. El autor no duda en recurrir a episodios de su propia biografía para explicar el papel que el cálculo estadístico, la teoría de probabilidades o las leyes de la lógica desempeñan en nuestras peripecias vitales. Nos enteramos así de que Allen Paulos padeció los estragos de un desastroso profesor de matemáticas o que todavía le remuerde la conciencia por haber tenido una pequeña influencia en la elección de George W. Bush como presidente de Estados Unidos en 2000. O de que la esperanza de vida, las preferencias que nos inclinan a enamorarnos o los vuelcos y giros extraños que a veces puede dar nuestra existencia siempre parecen estar gobernados por alguna ley o principio matemático.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-es-matematica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-vida-es-matematica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767103173418-4729a48bd31a4",
@@ -384,14 +1232,15 @@
     "editorial": "Universidad Católica de Chile",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Geometría"
     ],
-    "formato": "Físico",
     "notas": "Geometría razonada es un libro de geometría euclidiana destinado principalmente a la formación de profesores de Enseñanza Básica. Esta publicación destaca por su accesibilidad y versatilidad, ya que, aunque se presenta como una guía para cursos de formación, su lenguaje claro y su enfoque riguroso permiten que sea aprovechado por un amplio público interesado en explorar los principios de esta disciplina desde sus raíces. A través de ejemplos y ejercicios, se demuestra la aplicación práctica de los conceptos geométricos. Este enfoque pragmático no solo facilita la comprensión, sino que también fomenta la aplicación efectiva de los conocimientos adquiridos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/geometria-razonada.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/geometria-razonada.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767103025687-3352f8623828f8",
@@ -402,14 +1251,15 @@
     "editorial": "FC Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Manual"
     ],
-    "formato": "Físico",
     "notas": "Hoy día está claro que el Mantenimiento es ante todo una \"estrategia\" en la empresa. Esta estrategia se ha de integrar en la \"nueva cultura de la empresa\" y pasa por el diseño - construcción - implantación - puesta en servicio y explotación de los sistemas productivos y tiene como fin llegar al objetivo deseado en cualquier industria avanzada: disponer de los equipos productivos siempre que se necesiten, implantando en la empresa los grupos de mejora y fiabilidad. El Mantenimiento Industrial moderno se presenta así como un conjunto de Técnicas y Organización para \"cuidar la tecnología\" de los sistemas de producción a lo largo de su ciclo de vida, llegando a utilizarlos con la máxima disponibilidad y al menor coste, garantizando, además, una asistencia técnica eficaz a través de una buena formación y gestión de competencias en el uso y mantenimiento de dichos sistemas. En este libro se propone una metodología de trabajo y una búsqueda de un nuevo \"comportamiento\" en las organizaciones para desarrollar la \"cultura de prevención\" y optimizarla de manera permanente dentro de una estrategia de mejora continua en los costes y actividades del Mantenimiento y de los Técnicos de las diferentes funciones implicadas con el Sistema de Producción. Se va a ver así al Mantenimiento como una herramienta de reducción de costes para dar satisfacción al cliente directo, encontrando estrategias de competitividad y buscando vías de mejora de la productividad y calidad, evitando todo tipo de disfuncionamiento en la empresa y reduciendo todo tipo de coste que no aporte valor añadido al cliente. Así mismo, las organizaciones han ido evolucionando en los últimos años, integrando en la fabricación ciertos niveles de intervención en las tareas de Mantenimiento, por lo que hemos de identificar éstas dentro de los planes de Mantenimiento Preventivo, sensibilizando y preparando a la organización para asumir la tarea de la prevención con rigor.PREÁMBULO.INTRODUCCIÓN.CAPÍTULO I: Conceptos Generales.CAPÍTULO II: Nuevas Organizaciones del Mantenimiento y la Producción.CAPÍTULO III: Planificación del Mantenimiento correctivo por averías.CAPÍTULO IV: Planificación del Mantenimiento Preventivo.Anexo I: Ejemplo de Plan de Mantenimiento Preventivo sobre una máquina especial de mecanizado de bloques de motor.Anexo II: Ejemplo de Aplicación del Correcto Automantenimiento sobre una máquina talladora.CAPÍTULO V: Ingeniería del Mantenimiento (Primera Parte).CAPÍTULO VI: Ingeniería del Mantenimiento (Segunda Parte).CAPÍTULO VII: Mantenimiento de la Calidad por gran Reparación o Reconversión de un equipo de producción.CAPÍTULO VIII: El Mantenimiento y la Informática.CAPÍTULO IX: Gestión de Piezas de Recambio y Documentación Técnica.CAPÍTULO X: Los Costes de Mantenimiento y su Control.CAPÍTULO XI: El TPM (Mantenimiento Productivo Total) como Herramienta Práctica en un Proyecto de Mantenimiento Industrial Hacia la Excelencia.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=zyYz3HkcdXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=zyYz3HkcdXoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767102813695-305d01bf7913a8",
@@ -420,14 +1270,15 @@
     "editorial": "BID",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Productividad",
       "Economía"
     ],
-    "formato": "Físico",
     "notas": "La era de la productividad describe de qué manera la baja productividad de América Latina y el Caribe está impidiendo que la región se ponga a la par del mundo desarrollado. Los autores indagan más allá de las explicaciones macroeconómicas tradicionales y profundizan hasta llegar a descubrir las causas. En este libro se examina el crecimiento de la productividad, centrándose en la extrema heterogeneidad de los sectores y las empresas, y subrayando la importancia de las políticas que hacen que las empresas prosperen y se expandan. El texto se enfoca en el sector crítico de los servicios, en particular aquellos -como el transporte y el comercio minorista- que tienen importantes repercusiones en el resto de la economía. Se cuestiona y se descarta el argumento de que la región está condenada al estancamiento y se analizan varios mecanismos de políticas que puedan transformar sus economías.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-era-de-la-productividad-como-transformar-las-economias-desde-sus-cimientos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-era-de-la-productividad-como-transformar-las-economias-desde-sus-cimientos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767102522858-cd202ac5fefac",
@@ -438,14 +1289,15 @@
     "editorial": "Progensa",
     "coleccion": "Monografías técnicas de energías renovables",
     "vol": "5",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "A menudo surgen estudios sobre la aplicación de energías renovable en industrias, empresas y domicilios para ayudar a preservar el medio ambiente y disminuir los efectos negativos del cambio climático. La energía solar térmica de baja temperatura se alza en el mercado como una opción de energía limpia, eficiente y económica. En concreto, se utiliza para calentar líquidos, agua normalmente, pero no para la producción de electricidad, a través de la energía captada del sol para temperaturas no mayores de 65 grados.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/energia-solar-termica-de-baja-temperatura.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/energia-solar-termica-de-baja-temperatura.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767102307589-f48c01cf722b58",
@@ -456,15 +1308,16 @@
     "editorial": "Pearson",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Seguridad",
       "Salud",
       "Administración"
     ],
-    "formato": "Físico",
     "notas": "Acerca de la obra esta edición ofrece un amplio y claro panorama en el que puede apreciarse la relevancia que la seguridad y la salud ocupacionales tienen en el entorno actual, inmerso en los avances tecnológicos que ha traído consigo el siglo veintiuno, y que obligan a prestar especial atención a las normas y a las prácticas laborales. Ventajas competitivas la presente edición incluye los siguientes temas, que están provocando cambios en los métodos de trabajo e impactan en la seguridad y la salud: - robótica y nanotecnología - control de la calidad del aire interior - reducción de la emisión de carbono - consumo y administración de la energía - ingeniería verde - reto del calentamiento global.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/seguridad-industrial-y-administracion-de-la-salud.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/seguridad-industrial-y-administracion-de-la-salud.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767102005680-847fa3fda85e9",
@@ -475,15 +1328,16 @@
     "editorial": "Biblioteca Buridán",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia",
       "Divulgación",
       "Filosofía"
     ],
-    "formato": "Físico",
     "notas": "Este es un libro con la voluntad y la capacidad de cambiar el paradigma desde el que pensamos el conocimiento, que está destinado a convertirse en un clásico en su género. David Deutsch, uno de los fundadores del campo de la computación cuántica, explora los grandes temas que informan nuestra comprensión de cómo funciona el mundo físico. Su obra anterior, La estructura de la realidad, describía los cuatro hilos fundamentales de nuestro conocimiento actual la teoría neodarwinista de la evolución, la interpretación de los muchos universos de la física cuántica, la teoría popperiana del conocimiento y la teoría de la computación de Alan Turing y la visión del mundo que se sigue de ellos. En esta audaz exploración intelectual que es El comienzo del infinito aplica esta visión del mundo a una amplia serie de temas y problemas sin resolver. El libro trata del libre albedrío, de la creatividad y de las leyes de la naturaleza, del futuro de la especie humana y de su origen, de la realidad y las apariencias, de las buenas y malas explicaciones y del progreso infinito del conocimiento. Desacomplejadamente racional y optimista, Deutsch llega a una serie de sorprendentes conclusiones acerca de la naturaleza de la elección humana, la explicación científica y la evolución de la cultura. Con un enfoque que no parte de axiomas indemostrables sino de hechos acerca de cómo funciona el mundo físico, su conclusión central es que la explicación científica ocupa un lugar central en el universo. Carece de límites y tiene un poder literalmente infinito para causar cambios. Sus creadores los seres pensantes, como los humanos, que pueden existir en el universo son las entidades más importantes en el orden cósmico de las cosas. Todo está al alcance de la razón, no solo la ciencia y las matemáticas, sino también la filosofía moral, la filosofía política y la estética. En el marco de las leyes universales de la física, no hay límites al progreso. La emergencia de la ciencia lo que Deutsch llama, en un sentido más general, la Ilustración fue el principio del fin de las malas explicaciones y de los sistemas estáticos de ideas. Se inició así la presente era de la historia humana, única en su rápida y sostenida creación de conocimiento con un alcance cada vez mayor. Muchos se preguntan hasta cuándo puede esto continuar. Para Deutsch, es el comienzo del infinito, porque el nuevo método científico tiene un potencial ilimitado para la creación de conocimiento.",
     "comentarios": "David Deutsch (Haifa, Israel, 1953) Se formó en las universidades de Oxford y Cambridge, y tras pasar varios años en la Universidad de Texas en Austin, regresó a Oxford, donde vive y trabaja actualmente. Desde 1999 es profesor visitante en el Departamento de Física Atómica del Centro de Computación Cuántica en el Clarendon Laboratory de la Universidad de Oxford. Es miembro de la Royal Society. En 1998 recibió la Medalla Paul Dirac del Institute of Physics por su notable contribución a la física teórica; en 2002 obtuvo el Premio Internacional de Computación Cuántica por sus trabajos teóricos en el campo de la ciencia de la computación y por ser el primero en formular un algoritmo cuántico, y el 2005 obtuvo el Edge of Computation Science Prize. Su libro anterior, The fabric of Reality [traducción castellana: La estructura de la realidad] fue seleccionado para el prestigioso Rhone-Poulenc Science Book Award y fue muy aclamado por la crítica especializada.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-comienzo-del-infinito-explicaciones-que-transforman-el-mundo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-comienzo-del-infinito-explicaciones-que-transforman-el-mundo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767101921643-0ce0509c06c73",
@@ -494,14 +1348,15 @@
     "editorial": "Eae Editorial Academia Espanola",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Hidráulica",
       "Máquinas"
     ],
-    "formato": "Físico",
     "notas": "Hidraulica Aplicada, es un libro texto orientado al area de Ingenieria, en el campo de la conduccion de agua a alta y baja presion. Comprende la seleccion de bombas, las tuberias y los canales, a casos agricolas sencillos, desde el acuifero de suministro hasta el sitio de servicio. Resume las diferentes teorias y metodos existentes, se proponen soluciones viables y practicas, como recomendaciones …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=jB7wmgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=jB7wmgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767101846798-764be17f53d75",
@@ -512,14 +1367,15 @@
     "editorial": "Punto de Lectura",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "Una nueva edición en formato bolsillo del libro de Bryce que tuvo una exitosa aparición en 1998. El autor nos entrega una tierna historia de amor, un amor en el que sus protagonistas deben enfrentarse a un nivel de infortunios sólo posible en las novelas de Alfredo Bryce. La historia de su lucha contra la adversidad se desarrolla en un largo período que va desde 1967 hasta 1986 y que los lleva a recorrer Lima, París, Barcelona, Londres, San Salvador, Los Ángeles, Berkeley y muchas ciudades más.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=Cs2dQQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=Cs2dQQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767101733650-1d3c16b9060d98",
@@ -530,14 +1386,15 @@
     "editorial": "Centro Gráfico",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "En el año 1984, Londres es una ciudad lúgubre en la que la Policía del Pensamiento controla de forma asfixiante la vida de los ciudadanos. Winston Smith es un peón de este engranaje perverso y su cometido es reescribir la historia para adaptarla a lo que el Partido considera la versión oficial de los hechos. Hasta que decide replantearse la verdad del sistema que los gobierna y somete. El artista gráfico Fido Nesti reelabora en estas páginas la obra maestra del autor y novela cumbre del subgénero distópico, dotando de rostros, cuerpos y paisajes un mundo que cada día que pasa resulta menos difícil de imaginar. «Aquí ya no estamos solo ante lo que habitualmente reconocemos como \"literatura\" e identificamos con la buena escritura. Aquí estamos, repito, ante energía visionaria. Y no todas las visiones se refieren al futuro, o al Más Allá. -Umberto Eco «Un libro magnífico y profundamente interesante. -Aldous Huxley",
     "comentarios": "Eric Arthur Blair (Motihari, Raj Británico, 25 de junio de 1903-Londres, Reino Unido, 21 de enero de 1950), conocido por su seudónimo de George Orwell, fue un novelista, periodista, ensayista y crítico británico nacido en la India, autor entre otras obras de las novelas distópicas Rebelión en la granja (1945) y 1984 (1949).\n\nSu obra lleva la marca de las experiencias autobiográficas vividas por el autor en tres etapas de su vida: su posición en contra del imperialismo británico que lo llevó al compromiso como representante de las fuerzas del orden colonial en Birmania durante su juventud; a favor del socialismo democrático, después de haber observado y sufrido las condiciones de vida de las clases sociales de los trabajadores de Londres y París; y en contra de los totalitarismos nazi y estalinista tras su participación en la guerra civil española, en el bando republicano.\n\nAdemás de cronista, crítico de literatura y novelista, es uno de los ensayistas en lengua inglesa más destacados de las décadas de 1930 y de 1940. También es conocido por sus críticas al totalitarismo en su novela corta alegórica Rebelión en la granja (1945) y su novela distópica 1984 (1949), escrita en sus últimos años de vida y publicada poco antes de su fallecimiento, y en la que crea el concepto de «Gran Hermano», que desde entonces pasó al lenguaje común de la crítica de las técnicas modernas de vigilancia.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/1984.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/1984.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767101551953-bcda44c26363f",
@@ -548,14 +1405,15 @@
     "editorial": "Editorial Anagrama",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Físico",
     "notas": "Esta novela, una de las mas miticas de la literatura norteamericana, es un descenso a los infiernos de la droga y una denuncia horrorizada y sardonica, onirica y alucinatoria de la sociedad actual, un mundo sin esperanza ni futuro. Burroughs dispara sus flechas contra las religiones, el ejercito, la universidad, la sexualidad, la justicia corrupta, los traficantes tramposos, el colonialismo, la burocracia, y la psiquiatria representada por el siniestro Dr. Benway, el gran manipulador de conciencias, el experto en Control total. / Naked Lunch, one of the most mythical novels of North American literature, is a descent into the hellfire of drugs, and a horrified, sardonic, dreamlike and hallucinatory denouncement of todays society, a world with no hope and no future. Burroughs fires his arrows against religion, the army, university, sexuality, the corruption of justice, cheating dealers, colonialism, bureaucracy and the psychiatry represented by the sinister Dr. Benway, the great manipulator of consciences, the expert of total Control.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=LA9_QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=LA9_QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767061177461-62ca254bcacc9",
@@ -566,15 +1424,16 @@
     "editorial": "Ediciones MArtinez Roca",
     "coleccion": "Escaques",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Chess",
       "Ajedrez",
       "Reglamento"
     ],
-    "formato": "Físico",
     "notas": "Barcelona. Encuadernación En Tapa Blanda De Editorialei. 20 Cm. 242 P. Traducción Del Ruso Por Agustín Puig; Revisión Técnica De José Luis Brasero. Colección Escaques. Vol. 44. Capablanca, José Raúl. 1888 - 1942. Ajedrez. Cubierta Deslucida. Isbn: 84 - 270 - 0212 - 2",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/capablanca.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/capablanca.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765766993602-632a22a96999f8",
@@ -585,13 +1444,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "10",
+    "formato": "Físico",
     "categorias": [
       "Neurobiológica"
     ],
-    "formato": "Físico",
     "notas": "El arte y la belleza son fenómenos complejos, dificiles de definir desde una perspectiva neurobiológica. Aún no comprendemos qué ocurre en el cerebro durante la creación o percepción de arte. Para profundizar en la neurobiología de la experiencia artística, debemos antes comprender una serie de componentes fundamentales del cerebro, oues el arte es posiblemente la expresión de cómo este organiza e interpreta la información. Este libro ayuda a debatir inevitables cuestiones fundamentales como qué es la belleza, y si se trata de una propiedad inherente al objeto, y por tanto apreciable de forma general por cualquier cerebro, o por el contrario reside en la subjetividad de la respuesta cerebral del que la aprecia.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-artistico-la-creatividad-desde-la-neurociencia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-cerebro-artistico-la-creatividad-desde-la-neurociencia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765768929690-66875e5a01af5",
@@ -602,13 +1462,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "14",
+    "formato": "Físico",
     "categorias": [
       "Neurobiológica"
     ],
-    "formato": "Físico",
     "notas": "Atracción, deseo y amor vistos por la neurobiología. Mucho es ya cuanto se ha escrito sobre sexo y sexualidad. De ello se han ocupado la filosofía, la antropología, la psicología, la religión y, por supuesto, la literatura, desde diferentes perspectivas y con distintos objetivos. En las últimas décadas, la neurobiología ha irrumpido con fuerza en este campo con la intención de alumbrar cuestiones que todavía hoy desconocemos sobre nuestra sexualidad, y también para romper algunos de los estereotipos y mitos mas extendidos sobre el sexo. Los nuevos hallazgos han empezado a trazar un panorama de los circuitos y moléculas que intervienen en la atracción sexual, la seducción, la excitación sexual y el orgasmo, ademas de desvelar las intrincadas conexiones que existen entre nuestras ardientes pasiones y los sentimientos amorosos. En este libro se recogen algunos de los recorridos neurobiológicos, cada vez mejor caracterizados, que hay detrás de nuestro comportamiento sexual y amoroso.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-del-sexo-atraccion-deseo-y-amor-vistos-por-la-neurobiologia.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ciencia-del-sexo-atraccion-deseo-y-amor-vistos-por-la-neurobiologia.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1765769846577-d07d9f926b68a",
@@ -619,13 +1480,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "18",
+    "formato": "Físico",
     "categorias": [
       "Neurobiológica"
     ],
-    "formato": "Físico",
     "notas": "Los avances en el ámbito de la neurociencia han permitido arrojar un poco de luz sobre algunosaspectos del ser humano tan fundamentales como la conciencia, el pensamiento y las emociones, cuya comprensión había quedado relegada a la esfera de la especulación. Cada día sabemos más sobre el proceso extraordinario mediante el cual cualquier estimulo -por ejemplo, la imagen de un objeto- puede convertirse en pensamiento y, por tanto, en parte de nuestra memoria, de tal manera que desde ese momento siempre podremos recordar ese objeto y su uso. El sueño de la razón nos guía a través de las principales funciones cognitivas que rigen este proceso: la percepción (es decir, cómo recibimos la información), el pensamiento (cómo la procesaremos) y la memoria (cómo la almacenamos).",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-sueno-de-la-razon-como-funciona-el-cerebro.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-sueno-de-la-razon-como-funciona-el-cerebro.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766787819532-a04b13a3754bf8",
@@ -636,14 +1498,15 @@
     "editorial": "Larousse Kingfisher Chambers",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Enciclopedia",
       "Diccionarios"
     ],
-    "formato": "Físico",
     "notas": "This annually revised bestseller is a comprehensive Spanish-language dictionary and encyclopedia in one. With updated entries reflecting current events, the latest edition of this full-featured reference includes 90,000 entries with 200,000 definitions. More than 5,000 full-color photographs, maps, tables, and drawings enhance the written entries and make browsing a pleasure. The encyclopedia sect…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=-ydnQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=-ydnQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766605970521-fdb3128df79e",
@@ -654,16 +1517,17 @@
     "editorial": "Ediciones Paraninfo, S.A.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Refrigeración",
       "Mantenimiento",
       "Lubricación",
       "Motor"
     ],
-    "formato": "Físico",
     "notas": "Mantenimiento de sistemas de refrigeración y lubricación de los motores térmicos explica la estructura y el funcionamiento de estos dos sistemas, tan importantes para optimizar el rendimiento del motor y maximizar su duración. Por otro lado, se desarrollan las operaciones más destacables de mantenimiento y reparación, de acuerdo con las indicaciones de los fabricantes y teniendo en cuenta el trata…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=eLv-CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=eLv-CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-7",
@@ -674,15 +1538,16 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Biología",
       "Sistemas",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "En Concepción biológica del cosmos, Ludwig von Bertalanffy desarrolla una visión del universo fundamentada en los principios de la biología y la teoría de sistemas, proponiendo que los procesos naturales —desde las células hasta las galaxias— se rigen por patrones organizativos comunes. Con un estilo claro y filosóficamente profundo, Bertalanffy sostiene que el cosmos no puede entenderse como un mecanismo fragmentado, sino como una totalidad dinámica en la que las interacciones, la autoorganización y el intercambio de energía e información son esenciales para la vida y la evolución. La obra destaca por su desafío al reduccionismo científico tradicional y por articular una perspectiva holística que influyó decisivamente en múltiples disciplinas, desde la ecología hasta las ciencias sociales. Más que un tratado biológico, el libro es una invitación a comprender la realidad como un sistema integrado en permanente transformación.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/concepcion-biologica-del-cosmos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/concepcion-biologica-del-cosmos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766759012278-c5cedc23ee0e5",
@@ -693,14 +1558,15 @@
     "editorial": "Dextra",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Producción",
       "Automatización"
     ],
-    "formato": "Físico",
     "notas": "Si se hace referencia únicamente a los sistemas industriales de fabricación se habla de Automatización de la fabricación. Bajo este concepto pueden englobarse tanto la automatización de procesos de fabricación continua como la automatización de procesos de fabricación de piezas (discontinuos, por lotes o de eventos discretos). Tradicionalmente se utiliza el término Automática o Regulación Automática para el tratamiento del control de procesos continuos y el de Automatización para los procesos discontinuos.\nEl libro se centra en el estudio y modelado de los eventos discretos y los equipos de control más adecuados para los mismos: los autómatas programables. Incorpora además, numerosos ejercicios con sus soluciones.\n\nAcceso a más de 1 millón de títulos por un precio mensual conveniente.\n\nEstudia de forma más eficiente usando nuestras herramientas de estudio.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/sistemas-de-produccion-automatizados.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/sistemas-de-produccion-automatizados.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059444964-6aad3259037668",
@@ -711,14 +1577,15 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Cálculo"
     ],
-    "formato": "Físico",
     "notas": "El libro Ecuaciones diferenciales ordinarias. Introducción. Problemas resueltos contiene el desarrollo, con todo detalle, y la solución de los ejercicios que aparecen en el volumen de teoría Ecuaciones diferenciales ordinarias. Introducción. Ambos libros fueron diseñados como una sola obra en dos tomos, concebida para estudiantes de escuelas de ingeniería. Tanto los ejemplos de la teoría como el conjunto de los ejercicios fueron elegidos entre aquellos que los autores hemos utilizado en las múltiples ocasiones que hemos impartido este material. De los siete capítulos de este volumen de problemas, dos contienen ejercicios de aplicación y los otros cinco, ejercicios sobre algoritmos y estrategias de solución de ecuaciones diferenciales (ED).",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ecuaciones-diferenciales-ordinarias-intr-problemas-resueltos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ecuaciones-diferenciales-ordinarias-intr-problemas-resueltos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766599342008-c4f89cf4820a9",
@@ -729,6 +1596,7 @@
     "editorial": "PennWell Books",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica",
       "Transferencia",
@@ -736,10 +1604,10 @@
       "Torre",
       "Enfriamiento"
     ],
-    "formato": "Físico",
     "notas": "This new text represents the most detailed and comprehensive book presenting modern practice and theory relevant to the thermal-flow performance evaluation, design, and optimization of air-cooled heat exchangers and cooling towers. Kroger provides modern analytical and empirical tools used to evaluate the thermal-flow performance and design of air-cooled heat exchangers and cooling towers. He also…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=uHhqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=uHhqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766783888591-0cfeef699aecf",
@@ -750,16 +1618,17 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "9 ed",
+    "formato": "Físico",
     "categorias": [
       "Proyectos",
       "Evaluación",
       "Negocios",
       "Administración"
     ],
-    "formato": "Físico",
     "notas": "El libro \"Evaluación de Proyectos\" de Gabriel Baca Urbina es un texto fundamental en la administración y economía, utilizado para enseñar la metodología de formulación y evaluación de inversiones. \n1. Definición de Proyecto\nPara Baca Urbina, un proyecto es un plan que, al recibir un capital determinado e insumos de diversos tipos, producirá un bien o servicio útil para el ser humano o la sociedad. \n2. Estructura de la Metodología\nLa metodología propuesta se divide en varios estudios secuenciales para determinar la viabilidad de una inversión: \nEstudio de Mercado: Determina si existe una demanda insatisfecha que justifique la creación del bien o servicio.\nEstudio Técnico: Define dónde, cuándo, cuánto y cómo producir lo que el mercado demanda (localización, tamaño y procesos técnicos).\nEstudio Económico: Sistematiza los costos e ingresos para determinar el monto de la inversión necesaria y los flujos financieros.\nEvaluación Económica: Aplica indicadores de rentabilidad (como el VPN y la TIR) para decidir si el proyecto es financieramente conveniente.\nAnálisis y Administración del Riesgo: Evalúa la probabilidad de que los resultados reales difieran de los proyectados. \n3. Niveles de Profundidad\nEl autor distingue tres niveles de análisis según la precisión requerida: \nPerfil: Gran visión o identificación de la idea.\nAnteproyecto (Estudio de prefactibilidad): Evaluación profunda de alternativas para la toma de decisiones. El libro se enfoca principalmente en este nivel.\nProyecto definitivo: Detalles finales para la ejecució",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/evaluacion-de-proyectos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/evaluacion-de-proyectos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767031886586-66d87f817f8b2",
@@ -770,16 +1639,17 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energías Renovables",
       "Energía",
       "Política",
       "Medioambiente"
     ],
-    "formato": "Físico",
     "notas": "La cantidad de energía que una sociedad consume y la eficiencia con la que la transforma y utiliza constituyen hoy en día criterios que permiten diagnosticar su grado de desarrollo. Se puede afirmar que el incremento en el nivel de desarrollo de una nación se encuentra asociado, en general, a un mayor consumo energético y a una mayor capacidad para llevar a cabo un uso y transformación eficientes …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=bl6L8E_9t1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=bl6L8E_9t1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766709564978-65e3669a0a3338",
@@ -790,13 +1660,14 @@
     "editorial": "MONDADORI",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Música"
     ],
-    "formato": "Físico",
     "notas": "\"Loops\" es una obra pionera, por ser el primer estudio que pone sobre la mesa todos los fenómenos relacionados con el uso de instrumentos, aparatos y técnicas asociados a la música electrónica. Arranca en 1910 y llega hasta febrero del 2002, tratando con idéntica pasión las expresiones electrónicas más difíciles y las relacionadas con el fenómeno de la música de baile; además traza conexiones con el universo del pop, el rock, el cine y la literatura.\n\nAunque se presenta con el epígrafe de historia, \"Loops\" es, sin embargo, fruto de un intenso y apasionado trabajo periodístico. Reputados periodistas son quienes han contribuido a su redacción, y tanto el proceso como la forma (un documento que recoge más de cien entrevistas) corresponden al canon periodístico: la intención del \"Loops\" no es imponer \"la verdad\" sino explicar qué pasó, hacia dónde se dirige esta músiica, qué áreas de reflexión quedan por cubrir y dónde estamos.\n\n\"Loops\" pretende ser un libro de múltiples lecturas; una guía o introducción básica para el no iniciado, un volumen que ayude a buscar pistas, a seleccionar escuchas en función de gustos, y a la vez un trabajo que pueda ampliar datos y conocimientos al ya iniciado o incluso al experto.\n\nLa música electrónica necesitaba su historia y, por fin, tiene una.",
     "comentarios": "CONTENIDO\n\n-Introducción: No future\n-Prefacio (Simon Reynolds)\n1. Oigo un mundo nuevo: los pioneros de la música electrónica, 1910-1968 (Oriol Rossell)\n2. Rock around the click: la electrónica de los setenta, de \"Hallogallo\" al ambient en la era del Moog, 1968-1982 (Quim Casas)\n3. Una historia jamaicana de fantasmas: el dub, de Kingston a Bristol, 1964-1996 (Dani Relats)\n4. Música para las masas: Kraftwert, el sonido del concepto, 1970-2002 (Half Nelson)\n5. Poderosamente real: la música disco, de The Loft al Paradise Garage, 1970-1985 (Raül G. Pratginestós)\n6. Hemorragias de placer: la segunda revolución industrial, 1975-1085 (Oriol Rossell)\n7. Miedo a un planeta negro: la vieja escuela del hip hop, 1973-1989 (Dani Relats)\n8. Fundido en gris: el pop vampirizado por la electrónica en los ochenta, 1977-1989 (Half Nelson)\n9. La casa de jack: ritmo y deseo. El primer imperio del house, 1985-1995 (Luis Lles)\n10. El shock del futuro: techno, Detroit y más allá, 1982-1993 (Raül G. Pratginestós)\n11. Déjame ser tu fantasía: el Verano del Amor y la expansión de las raves, 1986-1992 (Javier Blánquez)\n12. Aventuras en el ultramundo: Ambient, IDM y electrónica post-rave, 1989-2002 (Javier Blánquez)\n13. Medianoche en un mundo perfecto: abstracción hip hop y ciencia del beat a cámara lenta, 1987-2002 (Juan Manuel Freire)\n14. Equipo en expansión: la nueva escuela del hip hop, 1989-2002 (David Broc)\n15. Progresión lógica: jungle, drum 'n' brass y 2step, 1990-2002 (Javier Blánquez)\n16. Amor digital: música experimental en la década de los noventa, 1990-2002 (Anna Ramos y Roc Jiménez)\n17. Como una autopista: encuentros de electrónica y música popular, 1989-2002 (Juan Manuel Freire)\n18. Reacción en cadena: techno y house en la segunda mitad de los noventa, 1992-2002 (Javier Blánquez)\n-Discografía seleccionada\n-Bibliografía y otras fuentes\n-Índice onomástico",
-    "portada": "https://books.google.com/books/content?id=Gq3SPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=Gq3SPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766949732814-984d6db812156",
@@ -807,16 +1678,17 @@
     "editorial": "John Wiley & Sons",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas",
       "Metaheurísticas",
       "Programación",
       "Informática"
     ],
-    "formato": "Físico",
     "notas": "Experienced researchers describe the latest types of heuristic procedures. Artificial networks, simulated annealing, Tabu search, Lagrangean relaxation, genetic algorithms and evaluation of heuristics are among the subjects discussed.",
     "comentarios": "Investigadores experimentados describen los últimos tipos de procedimientos heurísticos. Entre los temas tratados se encuentran las redes artificiales, el recocido simulado, la búsqueda tabú, la relajación lagrangiana, los algoritmos genéticos y la evaluación de heurísticas.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/modern-heuristic-techniques-for-combinatorial-problems.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/modern-heuristic-techniques-for-combinatorial-problems.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766599499506-a9163617d1c1c",
@@ -827,15 +1699,16 @@
     "editorial": "McGraw-Hill Companies",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Producción",
       "Operación",
       "Investigación de Operaciones"
     ],
-    "formato": "Físico",
     "notas": "This text provides a survey of the analytical methods used to support the functions of production and operations management. This latest edition continues to bring the most thorough coverage of cutting-edge quantitative models used in operations, while presenting it in a clean, easy to understand fashion. There are many new problems both solved and unsolved for students to comprehend the quantitat…",
     "comentarios": "Estrategia y competencia 1\n2 Pronósticos 51\n3 Planeación agregada 108\nSuplemento 1 Programación lineal 154\n4 Control de inventarios sujeto al conocimiento de la demanda 183\n5 Control de inventarios sujetos a demanda\nincierta 232\n6 Administración de la cadena de\nabastecimiento 294\n7 Sistemas de producción de empuje y\ntracción: MRP y JIT 346\n8 Programación de operaciones 401\nSuplemento 2 Teoría de colas 457\n9 Programación de proyectos 484\n10 Distribución y ubicación de\ninstalaciones 535\n11 Aseguramiento de la calidad 610\n12 Confiabilidad y facilidad de mantenimiento\n687",
-    "portada": "https://books.google.com/books/content?id=8iEfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=8iEfAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766603564076-f443fce4d1a048",
@@ -846,15 +1719,16 @@
     "editorial": "Limusa",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Planificación",
       "Producción",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "El libro Planeación y Control de la Producción, escrito por Robert H. Bock y William K. Holstein, es un texto clásico dentro del ámbito de la gestión de operaciones, particularmente útil para comprender los fundamentos del planeamiento, programación y control de los procesos productivos en organizaciones industriales.\n\nLa obra desarrolla de manera estructurada los elementos que conforman un sistema de producción eficiente: pronósticos de demanda, planeación agregada, programación maestra, control de inventarios, control de piso y seguimiento del desempeño. Su enfoque metodológico y conceptual permite al lector comprender la lógica de coordinación entre recursos, tiempos y capacidades, mostrando cómo las decisiones estratégicas y tácticas se conectan con la operación diaria.\n\nSi bien refleja una visión tradicional previa a los modelos contemporáneos de manufactura esbelta, automatización avanzada o Industria 4.0, el texto sigue siendo valioso por la solidez de sus fundamentos y por su utilidad para quienes requieren una base conceptual en operaciones antes de abordar metodologías más modernas. En particular, resulta recomendable para estudiantes de ingeniería industrial, administración de operaciones y logística, así como para profesionales que buscan reforzar los pilares de la gestión productiva.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/planeacion-y-control-de-la-produccion.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/planeacion-y-control-de-la-produccion.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767043240304-74a43ea37d19c8",
@@ -865,16 +1739,17 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "6ta Ed.",
+    "formato": "Físico",
     "categorias": [
       "Producción",
       "Operación",
       "Administración",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "Capitulo 1. Estrategia y competencia\nApéndice 1-A. Cálculos del valor presente.\nCapitulo 2. Pronósticos.\nApéndices: 2-A. Errores de pronóstico para promedios móviles y suavizamiento exponencial.\n2-B. Deducción de las ecuaciones para la pendiente y la intercepción en el análisis de regresión.\nCapitulo 3. Planeación agregada.\nSUPLEMENTO 1. Programación lineal\nCapítulo 4. Control de inventarios sujeto conocimiento de la demanda.\nApéndice 4\n4-A. Deducción matemática para sistemas de cantidad económica de pedido con restricciones para varios productos.\nCapítulo 5. Control de inventarios sujetos a demanda incierta.\nApéndices 5\n5-A. Convenciones de notación y repaso de probabilidad.\n5-B. Resultados adicionales y extensiones para el modelo del repartidor de periódicos.\n5-C. Deducción de la política (Q, R) óptima.\n5-D. Distribuciones de probabilidad para administración de inventarios.\nCapítulo 6. Administración de la cadena de suministro.\nCapítulo 7. Sistemas de producción de empuje y tracción: MRP y JIT.\nApéndice 7\n7-A. Determinación óptima de tamaños de lote para demandas que varían con el tiempo.\nCapítulo 8. Programación de operaciones.\nSUPLEMENTO 2. Teoría de colas.\nCapítulo 9. Programación de proyectos.\nCapítulo 10. Distribución y ubicación de instalaciones.\nApéndices 10\n10-A. Determinación de centroides.\n10-B. Cálculo de curvas de nivel.\nCapítulo 11. Calidad y su aseguramiento.\nApéndice 11\n11-A. Aproximación de distribuciones\nCapítulo 12. Confiabilidad y fiabilidad de mantenimiento Tablas e Índice analítico",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analisis-de-la-produccion-y-las-operaciones.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analisis-de-la-produccion-y-las-operaciones.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767039708656-2d7ed31c7c7c58",
@@ -885,6 +1760,7 @@
     "editorial": "CRC Press",
     "coleccion": "",
     "vol": "2da Ed.",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Handbook",
@@ -892,10 +1768,10 @@
       "Industria",
       "Sistemas"
     ],
-    "formato": "Físico",
     "notas": "A new edition of a bestselling industrial and systems engineering reference, Handbook of Industrial and Systems Engineering, Second Edition provides students, researchers, and practitioners with easy access to a wide range of industrial engineering tools and techniques in a concise format. This edition expands the breadth and depth of coverage, emphasizing new systems engineering tools, techniques…",
     "comentarios": "Una nueva edición de la obra de referencia más vendida en ingeniería industrial y de sistemas, el Manual de Ingeniería Industrial y de Sistemas, Segunda Edición, ofrece a estudiantes, investigadores y profesionales un fácil acceso a una amplia gama de herramientas y técnicas de ingeniería industrial en un formato conciso. Esta edición amplía la cobertura, haciendo hincapié en las nuevas herramientas y técnicas de ingeniería de sistemas.",
-    "portada": "https://books.google.com/books/content?id=3Xf6AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=3Xf6AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767041245709-7beba41627f39",
@@ -906,14 +1782,15 @@
     "editorial": "Createspace Independent Publishing Platform",
     "coleccion": "",
     "vol": "5ta Ed.",
+    "formato": "Físico",
     "categorias": [
       "Instrumentación",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "La 5ta edición aniversario de Instrumentación Industrial, a color y en formato carta, incluye todos los capítulos publicados durante 2010 y 2011: Introducción Variables Discretas Mediciones Continuas de Presión Mediciones Continuas de Nivel Mediciones Continuas de Temperatura Mediciones Continuas de Caudal Mediciones Continuas AnalíticasComunicaciones IndustrialesFoundation FieldbusSeguridad de Pr…",
     "comentarios": "Alexander Espinosa alias alectrico\nHola, encantado de conoceros.\n\nNo soy instrumentista, tampoco ingeniero de control ni de automatización.\n\nSolo me titulé en Ing. en Telecomunicaciones en La Habana Cuba y con los años hice un magíster en Instrumentación electrónica. En algún momento me encontré con control automático como asignatura de un Doctorado que nunca terminé (porque me fue mal).\n\n¿Qué es lo que he publicado?\nAlguna vez me ví haciendo clases de Instrumentación Industrial y para poder complir con calidad las clases encontré que el volumen de Instrumentación Industrial de Antonio Cresus Solé no era muy accessible a mis alumnos de cursos técnicos y con el tiempo me decidí a crear un manual un poco más ilustrativo.\n\nEsto es lo que he publicado.",
-    "portada": "https://books.google.com/books/content?id=KhSmMgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=KhSmMgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767042508828-b02e659b6629b8",
@@ -924,15 +1801,16 @@
     "editorial": "Alfaomega",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería Industrial",
       "Ingeniería",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "es un libro de texto para los cursos de esta materia, que se imparten en los primeros semestres de la carrera de Ingeniería Industrial. En esta obra se presenta la evolución de la Ingeniería Industrial identificándose cinco etapas básicas: orígenes e ingenierías precursoras; Ingeniería Industrial convencional asociada a los estudios de movimientos y tiempos; Ingeniería Industrial apoyada en modelos de investigación de operaciones; Ingeniería Industrial basada en sistemas; Ingeniería Industrial fundamentada en las teorías de sistemas, decisiones, comunicación e información. Aprenda a evaluar las técnicas de Ingeniería Industrial, como un producto de la actividad, cultura y contexto occidental. Conozca la evolución de la Ingeniería Industrial en el contexto occidental. Desarrolle una visión básica de la aplicación, alcance, funciones e importancia de la Ingeniería Industrial. José Fidencio Domingo González Zúñiga es Ingeniero Mecánico Electricista por la Facultad de Ingeniería de la UNAM, y obtuvo el grado de Maestro en Ciencias y la Especialización en Ingeniería Industrial en la UPIICSA del IPN. Ha obtenido los diplomados en Enseñanza Superior (ENEP, UNAM), en Formación de Instructores (EDUMAC, IPN), en Metodología de Diagnóstico Empresarial Institucional (NAFINSA), así como la certificación Basic Most Applicator (H.B. MAYNARD AND COMPANY).",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-ingenieria-industrial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/introduccion-a-la-ingenieria-industrial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766877120657-f18545628bbe9",
@@ -943,15 +1821,16 @@
     "editorial": "John Wiley & Sons",
     "coleccion": "",
     "vol": "3era ed.",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Eólica",
       "Viento"
     ],
-    "formato": "Físico",
     "notas": "Referencia totalmente actualizada y autorizada a la tecnología de energía eólica escrita por destacados profesionales académicos y de la industria. La recientemente revisada Tercera Edición del Manual de Energía Eólica ofrece un tratamiento totalmente actualizado de los desarrollos clave en tecnología eólica desde la publicación de la Segunda Edición del libro en 2011. La criticidad de las estelas dentro de los parques eólicos se aborda mediante la adición de un capítulo completamente nuevo sobre los efectos de la estela, incluyendo modelos de estela de \"ingeniería\" y control de la estela. En alta mar, la atención se centra por primera vez en el diseño de estructuras de soporte flotantes, y se introduce el nuevo método \"PISA\" para el diseño geotécnico de monopilotes. La cobertura del diseño de palas se ha reescrito por completo, con una descripción ampliada de las propiedades de fatiga laminada y nuevas secciones sobre métodos de fabricación, pruebas de palas, erosión del borde de ataque y acoplamiento de flexión-torsión. Estos se complementan con nuevas secciones sobre complementos de palas y ruido en los capítulos de aerodinámica, que ahora también incluyen una descripción del modelo de pérdida dinámica de Leishman-Beddoes y una introducción ampliada al análisis de dinámica de fluidos computacional. La importancia del impacto ambiental de los parques eólicos, tanto terrestres como marinos, se reconoce mediante una cobertura ampliada, y se describen los requisitos de los Códigos de Red para garantizar que la energía eólica desempeñe plenamente su papel en el sistema eléctrico. El capítulo sobre diseño conceptual se ha ampliado para incluir diversos conceptos novedosos, como rotores de baja inducción, estructuras multirotor, generadores superconductores y cajas de engranajes magnéticos. Se incluyen referencias y recursos de lectura adicionales a lo largo del libro, que se han actualizado para incluir la bibliografía más reciente. Al igual que en ediciones anteriores, se cubren los temas fundamentales que constituyen la base esencial para el diseño de aerogeneradores y parques eólicos. Estos incluyen: La naturaleza del recurso eólico, incluyendo la variación geográfica, variaciones sinópticas y diurnas, y características de turbulencia La aerodinámica de las turbinas eólicas de eje horizontal, incluyendo el concepto de disco actuador, teoría del disco rotor, el modelo de cilindro vórtice del disco actuador y la teoría Pala-Elemento/Momento Cargas de diseño para turbinas eólicas de eje horizontal, incluyendo las prescripciones de estándares internacionales Arquitecturas de máquinas alternativas El diseño de componentes clave Diseño de controlador de turbina eólica para máquinas de velocidad fija y variable La integración de parques eólicos en el sistema de energía eléctrica Diseño de parques eólicos, restricciones de ubicación y evaluación del impacto ambiental Perfecto para ingenieros y científicos que aprenden sobre tecnología de turbinas eólicas, el Manual de energía eólica también se ganará un lugar en las bibliotecas de estudiantes de posgrado que toman cursos sobre turbinas eólicas y energía eólica, así como profesionales de la industria cuyo trabajo requiere una comprensión profunda de la tecnología de energía eólica.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=ieklEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=ieklEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766763192469-c25a5c82e4dba8",
@@ -962,13 +1841,14 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística"
     ],
-    "formato": "Físico",
     "notas": "Las estadísticas nos rodean. Nos acompañan a todos lados, nos persiguen, nos acosan. Estadísticas económicas, sociales, políticas, médicas, meteorológicas, alimenticias o deportivas. Permanentemente estamos estimando cantidades; seguimos los resultados de nuestro equipo de fútbol y confiamos en las encuestas antes de las elecciones. Esas mediciones están tan metidas en nuestra vida cotidiana que muchas veces no notamos cuánto influyen en nosotros. Por si fuera poco, la estadística vive de los errores. Este libro nos invita a adentrarnos en el fascinante mundo de estas pequeñas mentiras verdaderas de todos los días, como las usadas para medir el rating de la televisión, la efectividad de la policía para combatir el crimen, la evolución de la pobreza, la discriminación en el mercado laboral, dirimir delicadas cuestiones jurídicas o simplemente saber adónde tirarse para atajar un penal. Y además, pasa revista a varios de los métodos de esta disciplina, que aunque no puedan garantizar una certeza del 100% son aproximaciones útiles para acercarse a fenómenos muy complejos. Walter Sosa Escudero es el mejor guía para moverse en el mundo de las probabilidades, las estimaciones y las proyecciones. Con pasión y sin valerse de complicadas fórmulas ni gráficos nos explica los usos científicos, sociales y hasta truculentos de una de las ciencias más presentes en nuestra vida. Este libro la desenmascara y hasta logra que disfrutemos de poder comprenderla.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/que-es-y-que-no-es-la-estadistica-como-se-construyen-las-predicciones-y-los-datos-que-mas-influyen-en-nuestras-vidas-en-medio-de-la-revolucion-de-big-data.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/que-es-y-que-no-es-la-estadistica-como-se-construyen-las-predicciones-y-los-datos-que-mas-influyen-en-nuestras-vidas-en-medio-de-la-revolucion-de-big-data.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766950393766-f653ff27c19628",
@@ -979,31 +1859,15 @@
     "editorial": "John Wiley",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "Modelos"
     ],
-    "formato": "Físico",
     "notas": "Un tratamiento detallado del uso de modelos estadísticos que representan fenómenos físicos. Considera la relevancia de los modelos de distribución normal más populares y la aplicabilidad de la distribución exponencial en problemas de confiabilidad. Introduce y analiza el uso de modelos alternativos como las distribuciones gamma, beta y Weibull. Abarca ampliamente el rendimiento del sistema y describe un método preciso conocido como transformación de variables. Aborda técnicas para evaluar la idoneidad de un modelo seleccionado, incluyendo procedimientos gráficos y analíticos. Contiene numerosos ejemplos ilustrativos, la mayoría adaptados de problemas reales.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/statistical-models-in-engineering.jpg"
-  },
-  {
-    "id": "libro-1766950669736-6b831761011f4",
-    "titulo": "Estadística",
-    "autor": "Murray R. Spiegel",
-    "anio": 1991,
-    "isbn": "9788476155622",
-    "editorial": "McGraw-Hill",
-    "coleccion": "Shaum",
-    "vol": "",
-    "categorias": [
-      "Estadística"
-    ],
-    "formato": "Físico",
-    "notas": "El propósito de esta obra es presentar una introducción a los principios generales de la estadística, que será útil a\ntodos los individuos sin importar su campo de especialización. Se diseñó para usarse ya sea como consulta para todos\nlos textos estándar modernos o como un libro para un curso formal de estadística. Será también de gran valor como\nreferencia para todos aquellos que estén aplicando la estadística en su campo de investigación particular",
-    "comentarios": "MURRAY R. SPIEGEL† obtuvo su maestría en física y su doctorado en matemáticas, ambos en Cornell University.\nTrabajó en Harvard University, Columbia University, Oak Ridge and Rensselaer Polytecnic Institute; además fue\nasesor en matemáticas para diversas compañías. Su último cargo fue como profesor y presidente de matemáticas en el\nHartford Graduate Center del Rensselaer Polytecnic Institute. Su interés por las matemáticas lo acompañó durante toda\nsu trayectoria, en especial en la rama que comprende la aplicación de la física y los problemas de ingeniería. Fue autor\nde numerosos artículos periodísticos y de más de una docena de libros sobre temas matemáticos.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/statistical-models-in-engineering.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766973314701-822c11bde1bbe",
@@ -1014,14 +1878,15 @@
     "editorial": "Ediciones Paraninfo, S.A.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ingeniería",
       "Estadística"
     ],
-    "formato": "Físico",
     "notas": "El azar está presente en buena parte de los problemas a que debe enfrentarse un ingeniero en su vida profesional. En el campo de las telecomunicaciones, por ejemplo, fenómenos como la aparición de ruido en un canal de transmisión o el acceso de usuarios a un determinado servicio de red a lo largo del tiempo no pueden ser modelizados de forma determinista, debido a la alta complejidad de los sistem…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=M7nmCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=M7nmCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767059295326-681fcbe62fd7b8",
@@ -1032,15 +1897,16 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Control Automático",
       "Estadística",
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Como oferta a un curso formal, el nivel del texto es adecuado para graduados de un primer año de Ingeniería que hayan superado un curso de sistemas lineales (donde se insista en aplicaciones de la transformada de Fourier) y una introducción a las probabilidades y variables aleatorias.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=D5Q2CFr-pakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=D5Q2CFr-pakC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-22",
@@ -1051,13 +1917,14 @@
     "editorial": "Grano de Sal",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística"
     ],
-    "formato": "Físico",
     "notas": "La estadística está en todas partes: en las calificaciones de la escuela, en las encuestas que aspiran a anticipar un resultado electoral, en el descubrimiento de nuevas partículas elementales. Pero, ¿qué tiene de singular esta disciplina? Stephen M. Stigler propone que la sabiduría estadística se apoya en siete grandes pilares conceptuales que han ido madurando con el paso de los siglos y han contribuido a que hoy sea, por méritos propios, una ciencia versátil y rigurosa. Mediante el recuento de situaciones clave, la presentación de ideas que en su momento fueron revolucionarias y el retrato de algunos pensadores audaces, Stigler describe cómo al desechar parte de los datos en realidad podemos describirlos mejor, cómo aumenta la información cuando crece el número de observaciones, cómo se ha usado la probabilidad para cuantificar la precisión de una medida, cómo la variación interna de los datos puede ser suficiente para estudiarlos, cómo lo ya observado permite imaginar lo que aún no ocurre, cómo los procesos aleatorios pueden ser una magnífica herramienta y cómo se han desarrollado ciertos modelos teóricos para explicar todo tipo de fenómenos. El lector comprobará que esta sólida estructura explica por qué la estadística está aquí, allá y acullá.",
     "comentarios": "Comprado en libreria de la UDP (santiago) en octubre del 2025",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-siete-pilares-de-la-sabiduria-estadistica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/los-siete-pilares-de-la-sabiduria-estadistica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766198127665-3585ddf64ea48",
@@ -1068,13 +1935,14 @@
     "editorial": "Materia III",
     "coleccion": "Descubrir la ciencia",
     "vol": "29",
+    "formato": "Físico",
     "categorias": [
       "Estadística"
     ],
-    "formato": "Físico",
     "notas": "De la entropía al algoritmo de Google (y otros caminantes aleatorios). Cómo la probabilidad y la estadística explican el mundo que nos rodea. Somos víctimas del abuso estadístico y de nuestra incompetencia en cálculo de probabilidades por nuestro analfabetismo numérico, por nuestro «anumerismo», como gusta decir al lógico Douglas Hofstadter. La brecha entre las dos culturas, las humanidades y las ciencias, nos ha conducido a situaciones tan paradójicas como que el ciudadano medio se jacte de su analfabetismo matemático: «Yo de números no entiendo…» y sin embargo le parezca signo de profunda incultura el desconocimiento de quién era Cervantes. Ambas negligencias son incultura. Y la ignorancia siempre ha sido la puerta de entrada para las injusticias, los atropellos y el engaño. Como escribe el matemático A. K. Dewdney: «Aquellos que abusan de las matemáticas también abusan de nosotros. Nos convertimos en presas de las triquiñuelas comerciales, las estafas financieras, la charlatanería médica y el terrorismo numérico de los grupos de presión, todo porque somos incapaces (o no estamos dispuestos) a pensar con claridad durante unos momentos». La teoría de la probabilidad y la estadística son dos herramientas esenciales para entender el mundo, desarrollar nuestro sentido crítico y enarbolar un sano escepticismo. Después del viaje que propone este libro, el lector tendrá una panorámica del papel protagonista que tienen estas dos ramas de las matemáticas en las nuevas tecnologías y en la descripción que la ciencia hace del mundo. Esta es sin duda motivación suficiente para emprenderlo y completarlo. Pero, además, cada etapa del viaje es lo suficientemente curiosa y divertida como para que el lector disfrute, a buen seguro, del trayecto.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-leyes-del-azar-probabilidad-informacion-estadistica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/las-leyes-del-azar-probabilidad-informacion-estadistica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766366725189-a13d1cd5ca1eb",
@@ -1085,13 +1953,14 @@
     "editorial": "RBA",
     "coleccion": "Grandes ideas de la ciencia",
     "vol": "44",
+    "formato": "Físico",
     "categorias": [
       "Estadística"
     ],
-    "formato": "Físico",
     "notas": "Fisher. La inferencia estadística: Probablemente sí, probablemente no es una obra de divulgación que introduce los fundamentos de la inferencia estadística a partir de las ideas de Ronald Aylmer Fisher, una de las figuras clave de la estadística moderna. El libro explica cómo, a partir de datos limitados y sujetos a incertidumbre, es posible extraer conclusiones racionales, evaluar hipótesis y cuantificar la probabilidad de error.\n\nCon un lenguaje accesible y ejemplos intuitivos, la obra aborda conceptos como probabilidad, significancia estadística y contraste de hipótesis, mostrando por qué en ciencia rara vez hay certezas absolutas y casi siempre se decide entre “probablemente sí” o “probablemente no”. Es una lectura ideal para comprender el papel central de la estadística en la investigación científica y en la toma de decisiones informadas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fisher-la-inferencia-estadistica-probablemente-si-probablemente-no.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fisher-la-inferencia-estadistica-probablemente-si-probablemente-no.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766951069490-1499c9f4a5141",
@@ -1102,14 +1971,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "Minitab"
     ],
-    "formato": "Físico",
     "notas": "Un intento de hacer que la estadística sea colorida junto con las instrucciones básicas de Minitab® 18…\nIncluye:\n•Ilustraciones prácticas sobre una gran cantidad de temas estadísticos con hermosos colores\n•Rompecabezas para ayudar a recordar diferentes aspectos de ecuaciones y términos (y estadística)\n•Temas adicionales, como “Técnicas/procedimientos estadísticos importantes utilizados en ciencias médicas”, “Distribuciones no normales más utilizadas en salud, educación y ciencias sociales”, “Árbol de decisión para pruebas estadísticas” y otros temas.",
     "comentarios": "Usman Zafar Paracha nació en Pakistán en 1983. Su padre, Muhammad Zafar Paracha, es ingeniero. Su esposa, Amara Usman Paracha, suele asistirlo en sus investigaciones y la redacción de informes.\n\nUsman lleva más de tres años impartiendo docencia en el Departamento de Farmacia de la Universidad Hajvery de Lahore, Pakistán. Es autor de un blog científico, http://SayPeople.com. También es uno de los autores de uno de los artículos más consultados, titulado \"Estrés oxidativo y virus de la hepatitis C\", en la Revista de Virología.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/colorful-statistics-with-basic-steps-in-minitab-18.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/colorful-statistics-with-basic-steps-in-minitab-18.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766951335040-4b4cbd5670b1d8",
@@ -1120,14 +1990,15 @@
     "editorial": "Garceta",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "Minitab"
     ],
-    "formato": "Físico",
     "notas": "Este libro está dirigido a profesionales y estudiantes que deseen usar MINITAB como herramienta para la realización de análisis estadísticos. Su contenido está orientado a las aplicaciones que giran en torno al control y la mejora de la calidad, pero también puede ser útil a personas que trabajan en otros ámbitos y necesitan analizar datos, especialmente en entornos industriales. Está dividido en …",
     "comentarios": "Estadística con Minitab es un libro que permite aprender como utilizar el programa Minitab para los análisis estadísticos de datos enfocados a la mejora de calidad y optimización de procesos. Me parece un libro eminentemente práctico y lo recomiendo a todas las personas que quieren empezar a sacarles provecho a sus datos gracias a este Software.\n\nUtilizo este programa en todos los cursos 6 sigma (Green Belt, Black Belt, Champion) y de estadística ya que me parece muy adaptado a las necesidades de las empresas en aprender como funcionan sus procesos y en resolver problemas basando sus decisiones en datos.\n\nEn primer lugar explica el funcionamiento básico de Minitab y como obtener la estadística descriptiva de los datos (media, mediana, rango, desviación estándar, percentiles,…) y realizar unas representaciones gráficas muy útiles tales como:\n\nGráfico cronológico para entender la evolución de los datos en el tiempo (tendencias, ciclos, variabilidad…)\nHistogramas para apreciar la forma y la dispersión de los datos\nDiagrama de probabilidad (recta de Henry) para comprobar si unos datos se ajustan a una distribución normal (campana de Gauss)\nBox-plot o diagrama de caja y bigotes\nDiagramas de correlación para ver la relación entre dos variables continuas,…\nPero por otra parte, también explica, con numerosos ejemplos, como utilizar el software Minitab para:\n\nEstudios de capacidad (índices Cp, Cpk)\nMSA – Validar los sistemas de medida (estudios R&R)\nEl análisis de regresión\nLos diseños de experimentos (DOE)\nControl estadístico de proceso (SPC)",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica-con-minitab-aplicaciones-para-el-control-y-la-mejora-de-la-calidad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica-con-minitab-aplicaciones-para-el-control-y-la-mejora-de-la-calidad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766951825490-4bb00b2f97b9d8",
@@ -1138,15 +2009,16 @@
     "editorial": "Wiley",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "Minitab",
       "Diseño"
     ],
-    "formato": "Físico",
     "notas": "El progreso en la ingeniería y las ciencias físicas, la agricultura y las ciencias biológicas, y en cierta medida en las ciencias sociales, depende de los experimentos. El diseño de estos experimentos es crucial. Si están mal diseñados, serán ineficientes y podrían llevar a conclusiones erróneas. Sin embargo, se espera que muchos investigadores de la industria y la universidad diseñen y analicen...",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1K5-RAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=1K5-RAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766951924486-73bbe260b38d78",
@@ -1157,15 +2029,16 @@
     "editorial": "Marcombo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "R",
       "Phyton"
     ],
-    "formato": "Físico",
     "notas": "Los métodos estadísticos son una parte fundamental de la ciencia de datos, pero pocos científicos de datos tienen una formación avanzada en estadística. Los cursos y libros sobre estadística básica rara vez tratan el tema desde la perspectiva de la ciencia de datos. La segunda edición de este libro incluye ejemplos detallados de Python, ofrece una orientación práctica sobre la aplicación de los mé…",
     "comentarios": "Más de 50 conceptos esenciales",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica-practica-para-ciencia-de-datos-con-r-y-python.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica-practica-para-ciencia-de-datos-con-r-y-python.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766967562597-bf19b567ab8df",
@@ -1176,14 +2049,15 @@
     "editorial": "McGraw Hill Professional",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "Minitab"
     ],
-    "formato": "Físico",
     "notas": "Need to learn Minitab? Problem Solved! Get started using Minitab right way with help from this hands-on guide. Minitab Demystified walks you through essential Minitab features and shows you how to apply them to solve statistical analysis problems. Featuring coverage of Minitab 16, this practical guide explores the Minitab interface and the full range of Minitab graphics, Distribution models, stati…",
     "comentarios": "¿Necesitas aprender Minitab? ¡Problema resuelto! Empieza a usar Minitab de inmediato con esta guía práctica. Minitab Demystified te guía por las funciones esenciales de Minitab y te muestra cómo aplicarlas para resolver problemas de análisis estadístico. Con cobertura de Minitab 16, esta guía práctica explora la interfaz de Minitab y toda la gama de gráficos, modelos de distribución, estadísticas…",
-    "portada": "https://books.google.com/books/content?id=cy6E5R2Zv3kC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=cy6E5R2Zv3kC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766967893432-bc34dabb0c10e",
@@ -1194,14 +2068,15 @@
     "editorial": "EAE",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "Inferencia"
     ],
-    "formato": "Físico",
     "notas": "El libro de inferencia estadística para investigadores está orientado a empoderar a estudiantes y profesionales en el uso de métodos y procedimientos de deducir propiedades (hacer inferencias) de una población, a partir de una parte de la misma (muestra), como también comparar muestras diferentes provenientes de poblaciones distintas; sustentados en datos de una variable. A lo largo del texto, se ha sacrificado el rigor matemático excesivo en favor de un estilo didáctico mucho más comprensible para el lector, priorizando la comprensión de conceptos y principios estadísticos, como alternativa a memorizar una lista de fórmulas y teorización excesiva. El contenido comprende: técnicas de muestreo; estimación; pruebas paramétricas y no paramétricas. Los tópicos se desarrollan de manera sencilla a través de ejemplos ilustrativos, didácticamente resueltos mediante fórmulas matemáticas; priorizando el uso del software minitab en el proceso de análisis y presentación de los resultados inferenciales provenientes de datos cualitativos o cuantitativos, insumo fundamental para la emisión de resultados y conclusiones de un proceso investigativo.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inferencia-estadistica-para-investigadores-procesamiento-analisis-e-interpretacion-de-datos-mediado-por-el-minitab.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inferencia-estadistica-para-investigadores-procesamiento-analisis-e-interpretacion-de-datos-mediado-por-el-minitab.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766968570043-d581d9f9ed4cf",
@@ -1212,15 +2087,16 @@
     "editorial": "John Wiley & Sons",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "Minitab",
       "Industria"
     ],
-    "formato": "Físico",
     "notas": "Industrial Statistics with MINITAB demonstrates the use of MINITAB as a tool for performing statistical analysis in an industrial context. This book covers introductory industrial statistics, exploring the most commonly used techniques alongside those that serve to give an overview of more complex issues. A plethora of examples in MINITAB are featured along with case studies for each of the statis…",
     "comentarios": "Estadística Industrial con MINITAB demuestra el uso de MINITAB como herramienta para realizar análisis estadísticos en un contexto industrial. Este libro abarca la estadística industrial introductoria, explorando las técnicas más utilizadas junto con aquellas que ofrecen una visión general de temas más complejos. Se presenta una gran cantidad de ejemplos en MINITAB, junto con estudios de caso para cada una de las estadísticas…",
-    "portada": "https://books.google.com/books/content?id=JnboacaM_oUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=JnboacaM_oUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766979627379-3a368e5bef322",
@@ -1231,14 +2107,15 @@
     "editorial": "Theschoolbook.com",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística",
       "Minitab"
     ],
-    "formato": "Físico",
     "notas": "Experimental Statistics using Minitab exploits the availability of the statistical computer package Minitab to explain advanced statistical concepts related to the design and analysis of experiments in an intuitive and easily comprehended manner. This is achieved with a minimum of mathematical knowledge using the data generating and analysing features of Minitab. Detailed instructions for the use …",
     "comentarios": "Estadística experimental con Minitab aprovecha la disponibilidad del paquete estadístico Minitab para explicar conceptos estadísticos avanzados relacionados con el diseño y análisis de experimentos de forma intuitiva y fácil de comprender. Esto se logra con un mínimo de conocimientos matemáticos utilizando las funciones de generación y análisis de datos de Minitab. Instrucciones detalladas de uso…",
-    "portada": "https://books.google.com/books/content?id=7L8fAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=7L8fAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-39",
@@ -1249,14 +2126,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Diseño",
       "Simulación"
     ],
-    "formato": "Físico",
     "notas": "El gran libro de SolidWorks® Simulation es una guía completa y práctica que introduce al lector en el análisis estructural mediante elementos finitos dentro del entorno de SolidWorks. El texto destaca por su enfoque progresivo, comenzando con los fundamentos de la simulación —tipos de cargas, restricciones, mallado y validación de modelos— para luego avanzar hacia estudios más complejos como fatiga, vibraciones, pandeo y análisis térmicos. A través de ejemplos reales, ejercicios y recomendaciones de buenas prácticas, el libro permite comprender no solo cómo usar la herramienta, sino también cómo interpretar correctamente los resultados y evitar errores comunes. Es un recurso altamente valioso para estudiantes, ingenieros y profesionales del diseño que buscan dominar SolidWorks Simulation desde una perspectiva aplicada y rigurosa.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-gran-libro-de-solidworks-simulation.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-gran-libro-de-solidworks-simulation.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766606279205-01afb563c106c8",
@@ -1267,15 +2145,16 @@
     "editorial": "FC Editorial",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Electricidad",
       "Corrientes",
       "END"
     ],
-    "formato": "Físico",
     "notas": "Los Ensayos No Destructivos son métodos que permiten ensayar materiales, piezas y componentes sin destruirlos, de forma que determinen si estos elementos son utilizables para un determinado fin o no. Los métodos de END se utilizan desde la más remota antigüedad en todo tipo de industrias y en las más variadas actividades. La Asociación Española de Ensayos No Destructivos y la Fundación Confemetal son conscientes del déficit de conocimientos que sobre Ensayos No Destructivos existe en España. La Industria requiere personal certificado para la realización de estos ensayos, personal que debe tener una formación y conocimientos adecuados para poder certificarse. Las premisas anteriores han motivado que la AEND y FC Editorial, traten de resolver el problema existente y que el tejido industrial disponga de un conjunto de manuales adecuados a dicha formación, sin que éstos sean enciclopedias de difícil manejo ni simples catálogos más informativos que formativos. Este manual corresponde a la serie que ambas entidades han puesto en el mercado y se refiere al método de Corrientes Inducidas, de amplia utilización, por ejemplo, en las industrias metal - mecánicas, nuclear, aeronáutica y de automoción. CONTENIDO: 1. Electricidad. Unidades eléctricas. Corriente y voltaje alterno. Generalidades. 2. Magnetismo. Campo magnético. Reluctancia. 3. Electromagnetismo, Inductancia e Inducción por Corriente Alterna. Campo magnético producido por una corriente. Ley de Lenz. 4. Reactancia Inductiva. Características de la reactancia inductiva del solenoide. Circuitos inductivos. 5. Las Corrientes Inducidas. Impedancia. Factores que afectan a la componente resistiva de las señales de inspección. 6. Características del Solenoide: Solenoides y Palpadores (Disposición y Construcción). Efecto del diámetro de la bobina sobre la reactancia. Palpadores especiales. Uso específico. 7. Características de la Muestra: Permeabilidad, Conductividad Eléctrica y Grietas. Conductores y aislantes. Efectos de la temperatura y de la dispersión térmica en materiales no magnéticos. 8. Características de la Corriente: Profundidad de Penetración. Frecuencia. Variación de la fase con la profundidad. Influencia de la frecuencia sobre la impedancia del solenoide. 9. Efectos del Acoplamiento Magnético con los Materiales. Factor de llenado. Efecto del factor de llenado sobre la reactancia inductiva. 10. Equipos y Probetas. Compensación por lift-off. Patrones de medición de espesores. 11. Defectología. Defectología de materiales metálicos. Defectos en funcionamiento o servicio. 12. Apéndices.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/corrientes-inducidas-nivel-ii.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/corrientes-inducidas-nivel-ii.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766708726673-9dd183e2e766f",
@@ -1286,14 +2165,15 @@
     "editorial": "Maval Spa",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Novela",
       "Cuentos"
     ],
-    "formato": "Físico",
     "notas": "El viaje del cacique Teno al Huelén / Jorge Uribe Ghigliotto -- El velorio del angelito / Carlos Toloza Díaz -- Entre vegas y tumbas / Franco Fornachiari Astudillo -- Pino / Sumara Tilleria Medel -- El ballico / Sergio Melgarejo Fuentealba -- El último día de corta / Víctor Torres Canales -- La santiguadora / Margarita Sánchez Pincheira -- El chuchito / Luis Oróstica Muñoz -- Blanco y negro / Juan Pablo Scroggie Smitmans / Muñeca de trapo / Yasna Rayenpan Trecanao -- Se le echó la yegua / Carlos Zuñiga -- El último vuelo del cóndor / Marcela Quiroz Opazo -- Pampa Alegre / Enrique Moreira Castro -- El misterio de Coipomó / Burro hambreado no siente la huasca / Camilo Monsalve -- Llegao y quedao / Mauricio Melgarejo Jorquera -- La señorita de pelo bayo huevo de pato / Rosa Gomez Miranda -- El negro / Fabián Silva Arriagada -- Por la amistad / Rubén Darío Gómez Alarcón -- El perdón / Julia Roehrs Mata -- Recordando los viejos tiempos / Rubén Darío Gómez Alarcón -- Me lo contó mi abuelito. El caballo, la noche y el niño / Sofía Arregui Contreras -- La flor del mar / Amparo Asenjo Baxa -- El ahorcado / Catherine Melo Matamala -- Los viajes de mi abuelita: comercio entre poblados indígenas [cuento quechua] / Melanie Cáceres Pachao -- El pordiosero de Sibitaya / Pablo Yante Chambe -- Wara y su vida en el pueblo [cuento aymara] / Sandra Pinto Muños -- Un regalo para tí / Bárbara Santelices Ortiz -- El despacho / Mariane Mamani García -- El cóndor y el ñandú / Edilson Castro Condori -- Las pelas de durazno / Valentina Tordecilla Bugueño -- El milagrito / Joan Solar Madrid -- Ño carnavalón / Camila Vergara Castro -- Once de historias / Anyelo Miranda Plaza -- La gallina que cruzó la cuestecilla / Nicolás Muñoz Briones --",
     "comentarios": "Publicación Cuento Luis Oróstica",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/antologia-2016.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/antologia-2016.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767065561237-321c02179c8ce",
@@ -1304,15 +2184,16 @@
     "editorial": "Efe",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "IA",
       "Computador",
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "Jeremy Campbell, escritor científico, explora la naturaleza de la inteligencia humana bajo la luz de lo que se sabe acerca de la estructura de la computadora y muestra por qué el tipo de máquina biológica que llevamos en la cabeza nos hace ser lo que somos: ilógicos, manipuladores del conocimiento, tendenciosos y con sentido común. En suma: mundanos.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-maquina-increible.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-maquina-increible.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766896827063-295c344222ba3",
@@ -1323,14 +2204,15 @@
     "editorial": "Obreron",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Programación",
       "Comic"
     ],
-    "formato": "Físico",
     "notas": "Alan Turing, el brillante matemático que descifró el código alemán Enigma, permitió que un grupo de decodificadores británicos acortara varios años la duración de la Segunda Guerra Mundial. Solo eso sería suficiente para asegurarle un lugar en la historia, pero su genio no se detuvo ahí. Turing impulsó la informática moderna con la creación de su máquina universal, también conocida como máquina de Turing, y el juego de imitación, una prueba de inteligencia artificial que aún se usa en la actualidad. Jim Ottaviani y Leland Purvis nos presentan a Turing como un genio excéntrico, corredor de clase olímpica y teórico revolucionario cuyo trabajo juega un papel fundamental en la ciencia y los sistemas de telecomunicaciones de nuestro mundo moderno.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/descrifrando-enigma-alan-turing-un-genio-de-su-tiempo.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/descrifrando-enigma-alan-turing-un-genio-de-su-tiempo.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766896519483-5e7b2844cbd758",
@@ -1341,14 +2223,15 @@
     "editorial": "Ediciones Urano",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia",
       "Ciencias Naturales"
     ],
-    "formato": "Físico",
     "notas": "La Tierra está repleta de imágenes y texturas, sonidos y vibraciones, olores y sabores, campos eléctricos y magnéticos. Pero cada individuo está encerrado dentro de su burbuja sensorial, propia y única, y solo percibe una pequeña porción de la inmensidad de nuestro planeta. Este libro nos abre las puertas a dimensiones hasta ahora insondables: el mundo tal como lo perciben otros animales. Encontraremos escarabajos que se sienten atraídos por el fuego; tortugas que pueden rastrear los campos magnéticos de la Tierra; peces que llenan los ríos con mensajes eléctricos; humanos que tienen sonares al igual que los murciélagos; y plantas que vibran con las canciones inaudibles de cortejo de los insectos. Aprenderemos qué ven las abejas en las flores, qué escuchan los pájaros en sus melodías y qué huelen los perros en la calle. Leeremos las historias de los descubrimientos fundamentales del área y anticiparemos qué misterios quedan aún sin resolver. En La inmensidad del mundo, el aclamado periodista científico Ed Yong nos lleva más allá de los confines de nuestros sentidos, dándonos la posibilidad de percibir los olores, las ondas electromagnéticas y los pulsos de presión que nos rodean. Porque para entender nuestro mundo no necesitamos viajar a otros lugares, sino ver a través de otros ojos.",
     "comentarios": "Ed Yong es un periodista científico ganador del premio Pulitzer, cuyas fascinantes presentaciones sobre los animales y el mundo natural están impregnadas de humor, alegría, asombro y entusiasmo contagioso.",
-    "portada": "https://books.google.com/books/content?id=UXirzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=UXirzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767042303869-909edeadf81f2",
@@ -1359,16 +2242,17 @@
     "editorial": "McGraw Hill Professional",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Calidad",
       "Kaisen",
       "Lean",
       "Cadena de suministros"
     ],
-    "formato": "Físico",
     "notas": "Aprende a crear cadenas logísticas y de suministro de primer nivel en cualquier sector utilizando los siete principios fundamentales de Kaizen. En un momento en que las empresas se reestructuran para ser más competitivas, muchas buscan una hoja de ruta para mejorar sus operaciones. Kaizen en Logística y Cadenas de Suministro está a la vanguardia de este proceso y puede guiarte en la dirección correcta para ayudar a tu empresa a implementar sistemas innovadores de producción y logística y a mejorar su cultura. Basado en los temas del bestseller de Masaaki Imai, Gemba Kaizen, considerado la \"biblia\" del movimiento de calidad/gestión, este nuevo libro ofrece la primera explicación detallada sobre cómo crear cadenas logísticas y de suministro de primer nivel, independientemente del sector. Incluye más de 200 fotografías, diagramas de flujo, mapas de flujo de valor y tablas, y presenta un caso práctico que ilustra cómo una empresa se volvió más competitiva implementando con éxito los principios de Kaizen. Nunca ha habido una mejor guía para liderar la búsqueda de mejora de su empresa. CARACTERÍSTICAS CLAVE: Explicación de cómo se pueden aplicar los siete principios principales de Kaizen para transformar la logística de clase mundial y las cadenas de suministro mundiales. Requisitos previos para implementar estos sistemas, incluidas las actividades de estabilización y gestión del cambio. Pasos concretos para implementar sistemas kanban, bucles logísticos internos y externos, líneas de producción de flujo de diseño y sistemas de supermercados. Estudio de caso detallado del mundo real para ilustrar la implementación exitosa de las teorías del libro y cuadros de mando para que los lectores puedan evaluar su progreso en la práctica. Prólogo de Masaaki Imai, fundador y presidente del Kaizen Institute y autor del bestseller Gemba Kaizen.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=mzIFG2bIsPMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=mzIFG2bIsPMC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767052726180-7a76c33bd51b38",
@@ -1379,14 +2263,15 @@
     "editorial": "Siglo Veintiuno",
     "coleccion": "Ciencia que ladra",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Big Data",
       "Ciencia de Datos"
     ],
-    "formato": "Físico",
     "notas": "\"Ya se dijo todo sobre Borges. ¿Ya se dijo todo sobre Borges? Pues no. A su obra vasta y generosa no se accede por una sola puerta de entrada, sino por una infinidad de ventanas, pasadizos y claraboyas hacia un universo que, una vez conocido, ya no se puede ni se quiere abandonar. En este libro fascinante y adictivo, Walter Sosa Escudero propone una de esas entradas: la ciencia de datos. En efecto…",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/borges-big-data-y-yo-guia-nerd-y-un-poco-rea-para-perderse-en-el-laberinto-borgeano.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/borges-big-data-y-yo-guia-nerd-y-un-poco-rea-para-perderse-en-el-laberinto-borgeano.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767048048060-1d748bdd33e5c8",
@@ -1397,14 +2282,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "IA",
       "Algoritmos"
     ],
-    "formato": "Físico",
     "notas": "En 1999, dos psicólogos idearon el experimento del gorila invisible. Grabaron a dos equipos de jóvenes mientras se pasaban un balón. Después pidieron a un grupo de personas que visionaran la grabación y que contaran los pases. Más de la mitad no se percató de que una persona disfrazada de gorila aparecía por un lado, caminaba hasta pararse en el centro, se daba unos golpes en el pecho y desaparecía por el otro extremo... No vemos la realidad, aunque la tengamos ante nuestros propios ojos. Anhelábamos máquinas públicas que nos sustituyeran en las tareas sucias, aburridas o peligrosas. Para cuando nos hemos dado cuenta, una inteligencia artificial privatizada decide en juzgados, hospitales y ministerios. En el Algoritmo Paternalista, Ujue Agudo y Karlos G. Liberal rastrean el mito del progreso tecnológico en las profundidades de la historia y recorren a vista de pájaro los límites de la inteligencia humana (sesgos, heurística). A continuación, se detienen en los goznes de la comunicación manipuladora, hoy insertos en una matrix que, afirman, está crecientemente bajo control de máquinas antidemocráticas. El capitalismo ha decidido que las imperfecciones del ser humano son un obstáculo para su civilización, pero no que la riqueza deba repartirse mejor. Por eso, el algoritmo aumenta los flujos del capital pero no las rentas del trabajo. Urge cambiar el sentido de la historia, pero primero hay que entender qué está pasando.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-algoritmo-paternalista-cuando-mande-la-inteligencia-artificial.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-algoritmo-paternalista-cuando-mande-la-inteligencia-artificial.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767066755568-1a47f0d4d15d18",
@@ -3824,25 +4710,6 @@
     "fechaRegistro": null
   },
   {
-    "id": "libro-1766978793166-b1681206af02a",
-    "titulo": "Introduccion a la Teoria de Numeros",
-    "autor": "Felipe Zaldivar",
-    "anio": 2012,
-    "isbn": "9786071607386",
-    "editorial": "Efe",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Algebra",
-      "Teoría de números"
-    ],
-    "notas": "Este libro es una introducción a la teoría de números, también conocida como \"aritmética superior\". Comienza con una discusión sobre el concepto de divisibilidad y aborda las propiedades elementales de las congruencias; estudia la existencia de raíces y congruencias cuadráticas, y concluye con el estudio de algunas ecuaciones diofánticas de grado 2 y 3, además de la conocida ecuación de Pell",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=iSiiuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "fechaRegistro": null
-  },
-  {
     "id": "libro-1766978653596-b7d14641cce2",
     "titulo": "Introducción al Análisis de Errores: el estudio de las incertidumbres en las mediciones físicas",
     "autor": "John Robert Taylor",
@@ -4527,26 +5394,6 @@
     "notas": "Una guía definitiva para que los principiantes aprendan los fundamentos de la ciencia de datos con Python",
     "comentarios": "",
     "portada": "https://books.google.com/books/content?id=Mu4tzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766948211483-fbed77d1f9d58",
-    "titulo": "Investigación de Operaciones. Métodos y Problemas.",
-    "autor": "Maurice Sasieni, Arthur Yaspan, Lawrence Friedman.",
-    "anio": 1967,
-    "isbn": "1258819457",
-    "editorial": "Limusa",
-    "coleccion": "",
-    "vol": "1era ed.",
-    "formato": "Físico",
-    "categorias": [
-      "Investigación de Operaciones",
-      "Probabilidad",
-      "Inventario"
-    ],
-    "notas": "Este libro es un clásico introductorio al campo de la Investigación Operativa (Operations Research), orientado a mostrar cómo las herramientas matemáticas y analíticas pueden aplicarse para tomar mejores decisiones dentro de organizaciones y sistemas complejos.\n\nSu enfoque es práctico y progresivo: comienza con modelos básicos de optimización, programación lineal, teoría de colas y asignación de recursos, para luego avanzar hacia metodologías más avanzadas como programación dinámica, modelos probabilísticos y métodos computacionales. A lo largo del texto, los autores incorporan casos, problemas resueltos y ejercicios que permiten al lector comprender no solo la teoría, sino también cómo esta se aplica en la industria, el transporte, la manufactura y la gestión estratégica.\n\nEl libro destaca por su lenguaje didáctico y accesible, ideal para estudiantes de ingeniería, administración, logística y ciencias económicas, así como para profesionales que buscan comprender los fundamentos matemáticos detrás de la toma de decisiones óptimas.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/investigacion-de-operaciones-metodos-y-problemas.jpg",
     "fechaRegistro": null
   },
   {
@@ -7806,27 +8653,6 @@
     "fechaRegistro": null
   },
   {
-    "id": "libro-1766604365931-afb5a0d4f2f49",
-    "titulo": "Redes industriales de tubería, bombas para agua, ventiladores y compresores : diseño y construcción",
-    "autor": "Antoni Luszczewski i Kudra, Antoni Luszczewski",
-    "anio": 1999,
-    "isbn": "9789686708417",
-    "editorial": "Reverte",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Bombas",
-      "Diseño",
-      "Fluído",
-      "Termodinámica"
-    ],
-    "notas": "Este libro cubre, de forma clara y didáctica, las bases teóricas para el diseño de tuberías industriales para líquidos y compresores. Acompañan al texto numerosas aplicaciones prácticas basadas en experiencias reales, de tal manera que se puedan aplicar los conocimientos expuestos. El presente libro puede servir tanto a estudiantes de ingeniería como a ingenieros en planta.\n\nRedes industriales de tuberías Luszczewski, Kudra Antoni Nº edición, 1 ISBN: 9788429120547 312 págs. 21.0x27.0 cm. rústica",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1k3qRVvyFRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "fechaRegistro": null
-  },
-  {
     "id": "libro-1766604230760-9478fb2a563298",
     "titulo": "Programación de proyectos con incertidumbres, el margen de duración : cálculo y análisis",
     "autor": "Javier Reátegui Villanueva",
@@ -10224,26 +11050,6 @@
     "notas": "La creatividad en matemáticas: Cómo funciona una mente maravillosa, de Miquel Albertí, es un libro de divulgación que se adentra en uno de los aspectos menos visibles, pero más fascinantes de la disciplina: la creatividad matemática y los procesos mentales que permiten generar ideas nuevas y soluciones originales.\n\nLa obra se aleja de la imagen de la matemática como una actividad puramente mecánica o algorítmica, y muestra cómo la intuición, la imaginación, el ensayo y error y la conexión de ideas juegan un papel central en el descubrimiento matemático. A través de ejemplos históricos y reflexiones conceptuales, el autor explica cómo piensan los matemáticos cuando crean, no solo cuando demuestran.\n\nCon un lenguaje cercano y reflexivo, el libro aborda temas como la resolución de problemas, los bloqueos creativos, la inspiración y el aprendizaje, conectando la práctica matemática con aspectos de la psicología cognitiva y la educación. Esto lo convierte en una lectura especialmente valiosa para docentes y estudiantes interesados en mejorar su forma de pensar y enseñar matemáticas.",
     "comentarios": "",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-creatividad-en-matematicas-como-funciona-una-mente-maravillosa.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766440063991-24ecd282b4d0c",
-    "titulo": "La Conquista del azar, la teoría de probabilidades",
-    "autor": "Fernando Corbalán, Gerardo Sanz, Sanz Sáiz Sanz",
-    "anio": 2010,
-    "isbn": "9788447369744",
-    "editorial": "RBA",
-    "coleccion": "El Mundo es Matematico",
-    "vol": "14",
-    "formato": "Digital",
-    "categorias": [
-      "Drive",
-      "Matemáticas",
-      "Probabilidades"
-    ],
-    "notas": "La conquista del azar: La teoría de probabilidades, de Fernando Corbalán y Gerardo Sanz, es un libro de divulgación que introduce al lector en el pensamiento probabilístico, mostrando cómo las matemáticas permiten comprender, modelar y cuantificar el azar.\n\nLa obra recorre de forma accesible conceptos fundamentales como probabilidad, aleatoriedad, riesgo, esperanza matemática y toma de decisiones bajo incertidumbre, apoyándose en ejemplos cotidianos, juegos de azar y situaciones reales. Los autores destacan que el azar no es sinónimo de caos absoluto, sino un fenómeno que puede ser analizado y descrito con herramientas matemáticas rigurosas.\n\nUno de los grandes aciertos del libro es su enfoque intuitivo y pedagógico, que ayuda a desmontar ideas erróneas frecuentes sobre la probabilidad y a desarrollar una mirada más crítica frente a la casualidad, las predicciones y la suerte. El texto conecta además la teoría de probabilidades con aplicaciones en la ciencia, la economía y la vida diaria.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-conquista-del-azar-la-teoria-de-probabilidades.jpg",
     "fechaRegistro": null
   },
   {
@@ -13788,24 +14594,6 @@
     "fechaRegistro": null
   },
   {
-    "id": "libro-1766085281849-69dcc971255838",
-    "titulo": "Dinámica de Lagrange, teoría y problemas",
-    "autor": "Dare A. Wells",
-    "anio": 1972,
-    "isbn": "",
-    "editorial": "McGraw-Hill Education",
-    "coleccion": "Shaum",
-    "vol": "",
-    "formato": "Digital",
-    "categorias": [
-      "Matemáticas"
-    ],
-    "notas": "Este libro es un manual de estudio enfocado en la dinámica lagrangiana, diseñado tanto para estudiantes como para profesionales que desean entender y aplicar el formalismo de Lagrange a problemas de la mecánica clásica. Su presentación es clara y concisa, combinando explicación teórica con una amplia colección de problemas resueltos y ejercicios prácticos que facilitan el aprendizaje activo",
-    "comentarios": "",
-    "portada": "",
-    "fechaRegistro": null
-  },
-  {
     "id": "libro-1766084471593-75e8ea8bd1e45",
     "titulo": "Historia de la Física hasta mediados del siglo XX",
     "autor": "Sir James H. Jeans",
@@ -14136,25 +14924,6 @@
     "notas": "El terrateniente Ximen Nao es ejecutado y baja al inframundo, donde le condenan de forma ilícita a reencarnarse en un burro. Así comienza un inesperado ciclo de vidas, muertes y transmigraciones en distintos animales, pero sólo en el exterior, porque su mente y sus recuerdos siguen siendo los del hombre que era antes de morir. Una realidad cruda, difícil de aceptar y agotadora, ya que en cada una …",
     "comentarios": "La vida y la muerte me están desgastando es una novela monumental y profundamente original en la que Mo Yan combina realismo mágico, sátira política y reflexión filosófica para narrar la historia reciente de China a través de sucesivas reencarnaciones de su protagonista, un terrateniente injustamente ejecutado. A lo largo de décadas, el personaje retorna como burro, buey, cerdo, perro y mono, observando desde distintas perspectivas la transformación social, económica y moral del país. Con un estilo exuberante, humorístico y a la vez crítico, Mo Yan construye un fresco histórico lleno de ironía y humanidad, en el que la violencia, la dignidad, el poder y la compasión se entrelazan de manera magistral. La novela destaca por su profundidad simbólica y su audacia narrativa, consolidándose como una de las obras más representativas del autor y una reflexión poderosa sobre la resistencia del espíritu humano ante la adversidad.",
     "portada": "http://books.google.com/books/content?id=sdMQAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-5",
-    "titulo": "La Fotografía Del Siglo XX",
-    "autor": "Taschen",
-    "anio": null,
-    "isbn": "9783836541046",
-    "editorial": "",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Fotografia",
-      "Coliumo"
-    ],
-    "notas": "La historia de la fotografía comenzó hace unos 180 años, pero hace relativamente poco que ha sido reconocida como un género artístico por derecho propio. El Ludwig de Colonia fue el primer museo de arte contemporáneo en dedicar una sección considerable a la fotografía internacional. La colección L. Fritz Gruber, a partir de la cual se ha confeccionado este libro, es una de las más importantes de A…",
-    "comentarios": "La Fotografía del Siglo XX, publicado por Taschen, es una obra visualmente deslumbrante y cuidadosamente curada que recorre la evolución de la fotografía desde sus inicios hasta la contemporaneidad, destacando a los artistas y movimientos que transformaron este medio en una de las expresiones fundamentales del arte moderno. A través de una amplia selección de imágenes icónicas, acompañadas de textos concisos y contextualizadores, el libro muestra cómo la fotografía ha sido vehículo de documentación, experimentación estética, crítica social y exploración personal. La edición destaca por su rigor editorial y por la calidad de las reproducciones, permitiendo apreciar tanto la técnica como la intención artística detrás de cada obra. Se trata de un volumen imprescindible para aficionados, estudiantes y profesionales que buscan comprender el impacto cultural y estético que la fotografía ha tenido a lo largo del siglo XX.",
-    "portada": "http://books.google.com/books/content?id=BqE6nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "fechaRegistro": null
   },
   {
