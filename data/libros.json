@@ -1,7 +1,61 @@
 [
   {
+    "id": "libro-1767503333535-cd5dff1ea2d08",
+    "titulo": "Analysis Of Linear Systems",
+    "autor": "David K Cheng",
+    "anio": 1959,
+    "isbn": "9788185015699",
+    "editorial": "Addison-Wesley",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Matemáticas"
+    ],
+    "formato": "Digital",
+    "notas": "Analysis of Linear Systems, de David K. Cheng, es un texto clásico orientado a la formación rigurosa en el análisis matemático de sistemas lineales, especialmente en el contexto de la ingeniería eléctrica. El libro desarrolla con claridad los fundamentos teóricos que sustentan el comportamiento de sistemas dinámicos lineales, abordando temas como espacios vectoriales, transformadas (en particular Laplace y Fourier), respuesta temporal y en frecuencia, estabilidad y representación de sistemas mediante ecuaciones diferenciales y funciones de transferencia.\n\nSu principal fortaleza radica en el equilibrio entre formalismo matemático y aplicación ingenieril: los conceptos se presentan con demostraciones cuidadas, pero siempre conectadas con problemas reales de análisis de circuitos, señales y control. La exposición es progresiva y exige del lector una base sólida en matemáticas, lo que lo convierte en un texto especialmente adecuado para cursos avanzados de sistemas lineales o señales y sistemas.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analysis-of-linear-systems.jpg"
+  },
+  {
+    "id": "libro-1767500166987-edee46e7156478",
+    "titulo": "La náusea",
+    "autor": "Jean-Paul Sartre",
+    "anio": 2010,
+    "isbn": "",
+    "editorial": "Época",
+    "coleccion": "",
+    "vol": "9a. EDICIÓN",
+    "categorias": [
+      "Literatura",
+      "Novela"
+    ],
+    "formato": "Digital",
+    "notas": "Después de haber pasado unos años viajando, Antoine Roquentin, hombre de treinta años que disfruta de una modesta renta, se halla instalado en la ciudad portuaria de Bouville dedicado a escribir un libro sobre un turbio aristócrata del siglo XVIII. Sin embargo, un día se ve asaltado por una sensación desconocida, la Náusea, cuya revelación como el sentimiento radical de la contingencia y la soledad del ser humano cambiará por completo su vida de sentido. Publicada en 1938, \"La naúsea\" de Jean-Paul Sartre es, junto con \"El extranjero\" de Albert Camus, la novela que encarna de forma más emblemática la corriente de pensamiento existencialista fruto de la atroz experiencia de la Primera Guerra Mundial y sus funestas consecuencias.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nausea.jpg"
+  },
+  {
+    "id": "libro-1767144556157-1cc17e74831548",
+    "titulo": "Noches Blancas",
+    "autor": "Fiódor Dostoyevski",
+    "anio": 1848,
+    "isbn": "",
+    "editorial": "ePubLibre",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Novela",
+      "Literatura"
+    ],
+    "formato": "Digital",
+    "notas": "Noches Blancas es una joya breve y luminosa del alma rusa. En el silencio dorado de las noches de San Petersburgo, un soñador solitario encuentra en una joven desconocida, el eco de su anhelo más profundo: ser visto, ser amado, ser real.\nCon una prosa sensible y conmovedora, Fiódor Dostoyevski nos sumerge en una historia de amor imposible, de ilusiones y despertares, donde la esperanza y la tristeza se entrelazan como la luz y la sombra de una noche que no se oscurece del todo. Este libro es un suspiro melancólico, una confesión del alma, un retrato delicado de quienes viven más en sus sueños que en la realidad. Noches Blancas no es solo un relato romántico: es una invitación a mirar dentro de nosotros mismos.",
+    "comentarios": "Fiódor Dostoyevski fue un novelista, ensayista y pensador ruso, nacido en Moscú el 11 de noviembre de 1821 y fallecido en San Petersburgo el 9 de febrero de 1881. Es considerado uno de los más grandes escritores de la literatura universal por su profunda exploración de la psicología humana, la moral y los conflictos existenciales.\n\nEstudió ingeniería militar, pero abandonó esa carrera para dedicarse a la literatura. Su primera novela, Pobres gentes (1846), le dio reconocimiento inmediato. Sin embargo, su vida estuvo marcada por la tragedia: fue arrestado en 1849 por participar en un grupo intelectual considerado subversivo y condenado a muerte, aunque la pena fue conmutada por trabajos forzados en Siberia. Esta experiencia transformó profundamente su visión del mundo y su pensamiento religioso y moral.\n\nA su regreso, escribió algunas de las obras más influyentes de la literatura moderna, como Crimen y castigo, El idiota, Los demonios y Los hermanos Karamázov. En ellas aborda temas como la culpa, la redención, la libertad y el sentido de la existencia. Dostoyevski dejó una huella indeleble en la literatura, la filosofía y la psicología, influyendo en autores y pensadores de todo el mundo.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/noches-blancas.jpg"
+  },
+  {
     "id": "libro-1767126384925-5a2178149d598",
-    "titulo": "Análisi de flexibilidad de cañerías de refrigeración del laminador de planos en frío",
+    "titulo": "Análisis de flexibilidad de cañerías de refrigeración del laminador de planos en frío",
     "autor": "Cadetech",
     "anio": 2005,
     "isbn": "",
@@ -17,6 +71,24 @@
     "portada": ""
   },
   {
+    "id": "libro-1767136354982-bd42731d0ebd5",
+    "titulo": "La Estructura de la Realidad",
+    "autor": "David Deutsch",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Epub",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencia",
+      "Divulgación"
+    ],
+    "formato": "Digital",
+    "notas": "¿Qué es, cómo es el mundo? Este libro propone una teoría totalizadora que permita responder a esta pregunta mediante la suma de cuatro áreas de conocimiento: la física cuántica, la epistemología, la teoría computacional y la teoría de la evolución. A partir de estos cuatro ejes, el brillante ensayo de David Deutsch investiga temas de candente actualidad en la investigación científica, tales como los usos presentes y futuros de la informática, las aplicaciones de la realidad virtual a la investigación sobre los universos paralelos, la polémica sobre la verdadera naturaleza de las matemáticas y los límites de su infalibilidad, el concepto de tiempo y la posibilidad de viajar a través de él... Todo ello lleva a preguntarse sobre el sentido de la vida humana y el destino último del universo. Un libro osado y radical, que plantea preguntas inquietantes y ofrece propuestas muy estimulantes para la ciencia del nuevo siglo.",
+    "comentarios": "David Elieser Deutsch (nacido en 1953 en Haifa, Israel) es un físico de la Universidad de Oxford, miembro de la Royal Society. Es profesor visitante en el \"Department of Atomic and Laser Physics\" del \"Centre for Quantum Computation\", en el Clarendon Laboratory, de Oxford. Fue pionero en el campo de la computación cuántica, al ser el primero en formular un algoritmo cuántico,[1]​ y es uno de los formuladores de la teoría de los universos paralelos dentro de la mecánica cuántica.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-estructura-de-la-realidad.jpg"
+  },
+  {
     "id": "libro-1767126330127-7dd7709b94a328",
     "titulo": "Revestimiento refractario del alto horno N°1 y trabajos varios.",
     "autor": "",
@@ -25,13 +97,14 @@
     "editorial": "Huachipato",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767126246434-2db88c6695cc4",
@@ -42,15 +115,16 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Tesis",
       "Programación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767126192668-1da5b56dcecb2",
@@ -61,14 +135,15 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Vibraciones"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767126123903-0357d055f14908",
@@ -79,14 +154,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Lubricación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767126093000-a8155509ff08e",
@@ -97,15 +173,16 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Tesis",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767126035826-81ba352470fcb",
@@ -116,14 +193,15 @@
     "editorial": "",
     "coleccion": "Guía del estudiante",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Instrumentación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125984587-ad50f20b79c418",
@@ -134,14 +212,15 @@
     "editorial": "",
     "coleccion": "Guía del estudiante",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Instrumentación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125864800-bed2b09e44bb88",
@@ -152,15 +231,16 @@
     "editorial": "Prensa Cinetífica",
     "coleccion": "Investigación y Ciencia",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Biografías",
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "1. Creación Matemática\n2. Leonardo de Pisa\n3. René Descartes\n4. Pierre de Fermat\n5. GAspard Monge\n6. André Weil\n7. Carl Gauss\n8. Fourier\n9. Cauchy\n10. Escher y Penrose\n11. Galois\n12. Cantor\n13. Frege\n14. Ramanujan",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125708422-163ef4c301d1c8",
@@ -171,15 +251,16 @@
     "editorial": "Universidad Nacional Colombia",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Matlab",
       "Estadística"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125668439-e7ce6166507b2",
@@ -190,15 +271,16 @@
     "editorial": "Universidad de Chile",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Mercado Eléctrico",
       "Tesis"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125598098-907046a779a158",
@@ -209,6 +291,7 @@
     "editorial": "EAE",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Vibraciones",
@@ -217,10 +300,10 @@
       "Lubricación",
       "Programación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125508333-c49630066cb0c",
@@ -231,14 +314,15 @@
     "editorial": "Universidad Católica de Chile",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Energía"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125454815-075ac7db071898",
@@ -249,14 +333,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Mercado Eléctrico"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125406169-c0facc6cb32a8",
@@ -267,14 +352,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "FEM"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125244799-2a23f2a7ec4ae",
@@ -285,15 +371,16 @@
     "editorial": "ESPOL",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Estadística",
       "Matlab"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125188557-dc80d0d24e8b88",
@@ -304,16 +391,17 @@
     "editorial": "Universidad Católica de Chile",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "RCA",
       "Estadísticas",
       "Probabilidad"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125078377-a5553bda0f9f98",
@@ -324,14 +412,15 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Vibraciones"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767125034474-10f2f437dad14",
@@ -342,14 +431,15 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Simulación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767124967285-58a0240f0a7918",
@@ -360,14 +450,15 @@
     "editorial": "Universidad del Quindio",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767124904167-53bfbd02486b08",
@@ -378,14 +469,15 @@
     "editorial": "",
     "coleccion": "Guía del estudiante",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Instrumentación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767124803083-0c9a8a04ba3d18",
@@ -396,14 +488,15 @@
     "editorial": "",
     "coleccion": "Guía del estudiante",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Instrumentación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767124756628-de016bcc00b7b8",
@@ -414,14 +507,15 @@
     "editorial": "",
     "coleccion": "Guía del estudiante",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Instrumentación"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767124686047-d0c6f8134c15d",
@@ -432,14 +526,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767124584938-e8c7d436c414f8",
@@ -450,15 +545,16 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "FEM",
       "Mecánica"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767124445466-31a74a457208d8",
@@ -469,13 +565,14 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767117362746-c202edd0a76b18",
@@ -486,13 +583,14 @@
     "editorial": "Huachipato",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767117312635-d11caa442a4d2",
@@ -503,14 +601,15 @@
     "editorial": "CEAT",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Electrohidráulica"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767116804822-fb4de707e22338",
@@ -521,14 +620,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Soldadura"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767116534788-70f8d8ad8e967",
@@ -539,15 +639,16 @@
     "editorial": "Destech Publications",
     "coleccion": "",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Confiabilidad",
       "Handbook"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767116574898-08441268b77d78",
@@ -558,15 +659,16 @@
     "editorial": "Destech Publications",
     "coleccion": "",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Confiabilidad",
       "Handbook"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767116389033-4ce76a69e536e",
@@ -577,14 +679,15 @@
     "editorial": "RBA",
     "coleccion": "El Mundo es Matematico",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767116309388-6ad8eaf0e0b0f",
@@ -595,15 +698,16 @@
     "editorial": "Universidad del País Vasco",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Oleohidráulica",
       "Neumática"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767116226887-12cd27fb4a3158",
@@ -614,15 +718,16 @@
     "editorial": "UNMSM",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Tesis",
       "Mantenimiento"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767116103492-00659c21638d3",
@@ -633,16 +738,17 @@
     "editorial": "Crítica",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Ciencia",
       "Experimentos",
       "Divulgación"
     ],
-    "formato": "Físico",
     "notas": "La ciencia es un delicado y complejo equilibrio entre lo experimental y lo teórico, entre las observaciones que realizamos y los sistemas lógico-simbólicos que construimos para relacionar todo aquello que medimos en la naturaleza. No hay ciencia sin observaciones, sin experimentos. Y sin embargo, son las teorías, y los teóricos los que más atención y popularidad consiguen. Precisamente por esto son necesarios libros como el de Robert Crease, El prisma y el péndulo, en el que se presentan y explican con claridad y situándolos en su contexto científico e histórico, diez de los experimentos más importantes de la historia de la física; diez experimentos, además, bellos. Van éstos desde el que empleó en el siglo III a. de C. Eratóstenes para medir la circunferencia de la Tierra, hasta los de interferencia cuántica de electrones que muestran con particular dramatismo la famosa dualidad onda-corpúsculo, pasando por otros como los que Galileo supuestamente realizó en la torre inclinada de Pisa, la descomposición de los rayos de luz en colores que Newton produjo con el sencillo recurso de un prisma, la puesta en evidencia de la rotación de la Tierra mediante en péndulo de Foucault, o los que diseñó Rutherford y que le sirvieron para demostrar que los átomos tenían una estructura “planetaria”. Intercaladas entre los capítulos dedicados a estos experimentos, se encuentran unas exquisitas y apropiadas reflexiones de Crease que ayudarán a los lectores a comprender mejor qué es la ciencia. Robert P. Crease es profesor en el Departamento de Filosofía de la Universidad del Estado de Nueva York en Stony Brook. Es autor de numerosos trabajos en historia de la ciencia, entre los que se encuentran libros como Peace and War, en colaboración con Robert Serber.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767116013207-ef0dd4c11cf158",
@@ -653,16 +759,17 @@
     "editorial": "RBA",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Matemáticas",
       "Azar",
       "Caos"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767115936410-ffd9862b04d4a",
@@ -673,13 +780,14 @@
     "editorial": "UTFSM",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767115842837-705a6dbbde7308",
@@ -690,15 +798,16 @@
     "editorial": "EDIPUCRS",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Estadística",
       "SPSS"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=XsxqTVs9-2QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=XsxqTVs9-2QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766085281849-69dcc971255838",
@@ -709,13 +818,14 @@
     "editorial": "McGraw-Hill Education",
     "coleccion": "Schaum",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Digital",
     "notas": "Este libro es un manual de estudio enfocado en la dinámica lagrangiana, diseñado tanto para estudiantes como para profesionales que desean entender y aplicar el formalismo de Lagrange a problemas de la mecánica clásica. Su presentación es clara y concisa, combinando explicación teórica con una amplia colección de problemas resueltos y ejercicios prácticos que facilitan el aprendizaje activo",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766950669736-6b831761011f4",
@@ -726,13 +836,14 @@
     "editorial": "McGraw-Hill",
     "coleccion": "Schaum",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Estadística"
     ],
-    "formato": "Físico",
     "notas": "El propósito de esta obra es presentar una introducción a los principios generales de la estadística, que será útil a\ntodos los individuos sin importar su campo de especialización. Se diseñó para usarse ya sea como consulta para todos\nlos textos estándar modernos o como un libro para un curso formal de estadística. Será también de gran valor como\nreferencia para todos aquellos que estén aplicando la estadística en su campo de investigación particular",
     "comentarios": "MURRAY R. SPIEGEL† obtuvo su maestría en física y su doctorado en matemáticas, ambos en Cornell University.\nTrabajó en Harvard University, Columbia University, Oak Ridge and Rensselaer Polytecnic Institute; además fue\nasesor en matemáticas para diversas compañías. Su último cargo fue como profesor y presidente de matemáticas en el\nHartford Graduate Center del Rensselaer Polytecnic Institute. Su interés por las matemáticas lo acompañó durante toda\nsu trayectoria, en especial en la rama que comprende la aplicación de la física y los problemas de ingeniería. Fue autor\nde numerosos artículos periodísticos y de más de una docena de libros sobre temas matemáticos.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/estadistica.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766978793166-b1681206af02a",
@@ -743,14 +854,15 @@
     "editorial": "Efe",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Álgebra",
       "Teoría de números"
     ],
-    "formato": "Físico",
     "notas": "Este libro es una introducción a la teoría de números, también conocida como \"aritmética superior\". Comienza con una discusión sobre el concepto de divisibilidad y aborda las propiedades elementales de las congruencias; estudia la existencia de raíces y congruencias cuadráticas, y concluye con el estudio de algunas ecuaciones diofánticas de grado 2 y 3, además de la conocida ecuación de Pell",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=iSiiuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=iSiiuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766440063991-24ecd282b4d0c",
@@ -761,15 +873,16 @@
     "editorial": "RBA",
     "coleccion": "El Mundo es Matematico",
     "vol": "14",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Matemáticas",
       "Probabilidad"
     ],
-    "formato": "Digital",
     "notas": "La conquista del azar: La teoría de probabilidades, de Fernando Corbalán y Gerardo Sanz, es un libro de divulgación que introduce al lector en el pensamiento probabilístico, mostrando cómo las matemáticas permiten comprender, modelar y cuantificar el azar.\n\nLa obra recorre de forma accesible conceptos fundamentales como probabilidad, aleatoriedad, riesgo, esperanza matemática y toma de decisiones bajo incertidumbre, apoyándose en ejemplos cotidianos, juegos de azar y situaciones reales. Los autores destacan que el azar no es sinónimo de caos absoluto, sino un fenómeno que puede ser analizado y descrito con herramientas matemáticas rigurosas.\n\nUno de los grandes aciertos del libro es su enfoque intuitivo y pedagógico, que ayuda a desmontar ideas erróneas frecuentes sobre la probabilidad y a desarrollar una mirada más crítica frente a la casualidad, las predicciones y la suerte. El texto conecta además la teoría de probabilidades con aplicaciones en la ciencia, la economía y la vida diaria.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-conquista-del-azar-la-teoria-de-probabilidades.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-conquista-del-azar-la-teoria-de-probabilidades.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766948211483-fbed77d1f9d58",
@@ -780,15 +893,16 @@
     "editorial": "Limusa",
     "coleccion": "",
     "vol": "1era ed.",
+    "formato": "Físico",
     "categorias": [
       "Investigación de Operaciones",
       "Probabilidad",
       "Inventarios"
     ],
-    "formato": "Físico",
     "notas": "Este libro es un clásico introductorio al campo de la Investigación Operativa (Operations Research), orientado a mostrar cómo las herramientas matemáticas y analíticas pueden aplicarse para tomar mejores decisiones dentro de organizaciones y sistemas complejos.\n\nSu enfoque es práctico y progresivo: comienza con modelos básicos de optimización, programación lineal, teoría de colas y asignación de recursos, para luego avanzar hacia metodologías más avanzadas como programación dinámica, modelos probabilísticos y métodos computacionales. A lo largo del texto, los autores incorporan casos, problemas resueltos y ejercicios que permiten al lector comprender no solo la teoría, sino también cómo esta se aplica en la industria, el transporte, la manufactura y la gestión estratégica.\n\nEl libro destaca por su lenguaje didáctico y accesible, ideal para estudiantes de ingeniería, administración, logística y ciencias económicas, así como para profesionales que buscan comprender los fundamentos matemáticos detrás de la toma de decisiones óptimas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/investigacion-de-operaciones-metodos-y-problemas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/investigacion-de-operaciones-metodos-y-problemas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-5",
@@ -799,14 +913,15 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Fotografía",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "La historia de la fotografía comenzó hace unos 180 años, pero hace relativamente poco que ha sido reconocida como un género artístico por derecho propio. El Ludwig de Colonia fue el primer museo de arte contemporáneo en dedicar una sección considerable a la fotografía internacional. La colección L. Fritz Gruber, a partir de la cual se ha confeccionado este libro, es una de las más importantes de A…",
     "comentarios": "La Fotografía del Siglo XX, publicado por Taschen, es una obra visualmente deslumbrante y cuidadosamente curada que recorre la evolución de la fotografía desde sus inicios hasta la contemporaneidad, destacando a los artistas y movimientos que transformaron este medio en una de las expresiones fundamentales del arte moderno. A través de una amplia selección de imágenes icónicas, acompañadas de textos concisos y contextualizadores, el libro muestra cómo la fotografía ha sido vehículo de documentación, experimentación estética, crítica social y exploración personal. La edición destaca por su rigor editorial y por la calidad de las reproducciones, permitiendo apreciar tanto la técnica como la intención artística detrás de cada obra. Se trata de un volumen imprescindible para aficionados, estudiantes y profesionales que buscan comprender el impacto cultural y estético que la fotografía ha tenido a lo largo del siglo XX.",
-    "portada": "http://books.google.com/books/content?id=BqE6nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "http://books.google.com/books/content?id=BqE6nwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1766604365931-afb5a0d4f2f49",
@@ -817,16 +932,17 @@
     "editorial": "Reverte",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Bombas",
       "Diseño",
       "Fluídos",
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "Este libro cubre, de forma clara y didáctica, las bases teóricas para el diseño de tuberías industriales para líquidos y compresores. Acompañan al texto numerosas aplicaciones prácticas basadas en experiencias reales, de tal manera que se puedan aplicar los conocimientos expuestos. El presente libro puede servir tanto a estudiantes de ingeniería como a ingenieros en planta.\n\nRedes industriales de tuberías Luszczewski, Kudra Antoni Nº edición, 1 ISBN: 9788429120547 312 págs. 21.0x27.0 cm. rústica",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=1k3qRVvyFRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=1k3qRVvyFRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767107282057-2b40be491fea3",
@@ -837,13 +953,14 @@
     "editorial": "Edimat Libros",
     "coleccion": "Grandes Biografías",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Biografía"
     ],
-    "formato": "Físico",
     "notas": "Este libro de la colección Grandes Biografías ofrece un retrato cercano y revelador de Salvador Dalí, figura clave del surrealismo y uno de los artistas más reconocibles del siglo XX. El texto, de prosa clara y ritmo ágil, aborda su infancia marcada por la autoexigencia y el descubrimiento precoz de su talento, su paso por la Residencia de Estudiantes y el encuentro con otros grandes artistas, así como su vínculo personal y artístico con Gala, quien marcó profundamente su vida y su obra. También explora sus obsesiones estéticas —el sueño, lo onírico, la religión, el tiempo y la muerte— y muestra cómo Dalí supo combinar extravagancia, provocación y una técnica pictórica impecable para construir un estilo único y universal. En conjunto, la obra constituye una introducción ideal para quienes desean comprender la complejidad del personaje y su legado dentro de la historia del arte moderno, sin perder la fluidez de una lectura biográfica amena.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=zGm0AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=zGm0AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767107343526-21f4f630e84eb",
@@ -854,15 +971,16 @@
     "editorial": "Edimat",
     "coleccion": "Grandes Biografías",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Biografía",
       "Pintura",
       "Arte"
     ],
-    "formato": "Físico",
     "notas": "Conocido en la historia de la pintura como \"el pintor loco\", Van Gogh reflejo en sus obras su alma torturada y el fuego que llevaba dentro.",
     "comentarios": "Este libro de la colección Grandes Biografías ofrece una narración sintética y emotiva sobre la vida de Vincent van Gogh, un artista cuya grandeza fue reconocida solo después de su muerte. La obra recorre su trayectoria desde los años de búsqueda personal —marcados por la inestabilidad, la vocación religiosa frustrada y el descubrimiento tardío de la pintura— hasta la etapa de plena madurez artística, donde su estilo vibrante y cargado de emoción transformó la historia del arte. El texto destaca la intensidad con la que Van Gogh vivió cada experiencia, su profunda sensibilidad hacia la naturaleza y las personas, así como la relevancia de la relación con su hermano Theo, quien fue apoyo vital en medio de la adversidad. Se trata de una introducción accesible y conmovedora, ideal para quienes desean comprender la dimensión humana detrás de un artista universal y acercarse a su obra desde una mirada íntima y narrativa.",
-    "portada": "https://books.google.com/books/content?id=99bLPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=99bLPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767115090990-6bf5eb140e6948",
