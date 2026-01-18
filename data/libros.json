@@ -1,5 +1,647 @@
 [
   {
+    "id": "libro-1768716126902-a241753f469738",
+    "titulo": "Tecnología de la refrigeración y aire acondicionado tomo II. Refrigeración comercial",
+    "autor": "WHITMAN, WILLIAM C., JOHNSON, WILLIAM M.",
+    "anio": 2000,
+    "isbn": "9788428326582",
+    "editorial": "Ediciones Paraninfo, S.A.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Termotecnia",
+      "Refrigración",
+      "Aire Acondicionado"
+    ],
+    "formato": "Físico",
+    "notas": "Esta obra ofrece un examen experto sobre todos los tipos de sistemas de refrigeración y aire acondicionado. Esta edición a cuatro colores cubre prácticamente todos los tipos de sistemas, desde los de gas a los de gasóleo, eléctricos y sistemas comerciales de gran escala. Los autores tienen una experiencia de casi 50 años en la industria y ofrecen una detallada mezcla de teoría y técnicas para la s…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=skGScUTsO5IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768715786707-0e39aba4c3041",
+    "titulo": "ÁLGEBRA LINEAL 7ED",
+    "autor": "José Job Flores Godoy, Stanley I. Grossman S.",
+    "anio": 2012,
+    "isbn": "9786071507600",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "1. Sistemas de ecuaciones lineales.\n2. Vectores y matrices.\n3. Determinantes.\n4. Vectores en R2 y R3.\n5. Espacios vectoriales.\n6. Espacios vectoriales con producto interno.\n7. Transformaciones lineales.\n8. Valores característicos, vectores característicos y formas canónicas.",
+    "comentarios": "José Job Flores Godoy\nUniversidad Iberoamericana Ciudad de México\n\nStanley I. Grossman S.\nUniversity of Montana University College London",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/algebra-lineal-7ed.jpg"
+  },
+  {
+    "id": "libro-1768715447284-5ca24622950238",
+    "titulo": "Guía de aprendizaje XML",
+    "autor": "Elizabeth Castro",
+    "anio": 2001,
+    "isbn": "9788420531519",
+    "editorial": "Prentice Hall",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Informatica",
+      "Lenguaje Programación",
+      "Base de datos"
+    ],
+    "formato": "Físico",
+    "notas": "texto introductorio y práctico orientado a comprender y aplicar el lenguaje XML (eXtensible Markup Language), utilizado para estructurar, almacenar e intercambiar información en sistemas informáticos. Explica desde los conceptos básicos (etiquetas, atributos, estructura jerárquica y reglas de sintaxis) hasta elementos más avanzados como DTD y XML Schema, validación de documentos, entidades, namespaces y transformación/visualización mediante XSL/XSLT. Su enfoque es formativo, con ejemplos y ejercicios, por lo que resulta útil para estudiantes o profesionales que requieren aprender XML para integración de datos, documentación técnica, interoperabilidad entre plataformas o desarrollo web.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-de-aprendizaje-xml.jpg"
+  },
+  {
+    "id": "libro-1768715271498-184c9252c06ad",
+    "titulo": "Chile Minero, Enami en la historia de la pequeña y mediana minería chilena",
+    "autor": "Jaime Pérez de Arce, María Celia Baros Mansilla",
+    "anio": 2009,
+    "isbn": "9789568018962",
+    "editorial": "Ocholibros",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mineria",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Esta publicación, si bien tiene como eje la historia de la Enami, asume una perspectiva bastante más amplia. Incorpora una serie de ensayos que diversifican la mirada en torno a la minería, precisan ciertos tópicos y permiten una lectura más integral de ésta. Los antecedentes prehispánicos de esta actividad en Chile; la configuración urbana y arquitectónica de las ciudades edificadas para la minería; su relación con el medio ambiente; la evolución de la legislación minera y la visión psicosocial de la vida de los mineros, son algunos de los aspectos tratados aquí.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chile-minero-enami-en-la-historia-de-la-pequena-y-mediana-mineria-chilena.jpg"
+  },
+  {
+    "id": "libro-1768715029355-b7a3b33477bd48",
+    "titulo": "Enseñanza universitaria; Una guía introductoria",
+    "autor": "Tony Harland",
+    "anio": 2017,
+    "isbn": "9788471128225",
+    "editorial": "Morata",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Educación",
+      "Universidad",
+      "Divulgación"
+    ],
+    "formato": "Físico",
+    "notas": "Enseñanza universitaria, es una valiosa herramienta para el profesorado universitario novel; pretende estimular y apoyar una de las muchas actividades integradas en el trabajo universitario, la docencia. Se reconoce que la enseñanza está directamente afectada por los problemas administrativos, los horarios y las exigencias de la carga de trabajo, la cultura departamental, las expectativas de investigación propia del área de conocimientos y la forma de pensar acerca de los fines y valores de la educación superior. El profesorado principiante debe aprender a adaptarse a las circunstancias de su trabajo universitario y a configurarlas para facilitar su carrera profesional.\nTony HARLAND se opone a la división docencia-investigación y a la opinión popular de que ?la docencia roba tiempo a la investigación?. Proclama que tienen que considerarse todos los aspectos de la práctica universitaria, pero que la docencia se entiende mejor cuando está firmemente integrada en este trabajo.\nAquí se abordan preocupaciones muy corrientes entre el colectivo docente como, por ejemplo:\nLas clases magistrales,\nLa supervisión del ejercicio de la docencia a cargo de sus colegas,\nEl aprendizaje y los roles del alumnado universitario,\nLos debates como enfoque de la enseñanza,\nLas relaciones entre la investigación y la enseñanza,\nLa mentoría,\nLas materias a impartir y el pensamiento crítico,\nLa evaluación crítica.\n\nEl autor reflexiona también sobre el modo en que la docencia tiene que ser coherente con las funciones que deben desempeñar las universidades en el momento presente; la necesidad de educar personas comprometidas con las necesidades y urgencias sociales y, simultáneamente, profesionales conscientes de cómo aplicar el conocimiento en la sociedad, así como de los valores políticos y morales implícitos en los distintos usos sociales de los saberes.\nEs un libro, claro y práctico, pero riguroso en sus análisis y propuestas que será de gran ayuda para quienes se inician como docentes en instituciones universitarias, así como para el profesorado con más experiencia preocupado por comprender y mejorar su desarrollo profesional.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ensenanza-universitaria-una-guia-introductoria.jpg"
+  },
+  {
+    "id": "libro-1768714715895-2ce46d3da2f898",
+    "titulo": "Prontuario de calefaccion, ventilacion y aire acondicionado",
+    "autor": "John Porges, Fred Porges",
+    "anio": 1974,
+    "isbn": "9788426702722",
+    "editorial": "Marcombo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Aire Acondicionado",
+      "Calefacción",
+      "Termotecnia"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=TwgM4oN2KFsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768714456465-017c166a1e16c",
+    "titulo": "Combustión y contaminación en sistemas térmicos",
+    "autor": "Eric Winandy",
+    "anio": null,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Combustión",
+      "Contaminación",
+      "Termodinámica",
+      "Anillado",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Conceptos básicos de combustión y formación de contaminantes en sitemas térmicos, con el fin de capacitar al alumno para el diseño y optimización de equipos desde el punto de vista energético y ambiental",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768713980094-b3495e014853",
+    "titulo": "Reliability Data Collection and Analysis",
+    "autor": "J. Flamm, T. Luisi",
+    "anio": 1992,
+    "isbn": "079231591x",
+    "editorial": "Kluwer academic publishers",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Datos",
+      "Eurodata",
+      "Anillado"
+    ],
+    "formato": "Físico",
+    "notas": "La demanda pública, cada vez mayor, y la creación de legislaciones nacionales e internacionales sobre seguridad han impulsado significativamente el desarrollo de las plantas nucleares como una parte correspondiente del sistema energético. Los organismos reguladores y las asociaciones industriales solicitan recopilar datos de confiabilidad para poder producir análisis de seguridad. También se necesitan datos de confiabilidad para evaluar la disponibilidad de las plantas y los servicios, y para mejorar la calidad de los procesos de producción, en particular, para satisfacer las necesidades de los operadores de planta y/o diseñadores en cuanto a planificación del mantenimiento, disponibilidad de producción, etc.\n\nLa necesidad de un esfuerzo educativo en el campo de la adquisición y procesamiento de datos ha sido destacada en el marco de EureData, una asociación de organizaciones que operan bancos de datos de confiabilidad.\n\nEsta asociación busca promover el intercambio de datos y la puesta en común (pooling) de datos entre organizaciones y fomentar la adopción de estándares compatibles y definiciones básicas para un intercambio consistente de datos de confiabilidad.\n\nDichas definiciones básicas se consideran esenciales para mejorar la calidad de los datos. Para abarcar cuestiones directamente vinculadas al conjunto amplio de aspectos relacionados con los datos, la definición de eventos de falla, causa común y error humano, datos de horas de prueba de operación y distribución, análisis de datos, funciones de distribución de vida útil, funciones de distribución acumulada, funciones de densidad, métodos de inferencia bayesiana, análisis multivariado, conjuntos difusos y teoría de la posibilidad, etc.\n\nMejorar la coherencia de las entradas de datos en el sentido más amplio posible es fundamental para la utilidad de dichos bancos de datos en análisis de seguridad, para operadores de planta, legisladores tanto como diseñadores, y se espera que en este contexto la presente recopilación de aportes de última generación pueda estimular nuevos perfeccionamientos en los numerosos ámbitos de aplicación.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768713680785-873a591d96168",
+    "titulo": "Inspección por atributos, tablas y procedimientos de muestreo",
+    "autor": "Norma Chilena Oficial NCH 44.of78,",
+    "anio": 1978,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Normas",
+      "Muestreo",
+      "Anillado",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768713560390-34d7774929122",
+    "titulo": "Metodología de Auditoría de mantenimiento, una herramienta relevante para la eficiencia de los procesos de gestión de activos",
+    "autor": "Paulina Inostroza Zúñiga",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "UNAB",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Tesis",
+      "Coliumo",
+      "Magister"
+    ],
+    "formato": "Físico",
+    "notas": "Magister Ingeniería civil industrial UNAB, prof. guía: José Luis Muñoz",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768713468257-3d2621e0b1f77",
+    "titulo": "Desarrollo de RCM en un equipo crítico planta CAP Acero",
+    "autor": "Raúl González Valenzuela",
+    "anio": 2015,
+    "isbn": "",
+    "editorial": "UNAB",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Tesis",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768713132658-ad6597951840a",
+    "titulo": "Estudio y comparación de los diferentes modelos de análisis jerárquico de activos físicos en una instalación industrial",
+    "autor": "Johana Sánchez Cabrera",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "UNAB",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Tesis",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Ingeniería civil industrial UNAB, prof. guía: José Luis Muñoz",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768713009183-601b2b5a197fa8",
+    "titulo": "Propuesta de una estrategia de mantenimiento para un sistema de correas transportadoras de area madera.",
+    "autor": "Evelyn Castillo",
+    "anio": 2016,
+    "isbn": "",
+    "editorial": "UNAB",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Tesis",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Ingeniería civil industrial UNAB, prof. guía: José Luis Muñoz",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768712891915-07f2af71bc166",
+    "titulo": "Teoria Del Buque, Flotabilidad Yestabilidad",
+    "autor": "Joan Olivella Puig",
+    "anio": 2009,
+    "isbn": "9788483014752",
+    "editorial": "Univ. Politèc. de Catalunya",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Barcos",
+      "Navegación",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro está pensado para los estudiantes amantes de la mar que quieran iniciarse en la ciencia de la teoría del buque y para aquellos profesionales que tengan dentro de su cometido tomar decisiones que afecten a la puesta en calados del buque y a su estabilidad. Los temas se tratan con rigor, pero sin perder la objetividad que debe tener un libro de iniciación en esta materia. Su contenido se …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=EaCGJqNdL-kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768712693738-cae55d7789841",
+    "titulo": "Su espacio, su tiempo: científicas pioneras que descifraron el universo",
+    "autor": "GHOSE, SHOHINI",
+    "anio": 2023,
+    "isbn": "9788449342608",
+    "editorial": "Paidos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Física",
+      "Astronomía",
+      "Difusión",
+      "Ciencia"
+    ],
+    "formato": "Físico",
+    "notas": "Un recorrido por las vidas y el trabajo de mujeres que, aunque fueron ignoradas durante mucho tiempo, descubrieron las leyes fundamentales del universo, de la mano de la galardonada física cuántica Shohini Ghose.\n\nLas mujeres físicas y astrónomas de todo el mundo han transformado la ciencia y también la sociedad, pero casi nunca se ha reconocido el decisivo papel que han desempeñado en sus respectivos campos. En Su espacio, su tiempo, la galardonada física cuántica Shohini Ghose reúne las historias de estas excepcionales científicas para celebrar sus contribuciones.\n\nGhose ahonda en cuestiones como el estudio del tiempo, la exploración espacial, las partículas subatómicas, el big bang, el calendario cósmico, los fundamentos del universo o el alunizaje, y destaca los descubrimientos de mujeres como Henrietta Leavitt, Margaret Burbidge, Mary Golda Ross, Marietta Blau, Hertha Wambacher y Bibha Chowdhuri, entre otras.\n\nCon un estilo divulgativo y muy ameno, Su espacio, su tiempo es una historia colectiva de innovación científica, de liderazgos inspiradores y de superación en la que descubriremos las historias de las pioneras que iluminaron nuestra comprensión del universo.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768712389094-75c9a693f7e56",
+    "titulo": "Energía, agua, medioambiente, territorialidad y sostenibilidad",
+    "autor": "Xavier Elias Castells, Santiago Bordas Alsina",
+    "anio": 2011,
+    "isbn": "9788499690094",
+    "editorial": "Diaz de Santos",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Energía",
+      "Medioambiente",
+      "Sostenibilidad"
+    ],
+    "formato": "Físico",
+    "notas": "La actual crisis económica forzará a plantear una reflexión sobre la matriz energética actual, su sostenibilidad y la necesidad de cambio de modelo para no tener que alterar en demasía el nivel de confort, variando muy poco los hábitos de vida. Esta obra aborda dicho problema en tres bloques claramente diferenciados, pero unidos por un mismo hilo conductor: la energía. En el primer bloque se anali…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=NY1yAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768706437497-04e8016018b7f8",
+    "titulo": "Analisis Tecnico de los Mercados Financieros",
+    "autor": "John J. Murphy",
+    "anio": 2016,
+    "isbn": "9788498754285",
+    "editorial": "Ediciones Gestion 2000",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Finanzas",
+      "Trading",
+      "Mercados",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768706374995-38da4b58b9c298",
+    "titulo": "Analisis Tecnico de los Mercados Financieros",
+    "autor": "John J. Murphy",
+    "anio": 2016,
+    "isbn": "9788498754285",
+    "editorial": "Ediciones Gestion 2000",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Finanzas",
+      "Trading",
+      "Mercados",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Desde su primera publicación en 1986 este libro está considerado por muchos como la «biblia del análisis técnico» y es una herramienta de gran valor para el estudio de los movimientos de mercado. A lo largo de sus páginas desarrolla todas las técnicas de análisis, desde las más clásicas hasta las más actuales: Teoría de Dow, medias móviles, osciladores, opinión contraria y otros indicadores. Asimismo, incluye más de cuatrocientos gráficos que ayudan a clarificar las bases del análisis técnico y la construcción de gráficos, lo que hay que saber sobre los ciclos, indicadores bursátiles, manejo de dinero, tácticas de contratación, modelos de precios y los principales patrones de cambio y de continuidad. Escrito de manera muy didáctica, explica con claridad y sencillez todos los conceptos clave y es una lectura esencial para cualquier persona interesada en el comportamiento del mercado.",
+    "comentarios": "John J. Murphy tiene más de 30 años de experiencia en el uso del análisis técnico. Anteriormente, fue director de Merrill Lynch. En la actualidad es presidente de Murphymorris, Inc., empresa especializada en elaborar análisis para inversores.",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768706239040-8c3e4bb8f8a998",
+    "titulo": "Las energías renovables en el ámbito internacional",
+    "autor": "Francisco Javier André, Luis Miguel de Castro, Emilio Cerda",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Cuadernos económicos de ICE",
+    "coleccion": "",
+    "vol": "83",
+    "categorias": [
+      "Energía",
+      "Economía",
+      "Anillado"
+    ],
+    "formato": "Físico",
+    "notas": "En este artículo se analiza la evolución de las energías renovables y la situación actual de las mismas a nivel internacional.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768705891013-18b8abcf457218",
+    "titulo": "Reingeniería De Procesos De Manufactura Industrial",
+    "autor": "José Víctor Galaviz Rodríguez, Jonny Carmona Reyes, Noemí González León",
+    "anio": 2020,
+    "isbn": "9781506535470",
+    "editorial": "Palibrio",
+    "coleccion": "Colaboración Entre Cuerpos Académicos Tlaxcala Y Puebla (Enero 2021)",
+    "vol": "",
+    "categorias": [
+      "Manufactura",
+      "Procesos"
+    ],
+    "formato": "Físico",
+    "notas": "La participación activa colaborativa en cuerpos académicos, se refieren a varias acciones y productos que se generan conjuntamente con los miembros, colaboradores y con la participación de alumnos contribuyendo a la consolidación de programas educativos en los que participan. La mayoría de las acciones que se desarrollan al interior de los siguientes Cuerpos Académicos en el tema principal de Rein…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=eE0czgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768705297840-48fa9c9e3a4a58",
+    "titulo": "Introducción a la termodinámica con algunas aplicaciones de ingeniería",
+    "autor": "Jorge Rodríguez",
+    "anio": null,
+    "isbn": "",
+    "editorial": "UTN",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "La termodinámica es la ciencia de la energía y sus transformaciones, que estudia el calor y el trabajo, fundamentada en leyes como la conservación de la energía (Primera Ley) y la entropía (Segunda Ley), crucial para la ingeniería en el diseño de motores, sistemas de refrigeración, centrales eléctricas, climatización de edificios y procesos industriales, optimizando la eficiencia energética y la conversión de energía en diversas aplicaciones desde aeronáutica hasta química",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768704328789-b7e0f1c17fff58",
+    "titulo": "Altos Hornos",
+    "autor": "Francisco Gaete",
+    "anio": 1978,
+    "isbn": "",
+    "editorial": "Capacitacion y Desarrollo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Siderúrgica",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "El presente trabajo no enfoca un tema central, sino se refiere a cuatro temas específicos no relacionados directamente entre sí. Su ejecución está basada en la experiencia de 25 años de operación de los Altos Hornos de Huachipato y en la experiencia profesional del autor.\n\nSe presenta una introducción un tanto extensa, debido a que allí se muestran aspectos generales, conceptos, definiciones y características comunes a los capítulos que conforman este trabajo, de modo de no repetirlos cuando se aborde cada uno de ellos en particular.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768703419876-b0074baeb2d18",
+    "titulo": "Ingeniería medioambiental aplicada a la reconversión industrial y a la restauración de paisajes industriales degradados",
+    "autor": "MARIANO SEOANEZ CALVO",
+    "anio": 1998,
+    "isbn": "9788471147493",
+    "editorial": "Mundi-Prensa Libros",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Medioambiente",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "La reconversión industrial y los paisajes industriales degradados son realidades de la sociedad de muchos países, tanto del mundo industrializado como del que esté en vías de desarrollo. La gestión integral en las zonas afectadas, los factores que condicionan la reconversión industrial y las numerosísimas áreas industriales abandonadas o envejecidas se tratan en esta publicación de forma realista,…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=4zpu_gesNzkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768703143982-359e26d24d95f",
+    "titulo": "De proa a popa, conceptos básicos",
+    "autor": "Luis Delgado Lallemand",
+    "anio": 2005,
+    "isbn": "9788497323994",
+    "editorial": "Paraninfo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Barcos",
+      "Navegación",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "El mar, los barcos y todo el amplio sector que gira alrededor de esos elementos, es algo que apasiona a un gran número de personas. Este primer tomo se irá completando con otros posteriores de tal forma que daremos una información detallada y completa de este mundo, para tantos interesante a la vez que ilusionante.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/de-proa-a-popa-conceptos-basicos.jpg"
+  },
+  {
+    "id": "libro-1768702913387-c69960c64c4f3",
+    "titulo": "Leones Contra Gacelas: Manual Completo del Especulador",
+    "autor": "José Luis Cárpatos",
+    "anio": 2014,
+    "isbn": "9788423419289",
+    "editorial": "Deusto",
+    "coleccion": "",
+    "vol": "2",
+    "categorias": [
+      "Finanzas",
+      "Trading",
+      "Bolsa",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768702860125-9a21a283f416c",
+    "titulo": "Leones Contra Gacelas: Manual Completo del Especulador",
+    "autor": "José Luis Cárpatos",
+    "anio": 2014,
+    "isbn": "9788423419289",
+    "editorial": "Deusto",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Finanzas",
+      "Trading",
+      "Bolsa",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Tras el éxito alcanzado en las ediciones anteriores de Leones contra gacelas. Manual completo del especulador; José Luis Cárpatos vuelve a sorprendernos con una nueva edición donde introduce muchas novedades, actualiza conceptos y, como nos tiene acostumbrados, entretiene a la vez que enseña. Esta nueva edición incluye desde anécdotas reales del propio autor y de otros compañeros de profesión en su día a día en los mercados, hasta un examen riguroso de todos y cada uno de los conceptos fundamentales para un buen trading, incorporando además y como novedad pautas estacionales, money management y psicología del trading. El libro está estructurado en ocho partes que abarcan experiencias personales, errores frecuentes para no caer en ellos, análisis técnico y análisis fundamental, futuros y opciones, sistemas automáticos de especulación, psicología del trading y una materia de la que no existe actualmente ningún manual que profundice en ella: las pautas estacionales bursátiles. Asimismo, en esta obra encontrará contenidos sobre money management -imprescindible para obtener resultados consistentes-, una descripción del funcionamiento de las velas japonesas, distintas estrategias de opciones e incluso una explicación sobre cómo interpretar los datos macroeconómicos de Estados Unidos que tanto influyen en los mercados. Cada parte puede leerse de forma independiente, lo que facilita su lectura y la posterior consulta de los distintos conceptos una vez leída la obra completa. Sin duda, se trata de un libro imprescindible para cualquier trader, tanto si comienza su carrera como si es ya veterano en estas lides.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768702710019-3f9eb7275a9f9",
+    "titulo": "Mecanica de Materiales",
+    "autor": "R. C. Hibbeler",
+    "anio": 2006,
+    "isbn": "9789702606543",
+    "editorial": "Pearson Educación",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Resistencia de Materiales",
+      "Mecánica"
+    ],
+    "formato": "Físico",
+    "notas": "Es la obra imprescindible para entender el cómo y el porqué del comportamiento de los materiales. Su manera lógica y ordenada de exponer las explicaciones teóricas sobre los principios del comportamiento físico, facilita al lector la comprensión de las aplicaciones prácticas.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=iCBye0_lEXsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768702581656-e4457325bdd4f",
+    "titulo": "Bases de datos relacionales",
+    "autor": "Matilde Celma Giménez, Juan Carlos Casamayor Ródenas, Laura Mota Herranz",
+    "anio": 2003,
+    "isbn": "9788420538501",
+    "editorial": "Pearson",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Bases de datos",
+      "Informática"
+    ],
+    "formato": "Físico",
+    "notas": "este manual es un libro de texto que cubre el contenido de las asignaturas de carácter básico que sobre la materia bases de datos se puedan definir en los planes de estudio de las titulaciones en informática.\n\nel libro está estructurado en seis capítulos:\n\n* en el capítulo primero se introducen los conceptos de base de datos y de sistema de gestión de base de datos. * el capítulo segundo, consiste en una introducción a los modelos de datos. * en el capítulo tercero se presentan los fundamentos del modelo relacional, modelo en el que está basada la familia actual de sistemas de gestión de bases de datos. * en el cuarto, se presenta el lenguaje sql, en su última versión de 1999. * en el capítulo quinto se hace un análisis de las limitaciones del modelo relacional, según su definición original; de éstas limitaciones se derivan las direcciones de evolución que experimenta el modelo. * en el capítulo sexto se pretende retomar el concepto de gestión de bases de datos introducido en el capítulo primero y y profundizar en su estudio.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=VacAAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768702407614-4876ddebce60e",
+    "titulo": "Control de motores eléctricos",
+    "autor": "Gilberto Enríquez Harper",
+    "anio": 1999,
+    "isbn": "9789681855659",
+    "editorial": "Editorial Limusa",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Motores Eléctricos",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "El control de motores eléctricos es un tema que ha adquirido gran importancia a partir de la automatización de los procesos industriales, es por ello que en esta obra se describe con un enfoque práctico las condiciones de seguridad y de control de motores requerida para un registro eficiente de una máquina aislada o un conjunto de máquinas. El libro se ha diseñado para que sea funcional, ya sea en un ambiente educacional o industrial, sin importar el nivel, tratando de que en la aplicación se de la orientación y el enfoque correcto.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=tkbZWXxGRuoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768702249380-727ce524fd86d",
+    "titulo": "Mantenimiento de centros de transformación",
+    "autor": "Trashorras Montecelos, Jesús",
+    "anio": 2018,
+    "isbn": "9786076228111",
+    "editorial": "Alfaomega",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mantenimiento",
+      "Industria",
+      "Electricidad",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "las herramientas, equipos, medios auxiliares y el equipo de seguridad personal que se necesita para llevar a cabo cada tipo de mantenimiento. Analiza de este modo los contenidos de la unidad formativa “Mantenimiento de centros de transformación” del módulo “Montaje y mantenimiento de centros de transformación” del certificado de profesionalidad “Montaje y mantenimiento de redes eléctricas de alta tensión de segunda y tercera categoría y centros de transformación”.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-centros-de-transformacion.jpg"
+  },
+  {
+    "id": "libro-1768702116949-bceffcd56b4158",
+    "titulo": "Excel Avanzado",
+    "autor": "Clara Sanchez, Claudio Sánchez",
+    "anio": 2000,
+    "isbn": "9789875262409",
+    "editorial": "OnWeb",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Informatica",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Si usted tiene en sus manos este libro, quiere decir que es un usuario de Excel que, seguramente, trabaja a diario con planillas y bases de datos. Ya sabrá cómo emplear algunas funciones más o menos complejas e, incluso, de qué modo graficar los resultados obtenidos. Pero es muy probable que sólo conozca una muy pequeña porción de todo lo que este poderoso programa le puede ofrecer. Con esta obra …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=OTYEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768701903238-25a555df1410d",
+    "titulo": "Cómo preparar, escribir y defender el Trabajo de Fin de Grado",
+    "autor": "Jesús Molero, Porfirio Sanza, Raquel Torres",
+    "anio": null,
+    "isbn": "9788497438315",
+    "editorial": "Milenio",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ciencia",
+      "Tesis"
+    ],
+    "formato": "Físico",
+    "notas": "El presente libro pretende convertirse en una útil herramienta para el estudiante de Historia en particular y de Humanidades en general. El Trabajo de Fin de Grado supone un punto de llegada para todo alumno que está finalizando sus estudios. No es una asignatura más ni tampoco un trabajo cualquiera de los muchos que se presentan a lo largo del Grado y por ello puede devenir en un desafío que sea difícil de superar con nota para muchos de ellos. Los distintos capítulos que recoge el libro abordan su preparación, redacción y defensa, tres estadios fundamentales que conllevan tareas intrínsecas como las de estructurar el TFG, recoger y ordenar la información necesaria, redactarlo adecuadamente con las citas y referencias utilizadas y, por último, preparar su defensa con todos los componentes que se requieren para su presentación oral.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-preparar-escribir-y-defender-el-trabajo-de-fin-de-grado.jpg"
+  },
+  {
+    "id": "libro-1767821172561-2b001d67e2d898",
+    "titulo": "El túnel",
+    "autor": "Ernesto Sábato",
+    "anio": 2011,
+    "isbn": "9788432248368",
+    "editorial": "Austral",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Google Play",
+      "Novela",
+      "Literatura",
+      "Existencialismo"
+    ],
+    "formato": "Digital",
+    "notas": "El amor ilimitado truncado por un engaño convertirá el corazón de un hombre en un pedazo de duro y frío hielo y colocará en sus manos el cuchillo que pone final al sufrimiento. Sabato nos entrega los elementos básicos de su visión metafísica del existir.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=GxiDKQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767820730066-ec51f207617908",
+    "titulo": "El Extranjero",
+    "autor": "Albert Camus",
+    "anio": 2016,
+    "isbn": "9781537392349",
+    "editorial": "Createspace Independent Publishing Platform",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Google Play",
+      "Novela",
+      "Literatura",
+      "Existencialismo"
+    ],
+    "formato": "Digital",
+    "notas": "es la primera novela del escritor francés Albert Camus, publicada en 1942. El protagonista, Meursault, es un ser indiferente a la realidad por resultarle absurda e inabordable. El progreso tecnológico le ha privado de la participación en las decisiones colectivas y le ha convertido en \"extranjero\" dentro de lo que debería ser su propio entorno.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=9R1dvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
     "id": "libro-1767503333535-cd5dff1ea2d08",
     "titulo": "Analysis Of Linear Systems",
     "autor": "David K Cheng",
@@ -8,14 +650,15 @@
     "editorial": "Addison-Wesley",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Drive",
       "Matemáticas"
     ],
-    "formato": "Digital",
     "notas": "Analysis of Linear Systems, de David K. Cheng, es un texto clásico orientado a la formación rigurosa en el análisis matemático de sistemas lineales, especialmente en el contexto de la ingeniería eléctrica. El libro desarrolla con claridad los fundamentos teóricos que sustentan el comportamiento de sistemas dinámicos lineales, abordando temas como espacios vectoriales, transformadas (en particular Laplace y Fourier), respuesta temporal y en frecuencia, estabilidad y representación de sistemas mediante ecuaciones diferenciales y funciones de transferencia.\n\nSu principal fortaleza radica en el equilibrio entre formalismo matemático y aplicación ingenieril: los conceptos se presentan con demostraciones cuidadas, pero siempre conectadas con problemas reales de análisis de circuitos, señales y control. La exposición es progresiva y exige del lector una base sólida en matemáticas, lo que lo convierte en un texto especialmente adecuado para cursos avanzados de sistemas lineales o señales y sistemas.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analysis-of-linear-systems.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/analysis-of-linear-systems.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767500166987-edee46e7156478",
@@ -26,14 +669,15 @@
     "editorial": "Época",
     "coleccion": "",
     "vol": "9a. EDICIÓN",
+    "formato": "Digital",
     "categorias": [
       "Literatura",
       "Novela"
     ],
-    "formato": "Digital",
     "notas": "Después de haber pasado unos años viajando, Antoine Roquentin, hombre de treinta años que disfruta de una modesta renta, se halla instalado en la ciudad portuaria de Bouville dedicado a escribir un libro sobre un turbio aristócrata del siglo XVIII. Sin embargo, un día se ve asaltado por una sensación desconocida, la Náusea, cuya revelación como el sentimiento radical de la contingencia y la soledad del ser humano cambiará por completo su vida de sentido. Publicada en 1938, \"La naúsea\" de Jean-Paul Sartre es, junto con \"El extranjero\" de Albert Camus, la novela que encarna de forma más emblemática la corriente de pensamiento existencialista fruto de la atroz experiencia de la Primera Guerra Mundial y sus funestas consecuencias.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nausea.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-nausea.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767144556157-1cc17e74831548",
@@ -44,14 +688,15 @@
     "editorial": "ePubLibre",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Novela",
       "Literatura"
     ],
-    "formato": "Digital",
     "notas": "Noches Blancas es una joya breve y luminosa del alma rusa. En el silencio dorado de las noches de San Petersburgo, un soñador solitario encuentra en una joven desconocida, el eco de su anhelo más profundo: ser visto, ser amado, ser real.\nCon una prosa sensible y conmovedora, Fiódor Dostoyevski nos sumerge en una historia de amor imposible, de ilusiones y despertares, donde la esperanza y la tristeza se entrelazan como la luz y la sombra de una noche que no se oscurece del todo. Este libro es un suspiro melancólico, una confesión del alma, un retrato delicado de quienes viven más en sus sueños que en la realidad. Noches Blancas no es solo un relato romántico: es una invitación a mirar dentro de nosotros mismos.",
     "comentarios": "Fiódor Dostoyevski fue un novelista, ensayista y pensador ruso, nacido en Moscú el 11 de noviembre de 1821 y fallecido en San Petersburgo el 9 de febrero de 1881. Es considerado uno de los más grandes escritores de la literatura universal por su profunda exploración de la psicología humana, la moral y los conflictos existenciales.\n\nEstudió ingeniería militar, pero abandonó esa carrera para dedicarse a la literatura. Su primera novela, Pobres gentes (1846), le dio reconocimiento inmediato. Sin embargo, su vida estuvo marcada por la tragedia: fue arrestado en 1849 por participar en un grupo intelectual considerado subversivo y condenado a muerte, aunque la pena fue conmutada por trabajos forzados en Siberia. Esta experiencia transformó profundamente su visión del mundo y su pensamiento religioso y moral.\n\nA su regreso, escribió algunas de las obras más influyentes de la literatura moderna, como Crimen y castigo, El idiota, Los demonios y Los hermanos Karamázov. En ellas aborda temas como la culpa, la redención, la libertad y el sentido de la existencia. Dostoyevski dejó una huella indeleble en la literatura, la filosofía y la psicología, influyendo en autores y pensadores de todo el mundo.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/noches-blancas.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/noches-blancas.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767126384925-5a2178149d598",
@@ -62,13 +707,14 @@
     "editorial": "Huachipato",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767136354982-bd42731d0ebd5",
@@ -79,14 +725,15 @@
     "editorial": "Epub",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Ciencia",
       "Divulgación"
     ],
-    "formato": "Digital",
     "notas": "¿Qué es, cómo es el mundo? Este libro propone una teoría totalizadora que permita responder a esta pregunta mediante la suma de cuatro áreas de conocimiento: la física cuántica, la epistemología, la teoría computacional y la teoría de la evolución. A partir de estos cuatro ejes, el brillante ensayo de David Deutsch investiga temas de candente actualidad en la investigación científica, tales como los usos presentes y futuros de la informática, las aplicaciones de la realidad virtual a la investigación sobre los universos paralelos, la polémica sobre la verdadera naturaleza de las matemáticas y los límites de su infalibilidad, el concepto de tiempo y la posibilidad de viajar a través de él... Todo ello lleva a preguntarse sobre el sentido de la vida humana y el destino último del universo. Un libro osado y radical, que plantea preguntas inquietantes y ofrece propuestas muy estimulantes para la ciencia del nuevo siglo.",
     "comentarios": "David Elieser Deutsch (nacido en 1953 en Haifa, Israel) es un físico de la Universidad de Oxford, miembro de la Royal Society. Es profesor visitante en el \"Department of Atomic and Laser Physics\" del \"Centre for Quantum Computation\", en el Clarendon Laboratory, de Oxford. Fue pionero en el campo de la computación cuántica, al ser el primero en formular un algoritmo cuántico,[1]​ y es uno de los formuladores de la teoría de los universos paralelos dentro de la mecánica cuántica.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-estructura-de-la-realidad.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-estructura-de-la-realidad.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767126330127-7dd7709b94a328",
