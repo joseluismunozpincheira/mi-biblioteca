@@ -1,5 +1,1721 @@
 [
   {
+    "id": "libro-1768783378642-70dae0461818c8",
+    "titulo": "Aprenda Matlab 7 como si estuviera en primero",
+    "autor": "Javier García, José rodríguez",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Universidad politécnica de Madrid",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Matlab"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768783267878-194806880f7ca8",
+    "titulo": "Mecanica de Estructuras Libro I Resistencia de Materiales",
+    "autor": "Miguel Cervera Ruiz, Elena Blanco Díaz",
+    "anio": 2002,
+    "isbn": "9788483016220",
+    "editorial": "Univ. Politèc. de Catalunya",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Mecánica",
+      "Estructuras"
+    ],
+    "formato": "Físico",
+    "notas": "La obra Mecanica de estructuras esta concebida como libro de texto para estudiantes de ingenieria civil y mecanica que se inicien en el estudio de esta materia. Su enfoque, claramente pedagogico, tiene como objetivo exponer con claridad y rigor los principios fundamentales de la materia, de forma que sirvan de base para estudios posteriores, mas especializados, en dicha disciplina. La comprension …",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=CX9oXycO0KMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768783218704-4a9ec3470474d",
+    "titulo": "Prácticas de ingeniería térmica",
+    "autor": "Raul Payri, Santiago Ruiz, José Serrano",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Universidad politécnica de Valencia",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Termodinámica",
+      "Termotecnia"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768783108028-17d1552ff55668",
+    "titulo": "Lubrication Fundamentals",
+    "autor": "J. George Wills",
+    "anio": 1980,
+    "isbn": "9780824769765",
+    "editorial": "Marcel Dekker",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Lubricación"
+    ],
+    "formato": "Físico",
+    "notas": "A collection of stories exploring political and social conditions is accompanied by a brief portrait of the life of the distinguished German author",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768783046306-fecdd8880ce1c8",
+    "titulo": "Manual Microsoft Project",
+    "autor": "Nelson Agudelo",
+    "anio": 2008,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Project",
+      "Software"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768782996100-7ee666b91acc28",
+    "titulo": "Control de calidad 8ED",
+    "autor": "Dale H. Besterfield",
+    "anio": 2009,
+    "isbn": "9786074421217",
+    "editorial": "Pearson",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Calidad"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=E2-ucQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768782943302-c42d93ad02037",
+    "titulo": "Simulation",
+    "autor": "Sheldon M. Ross",
+    "anio": 2006,
+    "isbn": "9780125980630",
+    "editorial": "Academic Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Simulación",
+      "Matemáticas"
+    ],
+    "formato": "Físico",
+    "notas": "Introduces practising actuaries, engineers, computer scientists and others to the practical aspects of constructing computerized simulation studies to analyze and interpret real phenomena. This text explains how a computer can be used to generate random numbers, and how to use these random numbers to generate the behavior of a stochastic model",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=mnowLgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768782893952-e6468205d17d98",
+    "titulo": "Elementos de Máquina",
+    "autor": "",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Máquina",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768782765573-f4ea197e4bd448",
+    "titulo": "Matlab para ingenieros",
+    "autor": "Holly Moore",
+    "anio": 2007,
+    "isbn": "9789702610823",
+    "editorial": "Pearson",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=hA78MQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768782684776-104457de0fcab8",
+    "titulo": "Fundamentos de Termodinámica",
+    "autor": "Octave Levenspiel",
+    "anio": 1997,
+    "isbn": "9789688809426",
+    "editorial": "Prentice Hall",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Termodinamica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "Libro muy accesible, preparación de clases",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768782626466-5b8b816567a74",
+    "titulo": "Fundamentos del corte de metales y de las máquinas-herramientas",
+    "autor": "Geoffrey Boothroyd",
+    "anio": 1975,
+    "isbn": "0070909350",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Diseño",
+      "Máquinas",
+      "Herramientas"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768782453216-a4c84c52df4de",
+    "titulo": "Cómo Utilizar el Cuadro de Mando Integral, Para Implantar y Gestionar Su Estrategia",
+    "autor": "Robert S. Kaplan, David P. Norton",
+    "anio": 2005,
+    "isbn": "9788480885614",
+    "editorial": "Harvard Business",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Efectividad organizacional"
+    ],
+    "formato": "Físico",
+    "notas": "Traducir la estrategia a términos operativos; Alinear a la organización para crear sinergias; Haciendo de la estrategia el trabajo diario de todos; Haciendo de la estrategia un proceso continuo; Liderazgo ejecutivo para movilizar el cambio.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=r3laPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768782394354-4df06a21109ad8",
+    "titulo": "Teoría de vibraciones, aplicaciones",
+    "autor": "William Tyrrell Thomson",
+    "anio": 1983,
+    "isbn": "9780139066511",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Vibraciones"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768782356644-c057c642071c78",
+    "titulo": "The Laws of Simplicity",
+    "autor": "John Maeda",
+    "anio": 2006,
+    "isbn": "9780262134729",
+    "editorial": "MIT Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Difusión",
+      "Arquitectura"
+    ],
+    "formato": "Físico",
+    "notas": "Ten laws of simplicity for business, technology, and design that teach us how to need less but get more. Finally, we are learning that simplicity equals sanity. We're rebelling against technology that's too complicated, DVD players with too many menus, and software accompanied by 75-megabyte \"read me\" manuals. The iPod's clean gadgetry has made simplicity hip. But sometimes we find ourselves caugh…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=QrT4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768782306726-9d2fcf82915178",
+    "titulo": "Análisis de falla de rodamientos Norma ISO 15243",
+    "autor": "SKF",
+    "anio": 2008,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Mantenimiento",
+      "Rodamientos",
+      "Fallas"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768782191578-7c7bf772a98048",
+    "titulo": "Desarrollo de sistema de captura de datos a través de PLC y envío de alertas SMS a tiempo real de equipos industriales críticos para un mantenimiento predictivo",
+    "autor": "Francisco Moore San Martin",
+    "anio": 2017,
+    "isbn": "",
+    "editorial": "UNAB",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Tesis",
+      "PLC",
+      "Programación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768782090966-201cbe620332e8",
+    "titulo": "Modelos Predictivos para predecir la producción de energía en una central de ciclo combinado usando algoritmos de machine learning",
+    "autor": "Williams Stuardo",
+    "anio": 2019,
+    "isbn": "",
+    "editorial": "UNAB",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Tesis",
+      "IA"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768782016065-e533ebab65b64",
+    "titulo": "Ensayos no destructivos, aplicados al control industrial",
+    "autor": "Gustava Lastra lopez",
+    "anio": 2001,
+    "isbn": "",
+    "editorial": "Cesmec",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Mantenimiento predictivo",
+      "END"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768781934228-f42ec40bddf5f",
+    "titulo": "Manual de Engranajes",
+    "autor": "J. Rinaldi",
+    "anio": 1966,
+    "isbn": "",
+    "editorial": "Acindar",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Mecánica",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768781825388-c4afecfedc36f8",
+    "titulo": "Contabilidad de costos : conceptos y aplicaciones para la toma de decisiones gerenciales",
+    "autor": "Ralph S. Polimeni, Frank J. Fabozzi, Arthur H. Adelberg",
+    "anio": 1994,
+    "isbn": "9789586001953",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Costos",
+      "Finanzas"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768781000634-356faade06c0c",
+    "titulo": "Simulation Modeling and Analysis",
+    "autor": "Averill M. Law",
+    "anio": 2007,
+    "isbn": "9780071255196",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Simulación"
+    ],
+    "formato": "Físico",
+    "notas": "Since the publication of the first edition in 1982, the goal of Simulation Modeling and Analysis has always been to provide a comprehensive, state-of-the-art, and technically correct treatment of all important aspects of a simulation study. The book strives to make this material understandable by the use of intuition and numerous figures, examples, and problems. It is equally well suited for use i…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=OvY9PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768780938621-8eae00b148ddf8",
+    "titulo": "Las Claves Del Exito de Toyota",
+    "autor": "Jeffrey K. liker",
+    "anio": 2006,
+    "isbn": "9788496612341",
+    "editorial": "Grupo Planeta (GBS)",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Mejora Continua",
+      "Toyota"
+    ],
+    "formato": "Físico",
+    "notas": "¿Qué puede aprender su empresa de toyota? Doblar o triplicar la velocidad de cualquier proceso empresarial, desarrollar la calidad en el puesto de trabajo, eliminar los enormes costes del despilfarro escondio o convertir a cada empleado en un inspector de control de calidad.Hoy en día, las empresas de todo el mundo están intentando implementar el método radical de Toyota para aumentar el ritmo de los procesos, reducir el despilfarro y mejorar la calidad. Pero, ¿están encontrando el fundamento real del éxito de Toyota, bajo la superficie de herramientas y técnicas Lean? Las claves del éxito de Toyota expone el único enfoque de Toyota acerca de la gestión Lean - los 14 principios que guían la calidad de Toyota y su cultura marcada por la eficiencia.Se entiende muy bien qué puede aplicarse a cualquier organización y a cualquier proceso de negocio, ya sea en servicios o en la industria y cómo la correcta combinación de una filosofía a largo plazo, procesos, personas y soluciones a los problemas, puede transformar la organización en Lean, aprendiendo iniciativas del modo de proceder de Toyota.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=38QcxJfb6MIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768780837460-d4c2e718c7c33",
+    "titulo": "Simulación numérica de la mesa de enfriamiento galopante de la colada continua de Huachipato",
+    "autor": "Denis Concha",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Tesis"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768780609797-02c8e267b080b",
+    "titulo": "Preparación y evaluación de proyectos",
+    "autor": "Nassir Sapag Chain, Reinaldo Sapag Chain",
+    "anio": 2007,
+    "isbn": "9789562782067",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Administración",
+      "Proyectos"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768780557975-5a69c8b5603a68",
+    "titulo": "Dirección de operaciones, aspectos tácticos y operativos en la producción y los servicios",
+    "autor": "José Antonio Domínguez Machuca",
+    "anio": 1994,
+    "isbn": "9788448118037",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Administración de la producción"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768780476626-6b7972172a56b",
+    "titulo": "Probabilidad y estadística para ingeniería y ciencias",
+    "autor": "Sheldon M. Ross",
+    "anio": 2000,
+    "isbn": "9789701034569",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Estadística",
+      "Matemática"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768780235563-6ba0a7e1eff02",
+    "titulo": "Bombas, selección, uso y mantenimiento",
+    "autor": "Kenneth J. McNaughton",
+    "anio": 1989,
+    "isbn": "9789684220362",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Bombas",
+      "Termodinámica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768780117559-0b4ccec24da8d8",
+    "titulo": "Optimización no lineal y dinámica",
+    "autor": "Hector Manuel Mora Escobar",
+    "anio": null,
+    "isbn": "",
+    "editorial": "UNC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Matemática",
+      "Optimización"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768779995948-901bdc99a892",
+    "titulo": "Fundamentos de Climatología",
+    "autor": "Marisol Andrades Rodríguez, Carmen Múñez León",
+    "anio": 2012,
+    "isbn": "9788469527993",
+    "editorial": "Universidad de la Rioja",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Anillado",
+      "Clima"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766900781714-708f5c884e9b08",
+    "titulo": "The Weibull Distribution, A Handbook, Repetido",
+    "autor": "Horst Rinne",
+    "anio": 2020,
+    "isbn": "9780367577469",
+    "editorial": "CRC Press",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Weibull distribution"
+    ],
+    "formato": "Físico",
+    "notas": "Compiling findings from many scientific journals and research papers, this handbook focuses on the origin, statistical properties, and related distributions of the Weibull distribution. It also presents various approaches to estimate the parameters of this distribution under all possible situations of sampling data as well as approaches to param",
+    "comentarios": "Este manual, que recopila hallazgos de numerosas revistas científicas y artículos de investigación, se centra en el origen, las propiedades estadísticas y las distribuciones relacionadas de la distribución de Weibull. También presenta diversos enfoques para estimar los parámetros de esta distribución en todas las situaciones posibles de muestreo de datos, así como enfoques para la estimación de parámetros.",
+    "portada": "https://books.google.com/books/content?id=vxaTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768779566896-fa71f3245c1b8",
+    "titulo": "Global Quality, A Synthesis of the World's Best Management Methods",
+    "autor": "Richard Tabor Greene",
+    "anio": 1993,
+    "isbn": "1556239157",
+    "editorial": "McGraw-Hill Companies",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Calidad"
+    ],
+    "formato": "Físico",
+    "notas": "Quality improvement expert Greene extrapolates currently fully-formed approaches as well as nascent approaches to quality further along their lines of development so that readers can gain competitive advantage over international competitors in quality. He organizes the profusion of quality approache",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=zK0TAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768779522129-26be08e753386",
+    "titulo": "Productividad en la gran minería del cobre",
+    "autor": "Comisión Nacional de Productividad (Chile)",
+    "anio": 2017,
+    "isbn": "9789567725083",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Minería"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768779320521-a41462d1a515f",
+    "titulo": "Matemáticas aplicadas a la administración, economía y ciencias sociales",
+    "autor": "Ronald J. Harshbarger, James F. Reynolds",
+    "anio": 2005,
+    "isbn": "9789701048306",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "7a Ed.",
+    "categorias": [
+      "Coliumo",
+      "Matemáticas",
+      "Finanzas",
+      "Administración"
+    ],
+    "formato": "Físico",
+    "notas": "Las matemáticas son una parte integral de la educación en los cursos que reciben los estudiantes en matemáticos sino hacer que se sientan tan cómodos como sea posible en un entorno en que cada vez se utilizan más el análisis cuantitativo y la computadora. Quienes toman decisiones estarán mejor preparados para operar en este tipo de entorno si están familizaridos con las clases de análisis cuantitativos y la tecnología de cómputo que se emplean cada vez con mayor frecuencia.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/matematicas-aplicadas-a-la-administracion-economia-y-ciencias-sociales.jpg"
+  },
+  {
+    "id": "libro-1768779114920-2c32c601fbccf8",
+    "titulo": "Estadistica Para Administracion - Con CD-ROM",
+    "autor": "Mark L. Berenson, David M. Levine, Timothy C. Krehbiel",
+    "anio": 2006,
+    "isbn": "9789702608028",
+    "editorial": "Pearson Educación",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Estadística",
+      "Administración"
+    ],
+    "formato": "Físico",
+    "notas": "Introduce a los estudiantes en la esencia de los conceptos de la estadistica en los negocios. Incluye mayor numero de actividades y un cd-rom que amplian la capacidad de desarrollo y utilización del programa Excel de Microsoft, así como Minitab, SPSS y un explorador visual. .",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=Aw2NKbDJoZoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768779050850-e0f44841e8fcb8",
+    "titulo": "Viaje escuela de altivos marineros, Reseña histórica de la escuela de grumetes Alejandor Navarrete Cisternas",
+    "autor": "Luis Ecgheverría Cabezas",
+    "anio": null,
+    "isbn": "9568059024",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Historia",
+      "Marina"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768778892849-cc3b7e60cf9d1",
+    "titulo": "Root Cause Analysis Handbook, A guide to efficient and effective incident investigation",
+    "autor": "ABS Consulting , Lee N Vanden Heuvel, Donald K Lorenzo, Walter E Hanson",
+    "anio": 2008,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "3era ed.",
+    "categorias": [
+      "RCA",
+      "Análisis"
+    ],
+    "formato": "Físico",
+    "notas": "¿Estás tratando de mejorar el desempeño, pero descubres que los mismos problemas siguen interponiéndose en el camino? La seguridad, la salud, la calidad ambiental, la confiabilidad, la producción y la protección están en juego. Necesitas una planificación de largo plazo que evite que los mismos problemas se repitan. Root Cause Analysis Handbook: A Guide to Effective Incident Investigation es una herramienta poderosa que te entrega un proceso detallado, paso a paso, para aprender de la experiencia.\n\nRecurre a este manual cada vez que necesites orientación comprobada en terreno para investigar, clasificar, elaborar informes, analizar tendencias y, en última instancia, eliminar las causas raíz de los incidentes. Incluye instrucciones paso a paso, listas de verificación y formularios para realizar el análisis, lo que permite a los usuarios incorporar eficazmente la metodología y aplicarla a una amplia variedad de situaciones.\n\nAl utilizar las técnicas estructuradas del Root Cause Analysis Handbook, podrás:\n\nComprender por qué las causas raíz son importantes.\n\nIdentificar y definir problemas inherentes.\n\nRecopilar datos para la resolución de problemas.\n\nAnalizar datos para determinar las causas raíz.\n\nGenerar recomendaciones prácticas.\n\nLa tercera edición de este clásico global es el paquete más completo “todo en uno”, que incluye el libro, recursos descargables, un mapa RCA codificado por colores y acceso licenciado a recursos en línea disponibles actualmente para el Análisis de Causa Raíz (RCA). Sus usuarios lo describen como “el mejor recurso sobre el tema” y “único en su categoría”. Está basado en una metodología propietaria, exitosa a nivel mundial, desarrollada por ABS Consulting, una firma internacional con 50 años de experiencia en 35 países.\n\nEl Root Cause Analysis Handbook se utiliza ampliamente en programas de capacitación corporativa y cursos universitarios en todo el mundo. Si eres responsable de la calidad, confiabilidad, seguridad y/o gestión de riesgos, querrás tener este recurso integral y práctico siempre a mano. Además, el libro ha sido seleccionado por la American Society for Quality (ASQ) y la Risk and Insurance Society (RIMS) como un “imprescindible” para sus miembros.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766977957454-e556918a478a4",
+    "titulo": "Inteligencia artificial, Como cambiará el mundo (y tu vida)",
+    "autor": "Pablo Rodríguez",
+    "anio": 2018,
+    "isbn": "9788423429448",
+    "editorial": "Deusto",
+    "coleccion": "",
+    "vol": "2da Ed.",
+    "categorias": [
+      "IA",
+      "Ciencia de Datos",
+      "Repetido"
+    ],
+    "formato": "Físico",
+    "notas": "Los datos son el combustible de la inteligencia artificial. Dicen tanto de nuestro comportamiento e interacciones y de cómo nos relacionamos con el entorno que, con la ayuda de potentes ordenadores y sofisticadas técnicas estadísticas, y en conjunción con la inteligencia artificial, pueden transformar para mejor la vida de millones de personas.\n\nCasi todos los problemas importantes del ser humano se pueden abordar usando los datos y la inteligencia artificial. Y, en este mismo momento, los algoritmos de inteligencia artificial están intentando predecir tu próximo movimiento, aprendiendo a conducir y luchando contra el cáncer. Allá donde haya una base de macrodatos, probablemente haya un algoritmo de inteligencia artificial trabajando para aprender lo que pueda de ellos. Y es que estos datos pueden ayudar a prevenir enfermedades, epidemias y catástrofes, permitir que las personas con discapacidades disfruten de una vida mejor, optimizar los recursos escasos y trabajar en favor de la inclusión, la seguridad y la equidad.\n\nEste fascinante libro plantea un recorrido por la historia de los datos, una mirada extraordinaria a su funcionamiento, un mapeo de las redes, el retrato de los gurús de los macrodatos y el futuro del internet de las cosas y de la inteligencia artificial. En él, Pablo Rodríguez desarrolla el que tal vez sea el análisis más completo de la próxima gran revolución que vamos a experimentar los humanos.",
+    "comentarios": "Pablo Rodríguez Rodríguez es doctor en informática y experto en tecnologías de internet. Se tituló como ingeniero de Telecomunicación en la UPNA en 1995.\n\nEn la actualidad, es director ejecutivo de Telefónica Innovation Alpha, una unidad de investigación cuyo objetivo es crear moonshots, proyectos que afrontan los grandes retos de la sociedad con ideas radicales y tecnología pionera.\n\nEn sus más de veinte años de experiencia ha trabajado, entre otras, en varias empresas emergentes de Silicon Valley y compañías como Microsoft Research y Bell Labs, ha sido director científico y de innovación de Telefónica y profesor adjunto en la Universidad de Columbia (Nueva York).\n\nTras doctorarse en Ciencias de la Computación en el Instituto Federal Suizo de Tecnología, desarrolló una carrera investigadora por la que recibió los premios Prix La Recherche, Test of Time y los IEEE Fellow y ACM Fellow de las academias de ingeniería e informática de Estados Unidos. Asimismo, es cofundador de Data Transparency Lab, una ONG sobre privacidad.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inteligencia-artificial-rodriguez.jpg"
+  },
+  {
+    "id": "libro-1768778547117-0c3b284e57b0f",
+    "titulo": "Dise o estructural",
+    "autor": "Rafael Riddell Carvajal",
+    "anio": 2018,
+    "isbn": "9789561422490",
+    "editorial": "Ediciones Ucsh",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Diseño",
+      "Estructuras"
+    ],
+    "formato": "Físico",
+    "notas": "El prop sito de este libro es entregar una visi n global del problema del dise o estructural. Para ello se presenta un amplio conjunto de casos de dise o, considerando diferentes tipos de esfuerzos internos o condiciones de estabilidad, distintos materiales estructurales, incluyendo tanto sus rangos de comportamiento el stico como inel stico y los dos modelos b sicos de dise o: el m todo de las te…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=wsYuzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-25",
+    "titulo": "Ingeniería y ciencia de los materiales metálicos",
+    "autor": "Víctor Manuel Blázquez Martínez, Vicente Lorenzo Esteban, Benito del Río López",
+    "anio": null,
+    "isbn": "9788416277223",
+    "editorial": "Dextra",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Materiales",
+      "Repetido"
+    ],
+    "formato": "Físico",
+    "notas": "Ingeniería y ciencia de los materiales metálicos de Blázquez es una obra sólida y formativa que aborda los fundamentos estructurales, mecánicos y fisicoquímicos que determinan el comportamiento de los metales en aplicaciones ingenieriles. Con un enfoque equilibrado entre teoría y práctica, el autor explica la estructura cristalina, los defectos, los mecanismos de endurecimiento, los tratamientos térmicos y la relación microestructura-propiedades, conectando estos conceptos con el diseño y selección de materiales en la industria. El libro se distingue por su claridad pedagógica, sus diagramas bien construidos y su capacidad para integrar ciencia de materiales con criterios de ingeniería, convirtiéndolo en un texto esencial para estudiantes y profesionales que buscan comprender cómo y por qué los metales responden de la manera en que lo hacen en condiciones reales de servicio.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ingenieria-y-ciencia-de-los-materiales-metalicos.jpg"
+  },
+  {
+    "id": "libro-1768778446373-f067e68a741348",
+    "titulo": "Curso Plc y Programacion, Todo Sobre PLC",
+    "autor": "Jose Bustamante",
+    "anio": 2016,
+    "isbn": "9781530245116",
+    "editorial": "Createspace Independent Publishing Platform",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "PLC"
+    ],
+    "formato": "Físico",
+    "notas": "Un Controlador Lógico Programable, más conocido por sus siglas en inglés PLC (Programmable Logic Controller), es una computadora utilizada en la ingeniería automática o automatización industrial, para automatizar procesos electromecánicos, tales como el control de la maquinaria de la fábrica en líneas de montaje o atracciones mecánicas.Los PLC son utilizados en muchas industrias y máquinas. A dife…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=Ud-yjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767039339302-6ff12e31763d6",
+    "titulo": "Simulation Modeling with SIMIO: a Workbook",
+    "autor": "Jeffrey Allen Joines, Stephen Dean Roberts",
+    "anio": 2015,
+    "isbn": "9781519333933",
+    "editorial": "Createspace Independent Publishing Platform",
+    "coleccion": "",
+    "vol": "4th Edition",
+    "categorias": [
+      "Simulación",
+      "Simio",
+      "Repetido"
+    ],
+    "formato": "Físico",
+    "notas": "Resum: This edition of the workbook has an evolved structure based on use and experience. More emphasis is placed on \"why\" modeling choices are made, to supplement the \"how\" in using SIMIO in simulation. In Chapter 1, we present fundamental simulation concepts, independent of SIMIO which can be skipped for those who already understand these fundamentals. In Chapters 2 through 6, concentrates of th…",
+    "comentarios": "Resumen: Esta edición del libro de trabajo presenta una estructura evolucionada basada en el uso y la experiencia. Se hace mayor énfasis en el \"por qué\" de las decisiones de modelado, para complementar el \"cómo\" de usar SIMIO en simulación. En el Capítulo 1, presentamos conceptos fundamentales de simulación, independientes de SIMIO, que pueden omitirse para quienes ya comprenden estos fundamentos. En los Capítulos 2 a 6, se concentran en...",
+    "portada": "https://books.google.com/books/content?id=cD3jjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768778330234-db77030afb4068",
+    "titulo": "Historia de la Minería en Chile",
+    "autor": "Arturo Román, Roberto Meza",
+    "anio": 1996,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Minería"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768778191799-6e2ab6bf2b0518",
+    "titulo": "Haciendo una tesis",
+    "autor": "Emilio Miguel Beltrán Sánchez, Jesús Ignacio Fernández Domingo",
+    "anio": 2012,
+    "isbn": "9788415442288",
+    "editorial": "TH",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Educación",
+      "Universidad",
+      "Divulgación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768778071123-a32bab95cfcd58",
+    "titulo": "Diseño y cálculo de instalaciones de climatización",
+    "autor": "Carlos González Sierra",
+    "anio": 2013,
+    "isbn": "9788496960886",
+    "editorial": "Cano Pina",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Climatización",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "La climatización o el acondicionamiento de aire es el proceso que consiste en regular las condiciones de:- temperatura (calefacción o refrigeración)- humedad- limpieza (renovación, filtrado)- movimiento del aire dentro de los locales.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/diseno-y-calculo-de-instalaciones-de-climatizacion.jpg"
+  },
+  {
+    "id": "libro-1768777994110-4f936ec21c692",
+    "titulo": "Cómo se hace un trabajo académico, guía práctica para estudiantes universitarios",
+    "autor": "John Clanchy, Brigid Ballard",
+    "anio": 2000,
+    "isbn": "9788477335399",
+    "editorial": "PUZ",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Educación",
+      "Universidad",
+      "Divulgación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=q2m_NQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768777903306-265f170da3e2f",
+    "titulo": "La tesis doctoral, Claves para la investigación y su defensa",
+    "autor": "Estelle M. Phillips, Dereck S. Pugh",
+    "anio": 2008,
+    "isbn": "9788493559083",
+    "editorial": "Profit Editorial I.",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Tesis",
+      "Manual",
+      "Investigación"
+    ],
+    "formato": "Físico",
+    "notas": "El libro que resuelve todas las dudas sobre la tesis doctoral. Esta es una guía necesaria para todos aquellos que deseen ponerse manos a la obra con una tesis doctoral. A través de este manual, que es ya todo un clásico, tanto doctorandos como directores de tesis encontrarán las claves para un trabajo conjunto, desde las cuestiones preliminares, como son decidir qué doctorado hacer y por qué hacer…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=mjOdkLw36XkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768777785062-091c446032b838",
+    "titulo": "Domine ASP.NEt",
+    "autor": "Joan Josep Pratdepadua Bufill",
+    "anio": 2004,
+    "isbn": "9789701510155",
+    "editorial": "Alfaomega",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Coliumo",
+      "Programación",
+      "Informática"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro desea ser una puerta de entrada al mundo de las aplicaciones de ámbito global que nos proporciona ASP.NET. Estructurado en siete partes, comienza presentando al lector el entorno ASP.NET y el modo de instalarlo correctamente. En la segunda parte se describen los elementos y controles de programación de ASP.NET, además de la teoría correspondiente, para crear distintos formularios Web. En la tercera, se aprende a configurar adecuadamente ASP.NET, en función del tipo de servidor de que se disponga, de su uso, características técnicas y de seguridad, etc. En la cuarta parte, se explican los conceptos de aplicación ASP.NET y las variables de aplicación y de sesión. En la quinta, se aprende a crear y manejar servicios Web. Muy en boga actualmente, el uso de servicios Web en aplicaciones distribuidas reduce enormemente el código necesario para crear un determinado proyecto, pues utilizamos las funciones ya creadas en el servicio para implementarlas en el nuestro. También se abarcan los fundamentos imprescindibles de XML para poder operar con dichos servicios Web. En la sexta parte, nos adentraremos en el mundo de los ADO, es decir, en los objetos de acceso a datos. Sin estos objetos no podríamos crear la inmensa mayoría de aplicaciones Web, pues son los que nos permiten conectar con bases de datos. Y, finalmente, en la séptima y última parte aplicaremos los conceptos explicados en el libro al diseño de una tienda virtual funcional. Aprender ASP.NET es invertir en su futuro. Actualmente el cliente de aplicaciones Web solicita cada vez más interacción dinámica y ágil que dé respuesta a sus solicitudes. Han quedado desfasados aquellos portales que simplemente suministran información estática o reducida a un formulario. Con ASP.NET el abanico de posibilidades es sorprendentemente amplio y en consecuencia el ámbito de aplicación también: tiendas virtuales, agencias de viajes on line, operaciones de bolsa, juegos virtuales con varios jugadores simultáneos, foros de conversación, banca on line, etc. Los límites los pone usted. Incluye CD-ROM con todos los ejemplos desarrollados en el libro.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/domine-asp-net.jpg"
+  },
+  {
+    "id": "libro-1768777608332-d23bfb3a2a71a",
+    "titulo": "Manual de selección de motorreductores",
+    "autor": "SewEurodrive",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Motoreductores",
+      "mecánica",
+      "diseño"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768777532576-eb3efff3f708b8",
+    "titulo": "Vibraciones mecánicas en ingeniería",
+    "autor": "Pedro Saavedra",
+    "anio": 2001,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Vibraciones"
+    ],
+    "formato": "Físico",
+    "notas": "Apuntes de curso vibraciones, sistemas lineales",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768777461806-a4101bb755b26",
+    "titulo": "El método de los elementos finitos",
+    "autor": "Zienkiewicz O.C, Taylor R.L.",
+    "anio": null,
+    "isbn": "",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "4ta Edic.",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Matemáticas",
+      "FEM"
+    ],
+    "formato": "Físico",
+    "notas": "El método de los elementos finitos de Olek C. Zienkiewicz es una obra fundamental y clásica en ingeniería computacional, considerada uno de los textos más influyentes en la formulación y desarrollo del Método de Elementos Finitos (MEF/FEM). El libro presenta con rigor matemático y claridad ingenieril los principios que permiten discretizar problemas continuos —como elasticidad, transferencia de calor, mecánica de fluidos y dinámica estructural— en un conjunto de ecuaciones resolubles numéricamente. Su fortaleza está en el equilibrio entre teoría y aplicación: desarrolla las bases variacionales, formulaciones matriciales, elementos isoparamétricos, tratamiento de condiciones de borde, análisis lineal y no lineal, y criterios de convergencia y error. Es un texto exigente pero extremadamente valioso para estudiantes avanzados, investigadores y profesionales que buscan comprender el MEF desde sus fundamentos y utilizarlo con criterio técnico sólido en simulaciones y diseño de ingeniería.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768777332707-b6d569537bebf8",
+    "titulo": "Mecánica de Fluidos",
+    "autor": "Irving Shames",
+    "anio": null,
+    "isbn": "",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "3era ed.",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Mecánica de Fluídos"
+    ],
+    "formato": "Físico",
+    "notas": "En la tercera edición de este libro, no hay capítulos nuevos, pero sí muchos nuevos ejemplos y nuevas secciones. Se han agregado, por ejemplo, en el capítulo 7, las deducciones de las formas diferenciales de las cuatro leyes básicas mediante procedimientos idénticos, utilizados en otros campos, a partir de las formas integrales de estas leyes.\n\nEsto se hace con la ayuda de la fórmula de Cauchy y el teorema de Gauss, cuyas deducciones son parte del análisis. Otra característica que el autor ha incluido es la flexibilidad en el sentido de que en varios puntos importantes hay rutas múltiples, señaladas en las notas de pie de página, que el lector puede seguir.\n\nComo ejemplo, el flujo de Poiseuille en tuberías se deduce utilizando los primeros principios en el capítulo 7. En esa parte se informa al lector que puede remitirse a ciertas secciones del capítulo 9 donde se establecen las ecuaciones de Navier-Stokes y donde este flujo se deduce utilizando directamente estas ecuaciones.\n\nEn resumen, esta tercera edición, mantiene el rigor y el nivel de las ediciones anteriores, es más fácil para el instructor y más fácil y efectiva para el estudiante.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768777230607-c96f9426fec16",
+    "titulo": "Pronósticos, series de tiempo y regresión, un enfoque aplicado",
+    "autor": "Bruce L. Bowerman",
+    "anio": 2007,
+    "isbn": "",
+    "editorial": "Cengage Learning",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Matemáticas",
+      "Pronósticos"
+    ],
+    "formato": "Físico",
+    "notas": "Descripcion Como lo indica el subtítulo esta obra fue concebida con la idea de cubrir cursos de estos temas en los que se haga mucho hincapié en las aplicaciones del ámbito profesional. Por lo mismo en primer lugar los autores intentan que el estudiante comprenda y después practique; posteriormente destacan el uso de la tecnología actual y no se ciñen a un solo software.Contenido Introducción a los pronósticos. Conceptos estadísticos básicos. Regresión lineal simple. Regresión lineal múltiple. Construcción de modelos y análisis residual. Regresión de series de tiempo. Métodos de descomposición. Suavizamiento exponencial. Modelos no estacionales de Box Jenkins y su identificación tentativa. Estimación revisión de diagnósticos y pronósticos para los modelos no estacionales de Box Jenkins. Modelado no estacional de Box Jenkins. Modelado no estacional avanzado de Box Jenkins.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768775045375-d607070efc1898",
+    "titulo": "Diseño en ingeniería mecánica",
+    "autor": "Joseph Edward Shigley, Charles R. Mischke, Cuitláhuac rev.téc Osornio Correa",
+    "anio": 1990,
+    "isbn": "9789684227781",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Diseño",
+      "Mecánica"
+    ],
+    "formato": "Físico",
+    "notas": "Este libro se escribió para estudiantes que inician su estudio en el diseño en ingeniería mecánica.\nEl enfoque está en la combinación del desarrollo de conceptos fundamentales con la especificación práctica de componentes. Los estudiantes deberán encontrar que este libro los conduce de manera inherente a familiarizarse tanto con las bases para tomar decisiones, como también con las normas para componentes industriales. Por esta razón, cuando los estudiantes pasen a ser ingenieros practicantes, se darán cuenta que este texto es indispensable como referencia.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768774886405-0c179ea4b2d3e",
+    "titulo": "Estadística aplicada a través de Excel",
+    "autor": "César Pérez López",
+    "anio": 2002,
+    "isbn": "9788420535364",
+    "editorial": "PRENTICE HALL",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "Estadistica Aplicada. La finalidad de este texto es presentar un contenido estadístico de nivel inicial-medio, pero a la vez amplio, que sirva de apoyo tanto a estudiantes universitarios como a profesionales que necesitan asentar sus conocimientos en estadística, independientemente de su área de formación (ciencias o letras). El libro puede ser un buen complemento a la formación que reciben los estudiantes en las distintas Facultades en las que se cursa la materia. Asimismo, los conceptos y ejemplos más sencillos también podrían ser útiles en la Enseñanza Secundaria (concretamente en los dos últimos cursos de Bachillerato).Se comienza tratando los temas más sencillos, como pueden ser la estadística descriptiva, variables aleatorias discretas y continuas, tablas de frecuencias para variables unidimensionales y bidimensionales, independencia y relación entre variables, regresión y correlación, variables cualitativas, tablas de contingencia y números índices. Más adelante, y a medida que se avanza en contenido, se tratan temas como las distribuciones de frecuencias, leyes de probabilidad, funciones de densidad, funciones de distribución, valores críticos y otras características. Por último, se abordan temas estadísticos ya más especializados, como intervalos de confianza, contrastes de hipótesis, estimación no paramétrica, modelos del análisis de la varianza, modelos de regresión múltiple, modelos de series temporales y programación lineal y optimización.En cuanto a la metodología, dentro de cada tema se comienza con una breve descripción teórica de los conceptos a utilizar indicando sus posibles aplicaciones prácticas y resolviendo, con el apoyo de la hoja de cálculo Microsoft Excel, un número elevado de problemas secuenciados en contenido y grado de dificultad.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=DBADOgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768771598208-5d6ebd58ec8d38",
+    "titulo": "Ventilación Industrial",
+    "autor": "Adelqui Fissore Sch",
+    "anio": 2001,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Apuntes del curso ventilación industrial udEC",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768771450150-0320653c985ba",
+    "titulo": "Conflictos por el agua en Chile, entre los derechos humanos y las reglas del mercado",
+    "autor": "Harris Castro, varios autores",
+    "anio": 2010,
+    "isbn": "9789567889433",
+    "editorial": "Fundación Heinrich Boll",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Medioambiente"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768771304571-f238e676152cc8",
+    "titulo": "Estudios de confiabilidad, disponibilidad y mantenibilidad",
+    "autor": "",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Confiabilidad",
+      "Mantenibilidad",
+      "Disponibilidad"
+    ],
+    "formato": "Físico",
+    "notas": "Compilación de trabajos del area. Evaluación de la confiabilidad de equipos mediante el seguimiento de indicadores. Aplicación a la industria ferroviaria. A. Sanchez, G. Clemente, J. S. Martorell. Congreso nacional de estadística e investigación operativa. León, 8-11 Abril 2003.\n\nAnálisis de Confiabilidad, Disponibilidad y Mantenibilidad en Sistemas Productivos. Hernando Gómez de la Vega, Nayrhi Medina, Medardo Yanez. Reliability and Risk Management S.A.\n\nMetodología para medir confiabilidad, mantenibilidad y disponibilidad en mantenimiento. Juan Carlos Toro Osorio, Pedro Alejandro Céspedes Gutiérrez.\n\nCaso de estudio sobre el análisis de la fiabilidad en una planta de triturado de mineral en Chile. Fredy Kristjanopel, Adolfo Arata Andreani.\n\nEstimación de la confiabilidad-disponibilidad-mantenibilidad mediante una simulación tipo Monte Carlo de un sistema de compresión de gas amargo durante la etapa de ingeniería. R. Melo-González, C. Lara-Hernández, F. Jacobo-Gordillo. Ciencia Ed. (IMIQ) vol. 24(2): 93-104, 2009.\n\nLa confiabilidad, la disponibilidad y la mantenibilidad. Disciplinas modernas aplicadas al mantenimiento. Dairo H. Mesa Grajales, Vesi Ortiz Sánchez, Manuel Pinzón. Scientia et Technica Año XII, No 30, Mayo de 2005 UTP. ISSN 0122-1701.\n\nConfiabilidad: Historia, estado del arte y desafíos futuros. Luis A. Escobar R., Enrique P. Villa D., Sergio Yañez C. Dyna, vol. 70, núm. 140, noviembre, 2003, pp. 5-21, Universidad Nacional de Colombia. Colombia\n\nIngeniería de Confiabilidad; Pilar Fundamental del Mantenimiento. Medardo Yañez, José L. Perdomo, Hernando Gomez de la Vega. Reliability and Risk Management S.A.\n\nLa fiabilidad del mantenimiento predictivo. Su justificación. Dificultades en la implantación. Experiencia en el mantenimiento. Pedro Joaquín Fernández.\n\nDynamic reliability block diagrams: Overview of methodology. Salvatore Distefano & Antonio Puliafito, Risk, Reliability and Societal Safety – Aven & Vinnem (eds) © 2007 Taylor & Francis Group, London, ISBN 978-0-415-44786-7.\n\nConfiabilidad Operativa de Sistemas para Compresión de Gas y Generación Eléctrica en Complejos Petroleros. Marco P. Flores, José G. Torres, José H. Rodríguez y Agustín M. Alcaraz. Información Tecnológica Vol. 21(3), 13-25 (2010) doi:10.1612/inf.tecnol.4363aybrt.05\n\nConfiabilidad de componentes, sistemas y unidades de generación hidroeléctrica. Ramón Sánchez Sánchez, Gerardo Torres Toledano y José Manuel Franca Nova. Boletín IIE noviembre-diciembre 1996.\n\nPropuesta de un modelo de gestión de mantenimiento y sus principales herramientas de apoyo. Pablo Viveros. Revista chilena de ingeniería, vol. 21 N° 1, 2013, pp. 125-138\n\nNTP 417: Análisis cuantitativo de riesgos: fiabilidad de componentes e implicaciones en el mantenimiento preventivo. Antonio Cejudo López. Josefina Domínguez Biosca. CENTRO NACIONAL DE CONDICIONES DE TRAB...\n\nAnálisis Confiabilidad a conformado Rodillos según Modos de Fallo – (Julian Tasama). Scientia et Technica ...",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768770970143-6f54e0103c38b",
+    "titulo": "Investigación de Operaciones",
+    "autor": "Francisco Chediak",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Optimización",
+      "Investigación de Operaciones"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768770885986-a666f483bb24c8",
+    "titulo": "Diseño para el perfeccionamiento del mercado eléctrico nacional en la transición hacia esquemas de ofertas incorporando señales de flexibilidad y nuevos agentes participantes",
+    "autor": "Dictuc",
+    "anio": 2021,
+    "isbn": "",
+    "editorial": "CNE",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Energía",
+      "Mercado Eléctrico"
+    ],
+    "formato": "Físico",
+    "notas": "Informe preparado por Dictuc para la comisión nacional de energía",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768770638496-c12c3b461085f8",
+    "titulo": "La Conquista del azar, la teoría de probabilidades",
+    "autor": "Fernando Corbalán, Gerardo Sanz, Sanz Sáiz Sanz",
+    "anio": 2010,
+    "isbn": "",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "14",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Matemáticas",
+      "Probabilidad"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768770567762-26972e4ed05d78",
+    "titulo": "Mentes, máquinas y matemáticas. La Inteligencia Artificial y sus retos",
+    "autor": "Ignasi Belda",
+    "anio": 2011,
+    "isbn": "",
+    "editorial": "RBA",
+    "coleccion": "El Mundo es Matematico",
+    "vol": "25",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "IA"
+    ],
+    "formato": "Físico",
+    "notas": "Mentes, máquinas y matemáticas: La inteligencia artificial y sus retos, de Ignasi Belda, es un libro de divulgación que aborda la inteligencia artificial (IA) desde una perspectiva matemática y conceptual, analizando tanto sus fundamentos como los desafíos que plantea para la ciencia y la sociedad contemporánea. La obra explica cómo las matemáticas sostienen el funcionamiento de los sistemas inteligentes, introduciendo de forma accesible ideas como algoritmos, modelos, aprendizaje automático, optimización y toma de decisiones automatizada. El autor muestra que, más allá de la apariencia “inteligente” de las máquinas, existe una base rigurosa de métodos matemáticos que permite simular, aprender y predecir comportamientos. Uno de los ejes centrales del libro es la reflexión sobre los límites y retos de la IA: qué significa realmente que una máquina “piense”, hasta dónde puede llegar la automatización y qué implicaciones éticas, sociales y laborales surgen de su desarrollo. El texto invita a distinguir entre expectativas exageradas y posibilidades reales, aportando una mirada crítica y bien informada.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768770437055-44b366efd34e58",
+    "titulo": "Estadística Industrial (temas de estadisticas para ingenieros)",
+    "autor": "Rosa Rodriguez, Antonio Gomez, Luis Trecgeram Santiago Fandiño",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "Universidad de Cadiz",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Estadística"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768770306972-454c66f34db38",
+    "titulo": "Hot Strip Mill Operations - Coolings",
+    "autor": "David Blazevic",
+    "anio": 1990,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "1",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Laminación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768770153770-7616be8f9e841",
+    "titulo": "Estudio del trabajo",
+    "autor": "Garcia, Roberto",
+    "anio": null,
+    "isbn": "",
+    "editorial": "McGraw-Hill",
+    "coleccion": "",
+    "vol": "2da Ed.",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Operaciones",
+      "Industrial"
+    ],
+    "formato": "Físico",
+    "notas": "ContenidoPrefacio xvCapítulo 1 Ingeniería del trabajo o simplificación del método 1Diseño del trabajo o simplificación del método: aspectos generales 1El diseño del trabajo y su objetivo 2Orígenes de la empresa industrial 2Evolución de la empresa industrial 2Concepto de empresa 4Clases de empresas 4Análisis de la industria en México 5Características generales de las empresas según su tamaño 7Áreas de actividad de la ingeniería de métodos 8Bibliografía 8Capítulo 2 Organización de la producción 9La productividad, un objetivo prioritario 9Factores que restringen la productividad 10Criterios para analizar la productividad 11Productividad y nivel de vida 12Temores al promover el aumento de la productividad 12La dirección en el incremento de la productividad 13Productividad de las instalaciones, de la maquinaria, del equipo y de la mano de obra 15Productividad en la industria 15Indicadores importantes 19Eficacia y eficiencia 19Bibliografía 22Capítulo 3 Condiciones de trabajo 23Generalidades 23Limpieza 24Agua potable e higiene 24Orden 24Calidad e intensidad de iluminación 25Ventilación, calefacción y refrigeración 27Acondicionamiento cromático 29Ruido y vibraciones 29Música ambiental 31Bibliografía 31Capítulo 4 Estudio de los métodos de trabajo",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768770000647-4afc1fd6b580c8",
+    "titulo": "Apuntes de Matlab orientado a métodos numéricos elementales",
+    "autor": "Rosa Echevarría",
+    "anio": 2017,
+    "isbn": "",
+    "editorial": "Universidad de Sevilla",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Matlan",
+      "Programación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768769937490-7b25fbacbf4108",
+    "titulo": "Aprenda Matlab 4.2 como si estuviera en primero",
+    "autor": "Javier García, Rufino Goñi",
+    "anio": 1997,
+    "isbn": "",
+    "editorial": "Universidad de Navarra",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Matlab",
+      "Programación"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768769812182-da8374d37ae618",
+    "titulo": "Manual de selección de correas transportadoras y elevadoras",
+    "autor": "Goodyear",
+    "anio": null,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Coliumo",
+      "Correas",
+      "Diseño"
+    ],
+    "formato": "Físico",
+    "notas": "Manual de consulta rápida para proyectar y seleccionar correas trasnportadoras.",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768769694835-77f979737cefe",
+    "titulo": "Dirección de la producción y de operaciones, decisiones tácticas",
+    "autor": "Jay Heizer, Barry Render",
+    "anio": 2008,
+    "isbn": "9788490352854",
+    "editorial": "Prentice Hall",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Operaciones",
+      "Gestión",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Este texto ha sido escrito con el fin de servir de introducción al campo de la dirección de la producción, y proporciona a los lectores una visión concisa y detallada sobre los temas relativos al mismo. El propósito de la obra es mostrar los principios fundamentales de la producción y cómo estos se destinan a conseguir una empresa más competitiva. El libro incluye operaciones de estrategia para conseguir la superioridad en el mundo de la competencia.\n\n\nPrólogo\nParte I: Dirección de las operaciones\n1. Dirección de la cadena de suministros\nSuplemento 1. Comercio electrónico y dirección de operaciones\n2. Gestión de inventarios\n3. Planificación agregada\n4. Planificación de las necesidades de materiales (MRP) y ERP\n5. Programación a corto plazo\n6. Sistemas de producción justo a tiempo y de producción ajustada\n7. Mantenimiento y fiabilidad\nParte II: Módulos cuantitativos\nMódulo cuantitativo A. Herramientas para la toma de decisiones\nMódulo cuantitativo B. Programación lineal\nMódulo cuantitativo C. Modelos de transporte\nMódulo cuantitativo D. Modelos de colas (líneas de espera)\nMódulo cuantitativo E. Curvas de aprendizaje\nMódulo cuantitativo F. Simulación\nApéndice I. Áreas bajo la curva normal\nApéndice II. Valores de e- para su utilización en la distribución de Poisson\nApéndice III. Tabla de números aleatorios\nApéndice IV. Cómo utilizar Excel OM y POM para Windows\nApéndice V. Solución a los problemas de número par\nÍndice analítico",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768769412265-c4c7272c4eb94",
+    "titulo": "Elementos de Muestreo",
+    "autor": "Richard L. Scheaffer, William Mendenhall, Lyman Ott",
+    "anio": 2006,
+    "isbn": "0534418058",
+    "editorial": "Paraninfo",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Estadística",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "esta obra es un libro de texto introductorio acerca del diseño y análisis de encuestas por muestreo dirigidas a estudiantes de económicas y empresariales, ciencias sociales, ciencias de la salud, estudios medioambientales, administración de recursos naturales u otras áreas que utilizan de forma abundante el muestreo. se ha escrito para que resulte atractivo a los estudiantes en la aplicación del muestreo de encuestas, no en la teoría estadística que subyace al diseño y análisis de las encuestas; el único requisito previo es un curso elemental de estadística.en este libro se enfatizan los aspectos prácticos de los problemas de muestreo. comienza con capítulos breves acerca de las encuestas por muestreo en el mundo actual. a continuación, cada capítulo introduce un diseño de encuestas por muestreo, o procedimiento de estimación, que describe el problema práctico en cuestión.después de un breve capítulo introductorio, el libro ofrece una descripción de los términos relacionados con el muestreo de encuestas, junto con una descripción acerca del diseño de cuestionarios y métodos de recolección de datos (capítulo 2). a continuación, algunas de las ideas de la estadística básica se relacionan con problemas elementales del diseño y análisis de las encuestas por muestreo (capítulo 3). los capítulos 4, 5, 7 y 8 presentan los cuatro diseños más comunes de encuestas por muestreo, concretamente, el muestreo aleatorio simple, el muestreo aleatorio estratificado, el muestreo sistemático y el muestreo por conglomerados, respectivamente. el capítulo 6 ofrece una noción acerca del uso de una variable auxiliar a través de la estimación de la razón, regresión y diferencia. los capítulos restantes tratan acerca del muestreo por conglomerados en dos etapas y otros problemas específicos relacionados con el muestreo de encuestas. elementos de muestreo isbn: 8497324935autores: scheaffer richard l., lyman ott r. , mendenhall williameditorial: paraninfotema: diseño experimental muestreoedición: 2006tapa: rústicapáginas: 480peso: 0,72kg.idioma: español",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=miInAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768769061446-0a804ebcbade48",
+    "titulo": "Técnicas analíticas de separación",
+    "autor": "M. Valcárcel Cases, A. Gómez Hens",
+    "anio": 1994,
+    "isbn": "9788429179842",
+    "editorial": "Reverte",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Química",
+      "Ciencia de materiales"
+    ],
+    "formato": "Físico",
+    "notas": "Pese a la existencia de buenas monografías sobre las distintas técnicas de separación, desde hace años no se ha publicado una obra general con orientación fundamentalmente pedagógica. Nuestro objetivo al publicar este libro de texto es cubrir el hueco existente en la bibliografía y tratar de ofrecer una visión moderna, amplia y a la vez sencilla de las técnicas analíticas que impliquen la transfer…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=WPYYF75dejsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768768975906-58601c4074b388",
+    "titulo": "Handbook of Environmental Risk Assessment and Management",
+    "autor": "Peter P. Calow",
+    "anio": 1998,
+    "isbn": "9780865427327",
+    "editorial": "Wiley-Blackwell",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Handbook",
+      "Medioambiente"
+    ],
+    "formato": "Físico",
+    "notas": "At the heart of environmental protection is risk assessment: the likelihood of pollution from accidents; the likelihood of problems from normal and abnormal operation of industrial processes; the likely impacts associated with new synthetic chemicals; and so on. Currently, risk assessment has been very much in the news--the risks from BSE and E. coli, and the public perception of risks from nuclea…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=RgTsg-MaME4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768768860166-0cbd17a257a78",
+    "titulo": "Tecnologias Limpias en las Industrias Extractivas Minero-Metalurgicas y Petrolera",
+    "autor": "Roberto C. Villas-Bôas y Mario Sanchez,editores",
+    "anio": 2006,
+    "isbn": "9788572272360",
+    "editorial": "CYTED-CETEM",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Industrias",
+      "Minería",
+      "Tecnologías Limpias",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "Tecnologias Limpias en las Industrias Extractivas Minero-Metalurgicas y Petrolera",
+    "comentarios": "Este documento presenta una introducción sobre la relación entre la producción de materiales y el medio ambiente. Explica que aunque los materiales son fundamentales para el desarrollo de una nación, cualquier proceso productivo genera efluentes que afectan el medio ambiente. Analiza algunos problemas ambientales asociados a la extracción y procesamiento de metales. El objetivo es promover el diseño de procesos y productos que sean más amigables con el medio ambiente.",
+    "portada": "https://books.google.com/books/content?id=0-Lr8UEXLjsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768768701852-06d752811ae78",
+    "titulo": "Teoría de los vehículos automóviles",
+    "autor": "Carlos Vera, Vicente Díaz López",
+    "anio": 2016,
+    "isbn": "9788416277612",
+    "editorial": "Dextra",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Mecánica",
+      "Automóviles",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "La creciente demanda de prestaciones de prestaciones de los vehículos, unida a la necesidad de reducir lo máximo posible los efectos negativos de su uso masivo, ha llevado al desarrollo de una gran cantidad de conocimientos obtenidos de la investigación de los múltiples aspectos relacionados con los automóviles. Sin embargo, pese a que muchos de estos conocimientos han alcanzado la categoría de disciplinas académicas, pocos son los textos que plasmen, de forma sistemática, los contenidos de tales disciplinas. Para suplir esta carencia aparece este libro que aborda desde los conceptos introductorios de la materia a la interacción del vehículo, como sistema, con su medio o la dinámica vehicular. Todos los capítulos incorporan ejercicios resueltos con el fin de ayudar a la comprensión de la teoría y completar los temas tratados desde una perspectiva más aplicada.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/teoria-de-los-vehiculos-automoviles.jpg"
+  },
+  {
+    "id": "libro-1768768645382-894ca60ddf87",
+    "titulo": "Gestión de Operaciones",
+    "autor": "Eduardo Salazar Horning",
+    "anio": 2001,
+    "isbn": "",
+    "editorial": "UDEC",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Operaciones",
+      "Industrias",
+      "Gestión",
+      "Anillado",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768768509971-cf16a443d3e9a",
+    "titulo": "Oleohidráulica Avanzada",
+    "autor": "Julio Huenul",
+    "anio": null,
+    "isbn": "",
+    "editorial": "Javal",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Oleohidráulica",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768768281687-40b5862cd30108",
+    "titulo": "Mantención de válvulas de control de mariposa",
+    "autor": "INECO",
+    "anio": 2001,
+    "isbn": "",
+    "editorial": "",
+    "coleccion": "Guía del estudiante",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Instrumentación",
+      "control",
+      "Mantenimiento"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768768163892-ae4aa1d23ac19",
+    "titulo": "Implementación de modelos de aprendizaje para predecir la generación de energía solar fotovoltaico en Biobio y Ñuble",
+    "autor": "Marcelo Pazols",
+    "anio": 2024,
+    "isbn": "",
+    "editorial": "UNAB",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Anillado",
+      "Energía",
+      "IA"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768768062127-f8968c3cf4bd4",
+    "titulo": "Modernización de la sala hidráulica Sumitomo de colada continua de planchines en Huachipato",
+    "autor": "Rodrigo Araya",
+    "anio": 2005,
+    "isbn": "",
+    "editorial": "UBB",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Tesis",
+      "Huachipato",
+      "Coliumo",
+      "Hidráulica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1766939142624-c7065147f1bb18",
+    "titulo": "Ingeniería de la confiabilidad: teoría y aplicación en proyectos de capital y en la operación de instalaciones industriales a través del enfoque R-MES",
+    "autor": "Adolfo Arata, Arata Alessio",
+    "anio": 2013,
+    "isbn": "9789562849678",
+    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Confiabilidad",
+      "Gestión de Activos",
+      "Repetido"
+    ],
+    "formato": "Físico",
+    "notas": "En estas páginas se ha volcado de manera clara toda la experiencia internacional desarrollada durante muchos años, no solo producto de un trabajo académico y de investigación pura, sino también de lo realizado en diferentes empresas de relieve internacional. Este nuevo libro de Adolfo Arata posee todos los elementos necesarios para convertirse en un poderoso instrumento de formación, por lo que lo…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=9wnfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1768765721646-787456231f395",
+    "titulo": "Problemas de teoría del buque, estática",
+    "autor": "José Ivan Martínez García",
+    "anio": 2015,
+    "isbn": "9788494174612",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Navegación",
+      "Buque",
+      "Estática"
+    ],
+    "formato": "Físico",
+    "notas": "En este libro el autor plantea y resuelve una serie de problemas de mecánica aplicada al buque, tras una explicación teórica y la deducción de las fórmulas que se van a emplear. Estos serán útiles a los alumnos de las asignaturas de teoría del buque de los grados y de formación profesional, así como a los oficiales de cubierta de los buques. El enfoque de resolución es eminentemente práctico y todos los pasos de los ejercicios están explicados pormenorizadamente. Además, se utilizan varias hojas de cálculo Excel con macros y programación muy útiles.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/problemas-de-teoria-del-buque-estatica.jpg"
+  },
+  {
+    "id": "libro-1768765589947-b043dcf60802d8",
+    "titulo": "Microsoft Jscript.Net Programming",
+    "autor": "Justin Rogers",
+    "anio": 2002,
+    "isbn": "9780672321481",
+    "editorial": "Sams Publishing",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Lenguaje Programación",
+      "Informática"
+    ],
+    "formato": "Físico",
+    "notas": "This book provides a comprehensive transition from JScript to the .NET Framework/platform including coverage of JScript.NET (language), ASP.NET, and Windows Forms. The book will discuss the language changes to ease the developer into working with the new syntax. and then several chapters on ASP.NET will correlate the differences between the former ASP programming model and the new .NET programming…",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=_ybRMWJufiEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766939023020-99da853ecf0e68",
+    "titulo": "Ingeniería y gestión de la confiabilidad operacional en plantas industriales. Aplicación de la plataforma R-MES",
+    "autor": "Adolfo Arata",
+    "anio": 2009,
+    "isbn": "9789562846585",
+    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Ingeniería",
+      "Gestión de Activos",
+      "Mantenimiento",
+      "Confiabilidad",
+      "Repetido"
+    ],
+    "formato": "Físico",
+    "notas": "Una contribución para el desarrollo y la implementación da la Ingeniería de Confiabilidad, tanto como documento de consulta para los profesionales que se relacionan con esta actividad, sean mantenedores, ingenieros de proyecto o consultores, como también un texto de estudio para estudiantes de ingeniería en las especialidades de proyecto, gestión y mantenimiento de activos físicos.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=7wnfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "libro-1766948452738-64357d980b1718",
+    "titulo": "Ciencia de Datos Python",
+    "autor": "Christopher Wilkinson",
+    "anio": 2020,
+    "isbn": "9781654192389",
+    "editorial": "Independently Published",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Programación",
+      "Ciencia de Datos",
+      "Phyton",
+      "Repetido"
+    ],
+    "formato": "Físico",
+    "notas": "Una guía definitiva para que los principiantes aprendan los fundamentos de la ciencia de datos con Python",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=Mu4tzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1768764558285-e9d1b47563acb",
+    "titulo": "La cal ¡es un reactivo químico!",
+    "autor": "Guillermo Coloma Alvarez, Canadian Institute of Mining and Metallurgy, Instituto de Ingenieros de Minas de Chile",
+    "anio": 2008,
+    "isbn": "9789563192254",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Química",
+      "Materiales"
+    ],
+    "formato": "Físico",
+    "notas": "La cal es un compuesto químico que se obtiene mediante un proceso de descarbonatacion mediante calcinación del carbonato que contienen las calizas, huesos, o conchas, para convertirlo en óxido. En este caso particular se trata del carbonato de calcio que es transformado en oxido de calcio, llamado comúnmente como cal viva calcifica.\nEste compuesto químico, es muy versátil, ávido de agua por lo que la absorbe a una velocidad muy acelerada. y es utilizado en la industria química, minera, metalúrgica, siderúrgica, del vidrio, de papel y pulpa, del plástico, de las pinturas, de las alfombras, neutralización de aguas, de suelos, de residuos industriales en general y muchas otras industrias más.\nEn Chile es mayoritariamente utilizado la industria minera del cobre sulfurado para obtener concentrados de cobre, en la industria minera del oro, del hierro, del Litiio, de los Nitratos, del agua y de los residuos líquidos y sólidos.\nEs un reactivo muy económico, sólo alcanza alrededor del 1 al 2% del costo en la obtención de cobre, menor que eso en la del oro y plata, y es fundamental par que los procesos respondan bien metalúrgicamente, es por ello que en la industria minera es utilizado como un insumo o sustancia estratégica y no como un reactivo químico, lo que conlleva a altos consumos y poca importancia relativa por usarlo como reactivo donde las variables para su control dependen de la presión, del volumen, de la temperatura y la concentración.\nLos altos consumos que algunas veces no son tan importantes bajo el punto de vista económico, si son importantes bajo el punto de vista de efecto invernadero ya que por cada tonelada de cal producida y consumida, se emiten más de 1,5 toneladas de CO2 al medioambiente.\nEn este libro, se abordan los tópicos físico químicos para demostrar que no es un material ni un insumo, sino que es un reactivo químico que de ser tratado como tal, toda la industria productora, usuaria el medioambiente se vería beneficiado.",
+    "comentarios": "Guillermo Coloma Alvarez\nNació en Valparaíso Chile en 1952, es Químico Analista de la Universidad Técnica del Estado, hoy Universidad de Antofagasta con Diplomado en Metalurgia Extractiva de la Universidad Católica del Norte. Diplomado en Desarrollo Geerencial en la Universidad del Desarrollo; y Diplomado en Desarrollo de la Capacidad Emprendedora de la Universidad Adolfo Ibañez.\n\nTrabajó para la Industria Nacional de cal en Chile como Jefe de Asistencia Técnica en Cal principalmente par la industria químiica y minera en general , también como Gerente Técnico en Lhoist, donde adquirió conocimientos para el uso y aplicación de la cal en la industria Siderúrgica, medioambiente y otros usos de la cal; como Gerente Técnico para Sudamerica en Sibelco; y socio, Director - Gerente Técnico y Comercial de Coloma consultores Ltda, empresa dedicada a entregar Consultoría y Gestión Gerencial en cal en Chile; Bolivia; Perú; y Argentina.\n\nHa presentado papers, charlas y conferencias sobre la cal en diferentes eventos minero metalúrgicos en Chile; Bolivia; Perú; Argentina; Bélgica; España; Estados Unidos; Canadá y Brasil .\n\nEs coautor de los libros La cal En El beneficio de Los Minerales 1ra y 2da edición; La Cal en la Metalurgia Extractiva 1ra edición; La cal en Procesos Metalúrgicos y de Medio Ambiente y autor de los libros La Cal ¡Es un reactivo Químico y La Cal, CaO más alto implica ahorro de energía y agua.\n\nMás de 12 años se ha dedicado con su empresa Coloma Consultores a realizar consultorías en cal en la industria minera para optimizar la producción y elaboración de lechada de cal, con una visión de optimizar el desempeño operacional de las plantas de lechada de cal, disminuir consumos de cal para disminuir la huella de carbono de las mineras y gastos asociados al reactivo; y optimizar el acondicionamiento químico para que los otros reactivos tenso activos utilizados entreguen su máximo desempeño mejorando los parámetros metalúrgicos de la operación, los que redundan en aumentos de productividad de las empresas mineras, procesando mayor cantidad de mineral en la molienda SAG.\n\nActualmente con 73 años es jubilado y escribe sobre este reactivo químico, para entregar los conocimientos que ha adquirido por más de 40 años dedicado a la cal y porque no decir también, para mejorar sus ingresos económicos de pensión.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-cal-es-un-reactivo-quimico.jpg"
+  },
+  {
+    "id": "libro-1768762279992-e9113053bfddb8",
+    "titulo": "Mechanical Design Handbook",
+    "autor": "Harold A. Rothbart",
+    "anio": 1996,
+    "isbn": "9780070540385",
+    "editorial": "McGraw-Hill Professional Publishing",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Diseño",
+      "Mecánica",
+      "Handbook"
+    ],
+    "formato": "Físico",
+    "notas": "Designed for on-the-job use, this thorough sourcebook spans the entire range of mechanical design--from standards tables to class analytical methods. Includes current data on mechanical, electromechanical, pneumatic and hydraulic components. 900 illus.",
+    "comentarios": "",
+    "portada": "https://books.google.com/books/content?id=P8t0QgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "libro-1767102307589-f48c01cf722b58",
+    "titulo": "Seguridad industrial y administración de la salud",
+    "autor": "C. Ray Asfahl, David W. Rieske",
+    "anio": 2010,
+    "isbn": "9786074429398",
+    "editorial": "Pearson",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Seguridad",
+      "Salud",
+      "Administración",
+      "Repetido"
+    ],
+    "formato": "Físico",
+    "notas": "Acerca de la obra esta edición ofrece un amplio y claro panorama en el que puede apreciarse la relevancia que la seguridad y la salud ocupacionales tienen en el entorno actual, inmerso en los avances tecnológicos que ha traído consigo el siglo veintiuno, y que obligan a prestar especial atención a las normas y a las prácticas laborales. Ventajas competitivas la presente edición incluye los siguientes temas, que están provocando cambios en los métodos de trabajo e impactan en la seguridad y la salud: - robótica y nanotecnología - control de la calidad del aire interior - reducción de la emisión de carbono - consumo y administración de la energía - ingeniería verde - reto del calentamiento global.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/seguridad-industrial-y-administracion-de-la-salud.jpg"
+  },
+  {
+    "id": "libro-1768761723553-3a713bf5262b68",
+    "titulo": "Aprendiendo Borland C++ Builder 3 en 21 días",
+    "autor": "Kent Reisdorph",
+    "anio": 1999,
+    "isbn": "9789701702031",
+    "editorial": "Prentice Hall",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Informatica",
+      "Lenguaje Programación",
+      "Base de datos"
+    ],
+    "formato": "Físico",
+    "notas": "En solo 21 dias tendra todos los conocimientos que necesita para programa en Borland C++builder. Con este tutorial pronto dominara los fundamentos y se proyectara hacia tecnica y conceptos mas avanzados.El poder de arrastrar y colocar de C++Builder 3 de Borland es todo suyo a traves de Aprendiendo Borland C++Builder 3 en 21 dias. En muy poco tiempo sera capaz de crear programas rapidamente a parti…",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
+    "id": "libro-1768761058225-ded61d562a9cd",
+    "titulo": "La escuela del tecnico mecanico, Hidraulica, Motores y Bombas",
+    "autor": "Lana Sarrate, K. Albrecht",
+    "anio": 1966,
+    "isbn": "",
+    "editorial": "Labor S.A.",
+    "coleccion": "",
+    "vol": "5",
+    "categorias": [
+      "Mecánica",
+      "Bombas",
+      "Hidráulica"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "La Escuela del Técnico Mecánico – 8 Volumes – Tercera Edición:\nTomo 1: Aritmética, Álgebra, Planimetría, Trigonometría.\nTomo 2: Esterometría, Dibujo Lineal e Industrial, Proyecciones-Física, Calculo Diferencial e Integral.\nTomo 3: Mecánica, Resistencia de Materiales, Grafostática.\nTomo 4A: Elementos de Máquinas, Máquinas Elevadoras.\nTomo 4B: Elementos de Máquinas, Atlas de Construcción.\nTomo 5: Hidráulica, Motores Hidráulicos, Bombas.\nTomo 6: Termodinámica, Motores de Combustión Interna.\nTomo 7: Calderas, Máquinas de Vapor.\nLivros usados, em bom estado de conservação, amplamente ilustrados, capa dura. Em Espanhol.\nObs: Há sinais de desgaste e de amarelamento devido ao tempo.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-escuela-del-tecnico-mecanico-hidraulica-motores-y-bombas.jpg"
+  },
+  {
+    "id": "libro-1768760768452-908b960d384f6",
+    "titulo": "1976 Annual book of ASTM Standards",
+    "autor": "",
+    "anio": 1976,
+    "isbn": "",
+    "editorial": "ASTM",
+    "coleccion": "",
+    "vol": "4",
+    "categorias": [
+      "Normas",
+      "Coliumo"
+    ],
+    "formato": "Físico",
+    "notas": "",
+    "comentarios": "",
+    "portada": ""
+  },
+  {
     "id": "libro-1768716126902-a241753f469738",
     "titulo": "Tecnología de la refrigeración y aire acondicionado tomo II. Refrigeración comercial",
     "autor": "WHITMAN, WILLIAM C., JOHNSON, WILLIAM M.",
@@ -8,15 +1724,16 @@
     "editorial": "Ediciones Paraninfo, S.A.",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Termotecnia",
       "Refrigración",
       "Aire Acondicionado"
     ],
-    "formato": "Físico",
     "notas": "Esta obra ofrece un examen experto sobre todos los tipos de sistemas de refrigeración y aire acondicionado. Esta edición a cuatro colores cubre prácticamente todos los tipos de sistemas, desde los de gas a los de gasóleo, eléctricos y sistemas comerciales de gran escala. Los autores tienen una experiencia de casi 50 años en la industria y ofrecen una detallada mezcla de teoría y técnicas para la s…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=skGScUTsO5IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=skGScUTsO5IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768715786707-0e39aba4c3041",
@@ -27,13 +1744,14 @@
     "editorial": "McGraw-Hill",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "1. Sistemas de ecuaciones lineales.\n2. Vectores y matrices.\n3. Determinantes.\n4. Vectores en R2 y R3.\n5. Espacios vectoriales.\n6. Espacios vectoriales con producto interno.\n7. Transformaciones lineales.\n8. Valores característicos, vectores característicos y formas canónicas.",
     "comentarios": "José Job Flores Godoy\nUniversidad Iberoamericana Ciudad de México\n\nStanley I. Grossman S.\nUniversity of Montana University College London",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/algebra-lineal-7ed.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/algebra-lineal-7ed.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768715447284-5ca24622950238",
@@ -44,15 +1762,16 @@
     "editorial": "Prentice Hall",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Informatica",
       "Lenguaje Programación",
       "Base de datos"
     ],
-    "formato": "Físico",
     "notas": "texto introductorio y práctico orientado a comprender y aplicar el lenguaje XML (eXtensible Markup Language), utilizado para estructurar, almacenar e intercambiar información en sistemas informáticos. Explica desde los conceptos básicos (etiquetas, atributos, estructura jerárquica y reglas de sintaxis) hasta elementos más avanzados como DTD y XML Schema, validación de documentos, entidades, namespaces y transformación/visualización mediante XSL/XSLT. Su enfoque es formativo, con ejemplos y ejercicios, por lo que resulta útil para estudiantes o profesionales que requieren aprender XML para integración de datos, documentación técnica, interoperabilidad entre plataformas o desarrollo web.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-de-aprendizaje-xml.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/guia-de-aprendizaje-xml.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768715271498-184c9252c06ad",
@@ -63,14 +1782,15 @@
     "editorial": "Ocholibros",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mineria",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "Esta publicación, si bien tiene como eje la historia de la Enami, asume una perspectiva bastante más amplia. Incorpora una serie de ensayos que diversifican la mirada en torno a la minería, precisan ciertos tópicos y permiten una lectura más integral de ésta. Los antecedentes prehispánicos de esta actividad en Chile; la configuración urbana y arquitectónica de las ciudades edificadas para la minería; su relación con el medio ambiente; la evolución de la legislación minera y la visión psicosocial de la vida de los mineros, son algunos de los aspectos tratados aquí.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chile-minero-enami-en-la-historia-de-la-pequena-y-mediana-mineria-chilena.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/chile-minero-enami-en-la-historia-de-la-pequena-y-mediana-mineria-chilena.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768715029355-b7a3b33477bd48",
@@ -81,15 +1801,16 @@
     "editorial": "Morata",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Educación",
       "Universidad",
       "Divulgación"
     ],
-    "formato": "Físico",
     "notas": "Enseñanza universitaria, es una valiosa herramienta para el profesorado universitario novel; pretende estimular y apoyar una de las muchas actividades integradas en el trabajo universitario, la docencia. Se reconoce que la enseñanza está directamente afectada por los problemas administrativos, los horarios y las exigencias de la carga de trabajo, la cultura departamental, las expectativas de investigación propia del área de conocimientos y la forma de pensar acerca de los fines y valores de la educación superior. El profesorado principiante debe aprender a adaptarse a las circunstancias de su trabajo universitario y a configurarlas para facilitar su carrera profesional.\nTony HARLAND se opone a la división docencia-investigación y a la opinión popular de que ?la docencia roba tiempo a la investigación?. Proclama que tienen que considerarse todos los aspectos de la práctica universitaria, pero que la docencia se entiende mejor cuando está firmemente integrada en este trabajo.\nAquí se abordan preocupaciones muy corrientes entre el colectivo docente como, por ejemplo:\nLas clases magistrales,\nLa supervisión del ejercicio de la docencia a cargo de sus colegas,\nEl aprendizaje y los roles del alumnado universitario,\nLos debates como enfoque de la enseñanza,\nLas relaciones entre la investigación y la enseñanza,\nLa mentoría,\nLas materias a impartir y el pensamiento crítico,\nLa evaluación crítica.\n\nEl autor reflexiona también sobre el modo en que la docencia tiene que ser coherente con las funciones que deben desempeñar las universidades en el momento presente; la necesidad de educar personas comprometidas con las necesidades y urgencias sociales y, simultáneamente, profesionales conscientes de cómo aplicar el conocimiento en la sociedad, así como de los valores políticos y morales implícitos en los distintos usos sociales de los saberes.\nEs un libro, claro y práctico, pero riguroso en sus análisis y propuestas que será de gran ayuda para quienes se inician como docentes en instituciones universitarias, así como para el profesorado con más experiencia preocupado por comprender y mejorar su desarrollo profesional.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ensenanza-universitaria-una-guia-introductoria.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ensenanza-universitaria-una-guia-introductoria.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768714715895-2ce46d3da2f898",
@@ -100,15 +1821,16 @@
     "editorial": "Marcombo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Aire Acondicionado",
       "Calefacción",
       "Termotecnia"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=TwgM4oN2KFsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=TwgM4oN2KFsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768714456465-017c166a1e16c",
@@ -119,6 +1841,7 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Combustión",
       "Contaminación",
@@ -126,10 +1849,10 @@
       "Anillado",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "Conceptos básicos de combustión y formación de contaminantes en sitemas térmicos, con el fin de capacitar al alumno para el diseño y optimización de equipos desde el punto de vista energético y ambiental",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768713980094-b3495e014853",
@@ -140,16 +1863,17 @@
     "editorial": "Kluwer academic publishers",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Confiabilidad",
       "Datos",
       "Eurodata",
       "Anillado"
     ],
-    "formato": "Físico",
     "notas": "La demanda pública, cada vez mayor, y la creación de legislaciones nacionales e internacionales sobre seguridad han impulsado significativamente el desarrollo de las plantas nucleares como una parte correspondiente del sistema energético. Los organismos reguladores y las asociaciones industriales solicitan recopilar datos de confiabilidad para poder producir análisis de seguridad. También se necesitan datos de confiabilidad para evaluar la disponibilidad de las plantas y los servicios, y para mejorar la calidad de los procesos de producción, en particular, para satisfacer las necesidades de los operadores de planta y/o diseñadores en cuanto a planificación del mantenimiento, disponibilidad de producción, etc.\n\nLa necesidad de un esfuerzo educativo en el campo de la adquisición y procesamiento de datos ha sido destacada en el marco de EureData, una asociación de organizaciones que operan bancos de datos de confiabilidad.\n\nEsta asociación busca promover el intercambio de datos y la puesta en común (pooling) de datos entre organizaciones y fomentar la adopción de estándares compatibles y definiciones básicas para un intercambio consistente de datos de confiabilidad.\n\nDichas definiciones básicas se consideran esenciales para mejorar la calidad de los datos. Para abarcar cuestiones directamente vinculadas al conjunto amplio de aspectos relacionados con los datos, la definición de eventos de falla, causa común y error humano, datos de horas de prueba de operación y distribución, análisis de datos, funciones de distribución de vida útil, funciones de distribución acumulada, funciones de densidad, métodos de inferencia bayesiana, análisis multivariado, conjuntos difusos y teoría de la posibilidad, etc.\n\nMejorar la coherencia de las entradas de datos en el sentido más amplio posible es fundamental para la utilidad de dichos bancos de datos en análisis de seguridad, para operadores de planta, legisladores tanto como diseñadores, y se espera que en este contexto la presente recopilación de aportes de última generación pueda estimular nuevos perfeccionamientos en los numerosos ámbitos de aplicación.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768713680785-873a591d96168",
@@ -160,16 +1884,17 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Normas",
       "Muestreo",
       "Anillado",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768713560390-34d7774929122",
@@ -180,15 +1905,16 @@
     "editorial": "UNAB",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Tesis",
       "Coliumo",
       "Magister"
     ],
-    "formato": "Físico",
     "notas": "Magister Ingeniería civil industrial UNAB, prof. guía: José Luis Muñoz",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768713468257-3d2621e0b1f77",
@@ -199,14 +1925,15 @@
     "editorial": "UNAB",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Tesis",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768713132658-ad6597951840a",
@@ -217,14 +1944,15 @@
     "editorial": "UNAB",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Tesis",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "Ingeniería civil industrial UNAB, prof. guía: José Luis Muñoz",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768713009183-601b2b5a197fa8",
@@ -235,14 +1963,15 @@
     "editorial": "UNAB",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Tesis",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "Ingeniería civil industrial UNAB, prof. guía: José Luis Muñoz",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768712891915-07f2af71bc166",
@@ -253,15 +1982,16 @@
     "editorial": "Univ. Politèc. de Catalunya",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Barcos",
       "Navegación",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "Este libro está pensado para los estudiantes amantes de la mar que quieran iniciarse en la ciencia de la teoría del buque y para aquellos profesionales que tengan dentro de su cometido tomar decisiones que afecten a la puesta en calados del buque y a su estabilidad. Los temas se tratan con rigor, pero sin perder la objetividad que debe tener un libro de iniciación en esta materia. Su contenido se …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=EaCGJqNdL-kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=EaCGJqNdL-kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768712693738-cae55d7789841",
@@ -272,16 +2002,17 @@
     "editorial": "Paidos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Física",
       "Astronomía",
       "Difusión",
       "Ciencia"
     ],
-    "formato": "Físico",
     "notas": "Un recorrido por las vidas y el trabajo de mujeres que, aunque fueron ignoradas durante mucho tiempo, descubrieron las leyes fundamentales del universo, de la mano de la galardonada física cuántica Shohini Ghose.\n\nLas mujeres físicas y astrónomas de todo el mundo han transformado la ciencia y también la sociedad, pero casi nunca se ha reconocido el decisivo papel que han desempeñado en sus respectivos campos. En Su espacio, su tiempo, la galardonada física cuántica Shohini Ghose reúne las historias de estas excepcionales científicas para celebrar sus contribuciones.\n\nGhose ahonda en cuestiones como el estudio del tiempo, la exploración espacial, las partículas subatómicas, el big bang, el calendario cósmico, los fundamentos del universo o el alunizaje, y destaca los descubrimientos de mujeres como Henrietta Leavitt, Margaret Burbidge, Mary Golda Ross, Marietta Blau, Hertha Wambacher y Bibha Chowdhuri, entre otras.\n\nCon un estilo divulgativo y muy ameno, Su espacio, su tiempo es una historia colectiva de innovación científica, de liderazgos inspiradores y de superación en la que descubriremos las historias de las pioneras que iluminaron nuestra comprensión del universo.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768712389094-75c9a693f7e56",
@@ -292,15 +2023,16 @@
     "editorial": "Diaz de Santos",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Medioambiente",
       "Sostenibilidad"
     ],
-    "formato": "Físico",
     "notas": "La actual crisis económica forzará a plantear una reflexión sobre la matriz energética actual, su sostenibilidad y la necesidad de cambio de modelo para no tener que alterar en demasía el nivel de confort, variando muy poco los hábitos de vida. Esta obra aborda dicho problema en tres bloques claramente diferenciados, pero unidos por un mismo hilo conductor: la energía. En el primer bloque se anali…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=NY1yAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=NY1yAQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768706437497-04e8016018b7f8",
@@ -311,16 +2043,17 @@
     "editorial": "Ediciones Gestion 2000",
     "coleccion": "",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Finanzas",
       "Trading",
       "Mercados",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768706374995-38da4b58b9c298",
@@ -331,16 +2064,17 @@
     "editorial": "Ediciones Gestion 2000",
     "coleccion": "",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Finanzas",
       "Trading",
       "Mercados",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "Desde su primera publicación en 1986 este libro está considerado por muchos como la «biblia del análisis técnico» y es una herramienta de gran valor para el estudio de los movimientos de mercado. A lo largo de sus páginas desarrolla todas las técnicas de análisis, desde las más clásicas hasta las más actuales: Teoría de Dow, medias móviles, osciladores, opinión contraria y otros indicadores. Asimismo, incluye más de cuatrocientos gráficos que ayudan a clarificar las bases del análisis técnico y la construcción de gráficos, lo que hay que saber sobre los ciclos, indicadores bursátiles, manejo de dinero, tácticas de contratación, modelos de precios y los principales patrones de cambio y de continuidad. Escrito de manera muy didáctica, explica con claridad y sencillez todos los conceptos clave y es una lectura esencial para cualquier persona interesada en el comportamiento del mercado.",
     "comentarios": "John J. Murphy tiene más de 30 años de experiencia en el uso del análisis técnico. Anteriormente, fue director de Merrill Lynch. En la actualidad es presidente de Murphymorris, Inc., empresa especializada en elaborar análisis para inversores.",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768706239040-8c3e4bb8f8a998",
@@ -351,15 +2085,16 @@
     "editorial": "Cuadernos económicos de ICE",
     "coleccion": "",
     "vol": "83",
+    "formato": "Físico",
     "categorias": [
       "Energía",
       "Economía",
       "Anillado"
     ],
-    "formato": "Físico",
     "notas": "En este artículo se analiza la evolución de las energías renovables y la situación actual de las mismas a nivel internacional.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768705891013-18b8abcf457218",
@@ -370,14 +2105,15 @@
     "editorial": "Palibrio",
     "coleccion": "Colaboración Entre Cuerpos Académicos Tlaxcala Y Puebla (Enero 2021)",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Manufactura",
       "Procesos"
     ],
-    "formato": "Físico",
     "notas": "La participación activa colaborativa en cuerpos académicos, se refieren a varias acciones y productos que se generan conjuntamente con los miembros, colaboradores y con la participación de alumnos contribuyendo a la consolidación de programas educativos en los que participan. La mayoría de las acciones que se desarrollan al interior de los siguientes Cuerpos Académicos en el tema principal de Rein…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=eE0czgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=eE0czgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768705297840-48fa9c9e3a4a58",
@@ -388,13 +2124,14 @@
     "editorial": "UTN",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Termodinámica"
     ],
-    "formato": "Físico",
     "notas": "La termodinámica es la ciencia de la energía y sus transformaciones, que estudia el calor y el trabajo, fundamentada en leyes como la conservación de la energía (Primera Ley) y la entropía (Segunda Ley), crucial para la ingeniería en el diseño de motores, sistemas de refrigeración, centrales eléctricas, climatización de edificios y procesos industriales, optimizando la eficiencia energética y la conversión de energía en diversas aplicaciones desde aeronáutica hasta química",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768704328789-b7e0f1c17fff58",
@@ -405,14 +2142,15 @@
     "editorial": "Capacitacion y Desarrollo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Siderúrgica",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "El presente trabajo no enfoca un tema central, sino se refiere a cuatro temas específicos no relacionados directamente entre sí. Su ejecución está basada en la experiencia de 25 años de operación de los Altos Hornos de Huachipato y en la experiencia profesional del autor.\n\nSe presenta una introducción un tanto extensa, debido a que allí se muestran aspectos generales, conceptos, definiciones y características comunes a los capítulos que conforman este trabajo, de modo de no repetirlos cuando se aborde cada uno de ellos en particular.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768703419876-b0074baeb2d18",
@@ -423,14 +2161,15 @@
     "editorial": "Mundi-Prensa Libros",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Medioambiente",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "La reconversión industrial y los paisajes industriales degradados son realidades de la sociedad de muchos países, tanto del mundo industrializado como del que esté en vías de desarrollo. La gestión integral en las zonas afectadas, los factores que condicionan la reconversión industrial y las numerosísimas áreas industriales abandonadas o envejecidas se tratan en esta publicación de forma realista,…",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=4zpu_gesNzkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=4zpu_gesNzkC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768703143982-359e26d24d95f",
@@ -441,15 +2180,16 @@
     "editorial": "Paraninfo",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Barcos",
       "Navegación",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "El mar, los barcos y todo el amplio sector que gira alrededor de esos elementos, es algo que apasiona a un gran número de personas. Este primer tomo se irá completando con otros posteriores de tal forma que daremos una información detallada y completa de este mundo, para tantos interesante a la vez que ilusionante.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/de-proa-a-popa-conceptos-basicos.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/de-proa-a-popa-conceptos-basicos.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768702913387-c69960c64c4f3",
@@ -460,16 +2200,17 @@
     "editorial": "Deusto",
     "coleccion": "",
     "vol": "2",
+    "formato": "Físico",
     "categorias": [
       "Finanzas",
       "Trading",
       "Bolsa",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768702860125-9a21a283f416c",
@@ -480,16 +2221,17 @@
     "editorial": "Deusto",
     "coleccion": "",
     "vol": "1",
+    "formato": "Físico",
     "categorias": [
       "Finanzas",
       "Trading",
       "Bolsa",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "Tras el éxito alcanzado en las ediciones anteriores de Leones contra gacelas. Manual completo del especulador; José Luis Cárpatos vuelve a sorprendernos con una nueva edición donde introduce muchas novedades, actualiza conceptos y, como nos tiene acostumbrados, entretiene a la vez que enseña. Esta nueva edición incluye desde anécdotas reales del propio autor y de otros compañeros de profesión en su día a día en los mercados, hasta un examen riguroso de todos y cada uno de los conceptos fundamentales para un buen trading, incorporando además y como novedad pautas estacionales, money management y psicología del trading. El libro está estructurado en ocho partes que abarcan experiencias personales, errores frecuentes para no caer en ellos, análisis técnico y análisis fundamental, futuros y opciones, sistemas automáticos de especulación, psicología del trading y una materia de la que no existe actualmente ningún manual que profundice en ella: las pautas estacionales bursátiles. Asimismo, en esta obra encontrará contenidos sobre money management -imprescindible para obtener resultados consistentes-, una descripción del funcionamiento de las velas japonesas, distintas estrategias de opciones e incluso una explicación sobre cómo interpretar los datos macroeconómicos de Estados Unidos que tanto influyen en los mercados. Cada parte puede leerse de forma independiente, lo que facilita su lectura y la posterior consulta de los distintos conceptos una vez leída la obra completa. Sin duda, se trata de un libro imprescindible para cualquier trader, tanto si comienza su carrera como si es ya veterano en estas lides.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768702710019-3f9eb7275a9f9",
@@ -500,14 +2242,15 @@
     "editorial": "Pearson Educación",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Resistencia de Materiales",
       "Mecánica"
     ],
-    "formato": "Físico",
     "notas": "Es la obra imprescindible para entender el cómo y el porqué del comportamiento de los materiales. Su manera lógica y ordenada de exponer las explicaciones teóricas sobre los principios del comportamiento físico, facilita al lector la comprensión de las aplicaciones prácticas.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=iCBye0_lEXsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=iCBye0_lEXsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768702581656-e4457325bdd4f",
@@ -518,14 +2261,15 @@
     "editorial": "Pearson",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Bases de datos",
       "Informática"
     ],
-    "formato": "Físico",
     "notas": "este manual es un libro de texto que cubre el contenido de las asignaturas de carácter básico que sobre la materia bases de datos se puedan definir en los planes de estudio de las titulaciones en informática.\n\nel libro está estructurado en seis capítulos:\n\n* en el capítulo primero se introducen los conceptos de base de datos y de sistema de gestión de base de datos. * el capítulo segundo, consiste en una introducción a los modelos de datos. * en el capítulo tercero se presentan los fundamentos del modelo relacional, modelo en el que está basada la familia actual de sistemas de gestión de bases de datos. * en el cuarto, se presenta el lenguaje sql, en su última versión de 1999. * en el capítulo quinto se hace un análisis de las limitaciones del modelo relacional, según su definición original; de éstas limitaciones se derivan las direcciones de evolución que experimenta el modelo. * en el capítulo sexto se pretende retomar el concepto de gestión de bases de datos introducido en el capítulo primero y y profundizar en su estudio.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=VacAAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=VacAAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768702407614-4876ddebce60e",
@@ -536,14 +2280,15 @@
     "editorial": "Editorial Limusa",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Motores Eléctricos",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "El control de motores eléctricos es un tema que ha adquirido gran importancia a partir de la automatización de los procesos industriales, es por ello que en esta obra se describe con un enfoque práctico las condiciones de seguridad y de control de motores requerida para un registro eficiente de una máquina aislada o un conjunto de máquinas. El libro se ha diseñado para que sea funcional, ya sea en un ambiente educacional o industrial, sin importar el nivel, tratando de que en la aplicación se de la orientación y el enfoque correcto.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=tkbZWXxGRuoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=tkbZWXxGRuoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768702249380-727ce524fd86d",
@@ -554,16 +2299,17 @@
     "editorial": "Alfaomega",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Mantenimiento",
       "Industria",
       "Electricidad",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "las herramientas, equipos, medios auxiliares y el equipo de seguridad personal que se necesita para llevar a cabo cada tipo de mantenimiento. Analiza de este modo los contenidos de la unidad formativa “Mantenimiento de centros de transformación” del módulo “Montaje y mantenimiento de centros de transformación” del certificado de profesionalidad “Montaje y mantenimiento de redes eléctricas de alta tensión de segunda y tercera categoría y centros de transformación”.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-centros-de-transformacion.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-centros-de-transformacion.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768702116949-bceffcd56b4158",
@@ -574,14 +2320,15 @@
     "editorial": "OnWeb",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Informatica",
       "Coliumo"
     ],
-    "formato": "Físico",
     "notas": "Si usted tiene en sus manos este libro, quiere decir que es un usuario de Excel que, seguramente, trabaja a diario con planillas y bases de datos. Ya sabrá cómo emplear algunas funciones más o menos complejas e, incluso, de qué modo graficar los resultados obtenidos. Pero es muy probable que sólo conozca una muy pequeña porción de todo lo que este poderoso programa le puede ofrecer. Con esta obra …",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=OTYEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=OTYEAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768701903238-25a555df1410d",
@@ -592,14 +2339,15 @@
     "editorial": "Milenio",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Ciencia",
       "Tesis"
     ],
-    "formato": "Físico",
     "notas": "El presente libro pretende convertirse en una útil herramienta para el estudiante de Historia en particular y de Humanidades en general. El Trabajo de Fin de Grado supone un punto de llegada para todo alumno que está finalizando sus estudios. No es una asignatura más ni tampoco un trabajo cualquiera de los muchos que se presentan a lo largo del Grado y por ello puede devenir en un desafío que sea difícil de superar con nota para muchos de ellos. Los distintos capítulos que recoge el libro abordan su preparación, redacción y defensa, tres estadios fundamentales que conllevan tareas intrínsecas como las de estructurar el TFG, recoger y ordenar la información necesaria, redactarlo adecuadamente con las citas y referencias utilizadas y, por último, preparar su defensa con todos los componentes que se requieren para su presentación oral.",
     "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-preparar-escribir-y-defender-el-trabajo-de-fin-de-grado.jpg"
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/como-preparar-escribir-y-defender-el-trabajo-de-fin-de-grado.jpg",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767821172561-2b001d67e2d898",
@@ -610,16 +2358,17 @@
     "editorial": "Austral",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Google Play",
       "Novela",
       "Literatura",
       "Existencialismo"
     ],
-    "formato": "Digital",
     "notas": "El amor ilimitado truncado por un engaño convertirá el corazón de un hombre en un pedazo de duro y frío hielo y colocará en sus manos el cuchillo que pone final al sufrimiento. Sabato nos entrega los elementos básicos de su visión metafísica del existir.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=GxiDKQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=GxiDKQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767820730066-ec51f207617908",
@@ -630,16 +2379,17 @@
     "editorial": "Createspace Independent Publishing Platform",
     "coleccion": "",
     "vol": "",
+    "formato": "Digital",
     "categorias": [
       "Google Play",
       "Novela",
       "Literatura",
       "Existencialismo"
     ],
-    "formato": "Digital",
     "notas": "es la primera novela del escritor francés Albert Camus, publicada en 1942. El protagonista, Meursault, es un ser indiferente a la realidad por resultarle absurda e inabordable. El progreso tecnológico le ha privado de la participación en las decisiones colectivas y le ha convertido en \"extranjero\" dentro de lo que debería ser su propio entorno.",
     "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=9R1dvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "portada": "https://books.google.com/books/content?id=9R1dvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1767503333535-cd5dff1ea2d08",
@@ -2062,26 +3812,6 @@
     "notas": "A menudo surgen estudios sobre la aplicación de energías renovable en industrias, empresas y domicilios para ayudar a preservar el medio ambiente y disminuir los efectos negativos del cambio climático. La energía solar térmica de baja temperatura se alza en el mercado como una opción de energía limpia, eficiente y económica. En concreto, se utiliza para calentar líquidos, agua normalmente, pero no para la producción de electricidad, a través de la energía captada del sol para temperaturas no mayores de 65 grados.",
     "comentarios": "",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/energia-solar-termica-de-baja-temperatura.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1767102307589-f48c01cf722b58",
-    "titulo": "Seguridad industrial y administración de la salud",
-    "autor": "C. Ray Asfahl, David W. Rieske",
-    "anio": 2010,
-    "isbn": "9786074429398",
-    "editorial": "Pearson",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Seguridad",
-      "Salud",
-      "Administración"
-    ],
-    "notas": "Acerca de la obra esta edición ofrece un amplio y claro panorama en el que puede apreciarse la relevancia que la seguridad y la salud ocupacionales tienen en el entorno actual, inmerso en los avances tecnológicos que ha traído consigo el siglo veintiuno, y que obligan a prestar especial atención a las normas y a las prácticas laborales. Ventajas competitivas la presente edición incluye los siguientes temas, que están provocando cambios en los métodos de trabajo e impactan en la seguridad y la salud: - robótica y nanotecnología - control de la calidad del aire interior - reducción de la emisión de carbono - consumo y administración de la energía - ingeniería verde - reto del calentamiento global.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/seguridad-industrial-y-administracion-de-la-salud.jpg",
     "fechaRegistro": null
   },
   {
@@ -5040,25 +6770,6 @@
     "fechaRegistro": null
   },
   {
-    "id": "libro-1767039339302-6ff12e31763d6",
-    "titulo": "Simulation Modeling with SIMIO: a Workbook",
-    "autor": "Jeffrey Allen Joines, Stephen Dean Roberts",
-    "anio": 2015,
-    "isbn": "9781519333933",
-    "editorial": "Createspace Independent Publishing Platform",
-    "coleccion": "",
-    "vol": "4th Edition",
-    "formato": "Físico",
-    "categorias": [
-      "Simulación",
-      "Simio"
-    ],
-    "notas": "Resum: This edition of the workbook has an evolved structure based on use and experience. More emphasis is placed on \"why\" modeling choices are made, to supplement the \"how\" in using SIMIO in simulation. In Chapter 1, we present fundamental simulation concepts, independent of SIMIO which can be skipped for those who already understand these fundamentals. In Chapters 2 through 6, concentrates of th…",
-    "comentarios": "Resumen: Esta edición del libro de trabajo presenta una estructura evolucionada basada en el uso y la experiencia. Se hace mayor énfasis en el \"por qué\" de las decisiones de modelado, para complementar el \"cómo\" de usar SIMIO en simulación. En el Capítulo 1, presentamos conceptos fundamentales de simulación, independientes de SIMIO, que pueden omitirse para quienes ya comprenden estos fundamentos. En los Capítulos 2 a 6, se concentran en...",
-    "portada": "https://books.google.com/books/content?id=cD3jjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "fechaRegistro": null
-  },
-  {
     "id": "libro-1767036010041-3c1c1e2da6754",
     "titulo": "Analisis Numerico",
     "autor": "Richard L. Burden",
@@ -5551,25 +7262,6 @@
     "notas": "La inteligencia artificial se centra en la creación de sistemas capaces de ejecutar tareas que requieran algún tipo de inteligencia humana. Entrar en este campo sin conocimientos previos puede parecer muy complejo, pero con esta obra estamos convencidos que cualquier lector puede lograrlo sin demasiado esfuerzo._x000D_\n_x000D_\nEl objetivo de este libro es hacer que la IA sea accesible y fácil de entender para personas con poca o ninguna experiencia en programación. De forma progresiva los lectores obtendrán el conocimiento que necesitan sobre cómo crear sistemas capaces de ejecutar tareas que requieren alguna forma de inteligencia similar a la humana, siempre acompañado de ejercicios prácticos para facilitar el aprendizaje._x000D_\n_x000D_\nA través de ejemplos se comienza introduciendo al lector en la programación con Python, así como los conceptos claves en inteligencia artificial y se avanza de forma gradual hacia temas más complejos como el aprendizaje profundo y el aprendizaje automático, acompañando siempre la parte teórica con ejemplos prácticos que facilitarán la asimilación. _x000D_\n_x000D_\nPara finalizar, se abordan conceptos básicos de inteligencia artificial, como la clasificación y la regresión para continuar con implementaciones de inteligencia artificial, lo que permitirá a los lectores generar sus propios algoritmos de inteligencia artificial para el aprendizaje por refuerzo, los chatbots, la detección de rostros y reconocimiento facial, el procesamiento del habla y el lenguaje natural y el análisis de datos._x000D_\n_x000D_\nLos contenidos están adaptados al Curso de Especialización de Ciberseguridad en Entornos de las Tecnologías de la Información._x000D_\n_x000D_\nEl libro contiene material adicional que podrá descargar accediendo a la ficha del libro en www.ra-ma.es",
     "comentarios": "",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/programacion-de-inteligencia-artificial-curso-practico.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766977957454-e556918a478a4",
-    "titulo": "Inteligencia artificial, Como cambiará el mundo (y tu vida)",
-    "autor": "Pablo Rodríguez",
-    "anio": 2018,
-    "isbn": "9788423429448",
-    "editorial": "Deusto",
-    "coleccion": "",
-    "vol": "2da Ed.",
-    "formato": "Físico",
-    "categorias": [
-      "IA",
-      "Ciencia de Datos"
-    ],
-    "notas": "Los datos son el combustible de la inteligencia artificial. Dicen tanto de nuestro comportamiento e interacciones y de cómo nos relacionamos con el entorno que, con la ayuda de potentes ordenadores y sofisticadas técnicas estadísticas, y en conjunción con la inteligencia artificial, pueden transformar para mejor la vida de millones de personas.\n\nCasi todos los problemas importantes del ser humano se pueden abordar usando los datos y la inteligencia artificial. Y, en este mismo momento, los algoritmos de inteligencia artificial están intentando predecir tu próximo movimiento, aprendiendo a conducir y luchando contra el cáncer. Allá donde haya una base de macrodatos, probablemente haya un algoritmo de inteligencia artificial trabajando para aprender lo que pueda de ellos. Y es que estos datos pueden ayudar a prevenir enfermedades, epidemias y catástrofes, permitir que las personas con discapacidades disfruten de una vida mejor, optimizar los recursos escasos y trabajar en favor de la inclusión, la seguridad y la equidad.\n\nEste fascinante libro plantea un recorrido por la historia de los datos, una mirada extraordinaria a su funcionamiento, un mapeo de las redes, el retrato de los gurús de los macrodatos y el futuro del internet de las cosas y de la inteligencia artificial. En él, Pablo Rodríguez desarrolla el que tal vez sea el análisis más completo de la próxima gran revolución que vamos a experimentar los humanos.",
-    "comentarios": "Pablo Rodríguez Rodríguez es doctor en informática y experto en tecnologías de internet. Se tituló como ingeniero de Telecomunicación en la UPNA en 1995.\n\nEn la actualidad, es director ejecutivo de Telefónica Innovation Alpha, una unidad de investigación cuyo objetivo es crear moonshots, proyectos que afrontan los grandes retos de la sociedad con ideas radicales y tecnología pionera.\n\nEn sus más de veinte años de experiencia ha trabajado, entre otras, en varias empresas emergentes de Silicon Valley y compañías como Microsoft Research y Bell Labs, ha sido director científico y de innovación de Telefónica y profesor adjunto en la Universidad de Columbia (Nueva York).\n\nTras doctorarse en Ciencias de la Computación en el Instituto Federal Suizo de Tecnología, desarrolló una carrera investigadora por la que recibió los premios Prix La Recherche, Test of Time y los IEEE Fellow y ACM Fellow de las academias de ingeniería e informática de Estados Unidos. Asimismo, es cofundador de Data Transparency Lab, una ONG sobre privacidad.",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inteligencia-artificial-rodriguez.jpg",
     "fechaRegistro": null
   },
   {
@@ -6142,26 +7834,6 @@
     "fechaRegistro": null
   },
   {
-    "id": "libro-1766948452738-64357d980b1718",
-    "titulo": "Ciencia de Datos Python",
-    "autor": "Christopher Wilkinson",
-    "anio": 2020,
-    "isbn": "9781654192389",
-    "editorial": "Independently Published",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Programación",
-      "Ciencia de Datos",
-      "Phyton"
-    ],
-    "notas": "Una guía definitiva para que los principiantes aprendan los fundamentos de la ciencia de datos con Python",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=Mu4tzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "fechaRegistro": null
-  },
-  {
     "id": "libro-1766945593415-86ee71ff1941e8",
     "titulo": "Reliability engineering and risk analysis, A practical guide",
     "autor": "Mark P. Kaminskiy, Vasiliy Krivtsov, Mohammad Modarres",
@@ -6418,25 +8090,6 @@
     "fechaRegistro": null
   },
   {
-    "id": "libro-1766939142624-c7065147f1bb18",
-    "titulo": "Ingeniería de la confiabilidad: teoría y aplicación en proyectos de capital y en la operación de instalaciones industriales a través del enfoque R-MES",
-    "autor": "Adolfo Arata, Arata Alessio",
-    "anio": 2013,
-    "isbn": "9789562849678",
-    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Confiabilidad",
-      "Gestión de Activos"
-    ],
-    "notas": "En estas páginas se ha volcado de manera clara toda la experiencia internacional desarrollada durante muchos años, no solo producto de un trabajo académico y de investigación pura, sino también de lo realizado en diferentes empresas de relieve internacional. Este nuevo libro de Adolfo Arata posee todos los elementos necesarios para convertirse en un poderoso instrumento de formación, por lo que lo…",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=9wnfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "fechaRegistro": null
-  },
-  {
     "id": "libro-1766938566993-d35f9683f5bb7",
     "titulo": "Confiabilidad de los Sistemas Electronicos",
     "autor": "Jose Luis Roca",
@@ -6453,27 +8106,6 @@
     "notas": "Las técnicas asociadas a la evaluación y análisis de la confiabilidad han sido desarrolladas tardíamente como una necesidad de las diversas disciplinas de la ingeniería. Las primeras industrias que se ocuparon del tema fueron sin duda: la militar, la nuclear y la espacial. Sin embargo no sólo en estos ámbitos se ha llevado a cabo esta pequeña gran revolución en aumento de las cifras de vida útil de los productos electrónicos, sino que se ha extendido a toda la industria quien debió acomodarse a nuevos requerimientos: productos complejos y aseguramiento de confiabilidad suficiente, con adecuados costos de producción y control.\n\nEn este libro se pretende tratar el tema con rigurosidad abarcando el análisis y la evaluación detallada de sistemas electrónicos, en donde los componentes de hardware como los de software cobran, sin igual, similar importancia.\n\nEstá dirigido a profesionales y estudiantes. En esta edición, como corolario, y a título de síntesis en lo que respecta a confiabilidad de sistemas electrónicos, se ha desarrollado un capítulo que trata la distribución de la confiabilidad de un sistema entre sus partes integrantes.",
     "comentarios": "Reliability Engineer for the Microelectronics Reliability Group at (CITEFA) the Army Research Institute. Belonged to the Board of Editors of Microelectronics & Reliability International Journal from 1995 to 1999. Referee for the Reliability Engineering & System Safety International Journal. He is author of books “La Confiabilidad de los Sistemas Electrónicos” & \"El Proyecto de Ingeniería, Los Tres Pilares del Éxito\", Edit. Nueva Librería SRL (2013/2017). Industrial Quality and Reliability consultant of (INTI) the National Institute of Industrial Technology. Author of several papers at various conferences in quality and reliability hardware and software areas, most of them have been published in international journals. Citations:84 Index h:5 according to Google Scholar.",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/confiabilidad-de-los-sistemas-electronicos.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766939023020-99da853ecf0e68",
-    "titulo": "Ingeniería y gestión de la confiabilidad operacional en plantas industriales. Aplicación de la plataforma R-MES",
-    "autor": "Adolfo Arata",
-    "anio": 2009,
-    "isbn": "9789562846585",
-    "editorial": "CANOPUS EDITORIAL DIGITAL SA",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Ingeniería",
-      "Gestión de Activos",
-      "Mantenimiento",
-      "Confiabilidad"
-    ],
-    "notas": "Una contribución para el desarrollo y la implementación da la Ingeniería de Confiabilidad, tanto como documento de consulta para los profesionales que se relacionan con esta actividad, sean mantenedores, ingenieros de proyecto o consultores, como también un texto de estudio para estudiantes de ingeniería en las especialidades de proyecto, gestión y mantenimiento de activos físicos.",
-    "comentarios": "",
-    "portada": "https://books.google.com/books/content?id=7wnfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "fechaRegistro": null
   },
   {
@@ -6788,25 +8420,6 @@
     "notas": "Objetivos - Analizar el funcionamiento general de las instalaciones solares fotovoltaicas para desarrollar el plan de mantenimiento. - Analizar las medidas de prevención, seguridad y protección ambiental respecto al mantenimiento de instalaciones solares fotovoltaicas contenidas en los planes de seguridad de las empresas del sector. - Realizar operaciones de mantenimiento preventivo de instalaciones solares fotovoltaicas siguiendo los procedimientos y especificaciones del plan de mantenimiento de la instalación. - Realizar operaciones de mantenimiento correctivo de las instalaciones solares fotovoltaicas según los procedimientos establecidos para devolverlas a su estado de funcionamiento dentro de los parámetros establecidos. Contenidos Prevención de riesgos profesionales y seguridad en el mantenimiento de instalaciones solares fotovoltaicas Introducción. Planes de seguridad en el mantenimiento de instalaciones fotovoltaicas. Prevención de riesgos profesionales en el ámbito del mantenimiento de instalaciones térmicas. Medios y equipos de seguridad. Prevención y protección medioambiental. Emergencias. Señalización de seguridad. Normativa de aplicación. Resumen. Mantenimiento preventivo de instalaciones solares fotovoltaicas Introducción. Consideraciones previas. Ventajas e inconvenientes del mantenimiento preventivo. Métodos y técnicas usadas en la localización de averías en instalaciones aisladas y conectadas a red. Procedimientos y operaciones para la toma de medidas. Comprobación y ajuste de los parámetros a los valores de consigna (radiaciones, temperaturas, parámetros de magnitudes eléctricas, etc.). Programas de mantenimiento de instalaciones fotovoltaicas. Averías críticas más comunes. Normativa de aplicación en el mantenimiento de instalaciones fotovoltaicas. Programa de mantenimiento preventivo. Programa de gestión energética. Evaluación de rendimientos. Operaciones mecánicas en el mantenimiento de instalaciones. Operaciones eléctricas de mantenimiento de circuitos eléctricos. Equipos y herramientas usuales. Procedimientos de limpieza de captadores, acumuladores y demás elementos de las instalaciones. Resumen. Mantenimiento correctivo de instalaciones solares fotovoltaicas Introducción. Consideraciones previas. Ventajas e inconvenientes del mantenimiento correctivo. Diagnóstico de averías. Métodos y técnicas usadas en la localización de averías en instalaciones aisladas y conectadas a red. Métodos para la reparación de los distintos componentes de las instalaciones. Desmontaje y reparación o reposición de elementos mecánicos, eléctricos y electrónicos. Resumen. Calidad en el mantenimiento de instalaciones solares fotovoltaicas Introducción. Calidad en el mantenimiento. Herramientas de calidad aplicadas a la mejora de las operaciones de mantenimiento. Documentación técnica de la calidad. Manual de mantenimiento. Resumen. Glosario Bibliografía",
     "comentarios": "",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/mantenimiento-de-instalaciones-solares-fotovoltaicas-enae0108-montaje-y-mantenimiento-de-instalaciones-solares-fotovoltaicas.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-1766900781714-708f5c884e9b08",
-    "titulo": "The Weibull Distribution, A Handbook",
-    "autor": "Horst Rinne",
-    "anio": 2020,
-    "isbn": "9780367577469",
-    "editorial": "CRC Press",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Confiabilidad",
-      "Weibull distribution"
-    ],
-    "notas": "Compiling findings from many scientific journals and research papers, this handbook focuses on the origin, statistical properties, and related distributions of the Weibull distribution. It also presents various approaches to estimate the parameters of this distribution under all possible situations of sampling data as well as approaches to param",
-    "comentarios": "Este manual, que recopila hallazgos de numerosas revistas científicas y artículos de investigación, se centra en el origen, las propiedades estadísticas y las distribuciones relacionadas de la distribución de Weibull. También presenta diversos enfoques para estimar los parámetros de esta distribución en todas las situaciones posibles de muestreo de datos, así como enfoques para la estimación de parámetros.",
-    "portada": "https://books.google.com/books/content?id=vxaTzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "fechaRegistro": null
   },
   {
@@ -8453,25 +10066,6 @@
     "notas": "Este libro recoge los contenidos del temario marcado por los Certificados de Profesionalidad de SOLDADURA CON ELECTRODO REVESTIDO Y TIG (FMEC0110) y de SOLDADURA OXIGÁS Y SOLDADURA MIG-MAG (FMEC0210), en concreto, la Unidad Formativa de INTERPRETACIÓN DE PLANOS EN SOLDADURA (UF 1640). El libro se ha enfocado para el aprendizaje de un alumno sin conocimiento de la materia, con el objetivo de desarrollar un libro de fácil comprensión con sus explicaciones pertinentes, imágenes, gráficos, ejemplos y ejercicios, para asimilar mejor los siguientes contenidos: -Simbología en Soldadura: Se explican los diferentes tipos de soldaduras que existen, así como sus características principales; las posiciones de soldeo (en normativa europea y americana), los tipos de electrodos revestidos y su designación, y los distintos tipos de uniones que nos podemos encontrar en cualquier unión soldada. Se explica la simbología empleada en soldadura para llegar a interpretar los diferentes símbolos utilizados; así como ejemplos prácticos para su mejor comprensión. -Normativa empleada en los planos de soldadura y proyección térmica: Aprender a conocer los diferentes sistemas de representación gráfica y las principales vistas de un objeto: alzado, planta y perfil. Se explican los tipos de líneas utilizadas en los planos de taller, así como cortes, secciones, detalles, roturas. El alumno será capaz de realizar un croquis a mano alzada de las piezas, aplicando la normativa de acotación con sus tolerancias pertinentes, los signos de acabado y el tipo de formato utilizado en la industria. Representación gráfica en soldadura y proyección térmica: Se explican los diferentes elementos normalizados, ya sean uniones desmontables (tornillos, tuercas) o en uniones fijas (soldadura, remaches). Deberá de conocer y diferenciar los distintos perfiles normalizados, ya sean perfiles comerciales, estructurales Interpretará la designación numérica de los diferentes tipos de aceros existentes, así como los tratamientos térmicos y calidades superficiales que nos podemos encontrar en el taller. El alumno será capaz de interpretar un plano de montaje con sus diferentes vistas y piezas del conjunto, así como interpretar un plano de soldadura con sus símbolos correspondientes. Daniel Bertolín Gil: Tiene una experiencia docente de más de 15 años en cursos de Formación Ocupacional, Continua, Certificados de Profesionalidad y cursos para empresas. Imparte también cursos de: Metrología, Máquinas herramientas, Soldadura por electrodo, soldadura MIG - MAG , Soldadura TIG. Actualmente está destinado en el Instituto El Palau, de Sant Andreu de la Barca. Oriol Balsells i Camprubí: titulado en el GM de Soldadura y Calderería, en el GS de Construcciones Metálicas y Homologado con el proceso de Soldadura por electrodo revestido. Ha estado trabajando, desde muy joven, en un taller familiar realizando la fabricación y montaje de estructuras metálicas, la realización y montaje de trabajos de cerrajería (puertas, rejas, escaleras) y la realización de diferentes trabajos de calderería y mantenimiento industrial; así como también la práctica de la forja artística. Actualmente ocupa la plaza de profesor de FP Técnico en Soldaduras en el Institut El Palau, de Sant Andreu de la Barca. Ambos son autores de otro libro, Soldadura en Atmósfera Natural, para el Módulo 4 del Ciclo Formativo de Grado Medio de Soldadura y Calderería. El temario es el marcado por el BOE.",
     "comentarios": "",
     "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/uf1640-interpretacion-de-planos-en-soldadura.jpg",
-    "fechaRegistro": null
-  },
-  {
-    "id": "libro-25",
-    "titulo": "Ingeniería y ciencia de los materiales metálicos",
-    "autor": "Víctor Manuel Blázquez Martínez, Vicente Lorenzo Esteban, Benito del Río López",
-    "anio": null,
-    "isbn": "9788416277223",
-    "editorial": "Dextra",
-    "coleccion": "",
-    "vol": "",
-    "formato": "Físico",
-    "categorias": [
-      "Ingeniería",
-      "Materiales"
-    ],
-    "notas": "Ingeniería y ciencia de los materiales metálicos de Blázquez es una obra sólida y formativa que aborda los fundamentos estructurales, mecánicos y fisicoquímicos que determinan el comportamiento de los metales en aplicaciones ingenieriles. Con un enfoque equilibrado entre teoría y práctica, el autor explica la estructura cristalina, los defectos, los mecanismos de endurecimiento, los tratamientos térmicos y la relación microestructura-propiedades, conectando estos conceptos con el diseño y selección de materiales en la industria. El libro se distingue por su claridad pedagógica, sus diagramas bien construidos y su capacidad para integrar ciencia de materiales con criterios de ingeniería, convirtiéndolo en un texto esencial para estudiantes y profesionales que buscan comprender cómo y por qué los metales responden de la manera en que lo hacen en condiciones reales de servicio.",
-    "comentarios": "",
-    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/ingenieria-y-ciencia-de-los-materiales-metalicos.jpg",
     "fechaRegistro": null
   },
   {
