@@ -1,5 +1,154 @@
 [
   {
+    "id": "libro-1770507786351-4d5389e9b84ed",
+    "titulo": "El gen Egoísta",
+    "autor": "Richard Dawkins",
+    "anio": 1976,
+    "isbn": "9788434501782",
+    "editorial": "",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Google Play",
+      "biología",
+      "genética"
+    ],
+    "formato": "Digital",
+    "notas": "",
+    "comentarios": "Dawkins, zoólogo especializado en comportamiento animal y en teoría de la evolución explica con profundidad y objetividad las bases evolutivas del compotamiento de los animales y del ser humano, Esta nueva edición contiene numerosas notas al texto y dos capítulos adicionales: uno sobre la evolución biológica de la cooperación social y otro sobre la dicotomía gen-organismo como sujeto de la evolución.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/el-gen-egoista.jpg"
+  },
+  {
+    "id": "libro-1778157555905-94ff2b5390ab",
+    "titulo": "La tiranía del azar",
+    "autor": "José Edelstein, Andrés Gomberoff",
+    "anio": 2025,
+    "isbn": "9789566452003",
+    "editorial": "CIENCIA",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Google Play",
+      "fisica",
+      "divulgación"
+    ],
+    "formato": "Digital",
+    "notas": "Un ensayo que indaga en cómo la mecánica cuántica resignificó el concepto de azar, desafiando el determinismo y revolucionando nuestra visión del universo. Contenido A comienzos del siglo XX, un grupo de tsicos revolucionó nuestra comprensión del universo al explorar los misterios de la materia a escalas diminutas. Max Planck, Albert Einstein, Niels Bohr y otros gigantes de la ciencia enfrentaron preguntas que seguían sin respuestati ¿por qué existen materiales magnéticos?, ¿de dónde proviene el color de la materia?, ¿cómo conducen electricidad los metales? Hace 100 años, en junio de 1925, estas las respuestas a estas preguntas comenzaron a tomar forma en la mente de un joven Werner Heisenberg. Así nació la mecánica cuántica, una teoría que no solo propuso un cambio drástico a las ideas que dominaron la ciencia hasta comienzos del siglo XX, además nos obligó a cambiar nuestra perspectiva sobre lo qué la ciencia puede aspirar a comprender. En La tiranía del azar, Andrés Gomberoff y José Edelstein celebran los 100 años de la mecánica cuántica y examinan cómo este concepto transformó nuestra forma de entender el mundo. Lo que antes era visto como ignorancia se convirtió en un principio fundamental de las leyes de la naturaleza, desafiando la idea de un universo determinista. A través de una narrativa accesible y rigurosa, este libro aborda las consecuencias de este descubrimiento tanto en la tecnología como en el pensamiento contemporáneo, invitándonos a reflexionar sobre la verdadera naturaleza de la realidad.",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-tirania-del-azar.jpg"
+  },
+  {
+    "id": "libro-1779125148016-4cc4a9e6f51838",
+    "titulo": "Neural Networks: Algorithms, Applications, and Programming Techniques (Computation and Neural Systems Series)",
+    "autor": "James A. Freeman, David M. Skapura",
+    "anio": 1991,
+    "isbn": "0201513765",
+    "editorial": "Addison-Wesley",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Programación",
+      "IA"
+    ],
+    "formato": "Digital",
+    "notas": "Freeman and Skapura provide a practical introduction to artificial neural systems (ANS). The authors survey the most common neural-network architectures and show how neural networks can be used to solve actual scientific and engineering problems and describe methodologies for simulating neural-network architectures on traditional digital computing systems.",
+    "comentarios": "https://drive.google.com/file/d/1cXDV0cMqCl0ZqrMxjAtdaeMKX9u6PfWE/view?usp=sharing",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/neural-networks-algorithms-applications-and-programming-techniques-computation-and-neural-systems-series.jpg"
+  },
+  {
+    "id": "libro-1779124119490-b85ef404812208",
+    "titulo": "INTELIGENCIA ARTIFICIAL Un enfoque moderno",
+    "autor": "Stuart J. Russell y Peter Norvig",
+    "anio": 2024,
+    "isbn": "9786073260190",
+    "editorial": "Pearson",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Programación",
+      "IA"
+    ],
+    "formato": "Digital",
+    "notas": "es un libro clásico en la literatura sobre Inteligencia Artificial y, quizá, uno de los libros de texto a nivel universitario más usados en este campo. Un libro del que, en este caso, reseñamos su cuarta edición.\n\nEl libro, bastante enciclopédico por su extensión y amplitud de temas, se estructura en 29 capítulos agrupados en siete partes, como sigue:",
+    "comentarios": "I. Inteligencia Artificial\n1. Introducción\n2. Agentes inteligentes\nII. Resolución de problemas\n3. Resolución de problemas de búsqueda\n4. Búsqueda en entornos complejos\n5. Búsqueda adversarial y juegos\n6. Problemas de satisfacción de restricciones\nIII. Conocimiento, razonamiento y planificación\n7. Agentes lógicos\n8. Lógica de primer orden\n9. Inferencia en la lógica de primer orden\n10. Representación del conocimiento\n11. Planificación automatizada\nIV. Conocimiento y razonamiento inciertos\n12. Cuantificar la incertidumbre\n13. Razonamiento probabilístico\n14. Razonamiento probabilístico a lo largo del tiempo\n15. Programación probabilística\n16. Toma de decisiones sencillas\n17. Tomando decisiones complejas\n18. Toma de decisiones simples multiagente\nV. Aprendizaje automático\n19. Aprendiendo de ejemplos\n20. Aprendizaje de modelos probabilísticos\n21. Aprendizaje profundo\n22. Aprendizaje por refuerzo\nVI. Comunicarse, percibir y actuar\n23. Procesamiento del lenguaje natural\n24. Aprendizaje profundo para el procesamiento del lenguaje natural\n25. Visión por computadora\n26. Robótica\nVII. Conclusiones\n27. Filosofía, ética y seguridad de la IA\n28. El futuro de la IA\nApéndice A. Antecedentes matemáticos\nApéndice B. Notas sobre lenguajes y algoritmos\nBibliografía\n\nhttps://drive.google.com/file/d/1RARl0LRzf9YpViwMQza-8VmmY10kCa38/view?usp=sharing",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/inteligencia-artificial-un-enfoque-moderno.jpg"
+  },
+  {
+    "id": "libro-1779124575705-9067b182bac888",
+    "titulo": "Una aproximación práctica a las redes neuronales artificiales",
+    "autor": "Caicedo Bravo, Eduardo Francisco",
+    "anio": 2009,
+    "isbn": "9789587655100",
+    "editorial": "Universidad del Valle",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Drive",
+      "Programación",
+      "IA"
+    ],
+    "formato": "Digital",
+    "notas": "El propósito general de este libro es ser una guía para que el lector interesado en trabajar con redes neuronales artificiales (RNA), esté en capacidad de solucionar problemas propios de su disciplina usando esta técnica de la inteligencia computacional. La estructura del libro se concibe desde los tipos de aprendizaje, ya que es la característica más importante que poseen las redes neuronales artificiales y en ella radica su principal fortaleza para solucionar y adaptarse a diversos problemas. En este libro se encuentran contenidos teóricos básicos que lo dejarán preparado para afrontar el estudio de libros y artículos de carácter avanzado, acompañado de problemas resueltos que afianzan el saber y el saber hacer.",
+    "comentarios": "https://drive.google.com/file/d/1kbjjq9xo8ZLQwYtTWl2JtUltv8y7MtGG/view?usp=sharing",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/una-aproximacion-practica-a-las-redes-neuronales-artificiales.jpg"
+  },
+  {
+    "id": "libro-1771648434038-5730620e7b75e8",
+    "titulo": "Física de la tristeza",
+    "autor": "Gospodínov, Gueorgui",
+    "anio": 2011,
+    "isbn": "979-13-87641-63-4",
+    "editorial": "Fulgencio Pimentel",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "digital",
+      "literatura"
+    ],
+    "formato": "Digital",
+    "notas": "La obra mayor de Gospodínov: una novela laberíntica que convierte la memoria en un territorio vivo, deslumbrante y profundamente humano. La novela que reveló al Gospodínov más audaz: un viaje hipnótico, íntimo, polifónico y lleno de asombro por la memoria, la pérdida y la imaginación. Un clásico moderno europeo.",
+    "comentarios": "En lo pequeño y lo insignificante: ahí es donde se esconde la vida, ahí es donde construye su nido. Nuestro narrador padece un extraño síndrome: sufre de empatía patológica, es capaz de adentrarse sin permiso en los recuerdos de los demás. Así, viaja de un recuerdo a otro, desde una feria rural búlgara en 1925 —donde conoce a un minotauro— hasta el interior de la mente de una babosa que es devorada por su propio abuelo. A partir de esa materia insólita, Gueorgui Gospodínov construye en Física de la tristeza un prodigioso laberinto donde la memoria personal se funde con la historia colectiva. En parte relato de madurez, en parte crónica familiar y en parte reflexión sobre la vida en la Europa del siglo xx, la novela salta de época en época y de identidad en identidad, trazando un mapa de pérdidas, migraciones y nostalgias.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/fisica-de-la-tristeza.jpg"
+  },
+  {
+    "id": "libro-1769577907326-919f293e4bfec8",
+    "titulo": "La última voz Roy J. Glauber y el inicio de la era atómica",
+    "autor": "José Ignacio Latorre Sentís, Maite Soto Sanfiel",
+    "anio": null,
+    "isbn": "978-84-344-3523-0",
+    "editorial": "Editorial Ariel",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Fisica",
+      "Mecánica cuántica"
+    ],
+    "formato": "Digital",
+    "notas": "En 1943 Roy J. Glauber tenía 18 años. Estudiaba simultáneamente la carrera de Física y cursos de doctorado en Harvard. Un día, un emisario del gobierno pidió entrevistarlo. Poco después, siguiendo escuetas instrucciones, Roy envió sus pertenencias a una misteriosa dirección postal y tomó un tren sin saber a dónde. Así llegó a Los Álamos, un laboratorio aislado y secreto en el que las mentes más brillantes de la época trabajaban en el Proyecto Manhattan. De la noche a la mañana, el joven Roy se codeaba con los principales referentes científicos para crear un arma que cambiaría el panorama bélico y político del siglo xx.",
+    "comentarios": "José Ignacio Latorre es catedrático de Física Teórica en excedencia en la Universidad de Barcelona. Es director del Centre for Quantum Technologies de Singapur e investigador jefe del Quantum Research Center en Abu Dabi. Fue cofundador del Centro de Ciencias de Benasque Pedro Pascual y de la empresa Qilimanjaro Quantum Tech, que está construyendo el primer ordenador cuántico del sur de Europa. Es autor de Cuántica y de Ética para máquinas, ambos publicados en Ariel.",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/la-ultima-voz-roy-j-glauber-y-el-inicio-de-la-era-atomica.jpg"
+  },
+  {
+    "id": "libro-1769577762243-f5a5f01d91a8f",
+    "titulo": "Cuántica, Tu futuro en juego",
+    "autor": "José Ignacio Latorre Sentís",
+    "anio": 2017,
+    "isbn": "ISBN-13 978-8434425392",
+    "editorial": "Editorial Ariel",
+    "coleccion": "",
+    "vol": "",
+    "categorias": [
+      "Fisica",
+      "Mecánica cuántica"
+    ],
+    "formato": "Digital",
+    "notas": "El futuro será cuántico o no será. Este libro nos proporciona las claves para entender una ciencia que está transformando el mundo en que vivimos.\n\n¿Estamos preparados para una era cuántica? Sin duda, el mañana que nos espera es apasionante. La cuántica nos permitirá hacer lo que sólo podíamos soñar. Nuestro reto, ahora es conocerlo. Disponer de las claves que nos facilita este libro, y es un auténtico regalo.\n\nSi la Mecánica Cuántica da comodidad a nuestra vida, si utilizamos sus láseres, sus resonancias magnéticas, sus chips de ordenadores, ¿por qué no sabemos en qué ideas se fundamenta? ¿Por qué creemos que el esfuer- zo para comprenderlas debe ser enorme? Ahí, en un rincón de nuestro cerebro queda la duda. ¿Qué es la me- cánica cuántica? ¿Qué principios sigue? ¿Es una teoría incontestable? ¿Es una serie de reglas matemáticas? ¿Es un misterio que la humanidad está empezando a desvelar o es un saber cerrado, bien establecido?\n\nJosé Ignacio Latorre propone una visita a la ciudad imagi- naria de Cuántica. Conoceremos sus leyes, tan peculiares que parecen imposibles. Además, descubriremos que la ciudad de Cuántica se halla en el umbral de una segunda revolución que nos llevará a la era de la tecnología cuánti- ca, y podemos estar seguros, va a cambiar el mundo. ¡Bienvenidos a la ciudad de Cuántica!",
+    "comentarios": "",
+    "portada": "https://raw.githubusercontent.com/joseluismunozpincheira/mi-biblioteca/main/portadas/cuantica-tu-futuro-en-juego.jpg"
+  },
+  {
     "id": "libro-1768784523763-03de0800985cb8",
     "titulo": "Fiabilidad",
     "autor": "Joel A. Nachlas",
@@ -8,15 +157,16 @@
     "editorial": "Isdefe",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Confiabilidad",
       "Matemáticas"
     ],
-    "formato": "Físico",
     "notas": "Una proporción muy grande de productos de consumo, industriales y militares que se fabrican en la actualidad tiene tal complejidad que sus usuarios no comprenden generalmente cómo funcionan ni como se reparan. También es verdad que las consecuencias de los fallos de muchos productos modernos pueden ser muy graves. Afortunadamente, a medida que se han desarrollado productos complejos, también se han desarrollado métodos para evaluar la fiabilidad de los mismos y para conseguir su mejora. El objetivo de este trabajo es describir los métodos principales de análisis de fiabilidad que existen en la actualidad.",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768784394199-98180e9e261e38",
@@ -27,16 +177,17 @@
     "editorial": "UTFSM",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Coliumo",
       "ACR",
       "Fallas"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768784146277-9b8a292ff8ee4",
@@ -47,15 +198,16 @@
     "editorial": "UDEC",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Coliumo",
       "Metalurgia"
     ],
-    "formato": "Físico",
     "notas": "Apuntes de clases",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768784104814-4c81430cd53a1",
@@ -66,16 +218,17 @@
     "editorial": "",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Coliumo",
       "Lubricacación",
       "Tribología"
     ],
-    "formato": "Físico",
     "notas": "Es una obra muy completa en el campo de la ingeniería de lubricación que interrelaciona la parte práctica\nde la lubricación con la teórica, estrechando el abismo que existe entre estas dos, dando las herramientas\nnecesarias que eviten que se presenten problemas de lubricación y si fuera el caso, aportando el conocimiento\nsuficiente para analizarlos técnicamente, mediante la correcta comprensión de las bases teóricas que soportan\nla selección precisa del tipo de lubricante a utilizar y cuales son los factores externos e internos a la máquina\nque puedan afectar la película lubricante, y por lo tanto conllevar a que se aceleren los tipos de desgaste como\nel adhesivo, fatiga superficial, abrasivo, erosivo y corrosivo.",
     "comentarios": "Temas\n• Capítulo 1: Petróleo • Capítulo 2: Tribología • Capítulo 3: Viscosidad y Consistencia • Capítulo 4: Sistemas\nde Clasificación de los lubricantes • Capítulo 5: Propiedades físico-químicas de los lubricantes • Capítulo\n6: Lubricantes minerales • Capítulo 7: Lubricantes sintéticos • Capítulo 8: Lubricantes vegetales • Capítulo\n9: Almacenamiento, manejo y uso de los lubricantes • Capítulo 10: Lubricación productiva • Capítulo 11:\nPurificación y tratamiento del aceite usado • Capítulo 12: Sistemas y métodos de lubricación. Pedro Ramón Albarracín Aguillón\nIngeniero Mecánico de la Universidad de Antioquia de Medellín, año 1979, con más de 45 años como especialista\nen Tribología, Lubricación y Confiabilidad, asesor y conferencista en empresas Industriales nacionales y en el\nexterior vinculadas con el sector textil, petroquímico, refinación de petróleo, cementero, siderúrgicas, papeleras,\nminería, azucareras y alimentos",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768783870607-40f71b2a2b03e8",
@@ -86,16 +239,17 @@
     "editorial": "John Wiley & Sons",
     "coleccion": "",
     "vol": "",
+    "formato": "Físico",
     "categorias": [
       "Anillado",
       "Coliumo",
       "Materiales",
       "Metalurgia"
     ],
-    "formato": "Físico",
     "notas": "",
     "comentarios": "",
-    "portada": ""
+    "portada": "",
+    "fechaRegistro": null
   },
   {
     "id": "libro-1768783378642-70dae0461818c8",
